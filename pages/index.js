@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import decks from "./decks";
 
@@ -32,28 +33,28 @@ const Home = () => {
         >
           {decks.map((deck) => {
             return (
-              <div
-                style={{
-                  display: "flex",
-                  flexDirection: "column",
-                  width: "200px",
-                  height: "400px",
-                  padding: "10px",
-                }}
-              >
-                <img
+              <Link href={`/deck/${deck.code}`}>
+                <div
                   style={{
-                    // display: "block",
-                    // maxWidth: "100px",
-                    // maxHeight: "200px",
-                    width: "100%",
-                    height: "100%",
+                    display: "flex",
+                    flexDirection: "column",
+                    width: "200px",
+                    padding: "20px",
                   }}
-                  key={deck.code}
-                  src={`/${deck.code}.jpg`}
-                ></img>
-                <h2>{deck.name}</h2>
-              </div>
+                >
+                  <img
+                    style={{
+                      width: "100%",
+                      height: "100%",
+                    }}
+                    key={deck.code}
+                    src={`/${deck.code}.jpg`}
+                  ></img>
+                  <h2>
+                    <a href="#">{deck.name}</a>
+                  </h2>
+                </div>
+              </Link>
             );
           })}
         </div>
@@ -62,7 +63,7 @@ const Home = () => {
       <style jsx global>{`
         html,
         body {
-          padding: 0;
+          padding: 20px;
           margin: 0;
           font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
             Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,

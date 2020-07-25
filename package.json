@@ -8,9 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "fast-average-color": "^6.0.2",
     "mongoose": "^5.9.25",
     "next": "9.4.4",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-minimal-pie-chart": "^8.0.1"
   }
 }
