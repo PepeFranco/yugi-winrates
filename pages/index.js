@@ -6,11 +6,11 @@ import decks from "../decks";
 const Home = () => {
   const [records, setRecords] = useState([]);
 
-  useEffect(() => {
-    fetch("/api/records").then((response) => {
-      response.json().then((responseRecords) => setRecords(responseRecords));
-    });
-  }, []);
+  // useEffect(() => {
+  //   fetch("/api/records").then((response) => {
+  //     response.json().then((responseRecords) => setRecords(responseRecords));
+  //   });
+  // }, []);
 
   return (
     <div>
@@ -44,8 +44,7 @@ const Home = () => {
                 >
                   <img
                     style={{
-                      width: "100%",
-                      height: "100%",
+                      height: "200px",
                     }}
                     key={deck.code}
                     src={`/${deck.code}.jpg`}
