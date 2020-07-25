@@ -22,9 +22,9 @@ const Counter = ({ children }) => (
   </h2>
 );
 
-const WinRatePieChart = ({ opponentDeck, deck, records, deckColor }) => {
-  const wins = records[opponentDeck.code]?.wins || 0;
-  const losses = records[opponentDeck.code]?.losses || 0;
+const WinRatePieChart = ({ opponentDeck, deck, records }) => {
+  const wins = records?.[opponentDeck.code]?.wins || 0;
+  const losses = records?.[opponentDeck.code]?.losses || 0;
 
   const totalGames = wins + losses;
   const winPercentage = (wins * 100) / totalGames;
@@ -60,12 +60,12 @@ const WinRatePieChart = ({ opponentDeck, deck, records, deckColor }) => {
 };
 
 export default ({ opponentDeck, deck, records, deckColor }) => {
-  const wins = records[opponentDeck.code]?.wins || 0;
-  const losses = records[opponentDeck.code]?.losses || 0;
+  const wins = records?.[opponentDeck?.code]?.wins || 0;
+  const losses = records?.[opponentDeck?.code]?.losses || 0;
   return (
     <div>
       <div>
-        <Link href={`/deck/${opponentDeck.code}`}>
+        <Link href={`/deck/${opponentDeck?.code}`}>
           <h2>
             <a href="#">{opponentDeck?.name}</a>
           </h2>
