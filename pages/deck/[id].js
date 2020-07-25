@@ -4,6 +4,7 @@ import decks from "../../decks";
 import { withRouter } from "next/router";
 import Record from "./record";
 import { sortAlphabetical, sortBalanced, sortWinrate } from "../../sort";
+import Header from "../header";
 
 const Deck = ({
   router: {
@@ -34,12 +35,13 @@ const Deck = ({
 
   return (
     <div>
+      <Header />
       <Head>
         <title>Yu-gi-oh! Winrates - {deck?.name}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main style={{ padding: "20px" }}>
         <div
           style={{
             display: "flex",
@@ -125,7 +127,6 @@ const Deck = ({
       <style jsx global>{`
         html,
         body {
-          padding: 20px;
           margin: 0;
           font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
             Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
