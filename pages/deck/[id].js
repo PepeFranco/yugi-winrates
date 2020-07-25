@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import decks from "../decks";
 import { withRouter } from "next/router";
 import Record from "./record";
-import { sortAlphabetical, sortBalanced, sortWinrate } from "./sort";
+import { sortAlphabetical, sortBalanced, sortWinrate } from "../../sort";
 
 const Deck = ({
   router: {
