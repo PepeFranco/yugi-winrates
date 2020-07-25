@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import decks from "../decks";
 import { withRouter } from "next/router";
 import Record from "./record";
+import { sortAlphabetical, sortBalanced, sortWinrate } from "./sort";
 
 const Deck = ({
   router: {
@@ -14,25 +15,22 @@ const Deck = ({
   const [records, setRecords] = useState({});
 
   useEffect(() => {
-    const currentDeck = decks.filter(
-      (deckToFilter) => deckToFilter.code === id
-    )[0];
-    const nonCurrentDecks = decks.filter(
-      (deckToFilter) => deckToFilter.code !== id
-    );
-    setDeck(currentDeck);
-    setOtherDecks(nonCurrentDecks);
-  }, [id]);
-
-  useEffect(() => {
-    if (deck) {
-      fetch(`/api/deck/${deck.code}`).then((response) => {
+    if (id) {
+      const currentDeck = decks.filter(
+        (deckToFilter) => deckToFilter.code === id
+      )[0];
+      const nonCurrentDecks = decks.filter(
+        (deckToFilter) => deckToFilter.code !== id
+      );
+      setDeck(currentDeck);
+      setOtherDecks(nonCurrentDecks);
+      fetch(`/api/deck/${currentDeck.code}`).then((response) => {
         response.json().then((responseRecords) => {
           setRecords(responseRecords);
         });
       });
     }
-  }, [deck]);
+  }, [id]);
 
   return (
     <div>
@@ -71,7 +69,44 @@ const Deck = ({
                 }}
                 src={`/${deck?.code}.jpg`}
               ></img>
-              <h1 className="title">{deck?.name}</h1>
+              <div>
+                <h1 className="title">{deck?.name}</h1>
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    alignItems: "center",
+                  }}
+                >
+                  <select
+                    style={{ width: "200px", height: "25px" }}
+                    onChange={(e) => {
+                      if (e.currentTarget.value === "alphabetical") {
+                        setOtherDecks(sortAlphabetical(otherDecks));
+                      }
+                      if (e.currentTarget.value === "balanced") {
+                        setOtherDecks(sortBalanced(otherDecks, records));
+                      }
+                      if (e.currentTarget.value === "winrate") {
+                        setOtherDecks(sortWinrate(otherDecks, records));
+                      }
+                      if (e.currentTarget.value === "release") {
+                        setOtherDecks(
+                          decks.filter(
+                            (deckToFilter) => deckToFilter.code !== id
+                          )
+                        );
+                      }
+                    }}
+                    defaultValue={"release"}
+                  >
+                    <option value="release">Release order</option>
+                    <option value="balanced">Balanced matches</option>
+                    <option value="winrate">Winrate</option>
+                    <option value="alphabetical">Alphabetical</option>
+                  </select>
+                </div>
+              </div>
             </div>
 
             {otherDecks.map((opponentDeck) => (
