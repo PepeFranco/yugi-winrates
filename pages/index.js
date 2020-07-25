@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
+import decks from "./decks";
 
 const Home = () => {
   const [records, setRecords] = useState([]);
@@ -20,7 +21,41 @@ const Home = () => {
       <main>
         <h1 className="title">Yu-gi-oh! Win rates</h1>
 
-        <p>{JSON.stringify(records)}</p>
+        {/* <p>{JSON.stringify(records)}</p> */}
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-evenly",
+            width: "100%",
+            flexWrap: "wrap",
+          }}
+        >
+          {decks.map((deck) => {
+            return (
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                }}
+              >
+                <div style={{ display: "flex", justifyContent: "center" }}>
+                  <img
+                    style={{
+                      display: "block",
+                      maxWidth: "100px",
+                      maxHeight: "200px",
+                      width: "auto",
+                      height: "auto",
+                    }}
+                    key={deck.code}
+                    src={`/${deck.code}.jpg`}
+                  ></img>
+                </div>
+                <h2>{deck.name}</h2>
+              </div>
+            );
+          })}
+        </div>
       </main>
 
       <style jsx global>{`
