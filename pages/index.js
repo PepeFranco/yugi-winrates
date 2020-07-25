@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import decks from "./decks";
+import decks from "../decks";
 
 const Home = () => {
   const [records, setRecords] = useState([]);

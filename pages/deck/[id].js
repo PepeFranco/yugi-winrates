@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
-import decks from "../decks";
+import decks from "../../decks";
 import { withRouter } from "next/router";
 import Record from "./record";
 import { sortAlphabetical, sortBalanced, sortWinrate } from "../../sort";
