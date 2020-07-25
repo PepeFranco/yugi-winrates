@@ -2,9 +2,9 @@ import mongoose from "mongoose";
 import RecordSchema from "./schema";
 
 export const connectToMongo = async () => {
-  const password = process.env.MONGO_DB_PASSWORD;
+  // const password = process.env.MONGO_DB_PASSWORD;
   const connection = await mongoose.createConnection(
-    `mongodb+srv://pepe:${password}@cluster0.fvkqk.mongodb.net/yugi-winrates?retryWrites=true&w=majority`,
+    `mongodb+srv://readuser:gW93ULoQPCrSCwAmV8L5@cluster0.fvkqk.mongodb.net/yugi-winrates?retryWrites=true&w=majority`,
     {
       useNewUrlParser: true,
       bufferCommands: false,
