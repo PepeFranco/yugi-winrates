@@ -36,21 +36,22 @@ const Home = () => {
                 style={{
                   display: "flex",
                   flexDirection: "column",
+                  width: "200px",
+                  height: "400px",
+                  padding: "10px",
                 }}
               >
-                <div style={{ display: "flex", justifyContent: "center" }}>
-                  <img
-                    style={{
-                      display: "block",
-                      maxWidth: "100px",
-                      maxHeight: "200px",
-                      width: "auto",
-                      height: "auto",
-                    }}
-                    key={deck.code}
-                    src={`/${deck.code}.jpg`}
-                  ></img>
-                </div>
+                <img
+                  style={{
+                    // display: "block",
+                    // maxWidth: "100px",
+                    // maxHeight: "200px",
+                    width: "100%",
+                    height: "100%",
+                  }}
+                  key={deck.code}
+                  src={`/${deck.code}.jpg`}
+                ></img>
                 <h2>{deck.name}</h2>
               </div>
             );

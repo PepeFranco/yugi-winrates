@@ -28,7 +28,7 @@ const decks = [
   { code: "SDLI", name: "Realm of Light" },
   { code: "SDGR", name: "Geargia Rampage" },
   { code: "SDHS", name: "HERO Strike" },
-  { code: "SDSE", name: "Synchron Extreme" },
+  { code: "SDSE", name: "Synchron Extrme" },
   { code: "SDMP", name: "Master of Pendulum" },
   { code: "SR01", name: "Emperor of Darkness" },
   { code: "SR02", name: "Rise of the True Dragons" },
