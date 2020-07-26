@@ -1,5 +1,13 @@
 {
-  "winner": { "S": "SD1" },
-  "loser": { "S": "SD2" },
-  "id": { "S": "1" }
+  "yugi-winrates": [
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SD2" },
+          "id": { "S": "1" }
+        }
+      }
+    }
+  ]
 }

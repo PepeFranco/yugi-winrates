@@ -18,7 +18,7 @@ const Footer = () => (
         display: "flex",
         flexDirection: "row",
         justifyContent: "space-between",
-        width: "720px",
+        maxWidth: "720px",
       }}
     >
       <Link href="/records">

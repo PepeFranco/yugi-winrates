@@ -16,7 +16,7 @@ const Header = () => (
       style={{
         display: "flex",
         flexDirection: "column",
-        width: "720px",
+        maxWidth: "720px",
       }}
     >
       <Link href="/">
@@ -30,7 +30,7 @@ const Header = () => (
             }}
           >
             <img src="/logo.webp" style={{ height: "100%" }} />
-            <h1>Structure Decks Winrates</h1>
+            <h2>Structure Decks Winrates</h2>
           </div>
         </a>
       </Link>
