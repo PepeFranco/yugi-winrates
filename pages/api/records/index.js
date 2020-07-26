@@ -1,5 +1,6 @@
 import { docClient } from "../aws";
 import decks from "../../../decks";
+import sortRecords from "../sortRecords";
 
 const getDecksCombinations = (result, decks) => {
   if (decks.length === 1) return result;
@@ -20,6 +21,9 @@ const getDecksCombinations = (result, decks) => {
 };
 
 export default (req, res) => {
+  const {
+    query: { order = "release" },
+  } = req;
   const result = getDecksCombinations({}, decks);
 
   const params = {
@@ -80,7 +84,7 @@ export default (req, res) => {
 
       res.statusCode = 200;
       res.setHeader("Content-Type", "application/json");
-      res.end(JSON.stringify(recordsWithPercentages));
+      res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
     }
   });
 };

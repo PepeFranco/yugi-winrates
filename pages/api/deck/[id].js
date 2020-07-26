@@ -1,5 +1,6 @@
 import { docClient } from "../aws";
 import decks from "../../../decks";
+import sortRecords from "../sortRecords";
 
 export default (req, res) => {
   const {
@@ -89,31 +90,10 @@ export default (req, res) => {
           res.statusCode = 200;
           res.setHeader("Content-Type", "application/json");
           res.end(
-            JSON.stringify(sortResults({ recordsWithPercentages, order }))
+            JSON.stringify(sortRecords({ recordsWithPercentages, order }))
           );
         }
       });
     }
   });
-};
-
-const sortResults = ({ recordsWithPercentages, order }) => {
-  if (order === "alphabetical") {
-    return recordsWithPercentages.sort((recordA, recordB) =>
-      recordA.opponentDeckName < recordB.opponentDeckName ? -1 : 1
-    );
-  }
-  if (order === "rating") {
-    return recordsWithPercentages.sort((recordA, recordB) => {
-      if (recordA.totalGames === 0) return 1;
-      return recordA.rating < recordB.rating ? -1 : 1;
-    });
-  }
-  if (order === "winrate") {
-    return recordsWithPercentages.sort((recordA, recordB) => {
-      if (recordA.totalGames === 0) return 1;
-      return recordA.winPercentage < recordB.winPercentage ? -1 : 1;
-    });
-  }
-  return recordsWithPercentages;
 };

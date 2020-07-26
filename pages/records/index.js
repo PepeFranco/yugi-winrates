@@ -49,7 +49,7 @@ const Deck = ({
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
-                Router.push(`/deck/${id}?order=${e.currentTarget.value}`);
+                Router.push(`/records?order=${e.currentTarget.value}`);
               }}
               value={order}
             >
