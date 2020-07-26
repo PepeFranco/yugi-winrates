@@ -4,6 +4,7 @@ import decks from "../../decks";
 import Router, { withRouter } from "next/router";
 import Record from "../record";
 import Header from "../header";
+import Footer from "../footer";
 import Main from "../main";
 
 const Deck = ({
@@ -78,6 +79,7 @@ const Deck = ({
           />
         ))}
       </Main>
+      <Footer />
     </div>
   );
 };

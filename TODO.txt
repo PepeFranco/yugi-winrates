@@ -1,4 +1,3 @@
 // Add colors for each deck in their percentage
-// Screen with all records
 // optimize backend
 // add a small footer

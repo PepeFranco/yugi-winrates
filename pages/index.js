@@ -2,6 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import decks from "../decks";
 import Header from "./header";
+import Footer from "./footer";
 import Main from "./main";
 
 const Home = () => (
@@ -48,6 +49,7 @@ const Home = () => (
         })}
       </div>
     </Main>
+    <Footer />
   </div>
 );
 
