@@ -7,7 +7,7 @@ import Footer from "../footer";
 import Main from "../main";
 import Loader from "../loader";
 
-const Deck = ({
+const Records = ({
   router: {
     query: { order = "release" },
   },
@@ -20,7 +20,7 @@ const Deck = ({
         setRecords(responseRecords);
       });
     });
-  }, []);
+  }, [order]);
 
   return (
     <div>
@@ -73,4 +73,4 @@ const Deck = ({
   );
 };
 
-export default withRouter(Deck);
+export default withRouter(Records);

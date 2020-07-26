@@ -8,7 +8,10 @@ const sortRecords = ({ recordsWithPercentages, order }) => {
     return recordsWithPercentages.sort((recordA, recordB) => {
       if (recordA.totalGames === 0 && recordB.totalGames > 0) return 1;
       if (recordB.totalGames === 0 && recordA.totalGames > 0) return -1;
-      return recordA.rating < recordB.rating ? -1 : 1;
+      if (recordA.rating === recordB.rating) {
+        return recordA.totalGames < recordB.totalGames;
+      }
+      return recordA.rating < recordB.rating ? 1 : -1;
     });
   }
   if (order === "winrate") {
