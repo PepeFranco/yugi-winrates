@@ -2,10 +2,10 @@ import Link from "next/link";
 import { PieChart } from "react-minimal-pie-chart";
 
 const DeckImage = ({ code }) => (
-  <div style={{ width: "150px", justifyContent: "center", display: "flex" }}>
+  <div style={{ width: "100px", justifyContent: "center", display: "flex" }}>
     <img
       style={{
-        height: "150px",
+        height: "100px",
       }}
       src={`/${code}.jpg`}
     ></img>
@@ -85,7 +85,7 @@ export default ({
           </a>
         </Link>
         <Link href={`/deck/${opponentDeckCode}`}>
-          <a href="#">
+          <a href="#" style={{ textAlign: "right" }}>
             <h3>{opponentDeckName}</h3>
           </a>
         </Link>
