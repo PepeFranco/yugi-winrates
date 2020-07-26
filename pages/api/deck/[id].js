@@ -24,15 +24,6 @@ export default (req, res) => {
     },
     TableName: "yugi-winrates",
   };
-  // "Items": [
-  //   {
-  //     "winner": "SD1",
-  //     "date": 1529644667834,
-  //     "loser": "SD2"
-  //   }
-  // ],
-  // "Count": 1,
-  // "ScannedCount": 1
   docClient.query(winnerParams, (winnerError, winnerData) => {
     if (winnerError) {
       res.statusCode = 500;
@@ -50,7 +41,13 @@ export default (req, res) => {
           );
           otherDecks.map(
             (deck) =>
-              (result[deck.code] = { wins: 0, losses: 0, totalGames: 0 })
+              (result[deck.code] = {
+                wins: 0,
+                losses: 0,
+                totalGames: 0,
+                opponentDeckCode: deck.code,
+                opponentDeckName: deck.name,
+              })
           );
 
           winnerData.Items.map((winnerItem) => {
@@ -66,24 +63,33 @@ export default (req, res) => {
               result[loserItem.winner].totalGames + 1;
           });
 
-          const resultWithPercentages = {};
-          Object.keys(result).map((key, index) => {
-            const { wins, losses, totalGames } = result[key];
-            const winPercentage =
-              totalGames > 0 ? (wins * 100) / totalGames : 0;
-            const lossPercentage =
-              totalGames > 0 ? (losses * 100) / totalGames : 0;
-            const rating =
-              totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
-            resultWithPercentages[key] = {
-              wins,
-              losses,
-              totalGames,
-              winPercentage,
-              lossPercentage,
-              rating,
-            };
-          });
+          const resultWithPercentages = Object.keys(result).map(
+            (key, index) => {
+              const {
+                wins,
+                losses,
+                totalGames,
+                opponentDeckCode,
+                opponentDeckName,
+              } = result[key];
+              const winPercentage =
+                totalGames > 0 ? (wins * 100) / totalGames : 0;
+              const lossPercentage =
+                totalGames > 0 ? (losses * 100) / totalGames : 0;
+              const rating =
+                totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
+              return {
+                opponentDeckCode,
+                opponentDeckName,
+                wins,
+                losses,
+                totalGames,
+                winPercentage,
+                lossPercentage,
+                rating,
+              };
+            }
+          );
 
           res.statusCode = 200;
           res.setHeader("Content-Type", "application/json");

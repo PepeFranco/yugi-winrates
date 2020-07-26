@@ -12,7 +12,7 @@ const Deck = ({
   },
 }) => {
   const [deck, setDeck] = useState([]);
-  const [records, setRecords] = useState({});
+  const [records, setRecords] = useState([]);
 
   useEffect(() => {
     if (id) {
@@ -70,13 +70,8 @@ const Deck = ({
           </div>
         </div>
 
-        {Object.keys(records).map((key) => (
-          <Record
-            deckCode={deck.code}
-            opponentDeckCode={key}
-            {...records[key]}
-            key={key}
-          />
+        {records.map((record, index) => (
+          <Record deckCode={deck.code} {...record} key={index} />
         ))}
       </Main>
     </div>
