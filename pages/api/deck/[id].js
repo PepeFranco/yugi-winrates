@@ -49,21 +49,45 @@ export default (req, res) => {
             (deckToFilter) => deckToFilter.code !== id
           );
           otherDecks.map(
-            (deck) => (result[deck.code] = { wins: 0, losses: 0 })
+            (deck) =>
+              (result[deck.code] = { wins: 0, losses: 0, totalGames: 0 })
           );
 
           winnerData.Items.map((winnerItem) => {
             result[winnerItem.loser].wins = result[winnerItem.loser].wins + 1;
+            result[winnerItem.loser].totalGames =
+              result[winnerItem.loser].totalGames + 1;
           });
 
           loserData.Items.map((loserItem) => {
             result[loserItem.winner].losses =
               result[loserItem.winner].losses + 1;
+            result[loserItem.winner].totalGames =
+              result[loserItem.winner].totalGames + 1;
+          });
+
+          const resultWithPercentages = {};
+          Object.keys(result).map((key, index) => {
+            const { wins, losses, totalGames } = result[key];
+            const winPercentage =
+              totalGames > 0 ? (wins * 100) / totalGames : 0;
+            const lossPercentage =
+              totalGames > 0 ? (losses * 100) / totalGames : 0;
+            const rating =
+              totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
+            resultWithPercentages[key] = {
+              wins,
+              losses,
+              totalGames,
+              winPercentage,
+              lossPercentage,
+              rating,
+            };
           });
 
           res.statusCode = 200;
           res.setHeader("Content-Type", "application/json");
-          res.end(JSON.stringify(result));
+          res.end(JSON.stringify(resultWithPercentages));
         }
       });
     }
