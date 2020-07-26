@@ -3,17 +3,15 @@ import { useEffect, useState } from "react";
 import decks from "../../decks";
 import { withRouter } from "next/router";
 import Record from "./record";
-import { sortAlphabetical, sortBalanced, sortWinrate } from "../../sort";
 import Header from "../header";
 import Main from "../main";
 
 const Deck = ({
   router: {
-    query: { id },
+    query: { id, order },
   },
 }) => {
   const [deck, setDeck] = useState([]);
-  const [otherDecks, setOtherDecks] = useState([]);
   const [records, setRecords] = useState({});
 
   useEffect(() => {
@@ -25,8 +23,7 @@ const Deck = ({
         (deckToFilter) => deckToFilter.code !== id
       );
       setDeck(currentDeck);
-      setOtherDecks(nonCurrentDecks);
-      fetch(`/api/deck/${currentDeck.code}`).then((response) => {
+      fetch(`/api/deck/${currentDeck.code}?order=${order}`).then((response) => {
         response.json().then((responseRecords) => {
           setRecords(responseRecords);
         });
@@ -62,22 +59,7 @@ const Deck = ({
             <h1 className="title">{deck?.name}</h1>
             <select
               style={{ width: "200px", height: "25px" }}
-              onChange={(e) => {
-                if (e.currentTarget.value === "alphabetical") {
-                  setOtherDecks(sortAlphabetical(otherDecks));
-                }
-                if (e.currentTarget.value === "balanced") {
-                  setOtherDecks(sortBalanced(otherDecks, records));
-                }
-                if (e.currentTarget.value === "winrate") {
-                  setOtherDecks(sortWinrate(otherDecks, records));
-                }
-                if (e.currentTarget.value === "release") {
-                  setOtherDecks(
-                    decks.filter((deckToFilter) => deckToFilter.code !== id)
-                  );
-                }
-              }}
+              onChange={(e) => {}}
               defaultValue={"release"}
             >
               <option value="release">Release order</option>
@@ -88,12 +70,12 @@ const Deck = ({
           </div>
         </div>
 
-        {otherDecks.map((opponentDeck) => (
+        {Object.keys(records).map((key) => (
           <Record
-            opponentDeck={opponentDeck}
-            deck={deck}
-            records={records}
-            key={opponentDeck.code}
+            deckCode={deck.code}
+            opponentDeckCode={key}
+            {...records[key]}
+            key={key}
           />
         ))}
       </Main>

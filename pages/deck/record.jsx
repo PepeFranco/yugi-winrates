@@ -22,24 +22,15 @@ const Counter = ({ children }) => (
   </h2>
 );
 
-const WinRatePieChart = ({ opponentDeck, deck, records }) => {
-  const wins = records?.[opponentDeck.code]?.wins || 0;
-  const losses = records?.[opponentDeck.code]?.losses || 0;
-
-  const totalGames = wins + losses;
-  const winPercentage = (wins * 100) / totalGames;
-  const lossPercentage = (losses * 100) / totalGames;
-
+const WinRatePieChart = ({ totalGames, winPercentage, lossPercentage }) => {
   const pieData =
     totalGames > 0
       ? [
           {
-            title: deck?.name,
             value: winPercentage,
             color: "#3498db",
           },
           {
-            title: opponentDeck?.name,
             value: lossPercentage,
             color: "#d35400",
           },
@@ -67,15 +58,22 @@ const WinRatePieChart = ({ opponentDeck, deck, records }) => {
   );
 };
 
-export default ({ opponentDeck, deck, records, deckColor }) => {
-  const wins = records?.[opponentDeck?.code]?.wins || 0;
-  const losses = records?.[opponentDeck?.code]?.losses || 0;
+export default ({
+  wins,
+  losses,
+  totalGames,
+  winPercentage,
+  lossPercentage,
+  opponentDeckName,
+  opponentDeckCode,
+  deckCode,
+}) => {
   return (
     <div>
       <div>
-        <Link href={`/deck/${opponentDeck?.code}`}>
+        <Link href={`/deck/${opponentDeckCode}`}>
           <h2>
-            <a href="#">{opponentDeck?.name}</a>
+            <a href="#">{opponentDeckName}</a>
           </h2>
         </Link>
       </div>
@@ -87,18 +85,17 @@ export default ({ opponentDeck, deck, records, deckColor }) => {
           width: "100%",
         }}
       >
-        <DeckImage code={deck?.code} />
+        <DeckImage code={deckCode} />
         <Counter>{wins}</Counter>
         <WinRatePieChart
-          opponentDeck={opponentDeck}
-          deck={deck}
-          records={records}
-          deckColor={deckColor}
+          totalGames={totalGames}
+          winPercentage={winPercentage}
+          lossPercentage={lossPercentage}
         />
         <Counter>{losses}</Counter>
-        <Link href={`/deck/${opponentDeck?.code}`}>
+        <Link href={`/deck/${opponentDeckCode}`}>
           <a href="#">
-            <DeckImage code={opponentDeck?.code} />
+            <DeckImage code={opponentDeckCode} />
           </a>
         </Link>
       </div>
