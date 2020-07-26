@@ -8,7 +8,7 @@ const Header = () => (
       top: 0,
       height: "100px",
       background: "black",
-      padding: "20px",
+      padding: "10px 100px",
     }}
   >
     <Link href="/">
