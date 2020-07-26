@@ -5,6 +5,7 @@ import Record from "../record";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
+import Loader from "../loader";
 
 const Deck = ({
   router: {
@@ -62,9 +63,10 @@ const Deck = ({
           </div>
         </div>
 
-        {records.map((record, index) => (
-          <Record {...record} key={index} />
-        ))}
+        {records.length === 0 && <Loader />}
+
+        {records.length > 0 &&
+          records.map((record, index) => <Record {...record} key={index} />)}
       </Main>
       <Footer />
     </div>

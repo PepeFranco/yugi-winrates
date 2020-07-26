@@ -6,6 +6,7 @@ import Record from "../record";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
+import Loader from "../loader";
 
 const Deck = ({
   router: {
@@ -69,15 +70,17 @@ const Deck = ({
             </select>
           </div>
         </div>
+        {records.length === 0 && <Loader />}
 
-        {records.map((record, index) => (
-          <Record
-            deckCode={deck.code}
-            deckName={deck.name}
-            {...record}
-            key={index}
-          />
-        ))}
+        {records.length > 0 &&
+          records.map((record, index) => (
+            <Record
+              deckCode={deck.code}
+              deckName={deck.name}
+              {...record}
+              key={index}
+            />
+          ))}
       </Main>
       <Footer />
     </div>
