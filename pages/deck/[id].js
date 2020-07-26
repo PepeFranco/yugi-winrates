@@ -2,7 +2,7 @@ import Head from "next/head";
 import { useEffect, useState } from "react";
 import decks from "../../decks";
 import Router, { withRouter } from "next/router";
-import Record from "./record";
+import Record from "../record";
 import Header from "../header";
 import Main from "../main";
 
@@ -70,7 +70,12 @@ const Deck = ({
         </div>
 
         {records.map((record, index) => (
-          <Record deckCode={id} {...record} key={index} />
+          <Record
+            deckCode={deck.code}
+            deckName={deck.name}
+            {...record}
+            key={index}
+          />
         ))}
       </Main>
     </div>

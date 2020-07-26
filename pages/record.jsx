@@ -67,14 +67,27 @@ export default ({
   opponentDeckName,
   opponentDeckCode,
   deckCode,
+  deckName,
 }) => {
   return (
     <div>
-      <div>
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          width: "100%",
+        }}
+      >
+        <Link href={`/deck/${deckCode}`}>
+          <a>
+            <h2>{deckName}</h2>
+          </a>
+        </Link>
         <Link href={`/deck/${opponentDeckCode}`}>
-          <h2>
-            <a href="#">{opponentDeckName}</a>
-          </h2>
+          <a href="#">
+            <h2>{opponentDeckName}</h2>
+          </a>
         </Link>
       </div>
       <div
@@ -85,7 +98,11 @@ export default ({
           width: "100%",
         }}
       >
-        <DeckImage code={deckCode} />
+        <Link href={`/deck/${deckCode}`}>
+          <a>
+            <DeckImage code={deckCode} />
+          </a>
+        </Link>
         <Counter>{wins}</Counter>
         <WinRatePieChart
           totalGames={totalGames}
