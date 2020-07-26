@@ -40,9 +40,9 @@ const Home = () => (
                   key={deck.code}
                   src={`/${deck.code}.jpg`}
                 ></img>
-                <h2>
+                <h3>
                   <a href="#">{deck.name}</a>
-                </h2>
+                </h3>
               </div>
             </Link>
           );

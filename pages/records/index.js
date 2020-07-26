@@ -47,7 +47,7 @@ const Records = ({
               width: "100%",
             }}
           >
-            <h1 className="title">All records</h1>
+            <h2 className="title">All records</h2>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {

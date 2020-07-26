@@ -13,13 +13,13 @@ const DeckImage = ({ code }) => (
 );
 
 const Counter = ({ children }) => (
-  <h2
+  <h3
     style={{
       fontSize: "50px",
     }}
   >
     {children}
-  </h2>
+  </h3>
 );
 
 const WinRatePieChart = ({ totalGames, winPercentage, lossPercentage }) => {
@@ -81,12 +81,12 @@ export default ({
       >
         <Link href={`/deck/${deckCode}`}>
           <a>
-            <h2>{deckName}</h2>
+            <h3>{deckName}</h3>
           </a>
         </Link>
         <Link href={`/deck/${opponentDeckCode}`}>
           <a href="#">
-            <h2>{opponentDeckName}</h2>
+            <h3>{opponentDeckName}</h3>
           </a>
         </Link>
       </div>

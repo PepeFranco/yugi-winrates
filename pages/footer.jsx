@@ -32,7 +32,7 @@ const Footer = () => (
               height: "50px",
             }}
           >
-            <h3>All records</h3>
+            <h4>All records</h4>
           </div>
         </a>
       </Link>
@@ -48,7 +48,7 @@ const Footer = () => (
             height: "50px",
           }}
         >
-          <h3>Source code</h3>
+          <h4>Source code</h4>
         </div>
       </a>
     </div>

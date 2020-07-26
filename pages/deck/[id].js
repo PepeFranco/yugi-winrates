@@ -55,7 +55,7 @@ const Deck = ({
               width: "100%",
             }}
           >
-            <h1 className="title">{deck?.name}</h1>
+            <h2 className="title">{deck?.name}</h2>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
