@@ -2,7 +2,7 @@
 
 This is a simple Next.JS webapp to find how balanced [Yu-gi-oh! Structure decks](https://www.yugioh-card.com/en/products/structure_deck.html) are when played against each other.
 
-Structure decks are pre-built decks for the games that follow a certain strategy. I am tracking all matches that I play with one of those decks against another. Records are kept in MongoDB atlas.
+Structure decks are pre-built decks for the games that follow a certain strategy. I am tracking all matches that I play with one of those decks against another. Records are kept in DynamoDB.
 
 ## What it aims to do
 
