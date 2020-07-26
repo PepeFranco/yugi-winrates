@@ -1,5 +1,7 @@
-// add a loading screen
 // Add colors for each deck in their percentage
 // fill data
 // optimize backend
 // improve labels and animation on pie
+// backend to fill data
+// how it looks on mobile
+// global styling
