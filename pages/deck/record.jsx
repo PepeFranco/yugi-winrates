@@ -54,7 +54,15 @@ const WinRatePieChart = ({ opponentDeck, deck, records }) => {
         padding: "10px",
       }}
     >
-      <PieChart data={pieData} />
+      <PieChart
+        data={pieData}
+        label={(props) => {
+          const percentage = props?.dataEntry?.percentage;
+          const color = props?.dataEntry?.color;
+          if ((percentage > 0) & (color !== "gray"))
+            return `${percentage.toFixed(0)}%`;
+        }}
+      />
     </div>
   );
 };
