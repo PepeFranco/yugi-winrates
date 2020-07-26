@@ -1,8 +1,8 @@
 import Head from "next/head";
 import Link from "next/link";
-import decks from "../decks";
-import Header from "./header";
-import Main from "./main";
+import decks from "../../decks";
+import Header from "../header";
+import Main from "../main";
 
 const Home = () => (
   <div>

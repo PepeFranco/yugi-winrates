@@ -49,16 +49,13 @@ export default (req, res) => {
           );
 
           winnerData.Items.map((winnerItem) => {
-            result[winnerItem.loser].wins = result[winnerItem.loser].wins + 1;
-            result[winnerItem.loser].totalGames =
-              result[winnerItem.loser].totalGames + 1;
+            result[winnerItem.loser].wins++;
+            result[winnerItem.loser].totalGames++;
           });
 
           loserData.Items.map((loserItem) => {
-            result[loserItem.winner].losses =
-              result[loserItem.winner].losses + 1;
-            result[loserItem.winner].totalGames =
-              result[loserItem.winner].totalGames + 1;
+            result[loserItem.winner].losses++;
+            result[loserItem.winner].totalGames++;
           });
 
           const recordsWithPercentages = Object.keys(result).map(
