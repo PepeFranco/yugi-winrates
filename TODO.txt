@@ -5,3 +5,4 @@
 // backend to fill data
 // how it looks on mobile
 // global styling
+// fix rating & winrate ordering

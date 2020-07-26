@@ -8,7 +8,7 @@ export default (req, res) => {
   } = req;
 
   const winnerParams = {
-    KeyConditionExpression: "winner = :id",
+    FilterExpression: "winner = :id",
     ExpressionAttributeValues: {
       ":id": id,
     },
@@ -16,16 +16,15 @@ export default (req, res) => {
   };
 
   const loserParams = {
-    KeyConditionExpression: "loser = :id",
-    ProjectionExpression: "winner, loser",
     FilterExpression: "loser = :id",
     ExpressionAttributeValues: {
       ":id": id,
     },
     TableName: "yugi-winrates",
   };
-  docClient.query(winnerParams, (winnerError, winnerData) => {
+  docClient.scan(winnerParams, (winnerError, winnerData) => {
     if (winnerError) {
+      console.log(winnerError);
       res.statusCode = 500;
       res.end();
     } else {
