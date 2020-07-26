@@ -1,3 +1,2 @@
 // Add colors for each deck in their percentage
 // Screen with all records
-// Calculate records on the backend

@@ -6,16 +6,35 @@ const Header = () => (
       position: "-webkit - sticky",
       position: "sticky",
       top: 0,
-      height: "100px",
       background: "black",
-      padding: "10px 100px",
+      display: "flex",
+      alignItems: "center",
+      flexDirection: "column",
     }}
   >
-    <Link href="/">
-      <a href="#" style={{ color: "white" }}>
-        <h1>Yu-gi-oh! Structure Decks Winrates</h1>
-      </a>
-    </Link>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        width: "720px",
+      }}
+    >
+      <Link href="/">
+        <a href="#" style={{ color: "white" }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              height: "100px",
+            }}
+          >
+            <img src="/logo.webp" style={{ height: "100%" }} />
+            <h1>Structure Decks Winrates</h1>
+          </div>
+        </a>
+      </Link>
+    </div>
   </div>
 );
 
