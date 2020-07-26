@@ -12,7 +12,8 @@ const Main = ({ children }) => (
       style={{
         display: "flex",
         flexDirection: "column",
-        maxWidth: "720px",
+        maxWidth: "900px",
+        width: "100%",
       }}
     >
       {children}

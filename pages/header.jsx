@@ -16,7 +16,8 @@ const Header = () => (
       style={{
         display: "flex",
         flexDirection: "column",
-        maxWidth: "720px",
+        maxWidth: "900px",
+        width: "100%",
       }}
     >
       <Link href="/">

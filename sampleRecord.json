@@ -8,6 +8,78 @@
           "id": { "S": "1" }
         }
       }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SD6" },
+          "id": { "S": "2" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SD6" },
+          "id": { "S": "3" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SD6" },
+          "id": { "S": "4" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SD6" },
+          "id": { "S": "5" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD6" },
+          "loser": { "S": "SD1" },
+          "id": { "S": "6" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD6" },
+          "loser": { "S": "SD1" },
+          "id": { "S": "7" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SDMA" },
+          "id": { "S": "8" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "winner": { "S": "SD1" },
+          "loser": { "S": "SDMA" },
+          "id": { "S": "9" }
+        }
+      }
     }
   ]
 }
