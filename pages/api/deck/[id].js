@@ -24,7 +24,6 @@ export default (req, res) => {
   };
   docClient.scan(winnerParams, (winnerError, winnerData) => {
     if (winnerError) {
-      console.log(winnerError);
       res.statusCode = 500;
       res.end();
     } else {

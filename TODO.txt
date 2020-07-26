@@ -1,7 +1,7 @@
-// Add colors for each deck in their percentage
 // fill data
-// optimize backend
-// improve labels and animation on pie
+// Add colors for each deck in their percentage
+// improve mobile
 // backend to fill data
+// improve labels and animation on pie
 // global styling
-// fix rating & winrate ordering
+// optimize backend
