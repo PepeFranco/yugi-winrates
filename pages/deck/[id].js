@@ -5,6 +5,7 @@ import { withRouter } from "next/router";
 import Record from "./record";
 import { sortAlphabetical, sortBalanced, sortWinrate } from "../../sort";
 import Header from "../header";
+import Main from "../main";
 
 const Deck = ({
   router: {
@@ -41,102 +42,61 @@ const Deck = ({
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main style={{ padding: "20px" }}>
+      <Main>
         <div
           style={{
             display: "flex",
-            alignItems: "center",
-            justifyItems: "center",
-            flexDirection: "column",
+            flexDirection: "row",
+            width: "100%",
           }}
         >
           <div
             style={{
               display: "flex",
-              flexDirection: "column",
-              width: "720px",
+              flexDirection: "row",
+              justifyContent: "space-between",
+              alignItems: "center",
+              width: "100%",
             }}
           >
-            <div
-              style={{
-                display: "flex",
-                justifyContent: "space-evenly",
-                flexDirection: "row",
-                width: "100%",
+            <h1 className="title">{deck?.name}</h1>
+            <select
+              style={{ width: "200px", height: "25px" }}
+              onChange={(e) => {
+                if (e.currentTarget.value === "alphabetical") {
+                  setOtherDecks(sortAlphabetical(otherDecks));
+                }
+                if (e.currentTarget.value === "balanced") {
+                  setOtherDecks(sortBalanced(otherDecks, records));
+                }
+                if (e.currentTarget.value === "winrate") {
+                  setOtherDecks(sortWinrate(otherDecks, records));
+                }
+                if (e.currentTarget.value === "release") {
+                  setOtherDecks(
+                    decks.filter((deckToFilter) => deckToFilter.code !== id)
+                  );
+                }
               }}
+              defaultValue={"release"}
             >
-              <img
-                style={{
-                  height: "100px",
-                }}
-                src={`/${deck?.code}.jpg`}
-              ></img>
-              <div>
-                <h1 className="title">{deck?.name}</h1>
-                <div
-                  style={{
-                    display: "flex",
-                    flexDirection: "column",
-                    alignItems: "center",
-                  }}
-                >
-                  <select
-                    style={{ width: "200px", height: "25px" }}
-                    onChange={(e) => {
-                      if (e.currentTarget.value === "alphabetical") {
-                        setOtherDecks(sortAlphabetical(otherDecks));
-                      }
-                      if (e.currentTarget.value === "balanced") {
-                        setOtherDecks(sortBalanced(otherDecks, records));
-                      }
-                      if (e.currentTarget.value === "winrate") {
-                        setOtherDecks(sortWinrate(otherDecks, records));
-                      }
-                      if (e.currentTarget.value === "release") {
-                        setOtherDecks(
-                          decks.filter(
-                            (deckToFilter) => deckToFilter.code !== id
-                          )
-                        );
-                      }
-                    }}
-                    defaultValue={"release"}
-                  >
-                    <option value="release">Release order</option>
-                    <option value="balanced">Balanced matches</option>
-                    <option value="winrate">Winrate</option>
-                    <option value="alphabetical">Alphabetical</option>
-                  </select>
-                </div>
-              </div>
-            </div>
-
-            {otherDecks.map((opponentDeck) => (
-              <Record
-                opponentDeck={opponentDeck}
-                deck={deck}
-                records={records}
-                key={opponentDeck.code}
-              />
-            ))}
+              <option value="release">Release order</option>
+              <option value="balanced">Balanced matches</option>
+              <option value="winrate">Winrate</option>
+              <option value="alphabetical">Alphabetical</option>
+            </select>
           </div>
         </div>
-      </main>
 
-      <style jsx>{``}</style>
-      <style jsx global>{`
-        html,
-        body {
-          margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
-        }
-
-        * {
-          box-sizing: border-box;
-        }
-      `}</style>
+        {otherDecks.map((opponentDeck) => (
+          <Record
+            opponentDeck={opponentDeck}
+            deck={deck}
+            records={records}
+            key={opponentDeck.code}
+          />
+        ))}
+      </Main>
     </div>
   );
 };

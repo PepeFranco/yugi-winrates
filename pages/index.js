@@ -2,6 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import decks from "../decks";
 import Header from "./header";
+import Main from "./main";
 
 const Home = () => (
   <div>
@@ -11,7 +12,7 @@ const Home = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
-    <main style={{ padding: "20px" }}>
+    <Main>
       <div
         style={{
           display: "flex",
@@ -46,20 +47,7 @@ const Home = () => (
           );
         })}
       </div>
-    </main>
-
-    <style jsx global>{`
-      html,
-      body {
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-          Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-    `}</style>
+    </Main>
   </div>
 );
 
