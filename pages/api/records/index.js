@@ -1,18 +1,7 @@
-import AWS from "aws-sdk";
+import { ddb } from "../aws";
 
 export default (req, res) => {
-  AWS.config.update({
-    region: "us-east-1",
-    accessKeyId: process.env.ACCESS_KEY_ID,
-    secretAccessKey: process.env.SECRET_ACCESS_KEY,
-  });
-
-  const ddb = new AWS.DynamoDB({
-    apiVersion: "2012-08-10",
-  });
-
   const params = {
-    // ExpressionAttributeValues: {},
     TableName: "yugi-winrates",
   };
 
