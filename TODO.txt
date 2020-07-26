@@ -1,7 +1,7 @@
 // Add colors for each deck in their percentage
-// improve mobile
-// backend to fill data
 // improve labels and animation on pie
-// global styling
-// optimize backend
 // page with excel-like stuff
+// global styling
+// deployed backend to put data
+// optimize backend
+// give me a random unplayed matchup
