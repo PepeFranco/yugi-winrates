@@ -1,4 +1,3 @@
-// fix winrate
 // Add colors for each deck in their percentage
 // improve labels and animation on pie
 // page with excel-like stuff
