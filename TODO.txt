@@ -1,4 +1,3 @@
-// fix sizes on main page
 // improve animation on pie
 // give me a random unplayed matchup
 // global styling
