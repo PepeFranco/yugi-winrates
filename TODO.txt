@@ -1,7 +1,8 @@
+// deployed backend to put data
 // Add colors for each deck in their percentage
 // improve labels and animation on pie
 // page with excel-like stuff
-// global styling
-// deployed backend to put data
-// optimize backend
+// sort all decks by winrate
 // give me a random unplayed matchup
+// global styling
+// optimize backend

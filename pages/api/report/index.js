@@ -1,4 +1,4 @@
-import { ddb } from "../aws";
+import AWS from "aws-sdk";
 
 export default (req, res) => {
   const { body, method } = req;
@@ -6,6 +6,18 @@ export default (req, res) => {
     res.statusCode = 404;
     res.end();
   }
+
+  console.log({ body });
+
+  AWS.config.update({
+    region: "us-east-1",
+    accessKeyId: body.key,
+    secretAccessKey: body.secret,
+  });
+
+  const ddb = new AWS.DynamoDB({
+    apiVersion: "2012-08-10",
+  });
 
   const params = {
     Item: {
@@ -24,6 +36,7 @@ export default (req, res) => {
 
   ddb.putItem(params, (error, data) => {
     if (error) {
+      console.log(error);
       res.statusCode = 500;
       res.end();
     } else {

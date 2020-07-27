@@ -6,10 +6,6 @@ AWS.config.update({
   secretAccessKey: process.env.SECRET_ACCESS_KEY,
 });
 
-const ddb = new AWS.DynamoDB({
-  apiVersion: "2012-08-10",
-});
-
 var docClient = new AWS.DynamoDB.DocumentClient();
 
-export { ddb, docClient };
+export { docClient };
