@@ -18,6 +18,7 @@ const Decks = ({
   const [decks, setDecks] = useState([]);
 
   useEffect(() => {
+    setDecks([]);
     fetch(`/api/decks?order=${order}`).then((response) => {
       response.json().then((responseDecks) => {
         setDecks(responseDecks);

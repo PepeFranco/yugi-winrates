@@ -74,7 +74,7 @@ const WinRatePieChart = ({
       <PieChart
         data={pieData}
         animate={true}
-        animationDuration={3000}
+        animationDuration={1500}
         label={(props) => {
           const percentage = props?.dataEntry?.percentage;
           const color = props?.dataEntry?.color;

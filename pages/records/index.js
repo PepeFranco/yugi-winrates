@@ -15,6 +15,7 @@ const Records = ({
   const [records, setRecords] = useState([]);
 
   useEffect(() => {
+    setRecords([]);
     fetch(`/api/records?order=${order}`).then((response) => {
       response.json().then((responseRecords) => {
         setRecords(responseRecords);
@@ -66,7 +67,9 @@ const Records = ({
         {records.length === 0 && <Loader />}
 
         {records.length > 0 &&
-          records.map((record, index) => <Record {...record} key={index} />)}
+          records
+            .slice(0, 50)
+            .map((record, index) => <Record {...record} key={index} />)}
       </Main>
       <Footer />
     </div>

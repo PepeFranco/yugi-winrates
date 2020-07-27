@@ -17,6 +17,7 @@ const Deck = ({
   const [records, setRecords] = useState([]);
 
   useEffect(() => {
+    setRecords([]);
     if (id) {
       const currentDeck = decks.filter(
         (deckToFilter) => deckToFilter.code === id
@@ -79,7 +80,7 @@ const Deck = ({
               deckName={deck.name}
               deckColor={deck.color}
               {...record}
-              key={index}
+              key={`${index}-${order}`}
             />
           ))}
       </Main>
