@@ -1,6 +1,5 @@
-// fix label pies
 // fix sizes on main page
-// improve labels and animation on pie
+// improve animation on pie
 // give me a random unplayed matchup
 // global styling
 // optimize backend
