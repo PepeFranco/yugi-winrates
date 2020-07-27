@@ -1,6 +1,5 @@
-// Fix pie when both decks share colors
 // fix label pies
-// Add colors for each deck in their percentage
+// fix sizes on main page
 // improve labels and animation on pie
 // give me a random unplayed matchup
 // global styling

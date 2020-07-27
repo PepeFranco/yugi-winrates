@@ -1,14 +1,14 @@
-const green = "#229954";
-const purple = "#884ea0";
-const red = "#a93226";
-const aqua = "#5dade2";
-const orange = "#e67e22";
-const yellow = "#f1c40f";
-const gray = "#99a3a4";
-const white = "#e5e7e9";
-const blue = "#1f618d";
-const black = "black";
-const pink = "#d7bde2";
+export const green = "#229954";
+export const purple = "#884ea0";
+export const red = "#a93226";
+export const aqua = "#5dade2";
+export const orange = "#e67e22";
+export const yellow = "#f1c40f";
+export const gray = "#99a3a4";
+export const white = "#e5e7e9";
+export const blue = "#1f618d";
+export const black = "#000000";
+export const pink = "#d7bde2";
 
 const decks = [
   { code: "SD1", name: "Dragon's Roar", color: green },
