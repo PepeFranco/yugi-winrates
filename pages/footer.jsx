@@ -36,6 +36,20 @@ const Footer = () => (
           </div>
         </a>
       </Link>
+      <Link href="/decks">
+        <a href="#" style={{ color: "white" }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              height: "50px",
+            }}
+          >
+            <h4>All decks</h4>
+          </div>
+        </a>
+      </Link>
       <a
         href="https://github.com/PepeFranco/yugi-winrates"
         style={{ color: "white" }}

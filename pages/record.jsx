@@ -1,62 +1,7 @@
 import Link from "next/link";
-import { PieChart } from "react-minimal-pie-chart";
-
-const DeckImage = ({ code }) => (
-  <div style={{ width: "100px", justifyContent: "center", display: "flex" }}>
-    <img
-      style={{
-        height: "100px",
-      }}
-      src={`/${code}.jpg`}
-    ></img>
-  </div>
-);
-
-const Counter = ({ children }) => (
-  <h3
-    style={{
-      fontSize: "50px",
-    }}
-  >
-    {children}
-  </h3>
-);
-
-const WinRatePieChart = ({ totalGames, winPercentage, lossPercentage }) => {
-  const pieData =
-    totalGames > 0
-      ? [
-          {
-            value: winPercentage,
-            color: "#3498db",
-          },
-          {
-            value: lossPercentage,
-            color: "#d35400",
-          },
-        ]
-      : [{ value: 100, color: "gray" }];
-
-  return (
-    <div
-      style={{
-        width: "150px",
-        height: "150px",
-        padding: "10px",
-      }}
-    >
-      <PieChart
-        data={pieData}
-        label={(props) => {
-          const percentage = props?.dataEntry?.percentage;
-          const color = props?.dataEntry?.color;
-          if ((percentage > 0) & (color !== "gray"))
-            return `${percentage.toFixed(0)}%`;
-        }}
-      />
-    </div>
-  );
-};
+import Counter from "./counter";
+import DeckImage from "./deckImage";
+import WinRatePieChart from "./winRatePieChart";
 
 export default ({
   wins,
