@@ -10,11 +10,13 @@ const getDecksCombinations = (result, decks) => {
     result[currentDeck.code][opponentDeck.code] = {
       deckCode: currentDeck.code,
       deckName: currentDeck.name,
+      deckColor: currentDeck.color,
       wins: 0,
       losses: 0,
       totalGames: 0,
       opponentDeckCode: opponentDeck.code,
       opponentDeckName: opponentDeck.name,
+      opponentDeckColor: opponentDeck.color,
     };
   });
   return getDecksCombinations(result, decks.slice(1));
@@ -62,8 +64,10 @@ export default (req, res) => {
           totalGames,
           deckCode,
           deckName,
+          deckColor,
           opponentDeckCode,
           opponentDeckName,
+          opponentDeckColor,
         } = record;
         const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
         const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
@@ -71,8 +75,10 @@ export default (req, res) => {
         return {
           deckCode,
           deckName,
+          deckColor,
           opponentDeckCode,
           opponentDeckName,
+          opponentDeckColor,
           wins,
           losses,
           totalGames,

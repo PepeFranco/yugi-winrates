@@ -7,8 +7,6 @@ export default (req, res) => {
     res.end();
   }
 
-  console.log({ body });
-
   AWS.config.update({
     region: "us-east-1",
     accessKeyId: body.key,
@@ -36,7 +34,6 @@ export default (req, res) => {
 
   ddb.putItem(params, (error, data) => {
     if (error) {
-      console.log(error);
       res.statusCode = 500;
       res.end();
     } else {

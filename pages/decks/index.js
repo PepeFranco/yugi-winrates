@@ -72,6 +72,7 @@ const Decks = ({
             const {
               deckCode,
               deckName,
+              deckColor,
               totalGames,
               wins,
               losses,
@@ -107,6 +108,8 @@ const Decks = ({
                       totalGames={totalGames}
                       winPercentage={winPercentage}
                       lossPercentage={lossPercentage}
+                      winColor={deckColor}
+                      lossColor="gray"
                     />
                   </div>
                   <div

@@ -77,6 +77,7 @@ const Deck = ({
             <Record
               deckCode={deck.code}
               deckName={deck.name}
+              deckColor={deck.color}
               {...record}
               key={index}
             />

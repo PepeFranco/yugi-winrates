@@ -1,15 +1,21 @@
 import { PieChart } from "react-minimal-pie-chart";
-const WinRatePieChart = ({ totalGames, winPercentage, lossPercentage }) => {
+const WinRatePieChart = ({
+  totalGames,
+  winPercentage,
+  lossPercentage,
+  winColor,
+  lossColor,
+}) => {
   const pieData =
     totalGames > 0
       ? [
           {
             value: winPercentage,
-            color: "#3498db",
+            color: winColor || "#3498db",
           },
           {
             value: lossPercentage,
-            color: "#d35400",
+            color: lossColor || "#d35400",
           },
         ]
       : [{ value: 100, color: "gray" }];

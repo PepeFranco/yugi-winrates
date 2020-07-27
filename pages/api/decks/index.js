@@ -12,6 +12,7 @@ export default (req, res) => {
       (result[deck.code] = {
         deckCode: deck.code,
         deckName: deck.name,
+        deckColor: deck.color,
         wins: 0,
         losses: 0,
         totalGames: 0,
@@ -41,12 +42,20 @@ export default (req, res) => {
       });
 
       const recordsWithPercentages = flattenedResult.map((record) => {
-        const { wins, losses, totalGames, deckCode, deckName } = record;
+        const {
+          wins,
+          losses,
+          totalGames,
+          deckCode,
+          deckName,
+          deckColor,
+        } = record;
         const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
         const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
         return {
           deckCode,
           deckName,
+          deckColor,
           wins,
           losses,
           totalGames,

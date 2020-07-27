@@ -44,6 +44,7 @@ export default (req, res) => {
                 totalGames: 0,
                 opponentDeckCode: deck.code,
                 opponentDeckName: deck.name,
+                opponentDeckColor: deck.color,
               })
           );
 
@@ -57,33 +58,33 @@ export default (req, res) => {
             result[loserItem.winner].totalGames++;
           });
 
-          const recordsWithPercentages = Object.keys(result).map(
-            (key, index) => {
-              const {
-                wins,
-                losses,
-                totalGames,
-                opponentDeckCode,
-                opponentDeckName,
-              } = result[key];
-              const winPercentage =
-                totalGames > 0 ? (wins * 100) / totalGames : 0;
-              const lossPercentage =
-                totalGames > 0 ? (losses * 100) / totalGames : 0;
-              const rating =
-                totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
-              return {
-                opponentDeckCode,
-                opponentDeckName,
-                wins,
-                losses,
-                totalGames,
-                winPercentage,
-                lossPercentage,
-                rating,
-              };
-            }
-          );
+          const recordsWithPercentages = Object.keys(result).map((key) => {
+            const {
+              wins,
+              losses,
+              totalGames,
+              opponentDeckCode,
+              opponentDeckName,
+              opponentDeckColor,
+            } = result[key];
+            const winPercentage =
+              totalGames > 0 ? (wins * 100) / totalGames : 0;
+            const lossPercentage =
+              totalGames > 0 ? (losses * 100) / totalGames : 0;
+            const rating =
+              totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
+            return {
+              opponentDeckCode,
+              opponentDeckName,
+              opponentDeckColor,
+              wins,
+              losses,
+              totalGames,
+              winPercentage,
+              lossPercentage,
+              rating,
+            };
+          });
 
           res.statusCode = 200;
           res.setHeader("Content-Type", "application/json");

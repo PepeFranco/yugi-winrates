@@ -13,6 +13,8 @@ export default ({
   opponentDeckCode,
   deckCode,
   deckName,
+  deckColor,
+  opponentDeckColor,
 }) => {
   return (
     <div>
@@ -53,6 +55,8 @@ export default ({
           totalGames={totalGames}
           winPercentage={winPercentage}
           lossPercentage={lossPercentage}
+          winColor={deckColor}
+          lossColor={opponentDeckColor}
         />
         <Counter>{losses}</Counter>
         <Link href={`/deck/${opponentDeckCode}`}>
