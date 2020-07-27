@@ -51,9 +51,7 @@ const Home = () => (
                     src={`/${deck.code}.jpg`}
                   />
                 </div>
-                <h3>
-                  <a href="#">{deck.name}</a>
-                </h3>
+                <a href="#">{deck.name}</a>
               </div>
             </Link>
           );
