@@ -1,4 +1,3 @@
-// improve animation on pie
 // give me a random unplayed matchup
 // global styling
 // optimize backend
