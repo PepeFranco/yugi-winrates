@@ -1,8 +1,10 @@
 const sortRecords = ({ recordsWithPercentages, order }) => {
   if (order === "alphabetical") {
-    return recordsWithPercentages.sort((recordA, recordB) =>
-      recordA.opponentDeckName < recordB.opponentDeckName ? -1 : 1
-    );
+    return recordsWithPercentages.sort((recordA, recordB) => {
+      if (recordA.opponentDeckName && recordB.opponentDeckName)
+        return recordA.opponentDeckName < recordB.opponentDeckName ? -1 : 1;
+      else return recordA.deckName < recordB.deckName ? -1 : 1;
+    });
   }
   if (order === "rating") {
     return recordsWithPercentages.sort((recordA, recordB) => {

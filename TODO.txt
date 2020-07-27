@@ -1,7 +1,6 @@
 // Add colors for each deck in their percentage
 // improve labels and animation on pie
-// page with excel-like stuff
-// sort all decks by winrate
 // give me a random unplayed matchup
 // global styling
 // optimize backend
+// page with excel-like stuff

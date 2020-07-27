@@ -59,7 +59,6 @@ const Decks = ({
               value={order}
             >
               <option value="release">Release order</option>
-              <option value="rating">Rating</option>
               <option value="winrate">Winrate</option>
               <option value="alphabetical">Alphabetical</option>
             </select>
