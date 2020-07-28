@@ -66,8 +66,6 @@ const WinRatePieChart = ({
   return (
     <div
       style={{
-        width: "150px",
-        height: "150px",
         padding: "10px",
       }}
     >
@@ -75,6 +73,8 @@ const WinRatePieChart = ({
         data={pieData}
         animate={true}
         animationDuration={1000}
+        startAngle={90}
+        style={{ height: "150px" }}
         label={(props) => {
           const percentage = props?.dataEntry?.percentage;
           const color = props?.dataEntry?.color;

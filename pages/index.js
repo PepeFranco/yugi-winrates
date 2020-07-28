@@ -4,6 +4,7 @@ import decks from "../decks";
 import Header from "./header";
 import Footer from "./footer";
 import Main from "./main";
+import DeckImage from "./deckImage";
 
 const Home = () => (
   <div>
@@ -43,13 +44,7 @@ const Home = () => (
                     height: "100%",
                   }}
                 >
-                  <img
-                    style={{
-                      width: "100%",
-                    }}
-                    key={deck.code}
-                    src={`/${deck.code}.jpg`}
-                  />
+                  <DeckImage code={deck.code} />
                 </div>
                 <a href="#">{deck.name}</a>
               </div>

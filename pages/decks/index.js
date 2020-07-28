@@ -82,6 +82,13 @@ const Decks = ({
             } = deck;
             return (
               <div key={index}>
+                <div>
+                  <Link href={`/deck/${deckCode}`}>
+                    <a>
+                      <h3>{deckName}</h3>
+                    </a>
+                  </Link>
+                </div>
                 <div
                   style={{
                     display: "flex",
@@ -92,7 +99,6 @@ const Decks = ({
                   <div style={{ flex: 1 }}>
                     <Link href={`/deck/${deckCode}`}>
                       <a>
-                        <h3>{deckName}</h3>
                         <DeckImage code={deckCode} />
                       </a>
                     </Link>
