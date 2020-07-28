@@ -46,7 +46,9 @@ const Home = () => (
                 >
                   <DeckImage code={deck.code} />
                 </div>
-                <a href="#">{deck.name}</a>
+                <a href="#" style={{ color: "black" }}>
+                  {deck.name}
+                </a>
               </div>
             </Link>
           );

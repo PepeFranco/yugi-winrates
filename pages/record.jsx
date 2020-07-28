@@ -27,12 +27,12 @@ export default ({
         }}
       >
         <Link href={`/deck/${deckCode}`}>
-          <a>
+          <a style={{ color: "black" }}>
             <h3>{deckName}</h3>
           </a>
         </Link>
         <Link href={`/deck/${opponentDeckCode}`}>
-          <a href="#" style={{ textAlign: "right" }}>
+          <a href="#" style={{ textAlign: "right", color: "black" }}>
             <h3>{opponentDeckName}</h3>
           </a>
         </Link>

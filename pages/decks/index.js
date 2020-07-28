@@ -84,7 +84,7 @@ const Decks = ({
               <div key={index}>
                 <div>
                   <Link href={`/deck/${deckCode}`}>
-                    <a>
+                    <a style={{ color: "black" }}>
                       <h3>{deckName}</h3>
                     </a>
                   </Link>
@@ -98,7 +98,7 @@ const Decks = ({
                 >
                   <div style={{ flex: 1 }}>
                     <Link href={`/deck/${deckCode}`}>
-                      <a>
+                      <a style={{ color: "black" }}>
                         <DeckImage code={deckCode} />
                       </a>
                     </Link>

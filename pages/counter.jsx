@@ -1,7 +1,7 @@
 const Counter = ({ children }) => (
   <h4
     style={{
-      fontSize: "30px",
+      fontSize: "35px",
     }}
   >
     {children}

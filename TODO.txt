@@ -1,4 +1,4 @@
-// hover state for images
+// optimize jpegs
 // GraphQL
 // give me a random unplayed matchup
 // global styling
