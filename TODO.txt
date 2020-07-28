@@ -1,3 +1,7 @@
+// Add a switch inputs on post
+// Fix pie sides
+// hover state for images
+// GraphQL
 // give me a random unplayed matchup
 // global styling
 // optimize backend

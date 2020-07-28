@@ -14,6 +14,8 @@ const Report = ({
   },
 }) => {
   const [status, setStatus] = useState("");
+  const [winner, setWinner] = useState("");
+  const [loser, setLoser] = useState("");
 
   return (
     <div>
@@ -66,16 +68,44 @@ const Report = ({
             }}
           >
             <label htmlFor="winner">Winner</label>
-            <select style={{ width: "200px", height: "25px" }} name="winner">
+            <select
+              style={{ width: "200px", height: "25px" }}
+              name="winner"
+              onChange={(e) => {
+                setWinner(e.currentTarget.value);
+              }}
+              value={winner}
+            >
               {decks.map((deck) => (
                 <option value={deck.code} key={`winner-${deck.code}`}>
                   {deck.name}
                 </option>
               ))}
             </select>
-
+            <span
+              style={{
+                fontSize: "25px",
+                textAlign: "center",
+                cursor: "pointer",
+              }}
+              onClick={() => {
+                const winnerCopy = `${winner}`;
+                const loserCopy = `${loser}`;
+                setWinner(loserCopy);
+                setLoser(winnerCopy);
+              }}
+            >
+              🔄
+            </span>
             <label htmlFor="loser">Loser</label>
-            <select style={{ width: "200px", height: "25px" }} name="loser">
+            <select
+              style={{ width: "200px", height: "25px" }}
+              name="loser"
+              onChange={(e) => {
+                setLoser(e.currentTarget.value);
+              }}
+              value={loser}
+            >
               {decks.map((deck) => (
                 <option value={deck.code} key={`loser-${deck.code}`}>
                   {deck.name}
