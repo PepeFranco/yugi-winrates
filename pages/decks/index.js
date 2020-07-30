@@ -62,6 +62,7 @@ const Decks = ({
               <option value="release">Release order</option>
               <option value="winrate">Winrate</option>
               <option value="alphabetical">Alphabetical</option>
+              <option value="totalGames">Total Games</option>
             </select>
           </div>
         </div>

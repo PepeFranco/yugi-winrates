@@ -67,6 +67,9 @@ const WinRatePieChart = ({
     <div
       style={{
         padding: "10px",
+        display: "flex",
+        flexDirection: "column",
+        textAlign: "center",
       }}
     >
       <PieChart
@@ -82,6 +85,7 @@ const WinRatePieChart = ({
             return `${percentage.toFixed(0)}%`;
         }}
       />
+      <span>{`Total games: ${totalGames}`}</span>
     </div>
   );
 };

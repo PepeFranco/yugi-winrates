@@ -68,6 +68,7 @@ const Deck = ({
               <option value="rating">Rating</option>
               <option value="winrate">Winrate</option>
               <option value="alphabetical">Alphabetical</option>
+              <option value="totalGames">Total games</option>
             </select>
           </div>
         </div>
