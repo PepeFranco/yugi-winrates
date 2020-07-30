@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+const footerHeight = "50px";
+
 const Footer = () => (
   <div
     style={{
@@ -29,7 +31,7 @@ const Footer = () => (
               display: "flex",
               flexDirection: "row",
               alignItems: "center",
-              height: "50px",
+              height: footerHeight,
             }}
           >
             <span>All records</span>
@@ -43,7 +45,7 @@ const Footer = () => (
               display: "flex",
               flexDirection: "row",
               alignItems: "center",
-              height: "50px",
+              height: footerHeight,
             }}
           >
             <span>All decks</span>
@@ -59,7 +61,7 @@ const Footer = () => (
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            height: "50px",
+            height: footerHeight,
           }}
         >
           <span>Source code</span>

@@ -1,4 +1,4 @@
-import ReactLoader from "react-loader-spinner";
+import { PieChart } from "react-minimal-pie-chart";
 
 const Loader = () => (
   <div
@@ -8,7 +8,20 @@ const Loader = () => (
       justifyContent: "center",
     }}
   >
-    <ReactLoader type="Bars" color="black" height={100} width={100} />
+    <div style={{ padding: "50px" }}>
+      <PieChart
+        data={[
+          {
+            value: 100,
+            color: "black",
+          },
+        ]}
+        animate={true}
+        animationDuration={3000}
+        startAngle={90}
+        style={{ height: "150px" }}
+      />
+    </div>
   </div>
 );
 
