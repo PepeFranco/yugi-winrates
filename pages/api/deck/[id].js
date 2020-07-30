@@ -4,7 +4,7 @@ import sortRecords from "../sortRecords";
 
 export default (req, res) => {
   const {
-    query: { id, order = "release" },
+    query: { id, order = "rating" },
   } = req;
 
   const winnerParams = {

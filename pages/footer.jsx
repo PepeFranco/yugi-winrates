@@ -17,7 +17,7 @@ const Footer = () => (
       style={{
         display: "flex",
         flexDirection: "row",
-        justifyContent: "space-between",
+        justifyContent: "space-evenly",
         width: "100%",
         maxWidth: "900px",
       }}
@@ -32,7 +32,7 @@ const Footer = () => (
               height: "50px",
             }}
           >
-            <h4>All records</h4>
+            <span>All records</span>
           </div>
         </a>
       </Link>
@@ -46,7 +46,7 @@ const Footer = () => (
               height: "50px",
             }}
           >
-            <h4>All decks</h4>
+            <span>All decks</span>
           </div>
         </a>
       </Link>
@@ -62,7 +62,7 @@ const Footer = () => (
             height: "50px",
           }}
         >
-          <h4>Source code</h4>
+          <span>Source code</span>
         </div>
       </a>
     </div>

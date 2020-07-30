@@ -24,7 +24,7 @@ const getDecksCombinations = (result, decks) => {
 
 export default (req, res) => {
   const {
-    query: { order = "release" },
+    query: { order = "rating" },
   } = req;
   const result = getDecksCombinations({}, decks);
 

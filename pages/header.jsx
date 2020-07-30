@@ -31,7 +31,7 @@ const Header = () => (
             }}
           >
             <img src="/logo.webp" style={{ height: "100%" }} />
-            <h3>Structure Decks Winrates</h3>
+            <span>Structure Decks Winrates</span>
           </div>
         </a>
       </Link>

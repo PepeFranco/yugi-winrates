@@ -1,7 +1,7 @@
 const DeckImage = ({ code }) => (
   <div
     style={{
-      width: "150px",
+      maxWidth: "150px",
       justifyContent: "center",
       display: "flex",
       cursor: "pointer",
@@ -9,7 +9,7 @@ const DeckImage = ({ code }) => (
   >
     <img
       style={{
-        height: "150px",
+        maxHeight: "150px",
       }}
       src={`/${code}.jpg`}
     ></img>

@@ -34,6 +34,8 @@ const WinRatePieChart = ({
   lossPercentage,
   winColor,
   lossColor,
+  wins,
+  losses,
 }) => {
   const getLossColor = () => {
     if (!lossColor) return "#d35400";
@@ -85,7 +87,7 @@ const WinRatePieChart = ({
             return `${percentage.toFixed(0)}%`;
         }}
       />
-      <span>{`Total games: ${totalGames}`}</span>
+      <span>{`${wins}-${losses}`}</span>
     </div>
   );
 };

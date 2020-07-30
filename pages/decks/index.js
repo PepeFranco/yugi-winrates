@@ -5,14 +5,13 @@ import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
 import Loader from "../loader";
-import Counter from "../counter";
 import DeckImage from "../deckImage";
 import WinRatePieChart from "../winRatePieChart";
 import Link from "next/link";
 
 const Decks = ({
   router: {
-    query: { order = "release" },
+    query: { order = "winrate" },
   },
 }) => {
   const [decks, setDecks] = useState([]);
@@ -86,49 +85,31 @@ const Decks = ({
                 <div>
                   <Link href={`/deck/${deckCode}`}>
                     <a style={{ color: "black" }}>
-                      <h3>{deckName}</h3>
+                      <span>{deckName}</span>
                     </a>
                   </Link>
                 </div>
                 <div
                   style={{
                     display: "flex",
-                    justifyContent: "space-between",
+                    justifyContent: "space-evenly",
                     alignItems: "center",
                   }}
                 >
-                  <div style={{ flex: 1 }}>
-                    <Link href={`/deck/${deckCode}`}>
-                      <a style={{ color: "black" }}>
-                        <DeckImage code={deckCode} />
-                      </a>
-                    </Link>
-                  </div>
-                  <div
-                    style={{
-                      flex: 1,
-                      display: "flex",
-                      alignItems: "center",
-                      flexDirection: "column",
-                    }}
-                  >
-                    <WinRatePieChart
-                      totalGames={totalGames}
-                      winPercentage={winPercentage}
-                      lossPercentage={lossPercentage}
-                      winColor={deckColor}
-                      lossColor="gray"
-                    />
-                  </div>
-                  <div
-                    style={{
-                      textAlign: "right",
-                      flex: 1,
-                    }}
-                  >
-                    <Counter>{`Wins: ${wins}`}</Counter>
-                    <Counter>{`Losses: ${losses}`}</Counter>
-                  </div>
+                  <Link href={`/deck/${deckCode}`}>
+                    <a style={{ color: "black" }}>
+                      <DeckImage code={deckCode} />
+                    </a>
+                  </Link>
+                  <WinRatePieChart
+                    totalGames={totalGames}
+                    winPercentage={winPercentage}
+                    lossPercentage={lossPercentage}
+                    winColor={deckColor}
+                    lossColor="gray"
+                    wins={wins}
+                    losses={losses}
+                  />
                 </div>
               </div>
             );

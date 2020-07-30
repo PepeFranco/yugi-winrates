@@ -10,7 +10,7 @@ import Loader from "../loader";
 
 const Deck = ({
   router: {
-    query: { id, order = "release" },
+    query: { id, order = "rating" },
   },
 }) => {
   const [deck, setDeck] = useState([]);
@@ -56,7 +56,7 @@ const Deck = ({
               width: "100%",
             }}
           >
-            <h2 className="title">{deck?.name}</h2>
+            <span className="title">{deck?.name}</span>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
