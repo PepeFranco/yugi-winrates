@@ -70,6 +70,8 @@ export default (req, res) => {
             losses,
             winPercentage,
             lossPercentage,
+            totalGames,
+            rating,
           } = result;
           if (wins >= losses) return result;
           return {
@@ -83,6 +85,8 @@ export default (req, res) => {
             losses: wins,
             winPercentage: lossPercentage,
             lossPercentage: winPercentage,
+            totalGames,
+            rating,
           };
         }
       );

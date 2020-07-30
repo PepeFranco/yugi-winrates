@@ -58,6 +58,7 @@ const Records = ({
             >
               <option value="rating">Rating</option>
               <option value="winrate">Winrate</option>
+              <option value="totalGames">Total Games</option>
             </select>
           </div>
         </div>
