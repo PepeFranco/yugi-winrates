@@ -57,36 +57,70 @@ export default (req, res) => {
         });
       });
 
-      const recordsWithPercentages = flattenedResult.map((record) => {
-        const {
-          wins,
-          losses,
-          totalGames,
-          deckCode,
-          deckName,
-          deckColor,
-          opponentDeckCode,
-          opponentDeckName,
-          opponentDeckColor,
-        } = record;
-        const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
-        const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
-        const rating = totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
-        return {
-          deckCode,
-          deckName,
-          deckColor,
-          opponentDeckCode,
-          opponentDeckName,
-          opponentDeckColor,
-          wins,
-          losses,
-          totalGames,
-          winPercentage,
-          lossPercentage,
-          rating,
-        };
-      });
+      const flattenedResultWithWinnersOnTheLeft = flattenedResult.map(
+        (result) => {
+          const {
+            deckCode,
+            deckName,
+            deckColor,
+            opponentDeckCode,
+            opponentDeckName,
+            opponentDeckColor,
+            wins,
+            losses,
+            winPercentage,
+            lossPercentage,
+          } = result;
+          if (wins >= losses) return result;
+          return {
+            deckCode: opponentDeckCode,
+            deckName: opponentDeckName,
+            deckColor: opponentDeckColor,
+            opponentDeckCode: deckCode,
+            opponentDeckName: deckName,
+            opponentDeckColor: deckColor,
+            wins: losses,
+            losses: wins,
+            winPercentage: lossPercentage,
+            lossPercentage: winPercentage,
+          };
+        }
+      );
+
+      const recordsWithPercentages = flattenedResultWithWinnersOnTheLeft.map(
+        (record) => {
+          const {
+            wins,
+            losses,
+            totalGames,
+            deckCode,
+            deckName,
+            deckColor,
+            opponentDeckCode,
+            opponentDeckName,
+            opponentDeckColor,
+          } = record;
+          const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
+          const lossPercentage =
+            totalGames > 0 ? (losses * 100) / totalGames : 0;
+          const rating =
+            totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
+          return {
+            deckCode,
+            deckName,
+            deckColor,
+            opponentDeckCode,
+            opponentDeckName,
+            opponentDeckColor,
+            wins,
+            losses,
+            totalGames,
+            winPercentage,
+            lossPercentage,
+            rating,
+          };
+        }
+      );
 
       res.statusCode = 200;
       res.setHeader("Content-Type", "application/json");

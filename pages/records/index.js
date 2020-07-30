@@ -9,7 +9,7 @@ import Loader from "../loader";
 
 const Records = ({
   router: {
-    query: { order = "release" },
+    query: { order = "rating" },
   },
 }) => {
   const [records, setRecords] = useState([]);
@@ -56,10 +56,8 @@ const Records = ({
               }}
               value={order}
             >
-              <option value="release">Release order</option>
               <option value="rating">Rating</option>
               <option value="winrate">Winrate</option>
-              <option value="alphabetical">Alphabetical</option>
             </select>
           </div>
         </div>
