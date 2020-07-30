@@ -142,7 +142,7 @@ const Report = ({
                 color: status === "OK" ? "green" : "black",
               }}
             >
-              <h4>{status}</h4>
+              <span>{status}</span>
             </div>
           )}
         </div>
