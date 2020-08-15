@@ -39,7 +39,7 @@ const Report = ({
               display: "flex",
               flexDirection: "column",
               justifyContent: "space-evenly",
-              height: "200px",
+              height: "400px",
             }}
             onSubmit={(e) => {
               e.preventDefault();
@@ -118,6 +118,7 @@ const Report = ({
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
+                paddingTop: "50px",
                 width: "100%",
               }}
             >
