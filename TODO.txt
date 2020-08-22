@@ -1,6 +1,7 @@
 // optimize jpegs
-// GraphQL
+// list of matchups played
 // give me a random unplayed matchup
 // global styling
 // optimize backend
 // page with excel-like stuff
+// ts?
