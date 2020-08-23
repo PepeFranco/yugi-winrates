@@ -115,6 +115,18 @@ const calculatePercentages = (records) =>
     };
   });
 
+export const transformDBItemsToRecordsArray = (dbItems) => {
+  const result = putDBItemsIntoRecordObject(dbItems);
+  const flattenedResult = flattenResult(result);
+  const flattenedResultWithWinnersOnTheLeft = putWinnersOnTheLeft(
+    flattenedResult
+  );
+  const recordsWithPercentages = calculatePercentages(
+    flattenedResultWithWinnersOnTheLeft
+  );
+  return recordsWithPercentages;
+};
+
 export default (req, res) => {
   const {
     query: { order = "rating" },
@@ -129,18 +141,7 @@ export default (req, res) => {
       res.statusCode = 500;
       res.end();
     } else {
-      const result = putDBItemsIntoRecordObject(data.Items);
-
-      const flattenedResult = flattenResult(result);
-
-      const flattenedResultWithWinnersOnTheLeft = putWinnersOnTheLeft(
-        flattenedResult
-      );
-
-      const recordsWithPercentages = calculatePercentages(
-        flattenedResultWithWinnersOnTheLeft
-      );
-
+      const recordsWithPercentages = transformDBItemsToRecordsArray(data.Items);
       res.statusCode = 200;
       res.setHeader("Content-Type", "application/json");
       res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
