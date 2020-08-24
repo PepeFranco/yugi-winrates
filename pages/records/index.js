@@ -6,6 +6,7 @@ import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
 import Loader from "../loader";
+import MatchupCounter from "../matchupCounter";
 
 const Records = ({
   router: {
@@ -48,7 +49,9 @@ const Records = ({
               width: "100%",
             }}
           >
-            <span className="title">All records</span>
+            <span className="title">
+              All records <MatchupCounter records={records} />
+            </span>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {

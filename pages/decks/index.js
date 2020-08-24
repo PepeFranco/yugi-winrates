@@ -8,6 +8,7 @@ import Loader from "../loader";
 import DeckImage from "../deckImage";
 import WinRatePieChart from "../winRatePieChart";
 import Link from "next/link";
+import MatchupCounter from "../matchupCounter";
 
 const Decks = ({
   router: {
@@ -50,7 +51,9 @@ const Decks = ({
               width: "100%",
             }}
           >
-            <span className="title">All decks</span>
+            <span className="title">
+              All decks <MatchupCounter records={decks} />
+            </span>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
