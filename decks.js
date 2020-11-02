@@ -59,7 +59,8 @@ const decks = [
   { code: "SDRR", name: "Rokket Revolt", color: green },
   { code: "SDSH", name: "Shaddoll Showdown", color: purple },
   { code: "SR10", name: "Mechanized Madness", color: blue },
-  { code: "SDSA", name: "Sacred Beasts", color: green },
+  { code: "SDSA", name: "Sacred Beasts", color: black },
+  { code: "SDCH", name: "Spirit Charmers", color: black},
 ];
 
 export default decks;
