@@ -52,7 +52,7 @@ const decks = [
   { code: "SDCL", name: "Cyberse Link", color: pink },
   { code: "SR05", name: "Wave of Light", color: white },
   { code: "SR06", name: "Lair of Darkness", color: black },
-  { code: "SDPL", name: "Powercode Link", color: green },
+  { code: "SDPL", name: "Powercode Link", color: pink },
   { code: "SR07", name: "Zombie Horde", color: purple },
   { code: "SDSB", name: "Soulburner", color: red },
   { code: "SR08", name: "Order of the Spellcasters", color: green },
