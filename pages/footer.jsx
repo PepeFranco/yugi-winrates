@@ -6,9 +6,6 @@ const Footer = () => (
   <div
     style={{
       width: "100%",
-      position: "-webkit - sticky",
-      position: "sticky",
-      bottom: 0,
       background: "black",
       display: "flex",
       alignItems: "center",
