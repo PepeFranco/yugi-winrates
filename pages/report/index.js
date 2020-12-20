@@ -1,12 +1,10 @@
 import Head from "next/head";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import decks from "../../decks";
-import Router, { withRouter } from "next/router";
-import Record from ".";
+import  { withRouter } from "next/router";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
-import Loader from "../loader";
 
 const Report = ({
   router: {
