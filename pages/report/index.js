@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useState } from "react";
-import decks from "../../decks";
 import  { withRouter } from "next/router";
+import decks from "../../decks";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
