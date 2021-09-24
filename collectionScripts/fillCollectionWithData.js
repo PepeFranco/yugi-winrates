@@ -43,23 +43,70 @@ const getAllSets = (cardInfo) => {
   return sets;
 };
 
-const cardToRow = (cardInfo) => {
+const cardToRow = (cardInfo, card) => {
   const earliestInfo = getEarliestInfo(cardInfo);
   const image =
     cardInfo.card_images &&
     cardInfo.card_images[0] &&
     cardInfo.card_images[0].image_url;
-  return `${cardInfo.id}^${cardInfo.name}^${cardInfo.type}^${JSON.stringify(
-    cardInfo.desc
-  )}^${cardInfo.atk || ""}^${cardInfo.def || ""}^${cardInfo.level || ""}^${
-    cardInfo.race
-  }^${cardInfo.attribute || ""}^${cardInfo.archetype || ""}^${
-    cardInfo.scale || ""
-  }^${cardInfo.linkval || ""}^${
-    cardInfo.linkmarkers ? JSON.stringify(cardInfo.linkmarkers) : ""
-  }^${earliestInfo.earliestSet}^${
-    earliestInfo.earliestDate
-  }^=IMAGE("${image}")^${getAllSets(cardInfo)}\n`;
+  let row = "";
+  const cardInfoProperties = [
+    "id",
+    "name",
+    "type",
+    "atk",
+    "def",
+    "level",
+    "race",
+    "attribute",
+    "archetype",
+    "scale",
+    "linkval",
+  ];
+  cardInfoProperties.map((cip) => {
+    row += `${cardInfo[cip] || ""}^`;
+  });
+  const cardInfoPropertiesToReplace = ["desc"];
+  cardInfoPropertiesToReplace.map((cip) => {
+    row += `${
+      cardInfo[cip] ? JSON.stringify(cardInfo[cip]).replace(/"/g, "`") : ""
+    }^`;
+  });
+  const cardInfoPropertiesToStringify = ["linkmarkers"];
+  cardInfoPropertiesToStringify.map((cip) => {
+    row += `${cardInfo[cip] ? cardInfo[cip] : ""}^`;
+  });
+  const earliestInfoProperties = ["earliestSet", "earliestDate"];
+  earliestInfoProperties.map((eip) => {
+    row += `${earliestInfo[eip] || ""}^`;
+  });
+  const cardProperties = [
+    "Rarity",
+    "Edition",
+    "In Box",
+    "In Sleeve",
+    "In Deck",
+    "Out of place",
+    "Code",
+  ];
+  cardProperties.map((cp) => {
+    row += `${card[cp] || ""}^`;
+  });
+
+  if (card["Code"]) {
+    const cardSet = cardInfo["card_sets"].find(
+      (cs) => cs["set_code"].toLowerCase() === card["Code"].toLowerCase()
+    );
+    if (cardSet) {
+      row += `${cardSet["set_name"]}^`;
+    } else {
+      row += `^`;
+    }
+  } else {
+    row += `^`;
+  }
+
+  return `${row}=IMAGE("${image}")^${getAllSets(cardInfo)}\n`;
 };
 
 const collection = require("./collection.json");
@@ -70,7 +117,7 @@ const mainFunction = async () => {
       const cardInfo = await getCardInfo(card["Name"]);
       fs.appendFile(
         "collectionWithData.csv",
-        cardToRow(cardInfo),
+        cardToRow(cardInfo, card),
         function (err) {
           if (err) throw err;
         }
