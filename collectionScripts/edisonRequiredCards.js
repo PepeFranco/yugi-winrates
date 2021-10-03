@@ -19,7 +19,7 @@ const getCardInfo = async (cardId) => {
 };
 
 const collection = require("./collection.json");
-const goat = require("./goat.json");
+const edison = require("./edison.json");
 
 const cardsNotInSD = collection.filter(
   (card) =>
@@ -37,8 +37,8 @@ const cardsIOwn = [];
 const cardsIMiss = [];
 
 const mainFunction = async () => {
-  for (let i = 0; i < goat.length; i++) {
-    const card = goat[i];
+  for (let i = 0; i < edison.length; i++) {
+    const card = edison[i];
     try {
       const cardInfo = await getCardInfo(card["ID"]);
       const cardIndex = allCollectionCards.findIndex(
