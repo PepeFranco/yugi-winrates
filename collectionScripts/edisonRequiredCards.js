@@ -27,7 +27,7 @@ const cardsNotInSD = collection.filter(
     !card["In Deck"].includes("Egyptian")
 );
 
-const allCollectionCards = cardsNotInSD.map((card) => ({
+const allCollectionCards = collection.map((card) => ({
   card: card["Name"],
   location: card["In Box"],
   code: card["Code"],
@@ -51,8 +51,8 @@ const mainFunction = async () => {
         cardsIOwn.push(allCollectionCards[cardIndex]);
         allCollectionCards.splice(cardIndex, 1);
       } else {
-        // console.log(`I do NOT own ${cardInfo["name"]}`);
-        console.log(`1 ${cardInfo["name"]}`);
+        console.log(`I do NOT own ${cardInfo["name"]}`);
+        // console.log(`1 ${cardInfo["name"]}`);
         cardsIMiss.push(cardInfo["name"]);
       }
     } catch (e) {}

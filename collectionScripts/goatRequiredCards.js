@@ -27,7 +27,7 @@ const cardsNotInSD = collection.filter(
     !card["In Deck"].includes("Egyptian")
 );
 
-const allCollectionCards = cardsNotInSD.map((card) => ({
+const allCollectionCards = collection.map((card) => ({
   card: card["Name"],
   location: card["In Box"],
   code: card["Code"],
