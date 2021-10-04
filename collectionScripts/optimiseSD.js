@@ -10,44 +10,49 @@ const structureDecks = _.sortBy(
 // console.log(structureDecks);
 
 const cardsThatCanBeMoved = [];
-const cardsFromSDs = collection.filter((c) =>
-  c["Set"].toLowerCase().includes("structure deck")
+const cardsInSDs = collection.filter((c) =>
+  c["In Deck"].toLowerCase().includes("structure deck")
 );
 
-// const cardsInCDDeck = collection.filter(
-//   (c) => c["In Deck"] === "Cyber Dragon Revolution Structure Deck"
-// );
+const collectionCopy = [...collection];
 
-// console.log({ cardsInCDDeck });
-
-cardsFromSDs.map((c) => {
+cardsInSDs.map((c) => {
   const cardIsInItsOwnDeck =
     c["In Deck"].toLowerCase() === c["Set"].toLowerCase();
   if (cardIsInItsOwnDeck) {
     return;
   }
-  const sdHasThisCardIndex = collection.findIndex(
-    (co) => co["Name"] === c["Name"] && co["Set"] === co["In Deck"]
+
+  const correctCardInCollectionIndex = collectionCopy.findIndex(
+    (co) =>
+      co["Name"] === c["Name"] &&
+      co["Set"] === c["In Deck"] &&
+      co["Set"] !== co["In Deck"]
   );
-  // if (c["Name"] === "Falchion Beta") {
-  //   const falchionBeta = collection.find(
-  //     (c1) => c1["Name"] === "Falchion Beta"
-  //   );
-  //   console.log({ falchionBeta });
-  //   console.log(c);
-  //   console.log({ sdHasThisCardIndex });
-  // }
-  if (sdHasThisCardIndex >= 0) {
-    return;
+  if (correctCardInCollectionIndex >= 0) {
+    const cardToMove = collectionCopy[correctCardInCollectionIndex];
+    cardsThatCanBeMoved.push(cardToMove);
+    collectionCopy.splice(correctCardInCollectionIndex, 1);
   }
-
-  cardsThatCanBeMoved.push(c);
 });
 
-_.sortBy(cardsThatCanBeMoved, (c) => c["In Box"]).map((c) => {
-  const str = `${c["Name"]} (${c["Code"]}) in ${c["In Box"]} ${
-    c["In Deck"] ? `(${c["In Deck"]})` : ""
-  } box could go in ${c["Set"]} \n`;
-  // console.log(str);
-  fs.appendFileSync("./optimisedSDMoves.txt", str);
-});
+const makeStringLength = (string, length) => {
+  if (string.length > length) return string;
+  const l = length - string.length;
+  return `${string}${new Array(l).join(" ")}`;
+};
+
+let str = "";
+_.sortBy(cardsThatCanBeMoved, (c) => `${c["In Box"]}-${c["In Deck"]}`).map(
+  (c) => {
+    const name = makeStringLength(c["Name"], 45);
+    const code = makeStringLength(` (${c["Code"]}) `, 15);
+    const box = makeStringLength(` in ${c["In Box"]}`, 30);
+    const deck = makeStringLength(`(${c["In Deck"] || ""})`, 50);
+    const newDeck = makeStringLength(`could go in deck ${c["Set"]}`, 0);
+    str += `${name}${code}${box}${deck}${newDeck}\n`;
+    // console.log(str);
+  }
+);
+
+fs.writeFileSync("./optimisedSDMoves.txt", str);

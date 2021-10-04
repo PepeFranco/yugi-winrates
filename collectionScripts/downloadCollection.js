@@ -10,7 +10,7 @@ const mainFunction = async () => {
     .then((collection) => {
       fs.writeFile(
         "./collectionScripts/collection.json",
-        JSON.stringify(collection),
+        JSON.stringify(collection, null, 3),
         (err) => {
           if (err) {
             console.error(err);

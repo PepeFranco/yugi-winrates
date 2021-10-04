@@ -1,84 +1,126 @@
-Cyber Dragon Nova (SDCR-EN038) in Legendary Hero Decks  box could go in Cyber Dragon Revolution Structure Deck 
-Cyber Twin Dragon (SDCR-EN037) in Legendary Hero Decks  box could go in Cyber Dragon Revolution Structure Deck 
-Elemental HERO Great Tornado (SDHS-EN045) in Legendary Hero Decks  box could go in HERO Strike Structure Deck 
-Elemental HERO Great Tornado (SDHS-EN045) in Legendary Hero Decks  box could go in HERO Strike Structure Deck 
-Elemental HERO Great Tornado (SDHS-EN045) in Legendary Hero Decks  box could go in HERO Strike Structure Deck 
-O - Oversoul (SDHS-EN031) in Legendary Hero Decks  box could go in HERO Strike Structure Deck 
-O - Oversoul (SDHS-EN031) in Legendary Hero Decks  box could go in HERO Strike Structure Deck 
-O - Oversoul (SDHS-EN031) in Legendary Hero Decks  box could go in HERO Strike Structure Deck 
-Alexandrite Dragon (SDBE-EN003) in Sticker (Realm of Light Structure Deck) box could go in Saga of Blue-Eyes White Dragon Structure Deck 
-Armored Cybern (SDCR-EN011) in Sticker (Machina Mayhem Structure Deck) box could go in Cyber Dragon Revolution Structure Deck 
-Beckoning Light (SDLS-EN036) in Sticker (Realm of Light Structure Deck) box could go in Lost Sanctuary Structure Deck 
-Big Bang Shot (SDDE-EN024) in Sticker (Warriors' Strike Structure Deck) box could go in The Dark Emperor Structure Deck 
-Blast Magician (SD6-EN014) in Sticker (Spellcaster's Command Structure Deck) box could go in Structure Deck: Spellcaster's Judgment 
-Blast Magician (SDSC-EN014) in Sticker (Structure Deck: Spellcaster's Judgment) box could go in Spellcaster's Command Structure Deck 
-Card Destruction (SDDL-EN030) in Sticker (Gates of the Underworld Structure Deck) box could go in Dragunity Legion Structure Deck 
-Card Destruction (SDGU-EN028) in Sticker (Zombie World Structure Deck) box could go in Gates of the Underworld Structure Deck 
-Ceasefire (SDMM-EN035) in Sticker (Structure Deck: Dragon's Roar) box could go in Machina Mayhem Structure Deck 
-Dimensional Prison (SDCR-EN033) in Sticker (Machina Mayhem Structure Deck) box could go in Cyber Dragon Revolution Structure Deck 
-Divine Sword - Phoenix Blade (SDWS-EN027) in Sticker (Structure Deck: Warrior's Triumph) box could go in Warriors' Strike Structure Deck 
-Dragon Lord Token (SR02-ENTKN) in Sticker (Rise of the True Dragons Structure Deck) box could go in Realm of Light Structure Deck 
-Dust Tornado (SD3-EN027) in Sticker (Structure Deck: Fury from the Deep) box could go in Structure Deck: Blaze of Destruction 
-Dust Tornado (SD4-EN026) in Sticker (Structure Deck: Blaze of Destruction) box could go in Structure Deck: Fury from the Deep 
-Dust Tornado (SDZW-EN033) in Sticker (Structure Deck: Lord of the Storm) box could go in Zombie World Structure Deck 
-Element Dragon (SD1-EN008) in Sticker (Structure Deck: Dragon's Roar) box could go in Structure Deck: Deluxe Edition 
-Fusion Sword Murasame Blade (SD5-EN026) in Sticker  box could go in Structure Deck: Warrior's Triumph 
-Future Samurai (SDWA-EN013) in Sticker (Warriors' Strike Structure Deck) box could go in Samurai Warlords Structure Deck 
-Future Samurai (SDWA-EN013) in Sticker (Warriors' Strike Structure Deck) box could go in Samurai Warlords Structure Deck 
-Giant Trunade (SDSC-EN024) in Sticker (Rise of the Dragon Lords Structure Deck) box could go in Spellcaster's Command Structure Deck 
-Lightning Vortex (SD5-EN030) in Sticker (Structure Deck: Spellcaster's Judgment) box could go in Structure Deck: Warrior's Triumph 
-Magical Stone Excavation (SDDC-EN030) in Sticker (Structure Deck: Marik (TCG)) box could go in Dragons Collide Structure Deck 
-Magical Stone Excavation (SDMA-EN027) in Sticker (Zombie World Structure Deck) box could go in Structure Deck: Marik (TCG) 
-Magical Stone Excavation (SDMA-EN027) in Sticker (Dragons Collide Structure Deck) box could go in Structure Deck: Marik (TCG) 
-Nobleman of Crossout (SD1-EN012) in Sticker (Structure Deck: Zombie Madness) box could go in Structure Deck: Deluxe Edition 
-Nobleman of Crossout (SD3-EN017) in Sticker (Structure Deck: Dragon's Roar) box could go in Structure Deck: Blaze of Destruction 
-Nobleman of Crossout (SDDE-EN020) in Sticker (Structure Deck: Dragon's Roar) box could go in The Dark Emperor Structure Deck 
-Nobleman of Crossout (SDDE-EN020) in Sticker (Structure Deck: Blaze of Destruction) box could go in The Dark Emperor Structure Deck 
-Premature Burial (SD3-EN018) in Sticker (Structure Deck: Fury from the Deep) box could go in Structure Deck: Blaze of Destruction 
-Premature Burial (SDRL-EN024) in Sticker (Structure Deck: Blaze of Destruction) box could go in Rise of the Dragon Lords Structure Deck 
-Premature Burial (SDRL-EN024) in Sticker (Structure Deck: Invincible Fortress) box could go in Rise of the Dragon Lords Structure Deck 
-Red-Eyes B. Chick (SDDC-EN007) in Sticker (Structure Deck: Dragon's Roar) box could go in Dragons Collide Structure Deck 
-Spell Shield Type-8 (SD3-EN030) in Sticker (Structure Deck: Fury from the Deep) box could go in Structure Deck: Blaze of Destruction 
-Spell Shield Type-8 (SD4-EN031) in Sticker (Structure Deck: Blaze of Destruction) box could go in Structure Deck: Fury from the Deep 
-Spell Shield Type-8 (SD4-EN031) in Sticker (Structure Deck: Spellcaster's Judgment) box could go in Structure Deck: Fury from the Deep 
-Spined Gillman (SDRE-EN009) in Sticker  box could go in Realm of the Sea Emperor Structure Deck 
-Amphibious Bugroth MK-3 (SD4-EN009) in White  box could go in Structure Deck: Fury from the Deep 
-Armed Dragon LV3 (SDDL-EN018) in White  box could go in Dragunity Legion Structure Deck 
-Atlantean Attack Squad (SDRE-EN006) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Atlantean Attack Squad (SDRE-EN006) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Atlantean Attack Squad (SDRE-EN006) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Black Stego (SD09-EN013) in White  box could go in Structure Deck: Dinosaur's Rage 
-Blaze Accelerator (SDOK-EN025) in White  box could go in Onslaught of the Fire Kings Structure Deck 
-Blaze Accelerator (SDOK-EN025) in White  box could go in Onslaught of the Fire Kings Structure Deck 
-Blaze Accelerator (SDOK-EN025) in White  box could go in Onslaught of the Fire Kings Structure Deck 
-Cunning of the Six Samurai (SDWA-EN027) in White  box could go in Samurai Warlords Structure Deck 
-Cunning of the Six Samurai (SDWA-EN027) in White  box could go in Samurai Warlords Structure Deck 
-D.D. Assailant (SDDE-EN017) in White  box could go in The Dark Emperor Structure Deck 
-D.D. Assailant (SDDE-EN017) in White  box could go in The Dark Emperor Structure Deck 
-Foolish Return (SDMA-EN026) in White  box could go in Structure Deck: Marik (TCG) 
-Grandmaster of the Six Samurai (SDWA-EN002) in White  box could go in Samurai Warlords Structure Deck 
-Grandmaster of the Six Samurai (SDWA-EN002) in White  box could go in Samurai Warlords Structure Deck 
-Gravekeeper's Descendant (SDMA-EN019) in White  box could go in Structure Deck: Marik (TCG) 
-Gravekeeper's Descendant (SDMA-EN019) in White  box could go in Structure Deck: Marik (TCG) 
-Great Shogun Shien (SDWA-EN009) in White  box could go in Samurai Warlords Structure Deck 
-Great Shogun Shien (SDWA-EN009) in White  box could go in Samurai Warlords Structure Deck 
-Hand of the Six Samurai (SDWA-EN015) in White  box could go in Samurai Warlords Structure Deck 
-Hand of the Six Samurai (SDWA-EN015) in White  box could go in Samurai Warlords Structure Deck 
-Laval Lancelord (SDOK-EN008) in White  box could go in Onslaught of the Fire Kings Structure Deck 
-Laval Lancelord (SDOK-EN008) in White  box could go in Onslaught of the Fire Kings Structure Deck 
-Laval Lancelord (SDOK-EN008) in White  box could go in Onslaught of the Fire Kings Structure Deck 
-Medusa Worm (SD7-EN014) in White  box could go in Structure Deck: Invincible Fortress 
-Mermaid Knight (SD4-EN011) in White  box could go in Structure Deck: Fury from the Deep 
-Mystical Beast of Serket (SDMA-EN037) in White  box could go in Structure Deck: Marik (TCG) 
-Poseidon Wave (SDRE-EN039) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Poseidon Wave (SDRE-EN039) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Poseidon Wave (SDRE-EN039) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Poseidra the Atlantean Dragon (SDRE-EN001) in White  box could go in Realm of the Sea Emperor Structure Deck 
-Red-Eyes B. Chick (SD1-PT007) in White  box could go in Structure Deck: Deluxe Edition 
-Shield & Sword (SD7-EN020) in White  box could go in Structure Deck: Invincible Fortress 
-Swing of Memories (SDWS-EN030) in White  box could go in Warriors' Strike Structure Deck 
-Swing of Memories (SDWS-EN030) in White  box could go in Warriors' Strike Structure Deck 
-Symbols of Duty (SDWS-EN029) in White  box could go in Warriors' Strike Structure Deck 
-Temple of the Kings (SDMA-EN038) in White  box could go in Structure Deck: Marik (TCG) 
-Temple of the Six (SDWA-EN031) in White  box could go in Samurai Warlords Structure Deck 
-Temple of the Six (SDWA-EN031) in White  box could go in Samurai Warlords Structure Deck 
+Summoner Monk                                (SDDC-EN017)  in Double box               (Crystal Beast)                                  could go in deck Dragons Collide Structure Deck
+Bottomless Trap Hole                         (SDDE-EN032)  in Double box               (Six Samurai)                                    could go in deck The Dark Emperor Structure Deck
+Mystical Space Typhoon                       (SD2-EN014)   in Double box               (Six Samurai)                                    could go in deck Structure Deck: Zombie Madness
+Reinforcement of the Army                    (SD5-EN024)   in Double box               (Six Samurai)                                    could go in deck Structure Deck: Warrior's Triumph
+Mystical Space Typhoon                       (SDWS-EN023)  in Duel Devastator Green    ()                                               could go in deck Warriors' Strike Structure Deck
+Mystical Space Typhoon                       (SD4-EN016)   in Duel Devastator Green    ()                                               could go in deck Structure Deck: Fury from the Deep
+Cyber Dragon Nova                            (SDCR-EN038)  in Legendary Hero Decks     ()                                               could go in deck Cyber Dragon Revolution Structure Deck
+Cyber Twin Dragon                            (SDCR-EN037)  in Legendary Hero Decks     ()                                               could go in deck Cyber Dragon Revolution Structure Deck
+Elemental HERO Great Tornado                 (SDHS-EN045)  in Legendary Hero Decks     ()                                               could go in deck HERO Strike Structure Deck
+O - Oversoul                                 (SDHS-EN031)  in Legendary Hero Decks     ()                                               could go in deck HERO Strike Structure Deck
+D.D.R. - Different Dimension Reincarnation   (SDDE-EN018)  in Sticker                  (Dragons Collide Structure Deck)                 could go in deck The Dark Emperor Structure Deck
+Flying Kamakiri #1                           (SD8-EN006)   in Sticker                  (Dragunity Legion Structure Deck)                could go in deck Structure Deck: Lord of the Storm
+Card Destruction                             (SDDL-EN030)  in Sticker                  (Gates of the Underworld Structure Deck)         could go in deck Dragunity Legion Structure Deck
+Mausoleum of the Emperor                     (SDRL-EN031)  in Sticker                  (Lost Sanctuary Structure Deck)                  could go in deck Rise of the Dragon Lords Structure Deck
+Torrential Tribute                           (SDDE-EN031)  in Sticker                  (Lost Sanctuary Structure Deck)                  could go in deck The Dark Emperor Structure Deck
+Armored Cybern                               (SDCR-EN011)  in Sticker                  (Machina Mayhem Structure Deck)                  could go in deck Cyber Dragon Revolution Structure Deck
+Dimensional Prison                           (SDCR-EN033)  in Sticker                  (Machina Mayhem Structure Deck)                  could go in deck Cyber Dragon Revolution Structure Deck
+Hand Destruction                             (SDOK-EN028)  in Sticker                  (Machina Mayhem Structure Deck)                  could go in deck Onslaught of the Fire Kings Structure Deck
+Heavy Mech Support Platform                  (SD10-EN011)  in Sticker                  (Machina Mayhem Structure Deck)                  could go in deck Structure Deck: Machine Re-Volt
+Machine Duplication                          (SD10-EN029)  in Sticker                  (Machina Mayhem Structure Deck)                  could go in deck Structure Deck: Machine Re-Volt
+Shrink                                       (SDZW-EN027)  in Sticker                  (Machina Mayhem Structure Deck)                  could go in deck Zombie World Structure Deck
+Alexandrite Dragon                           (SDBE-EN003)  in Sticker                  (Realm of Light Structure Deck)                  could go in deck Saga of Blue-Eyes White Dragon Structure Deck
+Foolish Burial                               (SDMA-EN026)  in Sticker                  (Realm of Light Structure Deck)                  could go in deck Structure Deck: Marik (TCG)
+Terraforming                                 (SDZW-EN025)  in Sticker                  (Realm of the Sea Emperor Structure Deck)        could go in deck Zombie World Structure Deck
+Brain Control                                (SD7-EN024)   in Sticker                  (Rise of the Dragon Lords Structure Deck)        could go in deck Structure Deck: Invincible Fortress
+Foolish Burial                               (SDDL-EN029)  in Sticker                  (Rise of the Dragon Lords Structure Deck)        could go in deck Dragunity Legion Structure Deck
+Giant Trunade                                (SDSC-EN024)  in Sticker                  (Rise of the Dragon Lords Structure Deck)        could go in deck Spellcaster's Command Structure Deck
+Herald of Creation                           (SDDC-EN019)  in Sticker                  (Rise of the Dragon Lords Structure Deck)        could go in deck Dragons Collide Structure Deck
+Call of the Haunted                          (SDRL-EN034)  in Sticker                  (Saga of Blue-Eyes White Dragon Structure Deck)  could go in deck Rise of the Dragon Lords Structure Deck
+Enemy Controller                             (SDSC-EN029)  in Sticker                  (Saga of Blue-Eyes White Dragon Structure Deck)  could go in deck Spellcaster's Command Structure Deck
+Blast Magician                               (SD6-EN014)   in Sticker                  (Spellcaster's Command Structure Deck)           could go in deck Structure Deck: Spellcaster's Judgment
+Dust Tornado                                 (SD4-EN026)   in Sticker                  (Structure Deck: Blaze of Destruction)           could go in deck Structure Deck: Fury from the Deep
+Mystical Space Typhoon                       (SDMA-EN020)  in Sticker                  (Structure Deck: Blaze of Destruction)           could go in deck Structure Deck: Marik (TCG)
+Premature Burial                             (SDRL-EN024)  in Sticker                  (Structure Deck: Blaze of Destruction)           could go in deck Rise of the Dragon Lords Structure Deck
+Reload                                       (SD6-EN025)   in Sticker                  (Structure Deck: Blaze of Destruction)           could go in deck Structure Deck: Spellcaster's Judgment
+Spell Shield Type-8                          (SD4-EN031)   in Sticker                  (Structure Deck: Blaze of Destruction)           could go in deck Structure Deck: Fury from the Deep
+UFO Turtle                                   (SDOK-EN021)  in Sticker                  (Structure Deck: Blaze of Destruction)           could go in deck Onslaught of the Fire Kings Structure Deck
+Heavy Storm                                  (SD8-EN022)   in Sticker                  (Structure Deck: Dinosaur's Rage)                could go in deck Structure Deck: Lord of the Storm
+Call of the Haunted                          (SDOK-EN039)  in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Onslaught of the Fire Kings Structure Deck
+Ceasefire                                    (SDMM-EN035)  in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Machina Mayhem Structure Deck
+Mystical Space Typhoon                       (SDDE-EN019)  in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck The Dark Emperor Structure Deck
+Nobleman of Crossout                         (SDDE-EN020)  in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck The Dark Emperor Structure Deck
+Nobleman of Crossout                         (SD3-EN017)   in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Structure Deck: Blaze of Destruction
+Reckless Greed                               (SD8-EN033)   in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Structure Deck: Lord of the Storm
+Red-Eyes B. Chick                            (SDDC-EN007)  in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Dragons Collide Structure Deck
+Snatch Steal                                 (SD3-EN014)   in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Structure Deck: Blaze of Destruction
+Stamping Destruction                         (SDDL-EN026)  in Sticker                  (Structure Deck: Dragon's Roar)                  could go in deck Dragunity Legion Structure Deck
+Creature Swap                                (SD2-EN020)   in Sticker                  (Structure Deck: Fury from the Deep)             could go in deck Structure Deck: Zombie Madness
+Dust Tornado                                 (SD3-EN027)   in Sticker                  (Structure Deck: Fury from the Deep)             could go in deck Structure Deck: Blaze of Destruction
+Premature Burial                             (SD3-EN018)   in Sticker                  (Structure Deck: Fury from the Deep)             could go in deck Structure Deck: Blaze of Destruction
+Reload                                       (SD2-EN023)   in Sticker                  (Structure Deck: Fury from the Deep)             could go in deck Structure Deck: Zombie Madness
+Spell Shield Type-8                          (SD3-EN030)   in Sticker                  (Structure Deck: Fury from the Deep)             could go in deck Structure Deck: Blaze of Destruction
+Brain Control                                (SDDE-EN027)  in Sticker                  (Structure Deck: Invincible Fortress)            could go in deck The Dark Emperor Structure Deck
+Dust Tornado                                 (SDZW-EN033)  in Sticker                  (Structure Deck: Lord of the Storm)              could go in deck Zombie World Structure Deck
+Reckless Greed                               (SD2-EN027)   in Sticker                  (Structure Deck: Lord of the Storm)              could go in deck Structure Deck: Zombie Madness
+Enemy Controller                             (SDDE-EN025)  in Sticker                  (Structure Deck: Machine Re-Volt)                could go in deck The Dark Emperor Structure Deck
+Mystical Space Typhoon                       (SD3-EN015)   in Sticker                  (Structure Deck: Machine Re-Volt)                could go in deck Structure Deck: Blaze of Destruction
+Yellow Gadget                                (SDMM-EN017)  in Sticker                  (Structure Deck: Machine Re-Volt)                could go in deck Machina Mayhem Structure Deck
+Foolish Burial                               (SDLI-EN029)  in Sticker                  (Structure Deck: Marik (TCG))                    could go in deck Realm of Light Structure Deck
+Magical Stone Excavation                     (SDDC-EN030)  in Sticker                  (Structure Deck: Marik (TCG))                    could go in deck Dragons Collide Structure Deck
+Blast Magician                               (SDSC-EN014)  in Sticker                  (Structure Deck: Spellcaster's Judgment)         could go in deck Spellcaster's Command Structure Deck
+Lightning Vortex                             (SD5-EN030)   in Sticker                  (Structure Deck: Spellcaster's Judgment)         could go in deck Structure Deck: Warrior's Triumph
+Skilled Dark Magician                        (SDSC-EN007)  in Sticker                  (Structure Deck: Spellcaster's Judgment)         could go in deck Spellcaster's Command Structure Deck
+Divine Sword - Phoenix Blade                 (SDWS-EN027)  in Sticker                  (Structure Deck: Warrior's Triumph)              could go in deck Warriors' Strike Structure Deck
+Reinforcement of the Army                    (SDWA-EN025)  in Sticker                  (Structure Deck: Warrior's Triumph)              could go in deck Samurai Warlords Structure Deck
+Creature Swap                                (SDOK-EN029)  in Sticker                  (Structure Deck: Zombie Madness)                 could go in deck Onslaught of the Fire Kings Structure Deck
+Reload                                       (SD3-EN023)   in Sticker                  (Structure Deck: Zombie Madness)                 could go in deck Structure Deck: Blaze of Destruction
+D.D.R. - Different Dimension Reincarnation   (SDDC-EN034)  in Sticker                  (The Dark Emperor Structure Deck)                could go in deck Dragons Collide Structure Deck
+Mystical Space Typhoon                       (SD7-EN017)   in Sticker                  (The Dark Emperor Structure Deck)                could go in deck Structure Deck: Invincible Fortress
+Sakuretsu Armor                              (SDRL-EN036)  in Sticker                  (The Dark Emperor Structure Deck)                could go in deck Rise of the Dragon Lords Structure Deck
+Torrential Tribute                           (SD4-EN030)   in Sticker                  (The Dark Emperor Structure Deck)                could go in deck Structure Deck: Fury from the Deep
+Big Bang Shot                                (SDDE-EN024)  in Sticker                  (Warriors' Strike Structure Deck)                could go in deck The Dark Emperor Structure Deck
+Future Samurai                               (SDWA-EN013)  in Sticker                  (Warriors' Strike Structure Deck)                could go in deck Samurai Warlords Structure Deck
+Mystical Space Typhoon                       (SD5-EN020)   in Sticker                  (Warriors' Strike Structure Deck)                could go in deck Structure Deck: Warrior's Triumph
+Card Destruction                             (SDGU-EN028)  in Sticker                  (Zombie World Structure Deck)                    could go in deck Gates of the Underworld Structure Deck
+Creature Swap                                (SD4-EN021)   in Sticker                  (Zombie World Structure Deck)                    could go in deck Structure Deck: Fury from the Deep
+Magical Stone Excavation                     (SDMA-EN027)  in Sticker                  (Zombie World Structure Deck)                    could go in deck Structure Deck: Marik (TCG)
+Pot of Avarice                               (SD10-EN030)  in Sticker                  (Zombie World Structure Deck)                    could go in deck Structure Deck: Machine Re-Volt
+Terraforming                                 (SDRE-EN025)  in Sticker                  (Zombie World Structure Deck)                    could go in deck Realm of the Sea Emperor Structure Deck
+Amphibious Bugroth MK-3                      (SD4-EN009)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+Armed Dragon LV3                             (SDDL-EN018)  in White                    ()                                               could go in deck Dragunity Legion Structure Deck
+Atlantean Attack Squad                       (SDRE-EN006)  in White                    ()                                               could go in deck Realm of the Sea Emperor Structure Deck
+Babycerasaurus                               (SD09-EN016)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
+Black Stego                                  (SD09-EN013)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
+Blaze Accelerator                            (SDOK-EN025)  in White                    ()                                               could go in deck Onslaught of the Fire Kings Structure Deck
+Book of Moon                                 (SDMA-EN023)  in White                    ()                                               could go in deck Structure Deck: Marik (TCG)
+Burden of the Mighty                         (SDWS-EN019)  in White                    ()                                               could go in deck Warriors' Strike Structure Deck
+Compulsory Evacuation Device                 (SD7-EN032)   in White                    ()                                               could go in deck Structure Deck: Invincible Fortress
+Compulsory Evacuation Device                 (SDBE-EN038)  in White                    ()                                               could go in deck Saga of Blue-Eyes White Dragon Structure Deck
+Cunning of the Six Samurai                   (SDWA-EN027)  in White                    ()                                               could go in deck Samurai Warlords Structure Deck
+D.D. Assailant                               (SDDE-EN017)  in White                    ()                                               could go in deck The Dark Emperor Structure Deck
+Exiled Force                                 (SDDE-EN009)  in White                    ()                                               could go in deck The Dark Emperor Structure Deck
+Fenrir                                       (SD4-EN008)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+Flying Kamakiri #1                           (SDDL-EN015)  in White                    ()                                               could go in deck Dragunity Legion Structure Deck
+Fossil Excavation                            (SD09-EN036)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
+Gilasaurus                                   (SD09-EN005)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
+Gilasaurus                                   (SD09-EN005)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
+Grandmaster of the Six Samurai               (SDWA-EN002)  in White                    ()                                               could go in deck Samurai Warlords Structure Deck
+Gravekeeper's Descendant                     (SDMA-EN019)  in White                    ()                                               could go in deck Structure Deck: Marik (TCG)
+Gravekeeper's Guard                          (SDMA-EN009)  in White                    ()                                               could go in deck Structure Deck: Marik (TCG)
+Gravity Bind                                 (SD4-EN028)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+Great Shogun Shien                           (SDWA-EN009)  in White                    ()                                               could go in deck Samurai Warlords Structure Deck
+Hand of the Six Samurai                      (SDWA-EN015)  in White                    ()                                               could go in deck Samurai Warlords Structure Deck
+Herald of Creation                           (SDRL-EN003)  in White                    ()                                               could go in deck Rise of the Dragon Lords Structure Deck
+Interdimensional Matter Transporter          (SDDC-EN039)  in White                    ()                                               could go in deck Dragons Collide Structure Deck
+Laval Lancelord                              (SDOK-EN008)  in White                    ()                                               could go in deck Onslaught of the Fire Kings Structure Deck
+Mausoleum of the Emperor                     (SDRL-EN031)  in White                    ()                                               could go in deck Rise of the Dragon Lords Structure Deck
+Medusa Worm                                  (SD7-EN014)   in White                    ()                                               could go in deck Structure Deck: Invincible Fortress
+Mermaid Knight                               (SD4-EN011)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+Mobius the Frost Monarch                     (SD4-EN012)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+Molten Zombie                                (SD3-EN007)   in White                    ()                                               could go in deck Structure Deck: Blaze of Destruction
+Mother Grizzly                               (SD4-EN005)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+Nightmare Wheel                              (SDOK-EN038)  in White                    ()                                               could go in deck Onslaught of the Fire Kings Structure Deck
+Poseidon Wave                                (SDRE-EN039)  in White                    ()                                               could go in deck Realm of the Sea Emperor Structure Deck
+Regenerating Mummy                           (SDZW-EN012)  in White                    ()                                               could go in deck Zombie World Structure Deck
+Ryu Kokki                                    (SDZW-EN011)  in White                    ()                                               could go in deck Zombie World Structure Deck
+Sabersaurus                                  (SD09-EN003)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
+Shield & Sword                               (SD7-EN020)   in White                    ()                                               could go in deck Structure Deck: Invincible Fortress
+Swing of Memories                            (SDWS-EN030)  in White                    ()                                               could go in deck Warriors' Strike Structure Deck
+Symbols of Duty                              (SDWS-EN029)  in White                    ()                                               could go in deck Warriors' Strike Structure Deck
+Temple of the Six                            (SDWA-EN031)  in White                    ()                                               could go in deck Samurai Warlords Structure Deck
+Tornado Wall                                 (SD4-EN029)   in White                    ()                                               could go in deck Structure Deck: Fury from the Deep
+UFO Turtle                                   (SD3-EN004)   in White                    ()                                               could go in deck Structure Deck: Blaze of Destruction
+UFO Turtle                                   (SD3-EN004)   in White                    ()                                               could go in deck Structure Deck: Blaze of Destruction
+UFO Turtle                                   (SD3-EN004)   in White                    ()                                               could go in deck Structure Deck: Blaze of Destruction
+Ultimate Tyranno                             (SD09-EN014)  in White                    ()                                               could go in deck Structure Deck: Dinosaur's Rage
