@@ -16,12 +16,18 @@ const cardsInSDs = collection.filter((c) =>
 
 const collectionCopy = [...collection];
 
+const correctCards = [];
+const incorrectCards = [];
+
 cardsInSDs.map((c) => {
   const cardIsInItsOwnDeck =
     c["In Deck"].toLowerCase() === c["Set"].toLowerCase();
   if (cardIsInItsOwnDeck) {
+    correctCards.push(c);
     return;
   }
+
+  incorrectCards.push(c);
 
   const correctCardInCollectionIndex = collectionCopy.findIndex(
     (co) =>
@@ -29,6 +35,7 @@ cardsInSDs.map((c) => {
       co["Set"] === c["In Deck"] &&
       co["Set"] !== co["In Deck"]
   );
+
   if (correctCardInCollectionIndex >= 0) {
     const cardToMove = collectionCopy[correctCardInCollectionIndex];
     cardsThatCanBeMoved.push(cardToMove);
@@ -43,16 +50,26 @@ const makeStringLength = (string, length) => {
 };
 
 let str = "";
-_.sortBy(cardsThatCanBeMoved, (c) => `${c["In Box"]}-${c["In Deck"]}`).map(
-  (c) => {
-    const name = makeStringLength(c["Name"], 45);
-    const code = makeStringLength(` (${c["Code"]}) `, 15);
-    const box = makeStringLength(` in ${c["In Box"]}`, 30);
-    const deck = makeStringLength(`(${c["In Deck"] || ""})`, 50);
-    const newDeck = makeStringLength(`could go in deck ${c["Set"]}`, 0);
-    str += `${name}${code}${box}${deck}${newDeck}\n`;
-    // console.log(str);
-  }
-);
+_.reverse(
+  _.sortBy(cardsThatCanBeMoved, (c) => `${c["In Box"]}-${c["In Deck"]}`)
+).map((c) => {
+  const name = makeStringLength(c["Name"], 45);
+  const code = makeStringLength(` (${c["Code"]}) `, 15);
+  const box = makeStringLength(` in ${c["In Box"]}`, 30);
+  const deck = makeStringLength(`(${c["In Deck"] || ""})`, 50);
+  const newDeck = makeStringLength(`could go in deck ${c["Set"]}`, 0);
+  str += `${name}${code}${box}${deck}${newDeck}\n`;
+  // console.log(str);
+});
 
 fs.writeFileSync("./optimisedSDMoves.txt", str);
+
+const correctLength = correctCards.length + cardsThatCanBeMoved.length;
+const incorrectLength = incorrectCards.length - cardsThatCanBeMoved.length;
+console.log("Correct cards", correctLength);
+console.log("Incorrect cards", incorrectLength);
+console.log(
+  "Percentage of cards in SD decks that are from the correct set: ",
+  (correctLength * 100) / (correctLength + incorrectLength),
+  "%"
+);
