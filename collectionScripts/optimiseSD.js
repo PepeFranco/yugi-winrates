@@ -53,9 +53,9 @@ let str = "";
 _.reverse(
   _.sortBy(cardsThatCanBeMoved, (c) => `${c["In Box"]}-${c["In Deck"]}`)
 ).map((c) => {
-  const name = makeStringLength(c["Name"], 45);
+  const name = makeStringLength(c["Name"], 30);
   const code = makeStringLength(` (${c["Code"]}) `, 15);
-  const box = makeStringLength(` in ${c["In Box"]}`, 30);
+  const box = makeStringLength(` in ${c["In Box"]}`, 15);
   const deck = makeStringLength(`(${c["In Deck"] || ""})`, 50);
   const newDeck = makeStringLength(`could go in deck ${c["Set"]}`, 0);
   str += `${name}${code}${box}${deck}${newDeck}\n`;
@@ -73,3 +73,17 @@ console.log(
   (correctLength * 100) / (correctLength + incorrectLength),
   "%"
 );
+
+let str2 = "";
+const sortedIncorrectCards = _.sortBy(
+  incorrectCards,
+  (c) => `${c["In Deck"]}-${c["Name"]}`
+);
+sortedIncorrectCards.map((c) => {
+  const name = makeStringLength(c["Name"], 40);
+  const code = makeStringLength(` (${c["Code"]}) `, 20);
+  const deck = makeStringLength(`(${c["In Deck"]})`, 50);
+  str2 += `${name}${code}${deck}\n`;
+});
+
+fs.writeFileSync("./sdCardsNotInFromCorrectSet.txt", str2);
