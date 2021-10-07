@@ -8,6 +8,20 @@ const mainFunction = async () => {
   csv()
     .fromString(result.data)
     .then((collection) => {
+      const headers = result.data
+        .split("\n")[0]
+        .split(",")
+        .map((h) => h.replace(/"/g, ""));
+      fs.writeFile(
+        "./collectionScripts/data/headers.json",
+        JSON.stringify({ headers }, null, 3),
+        (err) => {
+          if (err) {
+            console.error(err);
+            return;
+          }
+        }
+      );
       fs.writeFile(
         "./collectionScripts/data/collection.json",
         JSON.stringify(collection, null, 3),
