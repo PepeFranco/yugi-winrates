@@ -8,5 +8,9 @@
 
 // Collection
 // Give failed elements as json so it can be easily inputted back
+
 // Load all sets from backend at the beginning
-// Match set just with first part (before -) to accomodate cards in other languages
+// format make it generic
+// look up decks in ygo pro
+
+//upload collection
