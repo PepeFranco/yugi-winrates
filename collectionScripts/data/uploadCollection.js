@@ -17,5 +17,8 @@ const mainFunction = async () => {
   await collectionSheet.clear();
   await collectionSheet.setHeaderRow(headerValues);
   await collectionSheet.addRows(localCollection);
+  await collectionSheet.updateDimensionProperties("ROWS", {
+    pixelSize: 21,
+  });
 };
 mainFunction();
