@@ -40,6 +40,33 @@ const getGoatDeckLinks = async (page) => {
   return goatDeckLinks;
 };
 
+const getCardsByType = (htmlNode, cardType) => {
+  const allNodes = htmlNode.querySelectorAll(`.${cardType}`);
+  console.log(allNodes.length);
+  if (allNodes.length === 0) {
+    return [];
+  }
+  const cardsHtml = allNodes[1].innerHTML;
+  const cardsNode = parse(cardsHtml);
+  const cardsString = cardsNode.innerText;
+  let cards = [];
+  let card = "";
+  for (let i = 0; i < cardsString.length; i++) {
+    const char = cardsString.charAt(i);
+    const nextChar = i < cardsString.length ? cardsString.charAt(i + 1) : "";
+    if (char === "x" && Number(nextChar) > 0) {
+      const numberOfCopies = Number(nextChar);
+      const newCards = new Array(numberOfCopies).fill(card);
+      cards = cards.concat(newCards);
+      card = "";
+      i++;
+    } else {
+      card += char;
+    }
+  }
+  return cards;
+};
+
 const writeCardList = async (deckUrl) => {
   try {
     console.log("=============================");
@@ -47,54 +74,20 @@ const writeCardList = async (deckUrl) => {
     const result = await axios.get(deckUrl);
     const htmlNode = parse(result.data);
     const deckName = htmlNode.querySelector("title").innerHTML;
-    const links = htmlNode.querySelectorAll("a");
-    const deckNodes = _.uniqBy(
-      links.filter((l) => l.rawAttrs.includes("YGOPRO_Decks")),
-      (l) => l.rawAttrs
-    );
-    const deckLinks = deckNodes
-      .map((l) => l.rawAttrs)
-      .map((l) => l.replace("href=", "").replace(/"/g, "").split(" ")[0]);
-    const deckLink = deckLinks[0];
-    console.log("Getting deck contents from: ", deckLink);
-    const deckResult = await axios.get(deckLink).catch(() => {
-      throw new Error(`Could not get deck ${deckLink}`);
+    const cardTypes = ["monsters", "spells", "traps", "extra"];
+    let cards = [];
+    cardTypes.map((c) => {
+      cards = cards.concat(getCardsByType(htmlNode, c));
     });
-    const deckData = deckResult.data;
-    const cardIds = deckData.split("\n");
-    const mainCardIds = [];
-    for (let i = 0; i < cardIds.length; i++) {
-      const cardId = cardIds[i];
-      if (cardId !== "#main") {
-        if (cardId === "!side") {
-          i = cardIds.length;
-        } else {
-          mainCardIds.push(cardId);
-        }
-      }
-      i++;
-    }
-    const mainCardNames = [];
-    console.log("Getting cards");
-    for (let i = 0; i < mainCardIds.length; i++) {
-      const cardId = mainCardIds[i];
-      console.log("   Trying to get card ", cardId);
-      const cardName = await getCardName(cardId);
-      if (cardName) {
-        console.log("   Got card ", cardName);
-        mainCardNames.push(cardName);
-      }
-    }
-    console.log("Cards obtained, writing file");
     fs.writeFileSync(
       `./collectionScripts/formats/goatDeckLists/${deckName}.json`,
-      JSON.stringify(mainCardNames, 3, null),
+      JSON.stringify(cards, 2, null),
       (e) => {
         throw e;
       }
     );
   } catch (e) {
-    console.error("Could not write card list");
+    console.error("Could not write card list", e);
   }
 };
 
