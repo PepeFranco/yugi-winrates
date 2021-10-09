@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.720.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "csvtojson": "^2.0.10",
     "fast-average-color": "^6.0.2",
     "lodash": "^4.17.21",
