@@ -56,7 +56,7 @@ const getCardsByType = (htmlNode, cardType) => {
     const nextChar = i < cardsString.length ? cardsString.charAt(i + 1) : "";
     if (char === "x" && Number(nextChar) > 0) {
       const numberOfCopies = Number(nextChar);
-      const newCards = new Array(numberOfCopies).fill(card);
+      const newCards = new Array(numberOfCopies).fill(card.trim());
       cards = cards.concat(newCards);
       card = "";
       i++;
