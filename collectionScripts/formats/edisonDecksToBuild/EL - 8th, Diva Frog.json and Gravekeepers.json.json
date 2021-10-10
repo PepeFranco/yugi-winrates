@@ -1,0 +1,404 @@
+{
+   "deck1": {
+      "name": "EL - 8th, Diva Frog.json",
+      "cardsFound": [
+         {
+            "card": "Caius the Shadow Monarch",
+            "location": "Sticker",
+            "code": "SR01-SP004"
+         },
+         {
+            "card": "Caius the Shadow Monarch",
+            "location": "Sticker",
+            "code": "SDDE-EN001"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "location": "Sticker",
+            "code": "SDRE-EN010"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "location": "White",
+            "code": "RGBT-EN035"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "location": "White",
+            "code": "RGBT-EN035"
+         },
+         {
+            "card": "Dupe Frog",
+            "location": "Sticker",
+            "code": "SDFC-EN022"
+         },
+         {
+            "card": "Gorz the Emissary of Darkness",
+            "location": "White",
+            "code": "GLD5-EN024"
+         },
+         {
+            "card": "Mermaid Archer",
+            "location": "Sticker",
+            "code": "SDRE-EN011"
+         },
+         {
+            "card": "Tragoedia",
+            "location": "Sticker",
+            "code": "SR01-SP017"
+         },
+         {
+            "card": "Treeborn Frog",
+            "location": "White",
+            "code": "BP02-EN043"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Enemy Controller",
+            "location": "Kaiba Corp",
+            "code": "YSKR-EN035"
+         },
+         {
+            "card": "Enemy Controller",
+            "location": "Sticker",
+            "code": "SR01-SP031"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Moray of Greed",
+            "location": "White",
+            "code": "SOVR-EN058"
+         },
+         {
+            "card": "Moray of Greed",
+            "location": "White",
+            "code": "SOVR-EN058"
+         },
+         {
+            "card": "Moray of Greed",
+            "location": "Sticker",
+            "code": "SDRE-EN029"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "One for One",
+            "location": "Sticker",
+            "code": "SDSE-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SDSH-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SD10-EN030"
+         },
+         {
+            "card": "Salvage",
+            "location": "Sticker",
+            "code": "SDRE-EN030"
+         },
+         {
+            "card": "Salvage",
+            "location": "Sticker",
+            "code": "SDFC-EN032"
+         },
+         {
+            "card": "Salvage",
+            "location": "Sticker",
+            "code": "SD4-EN023"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Colossal Fighter",
+            "location": "Binder",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "location": "Double box",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Sea Dragon Lord Gishilnodon",
+            "location": "Sticker",
+            "code": "RGBT-SP044"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Caius the Shadow Monarch",
+         "Dupe Frog",
+         "Dupe Frog",
+         "Flip Flop Frog",
+         "Substitoad",
+         "Substitoad",
+         "Substitoad",
+         "Swap Frog",
+         "Swap Frog",
+         "Swap Frog",
+         "Treeborn Frog",
+         "Unifrog",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Chimeratech Fortress Dragon",
+         "Ancient Fairy Dragon",
+         "Armory Arm",
+         "Flamvell Uruquizas",
+         "Magical Android",
+         "Majestic Star Dragon",
+         "Thought Ruler Archfiend"
+      ],
+      "completed": 0.6
+   },
+   "deck2": {
+      "name": "Gravekeepers.json",
+      "cardsFound": [
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Sticker",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Sticker",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Sticker",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "Sticker",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "Sticker",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "Sticker",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "location": "Sticker",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "location": "Sticker",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Morphing Jar",
+            "location": "Sticker",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "location": "White",
+            "code": "SDJ-019"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB12"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB12"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Sticker",
+            "code": "SDWS-EN023"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Smashing Ground",
+            "location": "Sticker",
+            "code": "SDLS-SP026"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Double box",
+            "code": "SDZW-EN034"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Double box",
+            "code": "SDZW-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENC36"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Double box",
+            "code": "TU05-SP009"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Skill Drain",
+         "Skill Drain"
+      ],
+      "completed": 0.9069767441860465
+   }
+}

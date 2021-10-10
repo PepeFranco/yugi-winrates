@@ -1,5 +1,9 @@
 const collection = require("../data/collection.json");
-const collectionNames = collection.map((c) => c["Name"]);
+const allCollectionCards = collection.map((card) => ({
+  card: card["Name"],
+  location: card["In Box"],
+  code: card["Code"],
+}));
 const _ = require("lodash");
 
 const fs = require("fs");
@@ -15,15 +19,18 @@ decks.map((deck) => {
   const deckContents = require(`./edisonDeckLists/${deck}`);
   const cardsInDeck = deckContents.main.concat(deckContents.extra);
   console.log("============================");
-  // console.log(cardsInDeck);
+  console.log(deck);
   const cardsFound = [];
-  const collectionCopy = [...collectionNames];
+  const cardsNotFound = [];
+  const collectionCopy = [...allCollectionCards];
   cardsInDeck.map((c) => {
-    const cardIndex = collectionCopy.findIndex((cc) => cc === c);
+    const cardIndex = collectionCopy.findIndex((cc) => cc.card === c);
     // console.log(c, cardIndex);
     if (cardIndex > 0) {
+      cardsFound.push(collectionCopy[cardIndex]);
       collectionCopy.splice(cardIndex, 1);
-      cardsFound.push(c);
+    } else {
+      cardsNotFound.push(c);
     }
   });
   // console.log(
@@ -33,7 +40,8 @@ decks.map((deck) => {
   const deckPair = {
     deck1: {
       name: deck,
-      cards: cardsInDeck,
+      cardsFound,
+      cardsNotFound,
       completed: cardsFound.length / cardsInDeck.length,
     },
   };
@@ -42,43 +50,46 @@ decks.map((deck) => {
 
   const decksWithFoundCards = otherDecks.map((od) => {
     const cardsFoundForThisDeck = [];
+    const cardsNotFoundInThisDeck = [];
     const deckContents2 = require(`./edisonDeckLists/${od}`);
     const cardsInDeck2 = deckContents2.main.concat(deckContents2.extra);
     const collectionCopy2 = [...collectionCopy];
     cardsInDeck2.map((c) => {
-      const cardIndex = collectionCopy2.findIndex((cc) => cc === c);
+      const cardIndex = collectionCopy2.findIndex((cc) => cc.card === c);
       // console.log(c, cardIndex);
       if (cardIndex > 0) {
+        cardsFoundForThisDeck.push(collectionCopy2[cardIndex]);
         collectionCopy.splice(cardIndex, 1);
-        cardsFoundForThisDeck.push(c);
+      } else {
+        cardsNotFoundInThisDeck.push(c);
       }
     });
     return {
-      deck: od,
+      name: od,
       cardsFound: cardsFoundForThisDeck,
-      cardsNeeded: cardsInDeck2,
+      cardsNotFound: cardsNotFoundInThisDeck,
+      completed: cardsFoundForThisDeck.length / cardsInDeck2.length,
     };
   });
 
   const orderedOtherDecks = _.reverse(
-    _.orderBy(decksWithFoundCards, (d) => d.cardsFound.length)
+    _.orderBy(decksWithFoundCards, (d) => d.completed)
   );
   const highestOtherDeck = orderedOtherDecks[0];
 
   // console.log(
   //   `Deck 2 could be ${highestOtherDeck.deck}: ${highestOtherDeck.cardsFound.length}/${highestOtherDeck.cardsNeeded.length} cards`
   // );
-  deckPair.deck2 = {
-    name: highestOtherDeck.deck,
-    cards: highestOtherDeck.cardsNeeded,
-    completed:
-      highestOtherDeck.cardsFound.length / highestOtherDeck.cardsNeeded.length,
-  };
+  deckPair.deck2 = highestOtherDeck;
   deckPairs.push(deckPair);
 });
 
-console.log(
-  _.sortBy(deckPairs, (dp) => {
-    dp.deck1.completed + dp.deck2.completed;
-  })
-);
+_.sortBy(deckPairs, (dp) => {
+  dp.deck1.completed + dp.deck2.completed;
+}).map((dp) => {
+  fs.writeFileSync(
+    `./collectionScripts/formats/edisonDecksToBuild/${dp.deck1.name} and ${dp.deck2.name}.json`,
+    JSON.stringify(dp, null, 3),
+    () => {}
+  );
+});

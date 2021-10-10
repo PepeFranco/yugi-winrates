@@ -1,0 +1,507 @@
+{
+   "deck1": {
+      "name": "[E] Anti-Meta.json",
+      "cardsFound": [
+         {
+            "card": "Banisher of the Radiance",
+            "location": "Sticker",
+            "code": "SDDE-EN016"
+         },
+         {
+            "card": "Banisher of the Radiance",
+            "location": "Sticker",
+            "code": "SDDE-EN016"
+         },
+         {
+            "card": "Banisher of the Radiance",
+            "location": "White",
+            "code": "SDDE-EN016"
+         },
+         {
+            "card": "Beast King Barbaros",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN013"
+         },
+         {
+            "card": "Beast King Barbaros",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN017"
+         },
+         {
+            "card": "Cyber Dragon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN014"
+         },
+         {
+            "card": "Cyber Dragon",
+            "location": "Sticker",
+            "code": "YS12-EN011"
+         },
+         {
+            "card": "D.D. Survivor",
+            "location": "Sticker",
+            "code": "SDDE-EN014"
+         },
+         {
+            "card": "D.D. Survivor",
+            "location": "Sticker",
+            "code": "SDDE-EN014"
+         },
+         {
+            "card": "D.D. Survivor",
+            "location": "White",
+            "code": "SDDE-EN014"
+         },
+         {
+            "card": "Honest",
+            "location": "Sticker",
+            "code": "SR05-EN018"
+         },
+         {
+            "card": "Honest",
+            "location": "Sticker",
+            "code": "SDLS-EN020"
+         },
+         {
+            "card": "Kycoo the Ghost Destroyer",
+            "location": "Sticker",
+            "code": "SDDE-EN007"
+         },
+         {
+            "card": "Kycoo the Ghost Destroyer",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN006"
+         },
+         {
+            "card": "Kycoo the Ghost Destroyer",
+            "location": "Duel Devastator Green",
+            "code": "SBCB-EN006"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "location": "Binder",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "location": "Binder",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "location": "Binder",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Dimensional Fissure",
+            "location": "Sticker",
+            "code": "SDDE-EN028"
+         },
+         {
+            "card": "Dimensional Fissure",
+            "location": "Sticker",
+            "code": "SDDE-EN028"
+         },
+         {
+            "card": "Dimensional Fissure",
+            "location": "White",
+            "code": "SDDE-EN028"
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENC26"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Smashing Ground",
+            "location": "Sticker",
+            "code": "SDLS-SP026"
+         },
+         {
+            "card": "Smashing Ground",
+            "location": "Sticker",
+            "code": "SDGR-EN025"
+         },
+         {
+            "card": "Dark Bribe",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN038"
+         },
+         {
+            "card": "Dark Bribe",
+            "location": "Sticker",
+            "code": "SR05-EN036"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Gaia Knight, the Force of Earth",
+            "location": "White",
+            "code": "5DS3-EN041"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "location": "Double box",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Skill Drain",
+         "Skill Drain",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Ancient Fairy Dragon",
+         "Armory Arm",
+         "Magical Android"
+      ],
+      "completed": 0.8181818181818182
+   },
+   "deck2": {
+      "name": "[E] Crystal Beasts.json",
+      "cardsFound": [
+         {
+            "card": "Crystal Beast Amber Mammoth",
+            "location": "Double box",
+            "code": "DP07-EN005"
+         },
+         {
+            "card": "Crystal Beast Amber Mammoth",
+            "location": "Double box",
+            "code": "DP07-EN005"
+         },
+         {
+            "card": "Crystal Beast Amber Mammoth",
+            "location": "Double box",
+            "code": "DP07-EN005"
+         },
+         {
+            "card": "Crystal Beast Amethyst Cat",
+            "location": "White",
+            "code": "LCGX-EN156"
+         },
+         {
+            "card": "Crystal Beast Amethyst Cat",
+            "location": "White",
+            "code": "LCGX-EN156"
+         },
+         {
+            "card": "Crystal Beast Amethyst Cat",
+            "location": "White",
+            "code": "LCGX-EN156"
+         },
+         {
+            "card": "Crystal Beast Ruby Carbuncle",
+            "location": "Double box",
+            "code": "DP07-EN001"
+         },
+         {
+            "card": "Crystal Beast Ruby Carbuncle",
+            "location": "Double box",
+            "code": "DP07-EN001"
+         },
+         {
+            "card": "Crystal Beast Ruby Carbuncle",
+            "location": "Double box",
+            "code": "DP07-EN001"
+         },
+         {
+            "card": "Crystal Beast Sapphire Pegasus",
+            "location": "Binder",
+            "code": "RYMP-EN046"
+         },
+         {
+            "card": "Crystal Beast Sapphire Pegasus",
+            "location": "Binder",
+            "code": "RYMP-EN046"
+         },
+         {
+            "card": "Crystal Beast Sapphire Pegasus",
+            "location": "Binder",
+            "code": "RYMP-EN046"
+         },
+         {
+            "card": "Crystal Beast Topaz Tiger",
+            "location": "Double box",
+            "code": "DP07-EN004"
+         },
+         {
+            "card": "Crystal Beast Topaz Tiger",
+            "location": "Double box",
+            "code": "DP07-EN004"
+         },
+         {
+            "card": "Crystal Beast Topaz Tiger",
+            "location": "Double box",
+            "code": "DP07-EN004"
+         },
+         {
+            "card": "Dragon Queen of Tragic Endings",
+            "location": "Binder",
+            "code": "ABPF-EN014"
+         },
+         {
+            "card": "Dragon Queen of Tragic Endings",
+            "location": "Binder",
+            "code": "ABPF-EN014"
+         },
+         {
+            "card": "Summoner Monk",
+            "location": "Sticker",
+            "code": "SDHS-EN017"
+         },
+         {
+            "card": "X-Saber Airbellum",
+            "location": "Sticker",
+            "code": "SDMP-EN022"
+         },
+         {
+            "card": "X-Saber Airbellum",
+            "location": "Sticker",
+            "code": "SDMP-EN022"
+         },
+         {
+            "card": "X-Saber Airbellum",
+            "location": "Sticker",
+            "code": "SDMP-EN022"
+         },
+         {
+            "card": "Ancient City - Rainbow Ruins",
+            "location": "Double box",
+            "code": "DP07-EN017"
+         },
+         {
+            "card": "Ancient City - Rainbow Ruins",
+            "location": "Double box",
+            "code": "DP07-EN017"
+         },
+         {
+            "card": "Ancient City - Rainbow Ruins",
+            "location": "Double box",
+            "code": "DP07-EN017"
+         },
+         {
+            "card": "Crystal Abundance",
+            "location": "White",
+            "code": "FOTB-EN035"
+         },
+         {
+            "card": "Crystal Abundance",
+            "location": "White",
+            "code": "FOTB-EN035"
+         },
+         {
+            "card": "Crystal Beacon",
+            "location": "Double box",
+            "code": "FOTB-EN032"
+         },
+         {
+            "card": "Crystal Beacon",
+            "location": "Double box",
+            "code": "FOTB-EN032"
+         },
+         {
+            "card": "Crystal Blessing",
+            "location": "Double box",
+            "code": "FOTB-EN034"
+         },
+         {
+            "card": "Crystal Blessing",
+            "location": "Double box",
+            "code": "FOTB-EN034"
+         },
+         {
+            "card": "Crystal Blessing",
+            "location": "Double box",
+            "code": "FOTB-EN034"
+         },
+         {
+            "card": "Crystal Promise",
+            "location": "Double box",
+            "code": "DP07-EN016"
+         },
+         {
+            "card": "Crystal Release",
+            "location": "Double box",
+            "code": "RYMP-SP054"
+         },
+         {
+            "card": "Crystal Release",
+            "location": "Double box",
+            "code": "RYMP-SP054"
+         },
+         {
+            "card": "Crystal Tree",
+            "location": "Binder",
+            "code": "DP07-EN020"
+         },
+         {
+            "card": "Crystal Tree",
+            "location": "Binder",
+            "code": "DP07-EN020"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Sticker",
+            "code": "SDMA-EN020"
+         },
+         {
+            "card": "Rare Value",
+            "location": "Binder",
+            "code": "LCGX-EN164"
+         },
+         {
+            "card": "Rare Value",
+            "location": "Binder",
+            "code": "LCGX-EN164"
+         },
+         {
+            "card": "Rare Value",
+            "location": "Binder",
+            "code": "LCGX-EN164"
+         },
+         {
+            "card": "Needlebug Nest",
+            "location": "White",
+            "code": "TDGS-EN079"
+         },
+         {
+            "card": "Needlebug Nest",
+            "location": "White",
+            "code": "TDGS-EN079"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Battle City Box",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Binder",
+            "code": "H5SE-EN001"
+         },
+         {
+            "card": "Arcanite Magician",
+            "location": "Gold Sarcophagus Tin",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Arcanite Magician",
+            "location": "Gold Sarcophagus Tin",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Battle City Box",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "X-Saber Urbellum",
+            "location": "Binder",
+            "code": "HA01-EN025"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "location": "Sticker",
+            "code": "CT05-EN002"
+         }
+      ],
+      "cardsNotFound": [
+         "Rescue Cat",
+         "Magical Android",
+         "Goyo Guardian",
+         "Tempest Magician",
+         "Stardust Dragon",
+         "Stardust Dragon",
+         "Thought Ruler Archfiend",
+         "Mist Wurm",
+         "XX-Saber Gottoms"
+      ],
+      "completed": 0.8448275862068966
+   }
+}

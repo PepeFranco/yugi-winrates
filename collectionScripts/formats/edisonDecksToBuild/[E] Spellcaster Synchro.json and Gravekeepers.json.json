@@ -1,0 +1,428 @@
+{
+   "deck1": {
+      "name": "[E] Spellcaster Synchro.json",
+      "cardsFound": [
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Battle City Box",
+            "code": "YSYR-EN015"
+         },
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Sticker",
+            "code": "SDSC-EN011"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "SDDC-EN014"
+         },
+         {
+            "card": "Cyber Dragon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN014"
+         },
+         {
+            "card": "Cyber Dragon",
+            "location": "Sticker",
+            "code": "YS12-EN011"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "location": "Sticker",
+            "code": "SDRE-EN010"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "location": "White",
+            "code": "RGBT-EN035"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "location": "White",
+            "code": "RGBT-EN035"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "Sticker",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "White",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Junk Synchron",
+            "location": "Sticker",
+            "code": "SDSE-EN004"
+         },
+         {
+            "card": "Junk Synchron",
+            "location": "Sticker",
+            "code": "SDSE-EN004"
+         },
+         {
+            "card": "Kycoo the Ghost Destroyer",
+            "location": "Sticker",
+            "code": "SDDE-EN007"
+         },
+         {
+            "card": "Kycoo the Ghost Destroyer",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN006"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Forbidden Chalice",
+            "location": "Sticker",
+            "code": "SDPL-EN024"
+         },
+         {
+            "card": "Forbidden Chalice",
+            "location": "Legendary Hero Decks",
+            "code": "LEHD-ENB16"
+         },
+         {
+            "card": "Instant Fusion",
+            "location": "Sticker",
+            "code": "SDSH-EN027"
+         },
+         {
+            "card": "Instant Fusion",
+            "location": "Binder",
+            "code": "LCGX-EN095"
+         },
+         {
+            "card": "Magical Dimension",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN033"
+         },
+         {
+            "card": "Magical Dimension",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB21"
+         },
+         {
+            "card": "Mind Control",
+            "location": "Sticker",
+            "code": "SDCL-EN028"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Secret Village of the Spellcasters",
+            "location": "Sticker",
+            "code": "SDCH-EN022"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN042"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Arcanite Magician",
+            "location": "Gold Sarcophagus Tin",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "location": "Sticker",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Blackwing - Gale the Whirlwind",
+         "Oracle of the Sun",
+         "Oracle of the Sun",
+         "Instant Fusion",
+         "My Body as a Shield",
+         "My Body as a Shield",
+         "Secret Village of the Spellcasters",
+         "Chimeratech Fortress Dragon",
+         "Darkfire Dragon",
+         "Flame Ghost",
+         "Musician King",
+         "Musician King",
+         "Ancient Fairy Dragon",
+         "Arcanite Magician",
+         "Junk Archer"
+      ],
+      "completed": 0.7272727272727273
+   },
+   "deck2": {
+      "name": "Gravekeepers.json",
+      "cardsFound": [
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Binder",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Binder",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Binder",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "White",
+            "code": "LCYW-SP192"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "White",
+            "code": "LCYW-SP192"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "White",
+            "code": "LCYW-SP192"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "location": "Sticker",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "location": "Sticker",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "White",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "White",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "White",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Morphing Jar",
+            "location": "Sticker",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "location": "White",
+            "code": "SDJ-019"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB12"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB12"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Sticker",
+            "code": "SDSA-EN033"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Smashing Ground",
+            "location": "Sticker",
+            "code": "SDLS-SP026"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Sticker",
+            "code": "SDHS-EN038"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Sticker",
+            "code": "SDHS-EN038"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Gold Sarcophagus Tin",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Gold Sarcophagus Tin",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA37"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Double box",
+            "code": "TU05-SP009"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Skill Drain",
+         "Skill Drain",
+         "Solemn Judgment"
+      ],
+      "completed": 0.8837209302325582
+   }
+}

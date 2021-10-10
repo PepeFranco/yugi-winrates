@@ -39,7 +39,8 @@ console.log("Unique SD cards:    ", uniqueCardsInSD.length);
 console.log("Unique SD cards x2: ", uniqueCardsTimes2.length);
 console.log("Unique SD cards x3: ", uniqueCardsTimes3.length);
 
-const cardsIAlreadyOwn = [];
+const cardsIAlreadyOwnToComplete2Sets = [];
+const cardsIAlreadyOwnToComplete3Sets = [];
 
 allCollectionCards.map((cc) => {
   const cardIndex = uniqueCardsInSD.findIndex(
@@ -48,8 +49,6 @@ allCollectionCards.map((cc) => {
 
   if (cardIndex >= 0) {
     uniqueCardsInSD.splice(cardIndex, 1);
-
-    // console.log(`Removing ${cc.card} is in Structure deck x2 list`);
   }
 
   const cardIndex2 = uniqueCardsTimes2.findIndex(
@@ -57,8 +56,13 @@ allCollectionCards.map((cc) => {
   );
 
   if (cardIndex2 >= 0) {
+    if (cc.location.toLowerCase() !== "sticker") {
+      cardsIAlreadyOwnToComplete2Sets.push({
+        ...cc,
+        deck: uniqueCardsTimes2[cardIndex2].deck,
+      });
+    }
     uniqueCardsTimes2.splice(cardIndex2, 1);
-    // console.log(`Removing ${cc.card} is in Structure deck x2 list`);
   }
 
   const cardIndex3 = uniqueCardsTimes3.findIndex(
@@ -66,19 +70,29 @@ allCollectionCards.map((cc) => {
   );
 
   if (cardIndex3 >= 0) {
-    uniqueCardsTimes3.splice(cardIndex3, 1);
     if (cc.location.toLowerCase() !== "sticker") {
-      cardsIAlreadyOwn.push(cc);
+      cardsIAlreadyOwnToComplete3Sets.push({
+        ...cc,
+        deck: uniqueCardsTimes3[cardIndex3].deck,
+      });
     }
-    // console.log(`Removing ${cc.card} is in Structure deck x3 list`);
+    uniqueCardsTimes3.splice(cardIndex3, 1);
   }
-  // console.log(cc.card, cardBelongsInSD);
 });
 
 console.log("=====After removal=======");
 console.log("Unique SD cards:    ", uniqueCardsInSD.length);
 console.log("Unique SD cards x2: ", uniqueCardsTimes2.length);
 console.log("Unique SD cards x3: ", uniqueCardsTimes3.length);
+
+console.log(
+  "Cards I own to complete x2 sets: ",
+  cardsIAlreadyOwnToComplete2Sets.length
+);
+console.log(
+  "Cards I own to complete x3 sets: ",
+  cardsIAlreadyOwnToComplete3Sets.length
+);
 
 const cardsPerDeck2 = _.sortBy(
   structureDecks.map((sd) => {
@@ -96,18 +110,10 @@ const cardsPerDeck3 = _.sortBy(
   (cd) => cd.cards
 );
 
-console.log(cardsPerDeck2);
-console.log(cardsPerDeck3);
+// console.log(cardsPerDeck2);
+// console.log(cardsPerDeck3);
 
-const cardsToString = (cardArray) =>
-  cardArray.reduce((prev, curr) => {
-    if (typeof prev === "string") {
-      return `${prev}\n1 ${curr.card}`;
-    }
-    return `1 ${prev.card}\n1 ${curr.card}`;
-  });
-
-const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort((a, b) => {
+const sortPerMissingCards = (a, b) => {
   const cardsNeededInDeckA = cardsPerDeck2.find((d) => d.deck === a.deck).cards;
   const cardsNeededInDeckB = cardsPerDeck2.find((d) => d.deck === b.deck).cards;
   if (cardsNeededInDeckA < cardsNeededInDeckB) {
@@ -123,46 +129,47 @@ const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort((a, b) => {
     return 1;
   }
   return 0;
-});
+};
+
+const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort(sortPerMissingCards);
 
 fs.writeFile(
-  "./collectionScripts/structureDecks/cardsNeededToCompleteSDTimes2.json",
-  JSON.stringify(sortedUniqueCardsTimes2,null,3),
+  "./collectionScripts/structureDecks/cardsNeededToComplete2Sets.json",
+  JSON.stringify(sortedUniqueCardsTimes2, null, 3),
   function (err) {
     console.error(err);
   }
 );
 
-const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort((a, b) => {
-  const cardsNeededInDeckA = cardsPerDeck3.find((d) => d.deck === a.deck).cards;
-  const cardsNeededInDeckB = cardsPerDeck3.find((d) => d.deck === b.deck).cards;
-  if (cardsNeededInDeckA < cardsNeededInDeckB) {
-    return -1;
-  }
-  if (cardsNeededInDeckA > cardsNeededInDeckB) {
-    return 1;
-  }
-  if (a.card < b.card) {
-    return -1;
-  }
-  if (a.card > b.card) {
-    return 1;
-  }
-  return 0;
-});
+const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort(sortPerMissingCards);
 
 fs.writeFile(
-  "./collectionScripts/structureDecks/cardsNeededToCompleteSDTimes3.json",
+  "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",
   JSON.stringify(sortedUniqueCardsTimes3, null, 3),
   function (err) {
     console.error(err);
   }
 );
 
-console.log(cardsIAlreadyOwn.length);
 fs.writeFile(
-  "./collectionScripts/structureDecks/cardsIOwnForStructureDecks.json",
-  JSON.stringify(cardsIAlreadyOwn, null, 3),
+  "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete2Sets.json",
+  JSON.stringify(
+    cardsIAlreadyOwnToComplete2Sets.sort(sortPerMissingCards),
+    null,
+    3
+  ),
+  function (err) {
+    console.error(err);
+  }
+);
+
+fs.writeFile(
+  "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
+  JSON.stringify(
+    cardsIAlreadyOwnToComplete3Sets.sort(sortPerMissingCards),
+    null,
+    3
+  ),
   function (err) {
     console.error(err);
   }

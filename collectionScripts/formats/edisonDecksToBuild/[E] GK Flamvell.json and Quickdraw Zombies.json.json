@@ -1,0 +1,500 @@
+{
+   "deck1": {
+      "name": "[E] GK Flamvell.json",
+      "cardsFound": [
+         {
+            "card": "Flamvell Firedog",
+            "location": "Sticker",
+            "code": "SDSB-EN016"
+         },
+         {
+            "card": "Flamvell Firedog",
+            "location": "Sticker",
+            "code": "SDOK-EN009"
+         },
+         {
+            "card": "Flamvell Firedog",
+            "location": "White",
+            "code": "SDOK-EN009"
+         },
+         {
+            "card": "Flamvell Magician",
+            "location": "White",
+            "code": "HA01-EN008"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Binder",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "Sticker",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "location": "White",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "location": "Sticker",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "White",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Sangan",
+            "location": "Sticker",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Summoner Monk",
+            "location": "Sticker",
+            "code": "SR08-EN017"
+         },
+         {
+            "card": "Allure of Darkness",
+            "location": "Duel Devastator Green",
+            "code": "SS05-ENA26"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN027"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Forbidden Chalice",
+            "location": "Sticker",
+            "code": "SDPL-EN024"
+         },
+         {
+            "card": "Forbidden Chalice",
+            "location": "Legendary Hero Decks",
+            "code": "LEHD-ENB16"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB12"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "location": "Duel Devastator Yellow",
+            "code": "SS01-ENB12"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Legendary Hero Decks",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Sticker",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Rekindling",
+            "location": "Sticker",
+            "code": "SDOK-EN024"
+         },
+         {
+            "card": "Rekindling",
+            "location": "White",
+            "code": "SDOK-EN024"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Royal Tribute",
+            "location": "Binder",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN038"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "White",
+            "code": "WIRA-EN056"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "location": "White",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Arcanite Magician",
+            "location": "Gold Sarcophagus Tin",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Colossal Fighter",
+            "location": "Binder",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "location": "Double box",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "location": "Sticker",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         }
+      ],
+      "cardsNotFound": [
+         "Blackwing - Gale the Whirlwind",
+         "Flamvell Magician",
+         "Flamvell Magician",
+         "Chimeratech Fortress Dragon",
+         "Blackwing Armor Master",
+         "Colossal Fighter",
+         "Tempest Magician",
+         "Thought Ruler Archfiend"
+      ],
+      "completed": 0.8545454545454545
+   },
+   "deck2": {
+      "name": "Quickdraw Zombies.json",
+      "cardsFound": [
+         {
+            "card": "Dandylion",
+            "location": "White",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Dandylion",
+            "location": "White",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Debris Dragon",
+            "location": "White",
+            "code": "CRMs-SP002"
+         },
+         {
+            "card": "Debris Dragon",
+            "location": "White",
+            "code": "CRMs-SP002"
+         },
+         {
+            "card": "Goblin Zombie",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN016"
+         },
+         {
+            "card": "Goblin Zombie",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN016"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "location": "Binder",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "location": "Binder",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Mezuki",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN012"
+         },
+         {
+            "card": "Pyramid Turtle",
+            "location": "Sticker",
+            "code": "SR07-EN015"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Sangan",
+            "location": "White",
+            "code": "SDJ-019"
+         },
+         {
+            "card": "Zombie Master",
+            "location": "Sticker",
+            "code": "SR07-EN010"
+         },
+         {
+            "card": "Zombie Master",
+            "location": "Sticker",
+            "code": "SR07-EN010"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Sticker",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Foolish Burial",
+            "location": "Sticker",
+            "code": "SDPD-EN027"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "SD8-EN022"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Sticker",
+            "code": "SDWS-EN023"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SDSH-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SDSH-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SDSH-EN031"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Sticker",
+            "code": "SDHS-EN038"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Sticker",
+            "code": "SDHS-EN038"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Sticker",
+            "code": "YS12-EN036"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dust Tornado",
+            "location": "Sticker",
+            "code": "YS11-EN033"
+         },
+         {
+            "card": "Dust Tornado",
+            "location": "Sticker",
+            "code": "YS11-EN033"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA37"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Double box",
+            "code": "TU05-SP009"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Battle City Box",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Binder",
+            "code": "H5SE-EN001"
+         },
+         {
+            "card": "Drill Warrior",
+            "location": "White",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Drill Warrior",
+            "location": "White",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Turbo Warrior",
+            "location": "Binder",
+            "code": "CSOC-EN038"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Battle City Box",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         }
+      ],
+      "cardsNotFound": [
+         "Chaos Sorcerer",
+         "Plaguespreader Zombie",
+         "Solemn Judgment",
+         "Iron Chain Dragon",
+         "Iron Chain Dragon",
+         "Ancient Fairy Dragon",
+         "Junk Archer",
+         "Nitro Warrior",
+         "Red Dragon Archfiend"
+      ],
+      "completed": 0.8363636363636363
+   }
+}
