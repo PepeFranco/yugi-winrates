@@ -1,0 +1,452 @@
+{
+   "deck1": {
+      "name": "[E] Morphtronics.json",
+      "cardsFound": [
+         {
+            "card": "Morphtronic Boarden",
+            "location": "White",
+            "code": "CRMS-EN017"
+         },
+         {
+            "card": "Morphtronic Boarden",
+            "location": "White",
+            "code": "CRMS-EN017"
+         },
+         {
+            "card": "Morphtronic Boarden",
+            "location": "White",
+            "code": "CRMS-EN017"
+         },
+         {
+            "card": "Morphtronic Boomboxen",
+            "location": "White",
+            "code": "CSOC-EN009"
+         },
+         {
+            "card": "Morphtronic Slingen",
+            "location": "White",
+            "code": "CRMS-EN018"
+         },
+         {
+            "card": "Sangan",
+            "location": "Sticker",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Instant Fusion",
+            "location": "Sticker",
+            "code": "SDSH-EN027"
+         },
+         {
+            "card": "Instant Fusion",
+            "location": "Binder",
+            "code": "LCGX-EN095"
+         },
+         {
+            "card": "Machine Duplication",
+            "location": "Sticker",
+            "code": "SR03-EN029"
+         },
+         {
+            "card": "Machine Duplication",
+            "location": "Sticker",
+            "code": "SD10-EN029"
+         },
+         {
+            "card": "Machine Duplication",
+            "location": "Sticker",
+            "code": "RDS-EN041"
+         },
+         {
+            "card": "Mind Control",
+            "location": "Sticker",
+            "code": "SDCL-EN028"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "One for One",
+            "location": "Sticker",
+            "code": "SDSE-EN031"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN038"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "White",
+            "code": "WIRA-EN056"
+         },
+         {
+            "card": "Dark Bribe",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN038"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "location": "White",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Flame Swordsman",
+            "location": "Duel Devastator Green",
+            "code": "SS02-ENB20"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Colossal Fighter",
+            "location": "Binder",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "location": "Double box",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Morphtronic Boomboxen",
+         "Morphtronic Celfon",
+         "Morphtronic Celfon",
+         "Morphtronic Celfon",
+         "Morphtronic Radion",
+         "Morphtronic Radion",
+         "Morphtronic Radion",
+         "Morphtronic Remoten",
+         "Morphtronic Remoten",
+         "Morphtronic Remoten",
+         "Morphtronic Scopen",
+         "Morphtronic Scopen",
+         "Morphtronic Bind",
+         "Morphtronic Bind",
+         "Morphtronic Bind",
+         "Chimeratech Fortress Dragon",
+         "Reaper on the Nightmare",
+         "Ancient Fairy Dragon",
+         "Armory Arm",
+         "Dark End Dragon",
+         "Thought Ruler Archfiend",
+         "XX-Saber Gottoms"
+      ],
+      "completed": 60
+   },
+   "deck2": {
+      "name": "Quickdraw Zombies.json",
+      "cardsFound": [
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "SDDC-EN014"
+         },
+         {
+            "card": "Dandylion",
+            "location": "Sticker",
+            "code": "SR01-SP018"
+         },
+         {
+            "card": "Dandylion",
+            "location": "White",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Debris Dragon",
+            "location": "Sticker",
+            "code": "SDCL-EN016"
+         },
+         {
+            "card": "Debris Dragon",
+            "location": "White",
+            "code": "DP09-EN004"
+         },
+         {
+            "card": "Goblin Zombie",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN016"
+         },
+         {
+            "card": "Goblin Zombie",
+            "location": "Sticker",
+            "code": "SR07-EN016"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "location": "Binder",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "location": "Binder",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Mezuki",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN012"
+         },
+         {
+            "card": "Plaguespreader Zombie",
+            "location": "Sticker",
+            "code": "SDSE-EN021"
+         },
+         {
+            "card": "Pyramid Turtle",
+            "location": "Sticker",
+            "code": "SR07-EN015"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN018"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Sangan",
+            "location": "White",
+            "code": "SDJ-019"
+         },
+         {
+            "card": "Zombie Master",
+            "location": "Sticker",
+            "code": "SR07-EN010"
+         },
+         {
+            "card": "Zombie Master",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN010"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Sticker",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Foolish Burial",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN029"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSD-EN027"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Legendary Hero Decks",
+            "code": "YSKR-EN032"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SDSH-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SD10-EN030"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Double box",
+            "code": "SDZW-EN034"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Sticker",
+            "code": "SDZW-EN034"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN042"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Gold Sarcophagus Tin",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dust Tornado",
+            "location": "Sticker",
+            "code": "YSD-EN035"
+         },
+         {
+            "card": "Dust Tornado",
+            "location": "Sticker",
+            "code": "YS12-EN033"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN036"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Battle City Box",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Binder",
+            "code": "H5SE-EN001"
+         },
+         {
+            "card": "Drill Warrior",
+            "location": "Binder",
+            "code": "DREV-ENSE1"
+         },
+         {
+            "card": "Drill Warrior",
+            "location": "White",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Turbo Warrior",
+            "location": "Binder",
+            "code": "CSOC-EN038"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Battle City Box",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Nitro Warrior",
+            "location": "Binder",
+            "code": "TDGS-EN039"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "location": "Sticker",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         }
+      ],
+      "cardsNotFound": [
+         "Solemn Judgment",
+         "Starlight Road",
+         "Iron Chain Dragon",
+         "Iron Chain Dragon",
+         "Ancient Fairy Dragon",
+         "Junk Archer",
+         "Stardust Dragon"
+      ],
+      "completed": 87.27272727272727
+   }
+}

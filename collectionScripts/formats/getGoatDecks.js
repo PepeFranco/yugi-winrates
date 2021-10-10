@@ -79,13 +79,15 @@ const writeCardList = async (deckUrl) => {
     cardTypes.map((c) => {
       cards = cards.concat(getCardsByType(htmlNode, c));
     });
-    fs.writeFileSync(
-      `./collectionScripts/formats/goatDeckLists/${deckName}.json`,
-      JSON.stringify(cards, 2, null),
-      (e) => {
-        throw e;
-      }
-    );
+    if (cards.length) {
+      fs.writeFileSync(
+        `./collectionScripts/formats/goatDeckLists/${deckName}.json`,
+        JSON.stringify(cards, 2, null),
+        (e) => {
+          throw e;
+        }
+      );
+    }
   } catch (e) {
     console.error("Could not write card list", e);
   }

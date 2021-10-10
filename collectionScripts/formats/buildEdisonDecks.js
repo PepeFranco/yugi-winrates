@@ -24,7 +24,9 @@ decks.map((deck) => {
   const cardsNotFound = [];
   const collectionCopy = [...allCollectionCards];
   cardsInDeck.map((c) => {
-    const cardIndex = collectionCopy.findIndex((cc) => cc.card === c);
+    const cardIndex = collectionCopy.findIndex(
+      (cc) => cc.card.toLowerCase() === c.toLowerCase()
+    );
     // console.log(c, cardIndex);
     if (cardIndex > 0) {
       cardsFound.push(collectionCopy[cardIndex]);
@@ -42,7 +44,7 @@ decks.map((deck) => {
       name: deck,
       cardsFound,
       cardsNotFound,
-      completed: cardsFound.length / cardsInDeck.length,
+      completed: (cardsFound.length / cardsInDeck.length) * 100,
     },
   };
 
@@ -55,11 +57,13 @@ decks.map((deck) => {
     const cardsInDeck2 = deckContents2.main.concat(deckContents2.extra);
     const collectionCopy2 = [...collectionCopy];
     cardsInDeck2.map((c) => {
-      const cardIndex = collectionCopy2.findIndex((cc) => cc.card === c);
+      const cardIndex = collectionCopy2.findIndex(
+        (cc) => cc.card.toLowerCase() === c.toLowerCase()
+      );
       // console.log(c, cardIndex);
       if (cardIndex > 0) {
         cardsFoundForThisDeck.push(collectionCopy2[cardIndex]);
-        collectionCopy.splice(cardIndex, 1);
+        collectionCopy2.splice(cardIndex, 1);
       } else {
         cardsNotFoundInThisDeck.push(c);
       }
@@ -68,12 +72,12 @@ decks.map((deck) => {
       name: od,
       cardsFound: cardsFoundForThisDeck,
       cardsNotFound: cardsNotFoundInThisDeck,
-      completed: cardsFoundForThisDeck.length / cardsInDeck2.length,
+      completed: (cardsFoundForThisDeck.length / cardsInDeck2.length) * 100,
     };
   });
 
   const orderedOtherDecks = _.reverse(
-    _.orderBy(decksWithFoundCards, (d) => d.completed)
+    _.sortBy(decksWithFoundCards, (d) => d.completed)
   );
   const highestOtherDeck = orderedOtherDecks[0];
 
@@ -84,11 +88,14 @@ decks.map((deck) => {
   deckPairs.push(deckPair);
 });
 
-_.sortBy(deckPairs, (dp) => {
-  dp.deck1.completed + dp.deck2.completed;
-}).map((dp) => {
+_.reverse(
+  _.sortBy(deckPairs, (dp) => {
+    return dp.deck1.completed + dp.deck2.completed;
+  })
+).map((dp, index) => {
+  console.log(dp.deck1.completed + dp.deck2.completed);
   fs.writeFileSync(
-    `./collectionScripts/formats/edisonDecksToBuild/${dp.deck1.name} and ${dp.deck2.name}.json`,
+    `./collectionScripts/formats/edisonDecksToBuild/${index} ${dp.deck1.name} and ${dp.deck2.name}.json`,
     JSON.stringify(dp, null, 3),
     () => {}
   );

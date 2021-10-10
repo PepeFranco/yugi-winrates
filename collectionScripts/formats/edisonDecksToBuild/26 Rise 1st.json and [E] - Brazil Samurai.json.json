@@ -1,0 +1,450 @@
+{
+   "deck1": {
+      "name": "Rise 1st.json",
+      "cardsFound": [
+         {
+            "card": "Card Trooper",
+            "location": "Sticker",
+            "code": "SR03-EN015"
+         },
+         {
+            "card": "Celestia, Lightsworn Angel",
+            "location": "Sticker",
+            "code": "SDLI-EN006"
+         },
+         {
+            "card": "Celestia, Lightsworn Angel",
+            "location": "White",
+            "code": "SDLI-EN006"
+         },
+         {
+            "card": "Ehren, Lightsworn Monk",
+            "location": "Sticker",
+            "code": "SR02-EN021"
+         },
+         {
+            "card": "Garoth, Lightsworn Warrior",
+            "location": "Sticker",
+            "code": "SDLI-EN009"
+         },
+         {
+            "card": "Honest",
+            "location": "Sticker",
+            "code": "SR05-EN018"
+         },
+         {
+            "card": "Honest",
+            "location": "Sticker",
+            "code": "SDLS-EN020"
+         },
+         {
+            "card": "Jain, Lightsworn Paladin",
+            "location": "Sticker",
+            "code": "SR02-EN020"
+         },
+         {
+            "card": "Jain, Lightsworn Paladin",
+            "location": "Sticker",
+            "code": "SDLI-EN007"
+         },
+         {
+            "card": "Judgment Dragon",
+            "location": "Sticker",
+            "code": "SDLI-EN004"
+         },
+         {
+            "card": "Lumina, Lightsworn Summoner",
+            "location": "Sticker",
+            "code": "SDLI-EN012"
+         },
+         {
+            "card": "Lyla, Lightsworn Sorceress",
+            "location": "Sticker",
+            "code": "SDMP-EN016"
+         },
+         {
+            "card": "Lyla, Lightsworn Sorceress",
+            "location": "Sticker",
+            "code": "SDLI-EN008"
+         },
+         {
+            "card": "Necro Gardna",
+            "location": "Sticker",
+            "code": "PGLD-EN063"
+         },
+         {
+            "card": "Plaguespreader Zombie",
+            "location": "Sticker",
+            "code": "SDSE-EN021"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN018"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Tragoedia",
+            "location": "Sticker",
+            "code": "SR01-SP017"
+         },
+         {
+            "card": "Wulf, Lightsworn Beast",
+            "location": "Sticker",
+            "code": "SDLI-EN010"
+         },
+         {
+            "card": "Card Destruction",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB27"
+         },
+         {
+            "card": "Charge of the Light Brigade",
+            "location": "Sticker",
+            "code": "SR02-EN033"
+         },
+         {
+            "card": "Cold Wave",
+            "location": "Sticker",
+            "code": "SDZW-EN019"
+         },
+         {
+            "card": "Foolish Burial",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN029"
+         },
+         {
+            "card": "Giant Trunade",
+            "location": "Sticker",
+            "code": "SDSC-EN024"
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENC26"
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "location": "Sticker",
+            "code": "SDCL-EN027"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Monster Reincarnation",
+            "location": "Sticker",
+            "code": "YS14-EN028"
+         },
+         {
+            "card": "Solar Recharge",
+            "location": "Sticker",
+            "code": "PGLD-EN046"
+         },
+         {
+            "card": "Beckoning Light",
+            "location": "Sticker",
+            "code": "SDLS-EN036"
+         },
+         {
+            "card": "Beckoning Light",
+            "location": "Sticker",
+            "code": "DR2-EN165"
+         },
+         {
+            "card": "Threatening Roar",
+            "location": "Legendary Hero Decks",
+            "code": "YSKR-EN046"
+         },
+         {
+            "card": "Threatening Roar",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN037"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Arcanite Magician",
+            "location": "Gold Sarcophagus Tin",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Colossal Fighter",
+            "location": "Binder",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "location": "Double box",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "location": "Sticker",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         }
+      ],
+      "cardsNotFound": [
+         "Aurkus, Lightsworn Druid",
+         "Judgment Dragon",
+         "Wulf, Lightsworn Beast",
+         "Wulf, Lightsworn Beast",
+         "Solar Recharge",
+         "Solar Recharge",
+         "Chimeratech Fortress Dragon",
+         "Armory Arm",
+         "Flamvell Uruquizas",
+         "Magical Android",
+         "Tempest Magician"
+      ],
+      "completed": 80
+   },
+   "deck2": {
+      "name": "[E] - Brazil Samurai.json",
+      "cardsFound": [
+         {
+            "card": "Grandmaster of the Six Samurai",
+            "location": "White",
+            "code": "STON-ENSP1"
+         },
+         {
+            "card": "Grandmaster of the Six Samurai",
+            "location": "Sticker",
+            "code": "SDWA-EN002"
+         },
+         {
+            "card": "Grandmaster of the Six Samurai",
+            "location": "White",
+            "code": "SDWA-EN002"
+         },
+         {
+            "card": "Hand of the Six Samurai",
+            "location": "White",
+            "code": "STOR-ENSE2"
+         },
+         {
+            "card": "Hand of the Six Samurai",
+            "location": "Binder",
+            "code": "STOR-ENSE2"
+         },
+         {
+            "card": "Hand of the Six Samurai",
+            "location": "Binder",
+            "code": "STOR-ENSE2"
+         },
+         {
+            "card": "The Six Samurai - Irou",
+            "location": "Double box",
+            "code": "STON-EN012"
+         },
+         {
+            "card": "The Six Samurai - Irou",
+            "location": "Binder",
+            "code": "STON-EN012"
+         },
+         {
+            "card": "The Six Samurai - Zanji",
+            "location": "Double box",
+            "code": "STON-EN011"
+         },
+         {
+            "card": "The Six Samurai - Zanji",
+            "location": "White",
+            "code": "STON-EN011"
+         },
+         {
+            "card": "The Six Samurai - Zanji",
+            "location": "White",
+            "code": "STON-EN011"
+         },
+         {
+            "card": "The Six Samurai - Yaichi",
+            "location": "White",
+            "code": "STON-EN007"
+         },
+         {
+            "card": "The Six Samurai - Yaichi",
+            "location": "White",
+            "code": "STON-EN007"
+         },
+         {
+            "card": "The Six Samurai - Yaichi",
+            "location": "White",
+            "code": "STON-EN007"
+         },
+         {
+            "card": "The Six Samurai - Kamon",
+            "location": "Binder",
+            "code": "STON-EN008"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "location": "Binder",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "location": "Binder",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "location": "Binder",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Six Samurai United",
+            "location": "Sticker",
+            "code": "SDWA-EN028"
+         },
+         {
+            "card": "Six Samurai United",
+            "location": "Double box",
+            "code": "PTDN-EN059"
+         },
+         {
+            "card": "Six Samurai United",
+            "location": "Double box",
+            "code": "PTDN-EN059"
+         },
+         {
+            "card": "Gateway of the Six",
+            "location": "Sticker",
+            "code": "SDWA-EN029"
+         },
+         {
+            "card": "Gateway of the Six",
+            "location": "Binder",
+            "code": "SDWA-EN029"
+         },
+         {
+            "card": "Gateway of the Six",
+            "location": "White",
+            "code": "LCGX-EN259"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "location": "Sticker",
+            "code": "YS12-EN027"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSD-EN027"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN027"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN038"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "location": "White",
+            "code": "WIRA-EN056"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Stardust Dragon",
+         "Stardust Dragon",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon"
+      ],
+      "completed": 86.66666666666667
+   }
+}

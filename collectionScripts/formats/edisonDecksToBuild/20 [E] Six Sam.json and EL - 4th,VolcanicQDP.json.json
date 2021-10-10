@@ -1,0 +1,506 @@
+{
+   "deck1": {
+      "name": "[E] Six Sam.json",
+      "cardsFound": [
+         {
+            "card": "Grandmaster of the Six Samurai",
+            "location": "White",
+            "code": "STON-ENSP1"
+         },
+         {
+            "card": "Grandmaster of the Six Samurai",
+            "location": "Sticker",
+            "code": "SDWA-EN002"
+         },
+         {
+            "card": "Grandmaster of the Six Samurai",
+            "location": "White",
+            "code": "SDWA-EN002"
+         },
+         {
+            "card": "Hand of the Six Samurai",
+            "location": "White",
+            "code": "STOR-ENSE2"
+         },
+         {
+            "card": "Hand of the Six Samurai",
+            "location": "Binder",
+            "code": "STOR-ENSE2"
+         },
+         {
+            "card": "Hand of the Six Samurai",
+            "location": "Binder",
+            "code": "STOR-ENSE2"
+         },
+         {
+            "card": "The Six Samurai - Irou",
+            "location": "Double box",
+            "code": "STON-EN012"
+         },
+         {
+            "card": "The Six Samurai - Irou",
+            "location": "Binder",
+            "code": "STON-EN012"
+         },
+         {
+            "card": "The Six Samurai - Irou",
+            "location": "Sticker",
+            "code": "SDWA-EN008"
+         },
+         {
+            "card": "The Six Samurai - Kamon",
+            "location": "Binder",
+            "code": "STON-EN008"
+         },
+         {
+            "card": "The Six Samurai - Yaichi",
+            "location": "White",
+            "code": "STON-EN007"
+         },
+         {
+            "card": "The Six Samurai - Yaichi",
+            "location": "White",
+            "code": "STON-EN007"
+         },
+         {
+            "card": "The Six Samurai - Yaichi",
+            "location": "White",
+            "code": "STON-EN007"
+         },
+         {
+            "card": "The Six Samurai - Zanji",
+            "location": "Double box",
+            "code": "STON-EN011"
+         },
+         {
+            "card": "The Six Samurai - Zanji",
+            "location": "White",
+            "code": "STON-EN011"
+         },
+         {
+            "card": "The Six Samurai - Zanji",
+            "location": "White",
+            "code": "STON-EN011"
+         },
+         {
+            "card": "Gateway of the Six",
+            "location": "Sticker",
+            "code": "SDWA-EN029"
+         },
+         {
+            "card": "Gateway of the Six",
+            "location": "Binder",
+            "code": "SDWA-EN029"
+         },
+         {
+            "card": "Gateway of the Six",
+            "location": "White",
+            "code": "LCGX-EN259"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Shrink",
+            "location": "Kaiba Corp",
+            "code": "YSKR-EN037"
+         },
+         {
+            "card": "Shrink",
+            "location": "Sticker",
+            "code": "STON-ENSE2"
+         },
+         {
+            "card": "Six Samurai United",
+            "location": "Sticker",
+            "code": "SDWA-EN028"
+         },
+         {
+            "card": "Six Samurai United",
+            "location": "Double box",
+            "code": "PTDN-EN059"
+         },
+         {
+            "card": "Six Samurai United",
+            "location": "Double box",
+            "code": "PTDN-EN059"
+         },
+         {
+            "card": "Solidarity",
+            "location": "Sticker",
+            "code": "SDMM-EN030"
+         },
+         {
+            "card": "Solidarity",
+            "location": "Sticker",
+            "code": "SDMM-EN030"
+         },
+         {
+            "card": "The Warrior Returning Alive",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YS11-EN027"
+         },
+         {
+            "card": "The Warrior Returning Alive",
+            "location": "Sticker",
+            "code": "SR02-EN032"
+         },
+         {
+            "card": "Backs to the Wall",
+            "location": "Binder",
+            "code": "FOTB-EN052"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN042"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Sticker",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Dimensional Prison",
+            "location": "Double box",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "location": "Binder",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Double box",
+            "code": "HA01-EN026"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "LED4-EN028"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Sticker",
+            "code": "SDFC-EN043"
+         },
+         {
+            "card": "Gaia Knight, the Force of Earth",
+            "location": "White",
+            "code": "5DS3-EN041"
+         },
+         {
+            "card": "Goyo Guardian",
+            "location": "Duel Devastator Blue",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "location": "Double box",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Binder",
+            "code": "TDGS-EN040"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Legendary Hero Decks",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "location": "Sticker",
+            "code": "CT07-EN021"
+         }
+      ],
+      "cardsNotFound": [
+         "Solidarity",
+         "Starlight Road",
+         "Starlight Road",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Ancient Fairy Dragon",
+         "Armory Arm",
+         "Magical Android"
+      ],
+      "completed": 83.92857142857143
+   },
+   "deck2": {
+      "name": "EL - 4th,VolcanicQDP.json",
+      "cardsFound": [
+         {
+            "card": "Caius the Shadow Monarch",
+            "location": "Sticker",
+            "code": "SR01-SP004"
+         },
+         {
+            "card": "Caius the Shadow Monarch",
+            "location": "Sticker",
+            "code": "SDDE-EN001"
+         },
+         {
+            "card": "Card Trooper",
+            "location": "Sticker",
+            "code": "SR03-EN015"
+         },
+         {
+            "card": "Dandylion",
+            "location": "Sticker",
+            "code": "SR01-SP018"
+         },
+         {
+            "card": "Dandylion",
+            "location": "White",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Debris Dragon",
+            "location": "Sticker",
+            "code": "SDCL-EN016"
+         },
+         {
+            "card": "Debris Dragon",
+            "location": "White",
+            "code": "DP09-EN004"
+         },
+         {
+            "card": "Gorz the Emissary of Darkness",
+            "location": "White",
+            "code": "GLD5-EN024"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "location": "Binder",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "location": "Binder",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "location": "White",
+            "code": "SOVR-EN004"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN018"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "location": "Sticker",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Sangan",
+            "location": "Sticker",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Snipe Hunter",
+            "location": "Sticker",
+            "code": "SDDC-EN018"
+         },
+         {
+            "card": "Tragoedia",
+            "location": "Sticker",
+            "code": "SR01-SP017"
+         },
+         {
+            "card": "Tytannial, Princess of Camellias",
+            "location": "Binder",
+            "code": "CSOC-EN029"
+         },
+         {
+            "card": "Volcanic Rocket",
+            "location": "Sticker",
+            "code": "SDOK-EN013"
+         },
+         {
+            "card": "Volcanic Rocket",
+            "location": "White",
+            "code": "SDOK-EN013"
+         },
+         {
+            "card": "Volcanic Rocket",
+            "location": "White",
+            "code": "SDOK-EN013"
+         },
+         {
+            "card": "Volcanic Shell",
+            "location": "Sticker",
+            "code": "SDSB-EN021"
+         },
+         {
+            "card": "Volcanic Shell",
+            "location": "Sticker",
+            "code": "SDSB-EN021"
+         },
+         {
+            "card": "Blaze Accelerator",
+            "location": "Sticker",
+            "code": "SDOK-EN025"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN027"
+         },
+         {
+            "card": "Cold Wave",
+            "location": "Sticker",
+            "code": "SDZW-EN019"
+         },
+         {
+            "card": "Foolish Burial",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN029"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSD-EN027"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SDSH-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "location": "Sticker",
+            "code": "SD10-EN030"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN036"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Double box",
+            "code": "TU05-SP009"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "location": "White",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "location": "Battle City Box",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "location": "Battle City Box",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "location": "Binder",
+            "code": "H5SE-EN001"
+         },
+         {
+            "card": "Drill Warrior",
+            "location": "Binder",
+            "code": "DREV-ENSE1"
+         },
+         {
+            "card": "Drill Warrior",
+            "location": "White",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Nitro Warrior",
+            "location": "Binder",
+            "code": "TDGS-EN039"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "location": "Sticker",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Turbo Warrior",
+            "location": "Binder",
+            "code": "CSOC-EN038"
+         }
+      ],
+      "cardsNotFound": [
+         "Volcanic Shell",
+         "Solemn Judgment",
+         "Chimeratech Fortress Dragon",
+         "Ancient Fairy Dragon",
+         "Goyo Guardian",
+         "Iron Chain Dragon",
+         "Iron Chain Dragon",
+         "Junk Archer",
+         "Stardust Dragon"
+      ],
+      "completed": 83.92857142857143
+   }
+}
