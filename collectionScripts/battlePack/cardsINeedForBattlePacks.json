@@ -1,1 +1,350 @@
-[{"card":"Alector, Sovereign of Birds"},{"card":"Ante"},{"card":"Asura Priest"},{"card":"Backup Warrior"},{"card":"Bait Doll"},{"card":"Big Bang Shot"},{"card":"Blast Sphere"},{"card":"Caius the Shadow Monarch"},{"card":"Chainsaw Insect"},{"card":"Changing Destiny"},{"card":"Charcoal Inpachi"},{"card":"Dark Dust Spirit"},{"card":"Dark Valkyria"},{"card":"Different Dimension Gate"},{"card":"Divine Wrath"},{"card":"Fabled Ashenveil"},{"card":"Fabled Raven"},{"card":"Fortress Warrior"},{"card":"Gachi Gachi Gantetsu"},{"card":"Goblin Attack Force"},{"card":"Guardian Sphinx"},{"card":"Half or Nothing"},{"card":"Heavy Storm"},{"card":"Helping Robo for Combat"},{"card":"Infected Mail"},{"card":"Inverse Universe"},{"card":"King Tiger Wanghu"},{"card":"Krebons"},{"card":"Level Warrior"},{"card":"Liberty at Last!"},{"card":"Machina Fortress"},{"card":"Power Giant"},{"card":"Premature Burial"},{"card":"Raiza the Storm Monarch"},{"card":"Reckless Greed"},{"card":"Skill Drain"},{"card":"Slate Warrior"},{"card":"Snatch Steal"},{"card":"Snowman Eater"},{"card":"Solemn Judgment"},{"card":"Spell Shield Type-8"},{"card":"Stealth Bird"},{"card":"Tragoedia"},{"card":"Twin-Sword Marauder"},{"card":"Vampire Lord"},{"card":"Voltic Kong"},{"card":"Ancient Gear Golem"},{"card":"Ape Fighter"},{"card":"Autonomous Action Unit"},{"card":"Axe of Despair"},{"card":"Axe of Fools"},{"card":"Aye-Iron"},{"card":"Bacon Saver"},{"card":"Beast Machine King Barbaros Ür"},{"card":"Belial - Marquis of Darkness"},{"card":"Big Bang Shot"},{"card":"Blackwing - Zephyros the Elite"},{"card":"Blizzard Dragon"},{"card":"Breakthrough Skill"},{"card":"Card Guard"},{"card":"Cardcar D"},{"card":"Chaos Hunter"},{"card":"Curse of Anubis"},{"card":"Cursed Armaments"},{"card":"Dark Valkyria"},{"card":"Darklord Zerato"},{"card":"Dimension Gate"},{"card":"Dododo Bot"},{"card":"Dragon Ice"},{"card":"Drillroid"},{"card":"Evocator Chevalier"},{"card":"Exarion Universe"},{"card":"Fortress Warrior"},{"card":"Goblin Attack Force"},{"card":"Goblin Elite Attack Force"},{"card":"Gyroid"},{"card":"Half Counter"},{"card":"Half or Nothing"},{"card":"Helping Robo for Combat"},{"card":"Horn of the Unicorn"},{"card":"Hyper-Ancient Shark Megalodon"},{"card":"Krebons"},{"card":"Labyrinth of Nightmare"},{"card":"Luster Dragon"},{"card":"Machine Lord Ur"},{"card":"Magical Arm Shield"},{"card":"Malevolent Nuzzler"},{"card":"Mermail Abyssmegalo"},{"card":"Metal Reflect Slime"},{"card":"Metalmorph"},{"card":"Miracle's Wake"},{"card":"Mosaic Manticore"},{"card":"Mythical Beast Cerberus"},{"card":"Necro Gardna"},{"card":"Ninja Grandmaster Sasuke"},{"card":"No Entry!!"},{"card":"Oracle of the Sun"},{"card":"Overworked"},{"card":"Photon Wyvern"},{"card":"Plaguespreader Zombie"},{"card":"Pot of Greed"},{"card":"Power Giant"},{"card":"Premature Burial"},{"card":"Reasoning"},{"card":"Reckless Greed"},{"card":"Reptilianne Rage"},{"card":"Rocket Pilder"},{"card":"Shield Warrior"},{"card":"Skill Successor"},{"card":"Slate Warrior"},{"card":"Splendid Venus"},{"card":"Super Conductor Tyranno"},{"card":"Swords of Concealing Light"},{"card":"Time Machine"},{"card":"Treeborn Frog"},{"card":"Twin-Sword Marauder"},{"card":"Union Attack"},{"card":"Vylon Prism"},{"card":"Vylon Tetra"}]
+[
+   {
+      "card": "Alector, Sovereign of Birds"
+   },
+   {
+      "card": "Ante"
+   },
+   {
+      "card": "Asura Priest"
+   },
+   {
+      "card": "Backup Warrior"
+   },
+   {
+      "card": "Bait Doll"
+   },
+   {
+      "card": "Big Bang Shot"
+   },
+   {
+      "card": "Blast Sphere"
+   },
+   {
+      "card": "Caius the Shadow Monarch"
+   },
+   {
+      "card": "Chainsaw Insect"
+   },
+   {
+      "card": "Changing Destiny"
+   },
+   {
+      "card": "Charcoal Inpachi"
+   },
+   {
+      "card": "Dark Dust Spirit"
+   },
+   {
+      "card": "Dark Valkyria"
+   },
+   {
+      "card": "Different Dimension Gate"
+   },
+   {
+      "card": "Divine Wrath"
+   },
+   {
+      "card": "Fabled Ashenveil"
+   },
+   {
+      "card": "Fabled Raven"
+   },
+   {
+      "card": "Fortress Warrior"
+   },
+   {
+      "card": "Gachi Gachi Gantetsu"
+   },
+   {
+      "card": "Goblin Attack Force"
+   },
+   {
+      "card": "Guardian Sphinx"
+   },
+   {
+      "card": "Half or Nothing"
+   },
+   {
+      "card": "Heavy Storm"
+   },
+   {
+      "card": "Helping Robo for Combat"
+   },
+   {
+      "card": "Infected Mail"
+   },
+   {
+      "card": "Inverse Universe"
+   },
+   {
+      "card": "King Tiger Wanghu"
+   },
+   {
+      "card": "Krebons"
+   },
+   {
+      "card": "Level Warrior"
+   },
+   {
+      "card": "Liberty at Last!"
+   },
+   {
+      "card": "Machina Fortress"
+   },
+   {
+      "card": "Power Giant"
+   },
+   {
+      "card": "Premature Burial"
+   },
+   {
+      "card": "Raiza the Storm Monarch"
+   },
+   {
+      "card": "Skill Drain"
+   },
+   {
+      "card": "Slate Warrior"
+   },
+   {
+      "card": "Snatch Steal"
+   },
+   {
+      "card": "Snowman Eater"
+   },
+   {
+      "card": "Solemn Judgment"
+   },
+   {
+      "card": "Spell Shield Type-8"
+   },
+   {
+      "card": "Stealth Bird"
+   },
+   {
+      "card": "Tragoedia"
+   },
+   {
+      "card": "Twin-Sword Marauder"
+   },
+   {
+      "card": "Vampire Lord"
+   },
+   {
+      "card": "Voltic Kong"
+   },
+   {
+      "card": "Ancient Gear Golem"
+   },
+   {
+      "card": "Ape Fighter"
+   },
+   {
+      "card": "Autonomous Action Unit"
+   },
+   {
+      "card": "Axe of Despair"
+   },
+   {
+      "card": "Axe of Fools"
+   },
+   {
+      "card": "Aye-Iron"
+   },
+   {
+      "card": "Bacon Saver"
+   },
+   {
+      "card": "Beast Machine King Barbaros Ür"
+   },
+   {
+      "card": "Belial - Marquis of Darkness"
+   },
+   {
+      "card": "Big Bang Shot"
+   },
+   {
+      "card": "Blackwing - Zephyros the Elite"
+   },
+   {
+      "card": "Blizzard Dragon"
+   },
+   {
+      "card": "Breakthrough Skill"
+   },
+   {
+      "card": "Cardcar D"
+   },
+   {
+      "card": "Chaos Hunter"
+   },
+   {
+      "card": "Curse of Anubis"
+   },
+   {
+      "card": "Cursed Armaments"
+   },
+   {
+      "card": "Dark Valkyria"
+   },
+   {
+      "card": "Darklord Zerato"
+   },
+   {
+      "card": "Dimension Gate"
+   },
+   {
+      "card": "Dododo Bot"
+   },
+   {
+      "card": "Dragon Ice"
+   },
+   {
+      "card": "Drillroid"
+   },
+   {
+      "card": "Evocator Chevalier"
+   },
+   {
+      "card": "Exarion Universe"
+   },
+   {
+      "card": "Fortress Warrior"
+   },
+   {
+      "card": "Goblin Attack Force"
+   },
+   {
+      "card": "Goblin Elite Attack Force"
+   },
+   {
+      "card": "Gyroid"
+   },
+   {
+      "card": "Half Counter"
+   },
+   {
+      "card": "Half or Nothing"
+   },
+   {
+      "card": "Helping Robo for Combat"
+   },
+   {
+      "card": "Horn of the Unicorn"
+   },
+   {
+      "card": "Hyper-Ancient Shark Megalodon"
+   },
+   {
+      "card": "Krebons"
+   },
+   {
+      "card": "Labyrinth of Nightmare"
+   },
+   {
+      "card": "Luster Dragon"
+   },
+   {
+      "card": "Machine Lord Ur"
+   },
+   {
+      "card": "Magical Arm Shield"
+   },
+   {
+      "card": "Malevolent Nuzzler"
+   },
+   {
+      "card": "Mermail Abyssmegalo"
+   },
+   {
+      "card": "Metalmorph"
+   },
+   {
+      "card": "Miracle's Wake"
+   },
+   {
+      "card": "Mosaic Manticore"
+   },
+   {
+      "card": "Mythical Beast Cerberus"
+   },
+   {
+      "card": "Necro Gardna"
+   },
+   {
+      "card": "Ninja Grandmaster Sasuke"
+   },
+   {
+      "card": "No Entry!!"
+   },
+   {
+      "card": "Oracle of the Sun"
+   },
+   {
+      "card": "Overworked"
+   },
+   {
+      "card": "Photon Wyvern"
+   },
+   {
+      "card": "Plaguespreader Zombie"
+   },
+   {
+      "card": "Pot of Greed"
+   },
+   {
+      "card": "Power Giant"
+   },
+   {
+      "card": "Premature Burial"
+   },
+   {
+      "card": "Reasoning"
+   },
+   {
+      "card": "Reckless Greed"
+   },
+   {
+      "card": "Reptilianne Rage"
+   },
+   {
+      "card": "Rocket Pilder"
+   },
+   {
+      "card": "Shield Warrior"
+   },
+   {
+      "card": "Skill Successor"
+   },
+   {
+      "card": "Slate Warrior"
+   },
+   {
+      "card": "Splendid Venus"
+   },
+   {
+      "card": "Super Conductor Tyranno"
+   },
+   {
+      "card": "Swords of Concealing Light"
+   },
+   {
+      "card": "Time Machine"
+   },
+   {
+      "card": "Treeborn Frog"
+   },
+   {
+      "card": "Twin-Sword Marauder"
+   },
+   {
+      "card": "Union Attack"
+   },
+   {
+      "card": "Vylon Prism"
+   },
+   {
+      "card": "Vylon Tetra"
+   }
+]

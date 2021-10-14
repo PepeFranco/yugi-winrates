@@ -13,9 +13,7 @@ const allBattlePack2Cards = battlePack2Cards.map((card) => ({
 }));
 
 const cardsNotInStructureDecks = collection.filter(
-  (card) =>
-    !card["In Deck"].includes("Structure Deck") &&
-    !card["In Deck"].includes("Egyptian")
+  (card) => !card["In Deck"].includes("Structure Deck")
 );
 const allCardsNotInSd = cardsNotInStructureDecks.map((card) => ({
   card: card["Name"],

@@ -103,7 +103,6 @@ const mainFunction = async () => {
           const isSpeedDuel = set.toLowerCase().includes("speed duel")
             ? "Yes"
             : "No";
-          console.log({ isSpeedDuel });
           card["Is Speed Duel"] = isSpeedDuel;
           card[
             "Image"

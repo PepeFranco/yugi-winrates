@@ -62,16 +62,6 @@ const decks = [
   { code: "SDSA", name: "Sacred Beasts", color: black },
   { code: "SDCH", name: "Spirit Charmers", color: black },
   { code: "SDFC", name: "Freezing Chains", color: green },
-  {
-    code: "EGO1",
-    name: "Egyptian God Deck: Obelisk the Tormentor",
-    color: blue,
-  },
-  {
-    code: "EGS1",
-    name: "Egyptian God Deck: Slifer the Sky Dragon",
-    color: red,
-  },
 ];
 
 export default decks;
