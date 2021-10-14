@@ -1,0 +1,445 @@
+{
+   "deck1": {
+      "name": "T H E M A C H I N E - A reason why GOAT is terrible - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Black Luster Soldier - Envoy of the Beginning",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA02"
+         },
+         {
+            "card": "Dark Magician of Chaos",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENC02"
+         },
+         {
+            "card": "Jinzo",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN147"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "SDDC-EN014"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "DR2-EN023"
+         },
+         {
+            "card": "Blowback Dragon",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN176"
+         },
+         {
+            "card": "Airknight Parshath",
+            "location": "Sticker",
+            "code": "SR05-EN005"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "DLG1-EN041"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "DB2-EN058"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "CP02-EN015"
+         },
+         {
+            "card": "Strike Ninja",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN175"
+         },
+         {
+            "card": "Strike Ninja",
+            "location": "Duel Devastator Green",
+            "code": "SBCB-EN175"
+         },
+         {
+            "card": "Reflect Bounder",
+            "location": "Gold Sarcophagus Tin",
+            "code": "SDCR-EN016"
+         },
+         {
+            "card": "D.D. Warrior Lady",
+            "location": "Sticker",
+            "code": "SD5-EN011"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Sticker",
+            "code": "LCYW-EN239"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Sticker",
+            "code": "DLG1-EN077"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Duel Devastator Green",
+            "code": "5DS1-EN017"
+         },
+         {
+            "card": "Dekoichi the Battlechanted Locomotive",
+            "location": "Legendary Hero Decks",
+            "code": "DR3-EN092"
+         },
+         {
+            "card": "Shining Angel",
+            "location": "Sticker",
+            "code": "YS12-EN018"
+         },
+         {
+            "card": "Shining Angel",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YS12-EN018"
+         },
+         {
+            "card": "Shining Angel",
+            "location": "White",
+            "code": "YS12-EN018"
+         },
+         {
+            "card": "Cyber-Stein",
+            "location": "Legendary Hero Decks",
+            "code": "BLHR-EN074"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "White",
+            "code": "SDP-040"
+         },
+         {
+            "card": "Monster Gate",
+            "location": "Legendary Hero Decks",
+            "code": "SR07-EN030"
+         },
+         {
+            "card": "Monster Gate",
+            "location": "Sticker",
+            "code": "SR07-EN030"
+         },
+         {
+            "card": "Monster Gate",
+            "location": "Sticker",
+            "code": "AST-039"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB26"
+         },
+         {
+            "card": "Reasoning",
+            "location": "Sticker",
+            "code": "SDPL-EN027"
+         },
+         {
+            "card": "Reasoning",
+            "location": "Sticker",
+            "code": "BP02-EN139"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "location": "Sticker",
+            "code": "YS12-EN027"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "location": "Double box",
+            "code": "WIRA-EN052"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN027"
+         },
+         {
+            "card": "Limiter Removal",
+            "location": "Sticker",
+            "code": "SR10-EN029"
+         },
+         {
+            "card": "Limiter Removal",
+            "location": "Sticker",
+            "code": "SR03-EN028"
+         },
+         {
+            "card": "Limiter Removal",
+            "location": "Sticker",
+            "code": "SDKS-EN028"
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "location": "Sticker",
+            "code": "SDLS-EN034"
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "location": "Sticker",
+            "code": "EP1-EN008"
+         }
+      ],
+      "cardsNotFound": [
+         "Shapesnatch",
+         "Shapesnatch",
+         "Shapesnatch",
+         "Emes the Infinity",
+         "Chaos Sorcerer",
+         "Strike Ninja",
+         "Dekoichi the Battlechanted Locomotive",
+         "Dekoichi the Battlechanted Locomotive",
+         "Cyber-Stein",
+         "Cyber-Stein",
+         "Delinquent Duo",
+         "Dimension Fusion",
+         "Dimension Fusion",
+         "Dimension Fusion",
+         "Metamorphosis",
+         "Metamorphosis",
+         "Metamorphosis",
+         "Reasoning",
+         "Return from the Different Dimension",
+         "Master of Oz",
+         "Master of Oz",
+         "Gatling Dragon",
+         "Gatling Dragon",
+         "King Dragun",
+         "The Last Warrior from Another Planet",
+         "The Last Warrior from Another Planet",
+         "Dark Blade the Dragon Knight",
+         "Ryu Senshi",
+         "Ryu Senshi",
+         "Ojama King",
+         "Dark Balter the Terrible",
+         "Dark Balter the Terrible",
+         "Fiend Skull Dragon",
+         "Fiend Skull Dragon"
+      ],
+      "completed": 54.666666666666664
+   },
+   "deck2": {
+      "name": "GOAT: A Legendary Ocean Beatdown - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Levia-Dragon - Daedalus",
+            "location": "White",
+            "code": "SD4-PT010"
+         },
+         {
+            "card": "Levia-Dragon - Daedalus",
+            "location": "Sticker",
+            "code": "SD4-EN010"
+         },
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "Sticker",
+            "code": "SR01-SP007"
+         },
+         {
+            "card": "Abyss Soldier",
+            "location": "Sticker",
+            "code": "SDRE-EN014"
+         },
+         {
+            "card": "Abyss Soldier",
+            "location": "White",
+            "code": "SDRE-EN014"
+         },
+         {
+            "card": "Mother Grizzly",
+            "location": "Sticker",
+            "code": "SDRE-EN021"
+         },
+         {
+            "card": "Mother Grizzly",
+            "location": "Sticker",
+            "code": "SD4-EN005"
+         },
+         {
+            "card": "Mother Grizzly",
+            "location": "Sticker",
+            "code": "SD4-EN005"
+         },
+         {
+            "card": "Lekunga",
+            "location": "White",
+            "code": "IOC-027"
+         },
+         {
+            "card": "Tribe-Infecting Virus",
+            "location": "Sticker",
+            "code": "SD4-EN007"
+         },
+         {
+            "card": "Mermaid Knight",
+            "location": "Sticker",
+            "code": "SD4-EN011"
+         },
+         {
+            "card": "Mermaid Knight",
+            "location": "White",
+            "code": "AST-025"
+         },
+         {
+            "card": "Sinister Serpent",
+            "location": "Duel Devastator Yellow",
+            "code": "SBAD-EN037"
+         },
+         {
+            "card": "Yomi Ship",
+            "location": "Legendary Hero Decks",
+            "code": "YSKR-EN014"
+         },
+         {
+            "card": "Yomi Ship",
+            "location": "Duel Devastator Yellow",
+            "code": "SBAD-EN024"
+         },
+         {
+            "card": "Magician of Faith",
+            "location": "Sticker",
+            "code": "YSD-EN012"
+         },
+         {
+            "card": "Magician of Faith",
+            "location": "Duel Devastator Green",
+            "code": "SS04-ENA14"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Sticker",
+            "code": "SYE-040"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "White",
+            "code": "BP01-EN036"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Snatch Steal",
+            "location": "Sticker",
+            "code": "SD5-EN019"
+         },
+         {
+            "card": "Premature Burial",
+            "location": "Sticker",
+            "code": "SDRL-EN024"
+         },
+         {
+            "card": "Scapegoat",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN023"
+         },
+         {
+            "card": "A Legendary Ocean",
+            "location": "Sticker",
+            "code": "SDRE-EN024"
+         },
+         {
+            "card": "A Legendary Ocean",
+            "location": "Sticker",
+            "code": "SDRE-EN024"
+         },
+         {
+            "card": "A Legendary Ocean",
+            "location": "Sticker",
+            "code": "SDRE-EN024"
+         },
+         {
+            "card": "Terraforming",
+            "location": "Sticker",
+            "code": "SR08-EN032"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Sticker",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Creature Swap",
+            "location": "White",
+            "code": "TU06-SP015"
+         },
+         {
+            "card": "Creature Swap",
+            "location": "White",
+            "code": "TU06-SP015"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN042"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "location": "White",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Ring of Destruction",
+            "location": "Sticker",
+            "code": "SDKS-EN033"
+         }
+      ],
+      "cardsNotFound": [
+         "Giga Gagagigo",
+         "Giga Gagagigo",
+         "Solemn Judgment"
+      ],
+      "completed": 92.5
+   }
+}

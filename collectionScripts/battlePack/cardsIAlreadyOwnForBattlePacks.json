@@ -1,1458 +1,1002 @@
 [
-  {
-    "card": "Gagaga Magician",
-    "set": "Zexal Collection Tin",
-    "location": "Binder"
-  },
+  { "card": "Gagaga Magician", "code": "ZTIN-ENV01", "location": "Binder" },
   {
     "card": "Rising Energy",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN046",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Zero Gravity",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN045",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Magic Cylinder",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN043",
     "location": "Battle City Box"
   },
   {
     "card": "Call of the Haunted",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN042",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Mirror Force",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN040",
     "location": "Battle City Box"
   },
-  {
-    "card": "Waboku",
-    "set": "Starter Deck: Yugi Reloaded",
-    "location": "Battle City Box"
-  },
+  { "card": "Waboku", "code": "YSYR-EN039", "location": "Battle City Box" },
   {
     "card": "Shard of Greed",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN037",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Book of Moon",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN030",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Mystical Space Typhoon",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN028",
     "location": "Battle City Box"
   },
   {
     "card": "Swords of Revealing Light",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN026",
     "location": "Battle City Box"
   },
-  {
-    "card": "The Tricky",
-    "set": "Starter Deck: Yugi Reloaded",
-    "location": "Battle City Box"
-  },
+  { "card": "The Tricky", "code": "YSYR-EN024", "location": "Battle City Box" },
   {
     "card": "Breaker the Magical Warrior",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN015",
     "location": "Battle City Box"
   },
   {
     "card": "Old Vindictive Magician",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN014",
     "location": "Battle City Box"
   },
   {
     "card": "Skilled White Magician",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN012",
     "location": "Battle City Box"
   },
   {
     "card": "Buster Blader",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN009",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Giant Soldier of Stone",
-    "set": "Starter Deck: Yugi Reloaded",
+    "code": "YSYR-EN003",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Damage Gate",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN048",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Threatening Roar",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN046",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Shadow Spell",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN044",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Shield Crush",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN038",
     "location": "Legendary Hero Decks"
   },
-  {
-    "card": "Shrink",
-    "set": "Starter Deck: Kaiba Reloaded",
-    "location": "Kaiba Corp"
-  },
+  { "card": "Shrink", "code": "YSKR-EN037", "location": "Kaiba Corp" },
   {
     "card": "Enemy Controller",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN035",
     "location": "Kaiba Corp"
   },
   {
     "card": "Offerings to the Doomed",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN033",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Rush Recklessly",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN031",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Tribute to the Doomed",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN030",
     "location": "Legendary Hero Decks"
   },
-  {
-    "card": "Soul Exchange",
-    "set": "Starter Deck: Kaiba Reloaded",
-    "location": "Kaiba Corp"
-  },
+  { "card": "Soul Exchange", "code": "YSKR-EN029", "location": "Kaiba Corp" },
   {
     "card": "Interplanetarypurplythorny Dragon",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN027",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Des Mosquito",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN023",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Chaos Necromancer",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN017",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Twin-Headed Behemoth",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN013",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Alexandrite Dragon",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN011",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Mad Dog of Darkness",
-    "set": "Starter Deck: Kaiba Reloaded",
+    "code": "YSKR-EN009",
     "location": "Legendary Hero Decks"
   },
-  {
-    "card": "Luster Dragon",
-    "set": "Starter Deck: Kaiba Reloaded",
-    "location": "Kaiba Corp"
-  },
+  { "card": "Luster Dragon", "code": "YSKR-EN007", "location": "Kaiba Corp" },
   {
     "card": "Compulsory Evacuation Device",
-    "set": "Starter Deck 2006",
+    "code": "YSD-EN038",
     "location": "White"
   },
   {
     "card": "Fissure",
-    "set": "Starter Deck 2006",
+    "code": "YSD-EN025",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Torrential Tribute",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN037",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Call of the Haunted",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN035",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Ego Boost",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN031",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Burden of the Mighty",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN030",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Card Trader",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN029",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "United We Stand",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN028",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Book of Moon",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN027",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Monster Reborn",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN024",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Scapegoat",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN023",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Battle Fader",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN019",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Ryko, Lightsworn Hunter",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN018",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Exarion Universe",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN015",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Cyber Dragon",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN014",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Beast King Barbaros",
-    "set": "Starter Deck: Codebreaker",
+    "code": "YS18-EN013",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Dark Bribe",
-    "set": "Starter Deck: Yuya",
+    "code": "YS16-EN038",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Draining Shield",
-    "set": "Starter Deck: Yuya",
+    "code": "YS16-EN036",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Pitch-Black Warwolf",
-    "set": "Starter Deck: Yuya",
+    "code": "YS16-EN018",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Beast King Barbaros",
-    "set": "Starter Deck: Yuya",
+    "code": "YS16-EN017",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Gene-Warped Warwolf",
-    "set": "Starter Deck: Yuya",
+    "code": "YS16-EN016",
     "location": "Duel Devastator Blue"
   },
-  {
-    "card": "Number 39: Utopia",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "Binder"
-  },
+  { "card": "Number 39: Utopia", "code": "YS12-EN039", "location": "Binder" },
   {
     "card": "Gravity Axe - Grarl",
-    "set": "Starter Deck: Xyz Symphony",
+    "code": "YS12-EN026",
     "location": "Gold Sarcophagus Tin"
   },
-  {
-    "card": "Ego Boost",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Blustering Winds",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Chiron the Mage",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Shine Knight",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Goblindbergh",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Gogogo Golem",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Zubaba Knight",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Frostosaurus",
-    "set": "Starter Deck: Xyz Symphony",
-    "location": "White"
-  },
-  {
-    "card": "Grenosaurus",
-    "set": "Starter Deck: Dawn of the Xyz",
-    "location": "Binder"
-  },
-  {
-    "card": "Gene-Warped Warwolf",
-    "set": "Starter Deck: Dawn of the Xyz",
-    "location": "Binder"
-  },
-  {
-    "card": "Dust Tornado",
-    "set": "Starter Deck: Dawn of the Xyz",
-    "location": "White"
-  },
+  { "card": "Ego Boost", "code": "YS12-EN020", "location": "White" },
+  { "card": "Blustering Winds", "code": "YS12-EN019", "location": "White" },
+  { "card": "Chiron the Mage", "code": "YS12-EN013", "location": "White" },
+  { "card": "Shine Knight", "code": "YS12-EN010", "location": "White" },
+  { "card": "Goblindbergh", "code": "YS12-EN008", "location": "White" },
+  { "card": "Gogogo Golem", "code": "YS12-EN006", "location": "White" },
+  { "card": "Zubaba Knight", "code": "YS12-EN004", "location": "White" },
+  { "card": "Frostosaurus", "code": "YS12-EN003", "location": "White" },
+  { "card": "Grenosaurus", "code": "YS11-SP043", "location": "Binder" },
+  { "card": "Gene-Warped Warwolf", "code": "YS11-SP004", "location": "Binder" },
+  { "card": "Dust Tornado", "code": "YS11-EN033", "location": "White" },
   {
     "card": "Stronghold the Moving Fortress",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENC39",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Shattered Axe",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENC38",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Blockman",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENC21",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "The Tricky",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENC12",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Dark Magician of Chaos",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENC02",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Pot of Greed",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENB26",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Big Shield Gardna",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENB14",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Horn of the Unicorn",
-    "set": "Yugi's Legendary Decks",
+    "code": "YGLD-ENA29",
     "location": "Duel Devastator Blue"
   },
-  {
-    "card": "Creature Swap",
-    "set": "Turbo Pack: Booster Six",
-    "location": "White"
-  },
-  {
-    "card": "Abyssal Kingshark",
-    "set": "Turbo Pack: Booster Five",
-    "location": "White"
-  },
+  { "card": "Creature Swap", "code": "TU06-SP015", "location": "White" },
+  { "card": "Abyssal Kingshark", "code": "TU05-SP013", "location": "White" },
   {
     "card": "Raigeki",
-    "set": "2019 Gold Sarcophagus Tin",
+    "code": "TN19-EN010",
     "location": "Gold Sarcophagus Tin"
   },
-  { "card": "Noisy Gnat", "set": "The Duelist Genesis", "location": "White" },
-  { "card": "Yaksha", "set": "Storm of Ragnarok", "location": "White" },
-  { "card": "Tiki Curse", "set": "Storm of Ragnarok", "location": "White" },
-  { "card": "Tiki Soul", "set": "Storm of Ragnarok", "location": "White" },
+  { "card": "Noisy Gnat", "code": "TDGS-EN037", "location": "White" },
+  { "card": "Yaksha", "code": "STOR-SP037", "location": "White" },
+  { "card": "Tiki Curse", "code": "STOR-SO079", "location": "White" },
+  { "card": "Tiki Soul", "code": "STOR-EN080", "location": "White" },
   {
     "card": "Prideful Roar",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENB30",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Metal Reflect Slime",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENB29",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Nightmare Wheel",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENB27",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Rope of Life",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENB26",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Zoma the Spirit",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENA28",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Mad Reloader",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENA20",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Mask of Darkness",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENA19",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Dark Ruler Ha Des",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENA11",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Gaap the Divine Soldier",
-    "set": "Speed Duel Starter Decks: Twisted Nightmares",
+    "code": "SS05-ENA10",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Skill Successor",
-    "set": "Speed Duel Starter Decks: Match of the Millennium",
+    "code": "SS04-ENB29",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Toon Gemini Elf",
-    "set": "Speed Duel Starter Decks: Match of the Millennium",
+    "code": "SS04-ENB12",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Fighting Spirit",
-    "set": "Speed Duel Starter Decks: Match of the Millennium",
+    "code": "SS04-ENA24",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Magician of Faith",
-    "set": "Speed Duel Starter Decks: Match of the Millennium",
+    "code": "SS04-ENA14",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Hyper Hammerhead",
-    "set": "Speed Duel Starter Decks: Ultimate Predators",
+    "code": "SS03-ENA13",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Gilasaurus",
-    "set": "Speed Duel Starter Decks: Ultimate Predators",
+    "code": "SS03-ENA10",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Windstorm of Etaqua",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENC16",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Windstorm of Etaqua",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENC16",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Amazoness Sage",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENC07",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Kunai with Chain",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENB18",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Kunai with Chain",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENB18",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Copycat",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENB09",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Little-Winguard",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENB08",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Interdimensional Matter Transporter",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENA15",
     "location": "Kaiba Corp"
   },
   {
     "card": "Twin-Headed Behemoth",
-    "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+    "code": "SS02-ENA06",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "The Golden Apples",
-    "set": "Speed Duel Starter Decks: Destiny Masters",
+    "code": "SS01-ENV02",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Riryoku",
-    "set": "Speed Duel Starter Decks: Destiny Masters",
+    "code": "SS01-ENA12",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Monster Gate",
-    "set": "Structure Deck: Zombie Horde",
+    "code": "SR07-EN030",
     "location": "Legendary Hero Decks"
   },
-  { "card": "Level Eater", "set": "Stardust Overdrive", "location": "White" },
+  { "card": "Level Eater", "code": "SOVR-EN005", "location": "White" },
   {
     "card": "Change of Heart",
-    "set": "Starter Deck: Kaiba Evolution",
+    "code": "SKE-SP032",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Reverse Trap",
-    "set": "Starter Deck: Yugi",
+    "code": "SDY-047",
     "location": "Duel Devastator Green"
   },
-  {
-    "card": "Spell Striker",
-    "set": "Warriors' Strike Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Herald of Creation",
-    "set": "Rise of the Dragon Lords Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Deep Diver",
-    "set": "Realm of the Sea Emperor Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Penguin Soldier",
-    "set": "Realm of the Sea Emperor Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Graceful Charity",
-    "set": "Starter Deck: Pegasus",
-    "location": "White"
-  },
+  { "card": "Spell Striker", "code": "SDWS-EN005", "location": "White" },
+  { "card": "Herald of Creation", "code": "SDRL-EN003", "location": "White" },
+  { "card": "Deep Diver", "code": "SDRE-EN019", "location": "White" },
+  { "card": "Penguin Soldier", "code": "SDRE-EN018", "location": "White" },
+  { "card": "Graceful Charity", "code": "SDP-040", "location": "White" },
   {
     "card": "Muka Muka",
-    "set": "Starter Deck: Pegasus",
+    "code": "SDP-016",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Witch of the Black Forest",
-    "set": "Starter Deck: Pegasus",
+    "code": "SDP-014",
     "location": "Duel Devastator Green"
   },
-  {
-    "card": "Blast with Chain",
-    "set": "Onslaught of the Fire Kings Structure Deck",
-    "location": "White"
-  },
+  { "card": "Blast with Chain", "code": "SDOK-EN035", "location": "White" },
+  { "card": "Pot of Duality", "code": "SDOK-EN027", "location": "Double box" },
   {
     "card": "Pot of Duality",
-    "set": "Onslaught of the Fire Kings Structure Deck",
-    "location": "Double box"
-  },
-  {
-    "card": "Pot of Duality",
-    "set": "Onslaught of the Fire Kings Structure Deck",
+    "code": "SDOK-EN027",
     "location": "Gold Sarcophagus Tin"
   },
-  {
-    "card": "Flame Tiger",
-    "set": "Onslaught of the Fire Kings Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Fox Fire",
-    "set": "Onslaught of the Fire Kings Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Raging Flame Sprite",
-    "set": "Onslaught of the Fire Kings Structure Deck",
-    "location": "White"
-  },
+  { "card": "Flame Tiger", "code": "SDOK-EN019", "location": "White" },
+  { "card": "Fox Fire", "code": "SDOK-EN018", "location": "White" },
+  { "card": "Raging Flame Sprite", "code": "SDOK-EN017", "location": "White" },
   {
     "card": "Nightmare's Steelcage",
-    "set": "Structure Deck: Marik (TCG)",
+    "code": "SDMA-EN021",
     "location": "White"
   },
   {
     "card": "Cloning",
-    "set": "Structure Deck: Seto Kaiba",
+    "code": "SDKS-EN035",
     "location": "Legendary Hero Decks"
   },
-  { "card": "Scapegoat", "set": "Starter Deck: Joey", "location": "Binder" },
-  {
-    "card": "Shield & Sword",
-    "set": "Starter Deck: Joey",
-    "location": "White"
-  },
-  { "card": "Maha Vailo", "set": "Starter Deck: Joey", "location": "White" },
+  { "card": "Scapegoat", "code": "SDJ-041", "location": "Binder" },
+  { "card": "Shield & Sword", "code": "SDJ-040", "location": "White" },
+  { "card": "Maha Vailo", "code": "SDJ-016", "location": "White" },
+  { "card": "Card Trooper", "code": "SDHS-SP015", "location": "White" },
   {
     "card": "Card Trooper",
-    "set": "HERO Strike Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "Card Trooper",
-    "set": "HERO Strike Structure Deck",
+    "code": "SDHS-EN015",
     "location": "Gold Sarcophagus Tin"
   },
-  {
-    "card": "Battle Fader",
-    "set": "Gates of the Underworld Structure Deck",
-    "location": "White"
-  },
-  {
-    "card": "D.D. Assailant",
-    "set": "The Dark Emperor Structure Deck",
-    "location": "White"
-  },
+  { "card": "Battle Fader", "code": "SDGU-EN022", "location": "White" },
+  { "card": "D.D. Assailant", "code": "SDDE-EN017", "location": "White" },
   {
     "card": "Mobius the Frost Monarch",
-    "set": "Structure Deck: Fury from the Deep",
+    "code": "SD4-EN012",
     "location": "White"
   },
   {
     "card": "Half Shut",
-    "set": "Speed Duel: Arena of Lost Souls",
+    "code": "SBLS-EN043",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Possessed Dark Soul",
-    "set": "Speed Duel: Arena of Lost Souls",
+    "code": "SBLS-EN003",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "The Winged Dragon of Ra",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN203",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Obelisk the Tormentor",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN202",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Obelisk the Tormentor",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN202",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Slifer the Sky Dragon",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN201",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Embodiment of Apophis",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN195",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Mirror Wall",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN193",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Twin-Barrel Dragon",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN180",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Pitch-Black Warwolf",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN178",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Blowback Dragon",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN176",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Exiled Force",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN151",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Mysterious Guard",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN150",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Freed the Matchless General",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN149",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "The Fiend Megacyber",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN148",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Jinzo",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN147",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Guardian Angel Joan",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN134",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Airknight Parshath",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN132",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Airknight Parshath",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN132",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Zolga",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN129",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Zolga",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN129",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Mask of Weakness",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN123",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Night Assailant",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN114",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Magic Drain",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN104",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Fiend's Sanctuary",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN097",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Fiend's Sanctuary",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN097",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Zombyra the Dark",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN094",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Zombyra the Dark",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN094",
     "location": "Duel Devastator Green"
   },
   {
     "card": "DUCKER Mobile Cannon",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN068",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Bazoo the Soul-Eater",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN048",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Bazoo the Soul-Eater",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN048",
     "location": "Duel Devastator Green"
   },
   {
     "card": "Kycoo the Ghost Destroyer",
-    "set": "Speed Duel: Battle City Box",
+    "code": "SBCB-EN006",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Theban Nightmare",
-    "set": "Speed Duel: Attack from the Deep",
+    "code": "SBAD-EN038",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Sinister Serpent",
-    "set": "Speed Duel: Attack from the Deep",
+    "code": "SBAD-EN037",
     "location": "Duel Devastator Yellow"
   },
   {
     "card": "Amazoness Trainee",
-    "set": "Speed Duel: Attack from the Deep",
+    "code": "SBAD-EN015",
     "location": "Duel Devastator Yellow"
   },
-  {
-    "card": "Darklord Desire",
-    "set": "Ra Yellow Mega Pack",
-    "location": "White"
-  },
-  {
-    "card": "Hedge Guard",
-    "set": "Duelist Pack Collection Tin 2009",
-    "location": "White"
-  },
-  {
-    "card": "Hedge Guard",
-    "set": "Duelist Pack Collection Tin 2009",
-    "location": "White"
-  },
-  {
-    "card": "Impenetrable Attack",
-    "set": "Return of the Duelist",
-    "location": "White"
-  },
-  { "card": "Mirage Dragon", "set": "Rise of Destiny", "location": "White" },
-  { "card": "Sinister Seeds", "set": "Phantom Darkness", "location": "White" },
-  {
-    "card": "Photon Sanctuary",
-    "set": "Premium Collection Tin",
-    "location": "White"
-  },
+  { "card": "Darklord Desire", "code": "RYMP-EN077", "location": "White" },
+  { "card": "Hedge Guard", "code": "RGBT-EN008", "location": "White" },
+  { "card": "Hedge Guard", "code": "RGBT-EN008", "location": "White" },
+  { "card": "Impenetrable Attack", "code": "REDU-EN066", "location": "White" },
+  { "card": "Mirage Dragon", "code": "RDS-EN027", "location": "White" },
+  { "card": "Sinister Seeds", "code": "PTDN-EN065", "location": "White" },
+  { "card": "Photon Sanctuary", "code": "PRC1-EN022", "location": "White" },
   {
     "card": "Mausoleum of the Emperor",
-    "set": "Power of the Duelist",
+    "code": "POTD-EN047",
     "location": "White"
   },
-  {
-    "card": "Ultimate Tyranno",
-    "set": "Power of the Duelist",
-    "location": "White"
-  },
-  {
-    "card": "Submarineroid",
-    "set": "Power of the Duelist",
-    "location": "White"
-  },
-  { "card": "Wind-Up Warrior", "set": "Photon Shockwave", "location": "White" },
-  { "card": "Needle Sunfish", "set": "Photon Shockwave", "location": "White" },
-  { "card": "Full-Force Strike", "set": "Order of Chaos", "location": "White" },
-  { "card": "Photon Thrasher", "set": "Order of Chaos", "location": "White" },
-  { "card": "Shocktopus", "set": "Order of Chaos", "location": "White" },
-  {
-    "card": "Injection Fairy Lily",
-    "set": "Legacy of Darkness",
-    "location": "White"
-  },
+  { "card": "Ultimate Tyranno", "code": "POTD-EN020", "location": "White" },
+  { "card": "Submarineroid", "code": "POTD-EN008", "location": "White" },
+  { "card": "Wind-Up Warrior", "code": "PHSW-SP022", "location": "White" },
+  { "card": "Needle Sunfish", "code": "PHSW-EN010", "location": "White" },
+  { "card": "Full-Force Strike", "code": "ORCS-SP047", "location": "White" },
+  { "card": "Photon Thrasher", "code": "ORCS-SP008", "location": "White" },
+  { "card": "Shocktopus", "code": "ORCS-SP006", "location": "White" },
+  { "card": "Injection Fairy Lily", "code": "LOD-EN100", "location": "White" },
   {
     "card": "Forbidden Dress",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB18",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Forbidden Lance",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB17",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Forbidden Lance",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB17",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Forbidden Chalice",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB16",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Forbidden Chalice",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB16",
     "location": "Duel Devastator Blue"
   },
   {
     "card": "Tanngrisnir of the Nordic Beasts",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB01",
     "location": "Battle City Box"
   },
   {
     "card": "Tanngrisnir of the Nordic Beasts",
-    "set": "Legendary Hero Decks",
+    "code": "LEHD-ENB01",
     "location": "Battle City Box"
   },
-  {
-    "card": "Big Shield Gardna",
-    "set": "Legendary Collection 3: Yugi's World Mega Pack",
-    "location": "White"
-  },
+  { "card": "Big Shield Gardna", "code": "LCYW-SP032", "location": "White" },
   {
     "card": "Ring of Destruction",
-    "set": "Legendary Collection Kaiba Mega Pack",
+    "code": "LCKC-EN050",
     "location": "Kaiba Corp"
   },
-  {
-    "card": "Phantom of Chaos",
-    "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-    "location": "Binder"
-  },
-  {
-    "card": "Hyper Hammerhead",
-    "set": "Invasion of Chaos",
-    "location": "White"
-  },
-  {
-    "card": "Vylon Stella",
-    "set": "Hidden Arsenal 6: Omega Xyz",
-    "location": "White"
-  },
-  { "card": "Jurrac Titano", "set": "Hidden Arsenal 3", "location": "Binder" },
-  { "card": "Jurrac Protops", "set": "Hidden Arsenal 2", "location": "Binder" },
-  { "card": "Worm Barses", "set": "Hidden Arsenal", "location": "White" },
+  { "card": "Phantom of Chaos", "code": "LCGX-EN193", "location": "Binder" },
+  { "card": "Hyper Hammerhead", "code": "IOC-074", "location": "White" },
+  { "card": "Vylon Stella", "code": "HA06-EN006", "location": "White" },
+  { "card": "Jurrac Titano", "code": "HA03-EN039", "location": "Binder" },
+  { "card": "Jurrac Protops", "code": "HA02-EN035", "location": "Binder" },
+  { "card": "Worm Barses", "code": "HA01-EN018", "location": "White" },
   {
     "card": "Gorz the Emissary of Darkness",
-    "set": "Gold Series: Haunted Mine",
+    "code": "GLD5-EN024",
     "location": "White"
   },
-  {
-    "card": "Doomcaliber Knight",
-    "set": "Gold Series 4: Pyramids Edition",
-    "location": "Binder"
-  },
-  {
-    "card": "Injection Fairy Lily",
-    "set": "Gold Series 4: Pyramids Edition",
-    "location": "White"
-  },
+  { "card": "Doomcaliber Knight", "code": "GLD4-EN023", "location": "Binder" },
+  { "card": "Injection Fairy Lily", "code": "GLD4-EN009", "location": "White" },
   {
     "card": "Milla the Temporal Magician",
-    "set": "Generation Force",
+    "code": "GENF-SP038",
     "location": "White"
   },
-  { "card": "Wind-Up Dog", "set": "Generation Force", "location": "White" },
-  { "card": "Wind-Up Soldier", "set": "Generation Force", "location": "White" },
-  { "card": "Big Jaws", "set": "Generation Force", "location": "White" },
-  { "card": "Gogogo Golem", "set": "Generation Force", "location": "White" },
-  {
-    "card": "Wind-Up Zenmaister",
-    "set": "Generation Force",
-    "location": "Sticker"
-  },
-  { "card": "Gagaga Gardna", "set": "Galactic Overlord", "location": "White" },
-  { "card": "Tasuke Knight", "set": "Galactic Overlord", "location": "Binder" },
-  { "card": "Axe Dragonute", "set": "Extreme Victory", "location": "White" },
+  { "card": "Wind-Up Dog", "code": "GENF-SP016", "location": "White" },
+  { "card": "Wind-Up Soldier", "code": "GENF-SP013", "location": "White" },
+  { "card": "Big Jaws", "code": "GENF-SP005", "location": "White" },
+  { "card": "Gogogo Golem", "code": "GENF-SP002", "location": "White" },
+  { "card": "Wind-Up Zenmaister", "code": "GENF-EN042", "location": "Sticker" },
+  { "card": "Gagaga Gardna", "code": "GAOV-EN005", "location": "White" },
+  { "card": "Tasuke Knight", "code": "GAOV-EN004", "location": "Binder" },
+  { "card": "Axe Dragonute", "code": "EXVC-SP090", "location": "White" },
   {
     "card": "Cyber Dragon",
-    "set": "Duelist Saga",
+    "code": "DUSA-EN057",
     "location": "Battle City Box"
   },
-  {
-    "card": "Ambitious Gofer",
-    "set": "Duelist Revolution",
-    "location": "White"
-  },
+  { "card": "Ambitious Gofer", "code": "DREV-EN036", "location": "White" },
   {
     "card": "Dekoichi the Battlechanted Locomotive",
-    "set": "Dark Revelation Volume 3",
+    "code": "DR3-EN092",
     "location": "Legendary Hero Decks"
   },
   {
     "card": "Dark Magician of Chaos",
-    "set": "Duelist Pack: Rivals of the Pharaoh",
+    "code": "DPRP-EN013",
     "location": "Legendary Hero Decks"
   },
-  {
-    "card": "Enemy Controller",
-    "set": "Duelist Pack: Battle City",
-    "location": "White"
-  },
-  {
-    "card": "Miracle Locus",
-    "set": "Duelist Pack: Yusei 2",
-    "location": "White"
-  },
-  {
-    "card": "Fighting Spirit",
-    "set": "Duelist Pack: Yusei",
-    "location": "White"
-  },
-  {
-    "card": "Grave Squirmer",
-    "set": "Duelist Pack: Jesse Anderson",
-    "location": "White"
-  },
+  { "card": "Enemy Controller", "code": "DPBC-EN019", "location": "White" },
+  { "card": "Miracle Locus", "code": "DP09-EN025", "location": "White" },
+  { "card": "Fighting Spirit", "code": "DP08-EN017", "location": "White" },
+  { "card": "Grave Squirmer", "code": "DP07-EN008", "location": "White" },
   {
     "card": "Tour Guide from the Underworld",
-    "set": "Collectible Tins 2012 Wave 1",
+    "code": "CT09-SP013",
     "location": "Binder"
   },
   {
     "card": "Number 17: Leviathan Dragon",
-    "set": "Collectible Tins 2011 Wave 1",
+    "code": "CT08-SP001",
     "location": "Double box"
   },
-  {
-    "card": "Botanical Lion",
-    "set": "Crossroads of Chaos",
-    "location": "Binder"
-  },
-  {
-    "card": "Botanical Lion",
-    "set": "Crossroads of Chaos",
-    "location": "Binder"
-  },
-  { "card": "Star Blast", "set": "Crimson Crisis", "location": "White" },
+  { "card": "Botanical Lion", "code": "CSOC-EN099", "location": "Binder" },
+  { "card": "Botanical Lion", "code": "CSOC-EN099", "location": "Binder" },
+  { "card": "Star Blast", "code": "CRMS-EN047", "location": "White" },
   {
     "card": "Spikeshield with Chain",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN214",
     "location": "White"
   },
   {
     "card": "Memory of an Adversary",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN212",
     "location": "White"
   },
-  {
-    "card": "Damage Gate",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Power Frame",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Spacegate",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Miniaturize",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Strike Slash",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "A Hero Emerges",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Earthquake",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
+  { "card": "Damage Gate", "code": "BP02-EN205", "location": "White" },
+  { "card": "Power Frame", "code": "BP02-EN204", "location": "White" },
+  { "card": "Spacegate", "code": "BP02-EN196", "location": "White" },
+  { "card": "Miniaturize", "code": "BP02-EN195", "location": "White" },
+  { "card": "Strike Slash", "code": "BP02-EN189", "location": "White" },
+  { "card": "A Hero Emerges", "code": "BP02-EN179", "location": "White" },
+  { "card": "Earthquake", "code": "BP02-EN145", "location": "White" },
   {
     "card": "Autonomous Action Unit",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN140",
     "location": "White"
   },
-  {
-    "card": "Axe of Despair",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
+  { "card": "Axe of Despair", "code": "BP02-EN131", "location": "White" },
   {
     "card": "Mecha Phantom Beast Hamstrat",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN124",
     "location": "White"
   },
   {
     "card": "Pyrotech Mech - Shiryu",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN122",
     "location": "White"
   },
-  {
-    "card": "Amarylease",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Tardy Orc",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
+  { "card": "Amarylease", "code": "BP02-EN120", "location": "White" },
+  { "card": "Tardy Orc", "code": "BP02-EN114", "location": "White" },
   {
     "card": "Tour Bus from the Underworld",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN105",
     "location": "Binder"
   },
-  {
-    "card": "Vylon Soldier",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
+  { "card": "Vylon Soldier", "code": "BP02-EN097", "location": "White" },
   {
     "card": "Anarchist Monk Ranshin",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN092",
     "location": "White"
   },
   {
     "card": "Samurai of the Ice Barrier",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN088",
     "location": "White"
   },
-  {
-    "card": "Des Mosquito",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Blizzard Dragon",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Phantom Dragon",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
+  { "card": "Des Mosquito", "code": "BP02-EN076", "location": "White" },
+  { "card": "Blizzard Dragon", "code": "BP02-EN075", "location": "White" },
+  { "card": "Phantom Dragon", "code": "BP02-EN065", "location": "White" },
   {
     "card": "Exodius the Ultimate Forbidden Lord",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN063",
     "location": "White"
   },
-  {
-    "card": "Truckroid",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
+  { "card": "Truckroid", "code": "BP02-EN055", "location": "White" },
   {
     "card": "Evil HERO Malicious Edge",
-    "set": "Battle Pack 2: War of the Giants",
+    "code": "BP02-EN054",
     "location": "White"
   },
-  {
-    "card": "Winged Rhynos",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Brain Crusher",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Treeborn Frog",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Steamroid",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Chiron the Mage",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Toon Gemini Elf",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "D.D. Assailant",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Mataza the Zapper",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "D.D. Warrior Lady",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Revival Jam",
-    "set": "Battle Pack 2: War of the Giants",
-    "location": "White"
-  },
-  {
-    "card": "Fiendish Chain",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "Double box"
-  },
-  {
-    "card": "Psi-Blocker",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Winged Rhynos", "code": "BP02-EN051", "location": "White" },
+  { "card": "Brain Crusher", "code": "BP02-EN047", "location": "White" },
+  { "card": "Treeborn Frog", "code": "BP02-EN043", "location": "White" },
+  { "card": "Steamroid", "code": "BP02-EN037", "location": "White" },
+  { "card": "Chiron the Mage", "code": "BP02-EN034", "location": "White" },
+  { "card": "Toon Gemini Elf", "code": "BP02-EN033", "location": "White" },
+  { "card": "D.D. Assailant", "code": "BP02-EN028", "location": "White" },
+  { "card": "Mataza the Zapper", "code": "BP02-EN025", "location": "White" },
+  { "card": "D.D. Warrior Lady", "code": "BP02-EN021", "location": "White" },
+  { "card": "Revival Jam", "code": "BP02-EN010", "location": "White" },
+  { "card": "Fiendish Chain", "code": "BP01-SP105", "location": "Double box" },
+  { "card": "Psi-Blocker", "code": "BP01-EN220", "location": "White" },
   {
     "card": "Blackwing - Zephyros the Elite",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN215",
     "location": "White"
   },
   {
     "card": "Hardened Armed Dragon",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN214",
     "location": "White"
   },
-  {
-    "card": "Naturia Strawberry",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Dark Resonator",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Dark Resonator",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Shield Warrior",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Vortex Trooper",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Blue Thunder T-45",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Naturia Strawberry", "code": "BP01-EN210", "location": "White" },
+  { "card": "Dark Resonator", "code": "BP01-EN203", "location": "White" },
+  { "card": "Dark Resonator", "code": "BP01-EN203", "location": "White" },
+  { "card": "Shield Warrior", "code": "BP01-EN202", "location": "White" },
+  { "card": "Vortex Trooper", "code": "BP01-EN199", "location": "White" },
+  { "card": "Blue Thunder T-45", "code": "BP01-EN198", "location": "White" },
+  { "card": "Cyber Valley", "code": "BP01-EN197", "location": "Binder" },
   {
     "card": "Cyber Valley",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "Binder"
-  },
-  {
-    "card": "Cyber Valley",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN197",
     "location": "Gold Sarcophagus Tin"
   },
   {
     "card": "Cloudian - Poison Cloud",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN193",
     "location": "White"
   },
-  {
-    "card": "Gravitic Orb",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  { "card": "Drillroid", "set": "Battle Pack: Epic Dawn", "location": "White" },
-  { "card": "Gyroid", "set": "Battle Pack: Epic Dawn", "location": "White" },
-  {
-    "card": "Grave Protector",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Gravitic Orb", "code": "BP01-EN192", "location": "White" },
+  { "card": "Drillroid", "code": "BP01-EN191", "location": "White" },
+  { "card": "Gyroid", "code": "BP01-EN190", "location": "White" },
+  { "card": "Grave Protector", "code": "BP01-EN186", "location": "White" },
   {
     "card": "Makyura the Destructor",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN180",
     "location": "White"
   },
-  {
-    "card": "Gilasaurus",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Morphing Jar",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Ape Fighter",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Card Guard",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Gilasaurus", "code": "BP01-EN177", "location": "White" },
+  { "card": "Morphing Jar", "code": "BP01-EN173", "location": "White" },
+  { "card": "Ape Fighter", "code": "BP01-EN169", "location": "White" },
+  { "card": "Card Guard", "code": "BP01-EN162", "location": "White" },
   {
     "card": "Arcana Force XIV - Temperance",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN151",
     "location": "White"
   },
-  {
-    "card": "The Calculator",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Ancient Gear Knight",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Ancient Gear Knight",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Doomcaliber Knight",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "The Calculator", "code": "BP01-EN149", "location": "White" },
+  { "card": "Ancient Gear Knight", "code": "BP01-EN146", "location": "White" },
+  { "card": "Ancient Gear Knight", "code": "BP01-EN146", "location": "White" },
+  { "card": "Doomcaliber Knight", "code": "BP01-EN141", "location": "White" },
   {
     "card": "Goblin Elite Attack Force",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN140",
     "location": "White"
   },
-  {
-    "card": "Cybernetic Magician",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Cybernetic Magician", "code": "BP01-EN139", "location": "White" },
   {
     "card": "Zaborg the Thunder Monarch",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN132",
     "location": "White"
   },
-  {
-    "card": "Insect Knight",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Archfiend Soldier",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Power Frame",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Miracle's Wake",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Pixie Ring",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Prideful Roar",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Needle Ceiling",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Darkworld Shackles",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Greenkappa",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "Graceful Charity",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Insect Knight", "code": "BP01-EN115", "location": "White" },
+  { "card": "Archfiend Soldier", "code": "BP01-EN112", "location": "White" },
+  { "card": "Power Frame", "code": "BP01-EN108", "location": "White" },
+  { "card": "Miracle's Wake", "code": "BP01-EN107", "location": "White" },
+  { "card": "Pixie Ring", "code": "BP01-EN103", "location": "White" },
+  { "card": "Prideful Roar", "code": "BP01-EN100", "location": "White" },
+  { "card": "Needle Ceiling", "code": "BP01-EN094", "location": "White" },
+  { "card": "Darkworld Shackles", "code": "BP01-EN083", "location": "White" },
+  { "card": "Greenkappa", "code": "BP01-EN056", "location": "White" },
+  { "card": "Graceful Charity", "code": "BP01-EN036", "location": "White" },
   {
     "card": "Harpie's Feather Duster",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN035",
     "location": "White"
   },
   {
     "card": "Gem-Knight Pearl",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN031",
     "location": "Double box"
   },
   {
     "card": "Adreus, Keeper of Armageddon",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN030",
     "location": "Binder"
   },
   {
     "card": "Tiras, Keeper of Genesis",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN029",
     "location": "Binder"
   },
-  {
-    "card": "White Night Dragon",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
-  {
-    "card": "White Night Dragon",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "White Night Dragon", "code": "BP01-EN016", "location": "White" },
+  { "card": "White Night Dragon", "code": "BP01-EN016", "location": "White" },
   {
     "card": "Super Conductor Tyranno",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN013",
     "location": "White"
   },
-  {
-    "card": "Ancient Gear Golem",
-    "set": "Battle Pack: Epic Dawn",
-    "location": "White"
-  },
+  { "card": "Ancient Gear Golem", "code": "BP01-EN011", "location": "White" },
   {
     "card": "Skull Archfiend of Lightning",
-    "set": "Battle Pack: Epic Dawn",
+    "code": "BP01-EN006",
     "location": "Binder"
   },
-  { "card": "Bull Blader", "set": "Abyss Rising", "location": "White" },
+  { "card": "Bull Blader", "code": "ABYR-SP002", "location": "White" },
   {
     "card": "Solar Wind Jammer",
-    "set": "Abyss Rising",
+    "code": "ABYR-EN011",
     "location": "Gold Sarcophagus Tin"
   },
-  { "card": "Dandylion", "set": "Absolute Powerforce", "location": "White" },
-  { "card": "Cyber Jar", "set": "", "location": "White" },
-  { "card": "Cyber Jar", "set": "", "location": "White" }
+  { "card": "Dandylion", "code": "ABPF-ENSE1", "location": "White" },
+  { "card": "Cyber Jar", "code": "", "location": "White" },
+  { "card": "Cyber Jar", "code": "", "location": "White" }
 ]

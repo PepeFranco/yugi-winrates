@@ -154,7 +154,7 @@ fs.writeFile(
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete2Sets.json",
   JSON.stringify(
-    cardsIAlreadyOwnToComplete2Sets.sort(sortPerMissingCards),
+    _.sortBy(cardsIAlreadyOwnToComplete2Sets, (c) => c.location),
     null,
     3
   ),
@@ -166,7 +166,7 @@ fs.writeFile(
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
   JSON.stringify(
-    cardsIAlreadyOwnToComplete3Sets.sort(sortPerMissingCards),
+    _.sortBy(cardsIAlreadyOwnToComplete3Sets, (c) => c.location),
     null,
     3
   ),

@@ -1,0 +1,401 @@
+{
+   "deck1": {
+      "name": "Mai Goats - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Big Shield Gardna",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB14"
+         },
+         {
+            "card": "Black Luster Soldier - Envoy of the Beginning",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA02"
+         },
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Battle City Box",
+            "code": "YSYR-EN015"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "SDDC-EN014"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "DR2-EN023"
+         },
+         {
+            "card": "Cyber Jar",
+            "location": "White",
+            "code": ""
+         },
+         {
+            "card": "D.D. Warrior Lady",
+            "location": "Sticker",
+            "code": "SD5-EN011"
+         },
+         {
+            "card": "Exiled Force",
+            "location": "Sticker",
+            "code": "SDWS-EN008"
+         },
+         {
+            "card": "Magical Merchant",
+            "location": "Sticker",
+            "code": "SDPL-EN018"
+         },
+         {
+            "card": "Magician of Faith",
+            "location": "Sticker",
+            "code": "YSD-EN012"
+         },
+         {
+            "card": "Morphing Jar",
+            "location": "Sticker",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "location": "Sticker",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Sinister Serpent",
+            "location": "Duel Devastator Yellow",
+            "code": "SBAD-EN037"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "DLG1-EN041"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "DB2-EN058"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "CP02-EN015"
+         },
+         {
+            "card": "Tribe-Infecting Virus",
+            "location": "Sticker",
+            "code": "SD4-EN007"
+         },
+         {
+            "card": "Tsukuyomi",
+            "location": "Sticker",
+            "code": "SD6-EN011"
+         },
+         {
+            "card": "Card Destruction",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB27"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "White",
+            "code": "SDP-040"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB26"
+         },
+         {
+            "card": "Premature Burial",
+            "location": "Sticker",
+            "code": "SDRL-EN024"
+         },
+         {
+            "card": "Scapegoat",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN023"
+         },
+         {
+            "card": "Scapegoat",
+            "location": "Sticker",
+            "code": "SDPL-EN025"
+         },
+         {
+            "card": "Snatch Steal",
+            "location": "Sticker",
+            "code": "SD5-EN019"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN042"
+         },
+         {
+            "card": "Magic Cylinder",
+            "location": "Battle City Box",
+            "code": "YSYR-EN043"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Ring of Destruction",
+            "location": "Sticker",
+            "code": "SDKS-EN033"
+         },
+         {
+            "card": "Sakuretsu Armor",
+            "location": "Legendary Hero Decks",
+            "code": "YSKR-EN043"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         },
+         {
+            "card": "Thousand-Eyes Restrict",
+            "location": "Duel Devastator Green",
+            "code": "SS04-ENB30"
+         }
+      ],
+      "cardsNotFound": [
+         "Chaos Sorcerer",
+         "Delinquent Duo",
+         "Metamorphosis",
+         "Metamorphosis",
+         "Thousand-Eyes Restrict",
+         "Thousand-Eyes Restrict"
+      ],
+      "completed": 86.04651162790698
+   },
+   "deck2": {
+      "name": "Goat Monarch - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "Sticker",
+            "code": "SR01-SP007"
+         },
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "White",
+            "code": "SD4-EN012"
+         },
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "Sticker",
+            "code": "SD4-EN012"
+         },
+         {
+            "card": "Thestalos the Firestorm Monarch",
+            "location": "Sticker",
+            "code": "SR01-SP008"
+         },
+         {
+            "card": "Thestalos the Firestorm Monarch",
+            "location": "Sticker",
+            "code": "SR01-EN008"
+         },
+         {
+            "card": "Airknight Parshath",
+            "location": "Sticker",
+            "code": "SR05-EN005"
+         },
+         {
+            "card": "Airknight Parshath",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN132"
+         },
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Sticker",
+            "code": "SDSC-EN011"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Sticker",
+            "code": "LCYW-EN239"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Sticker",
+            "code": "DLG1-EN077"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Duel Devastator Green",
+            "code": "5DS1-EN017"
+         },
+         {
+            "card": "Sangan",
+            "location": "White",
+            "code": "SDJ-019"
+         },
+         {
+            "card": "Cyber Jar",
+            "location": "White",
+            "code": ""
+         },
+         {
+            "card": "Sinister Serpent",
+            "location": "Duel Devastator Yellow",
+            "code": "SBAD-EN037"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSD-EN027"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Sticker",
+            "code": "SYE-040"
+         },
+         {
+            "card": "Soul Exchange",
+            "location": "Kaiba Corp",
+            "code": "YSKR-EN029"
+         },
+         {
+            "card": "Soul Exchange",
+            "location": "Sticker",
+            "code": "SR01-SP030"
+         },
+         {
+            "card": "Soul Exchange",
+            "location": "Sticker",
+            "code": "SDY-041"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SD3-EN017"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SD1-EN012"
+         },
+         {
+            "card": "Swords of Revealing Light",
+            "location": "Battle City Box",
+            "code": "YSYR-EN026"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "White",
+            "code": "BP01-EN036"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA26"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Sticker",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Brain Control",
+            "location": "White",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Snatch Steal",
+            "location": "Sticker",
+            "code": "SD5-EN019"
+         },
+         {
+            "card": "Premature Burial",
+            "location": "Sticker",
+            "code": "SDRL-EN024"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN035"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "White",
+            "code": "YS12-EN031"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN036"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Double box",
+            "code": "TU05-SP009"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "White",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "Sticker",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Ring of Destruction",
+            "location": "Kaiba Corp",
+            "code": "LCKC-EN050"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "White",
+            "code": "YSD-EN038"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN040"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN035"
+         }
+      ],
+      "cardsNotFound": [
+         "Thestalos the Firestorm Monarch",
+         "Delinquent Duo"
+      ],
+      "completed": 95
+   }
+}

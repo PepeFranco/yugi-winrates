@@ -1,0 +1,335 @@
+{
+   "deck1": {
+      "name": "GOAT format last turn turbo - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Ninja Grandmaster Sasuke",
+            "location": "Sticker",
+            "code": "BP02-EN029"
+         },
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Battle City Box",
+            "code": "YSYR-EN015"
+         },
+         {
+            "card": "Exiled Force",
+            "location": "Sticker",
+            "code": "SDWS-EN008"
+         },
+         {
+            "card": "Megamorph",
+            "location": "Sticker",
+            "code": "SKE-PT037"
+         },
+         {
+            "card": "Megamorph",
+            "location": "Gold Sarcophagus Tin",
+            "code": "SKE-037"
+         },
+         {
+            "card": "Megamorph",
+            "location": "Sticker",
+            "code": "SDKS-EN027"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "White",
+            "code": "SDP-040"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSDJ-EN024"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB26"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "location": "Sticker",
+            "code": "YS12-EN027"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "location": "Double box",
+            "code": "WIRA-EN052"
+         },
+         {
+            "card": "Swords of Revealing Light",
+            "location": "Battle City Box",
+            "code": "YSYR-EN026"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Battle City Box",
+            "code": "YSYR-EN028"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN042"
+         },
+         {
+            "card": "Ultimate Offering",
+            "location": "Sticker",
+            "code": "SDP-046"
+         },
+         {
+            "card": "Ultimate Offering",
+            "location": "Duel Devastator Green",
+            "code": "SDJ-047"
+         },
+         {
+            "card": "Ultimate Offering",
+            "location": "Sticker",
+            "code": "SDJ-047"
+         },
+         {
+            "card": "Wall of Revealing Light",
+            "location": "White",
+            "code": "AST-SP050"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Sticker",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "White",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "Sticker",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "White",
+            "code": "SDOK-EN033"
+         }
+      ],
+      "cardsNotFound": [
+         "Jirai Gumo",
+         "Jirai Gumo",
+         "Jirai Gumo",
+         "Dark Elf",
+         "Dark Elf",
+         "Dark Elf",
+         "Ninja Grandmaster Sasuke",
+         "Jowgen the Spiritualist",
+         "Jowgen the Spiritualist",
+         "Jowgen the Spiritualist",
+         "Messenger of Peace",
+         "Messenger of Peace",
+         "Messenger of Peace",
+         "Wall of Revealing Light",
+         "Wall of Revealing Light",
+         "Solemn Judgment",
+         "Solemn Judgment",
+         "Last Turn",
+         "Last Turn"
+      ],
+      "completed": 53.65853658536586
+   },
+   "deck2": {
+      "name": "Chaos Thunder Turbo (Goat Format) - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Black Luster Soldier - Envoy of the Beginning",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENA02"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "SDDC-EN014"
+         },
+         {
+            "card": "Chaos Sorcerer",
+            "location": "Sticker",
+            "code": "DR2-EN023"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "DLG1-EN041"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "DB2-EN058"
+         },
+         {
+            "card": "Thunder Dragon",
+            "location": "White",
+            "code": "CP02-EN015"
+         },
+         {
+            "card": "Blade Knight",
+            "location": "Kaiba Corp",
+            "code": "YSKR-EN018"
+         },
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Sticker",
+            "code": "SDSC-EN011"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Sticker",
+            "code": "LCYW-EN239"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Sticker",
+            "code": "DLG1-EN077"
+         },
+         {
+            "card": "Dekoichi the Battlechanted Locomotive",
+            "location": "Legendary Hero Decks",
+            "code": "DR3-EN092"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Sticker",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Sangan",
+            "location": "Sticker",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Night Assailant",
+            "location": "Duel Devastator Yellow",
+            "code": "SBCB-EN114"
+         },
+         {
+            "card": "Night Assailant",
+            "location": "Duel Devastator Green",
+            "code": "SBCB-EN114"
+         },
+         {
+            "card": "Magician of Faith",
+            "location": "Sticker",
+            "code": "YSD-EN012"
+         },
+         {
+            "card": "Magician of Faith",
+            "location": "Duel Devastator Green",
+            "code": "SS04-ENA14"
+         },
+         {
+            "card": "Sinister Serpent",
+            "location": "Duel Devastator Yellow",
+            "code": "SBAD-EN037"
+         },
+         {
+            "card": "Snatch Steal",
+            "location": "Sticker",
+            "code": "SD5-EN019"
+         },
+         {
+            "card": "Card Destruction",
+            "location": "Duel Devastator Blue",
+            "code": "YGLD-ENB27"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "White",
+            "code": "BP01-EN036"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Sticker",
+            "code": "YSD-EN027"
+         },
+         {
+            "card": "Lightning Vortex",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN026"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Sticker",
+            "code": "SDDE-EN020"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Sticker",
+            "code": "SYE-040"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Gold Sarcophagus Tin",
+            "code": "YSYR-EN030"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN027"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN027"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Legendary Hero Decks",
+            "code": "YSKR-EN032"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Battle City Box",
+            "code": "YSYR-EN040"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "Duel Devastator Blue",
+            "code": "YS16-EN035"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "White",
+            "code": "YS12-EN031"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "White",
+            "code": "YS11-EN037"
+         },
+         {
+            "card": "Ring of Destruction",
+            "location": "Sticker",
+            "code": "SDKS-EN033"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Duel Devastator Blue",
+            "code": "YS18-EN037"
+         }
+      ],
+      "cardsNotFound": [
+         "Dekoichi the Battlechanted Locomotive",
+         "Dekoichi the Battlechanted Locomotive",
+         "Delinquent Duo"
+      ],
+      "completed": 92.5
+   }
+}

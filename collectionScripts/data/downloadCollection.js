@@ -22,6 +22,7 @@ const mainFunction = async () => {
           }
         }
       );
+      console.log(collection);
       fs.writeFile(
         "./collectionScripts/data/collection.json",
         JSON.stringify(collection, null, 3),

@@ -19,7 +19,7 @@ const cardsNotInStructureDecks = collection.filter(
 );
 const allCardsNotInSd = cardsNotInStructureDecks.map((card) => ({
   card: card["Name"],
-  set: card["Set"],
+  code: card["Code"],
   location: card["In Box"],
 }));
 
@@ -81,7 +81,7 @@ console.log("Cards owned from battle pack: ", cardsToBuildCube.length);
 
 fs.writeFile(
   "./collectionScripts/battlePack/cardsIAlreadyOwnForBattlePacks.json",
-  JSON.stringify(cardsToBuildCube),
+  JSON.stringify(cardsToBuildCube, null, 3),
   function (err) {
     if (err) throw err;
   }
@@ -89,7 +89,7 @@ fs.writeFile(
 
 fs.writeFile(
   "./collectionScripts/battlePack/cardsINeedForBattlePacks.json",
-  JSON.stringify([...battlePackCardsCopy, ...battlePack2CardsCopy]),
+  JSON.stringify([...battlePackCardsCopy, ...battlePack2CardsCopy], null, 3),
   function (err) {
     if (err) throw err;
   }

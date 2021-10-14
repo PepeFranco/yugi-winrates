@@ -6,16 +6,13 @@ const cardSets = require("./data/sets.json");
 const cardSetsByDate = _.orderBy(cardSets, ["tcg_date"]);
 
 const getCardInfo = async (cardName) => {
-  console.log("==================");
-  console.log(cardName);
   const name = `${cardName.trim()}`;
+  // console.log("==================");
+  // console.log(name);
   const result = await axios
-    .get(
-      "https://db.ygoprodeck.com/api/v7/cardinfo.php?name=" +
-        encodeURIComponent(name)
-    )
+    .get("https://db.ygoprodeck.com/api/v7/cardinfo.php?name=" + name)
     .catch((e) => {
-      console.error(e);
+      // console.error(e);
     });
 
   // console.log(result);
@@ -63,20 +60,11 @@ const cardIsComplete = (card) => {
   return Boolean(
     card["Set"] &&
       card["ID"] &&
-      card["Type"] &&
-      card["ATK"] &&
-      card["DEF"] &&
-      card["Level"] &&
       card["Card Type"] &&
-      card["Attribute"] &&
-      card["Archetype"] &&
-      card["Scale"] &&
-      card["Link Scale"] &&
       card["Description"] &&
       card["Earliest Set"] &&
       card["Earliest Date"] &&
-      card["Is Speed Duel"] &&
-      card["Image"]
+      card["Is Speed Duel"]
   );
 };
 
@@ -84,32 +72,44 @@ const mainFunction = async () => {
   try {
     for (let i = 0; i < collectionCopy.length; i++) {
       const card = collectionCopy[i];
+      if (!card["Image"] && card["ID"]) {
+        card[
+          "Image"
+        ] = `=IMAGE("https://storage.googleapis.com/ygoprodeck.com/pics/${
+          card.ID || ""
+        }.jpg")`;
+      }
       if (!cardIsComplete(card)) {
         const cardInfo = await getCardInfo(card["Name"]);
+        console.log("========================");
+        console.log(card["Name"], card["Code"], card["In Box"]);
         if (cardInfo) {
           const set = getCardSetName(card);
-          card["Set"] = set;
-          card["ID"] = cardInfo.id;
-          card["Type"] = cardInfo.type;
-          card["ATK"] = cardInfo.atk;
-          card["DEF"] = cardInfo.def;
-          card["Level"] = cardInfo.level;
-          card["Card Type"] = cardInfo.race;
-          card["Attribute"] = cardInfo.attribute;
-          card["Archetype"] = cardInfo.archetype;
-          card["Scale"] = cardInfo.scale;
-          card["Link Scale"] = cardInfo.linkval;
-          card["Description"] = cardInfo.desc;
+          card["Set"] = set || "";
+          card["ID"] = cardInfo.id || "";
+          card["Type"] = cardInfo.type || "";
+          card["ATK"] = cardInfo.atk || "";
+          card["DEF"] = cardInfo.def || "";
+          card["Level"] = cardInfo.level || "";
+          card["Card Type"] = cardInfo.race || "";
+          card["Attribute"] = cardInfo.attribute || "";
+          card["Archetype"] = cardInfo.archetype || "";
+          card["Scale"] = cardInfo.scale || "";
+          card["Link Scale"] = cardInfo.linkval || "";
+          card["Description"] = cardInfo.desc || "";
           const earliestSet = getEarliestInfo(cardInfo);
-          card["Earliest Set"] = earliestSet.earliestSet;
-          card["Earliest Date"] = earliestSet.earliestDate;
-          card["Is Speed Duel"] =
-            set && set.toLowerCase().includes("speed duel") ? "Yes" : "No";
-          const image =
-            cardInfo.card_images &&
-            cardInfo.card_images[0] &&
-            cardInfo.card_images[0].image_url;
-          card["Image"] = `=IMAGE("${image}")`;
+          card["Earliest Set"] = earliestSet.earliestSet || "";
+          card["Earliest Date"] = earliestSet.earliestDate || "";
+          const isSpeedDuel = set.toLowerCase().includes("speed duel")
+            ? "Yes"
+            : "No";
+          console.log({ isSpeedDuel });
+          card["Is Speed Duel"] = isSpeedDuel;
+          card[
+            "Image"
+          ] = `=IMAGE("https://storage.googleapis.com/ygoprodeck.com/pics/${
+            cardInfo.id || ""
+          }.jpg")`;
         }
         sleep(100);
       }
