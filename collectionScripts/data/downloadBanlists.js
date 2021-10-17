@@ -25,12 +25,16 @@ const mainFunction = async () => {
       const month = b1Sheet.getCell(1, c).value;
       const date = `${year}-${month}`;
       console.log(date);
-      const cardsInThisList = {};
+      const cardsInThisList = [];
       for (let r = 2; r < rowCount; r++) {
         const card = b1Sheet.getCell(r, 0).value;
         const number = b1Sheet.getCell(r, c).value;
-        if (number !== null) {
-          cardsInThisList[card] = number;
+        if (number !== null && number !== 3) {
+          const limitedCard = {
+            card,
+            number,
+          };
+          cardsInThisList.push(limitedCard);
         }
       }
       const thisBanlist = {
