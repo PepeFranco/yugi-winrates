@@ -91,14 +91,40 @@ sds.map((sd) => {
   // console.log(thisReleaseDate, thisBanlist.date);
 });
 
-const allCollectionCards = collection.map((card) => ({
-  card: card["Name"],
-  location: card["In Box"],
-  code: card["Code"],
-  deck: card["In DecK"],
-  location: card["In Box"],
-  sleeve: card["In Sleeve"],
-}));
+const allCollectionCards = collection
+  .map((card) => ({
+    card: card["Name"],
+    location: card["In Box"],
+    code: card["Code"],
+    set: card["Set"],
+    deck: card["In DecK"],
+    location: card["In Box"],
+    sleeve: card["In Sleeve"],
+  }))
+  .sort((a, b) => {
+    if (a.location === "Battle City Box") {
+      return 1;
+    }
+    if (a.location !== "Battle City Box") {
+      return -1;
+    }
+    if (!a.set && b.set) {
+      return 1;
+    }
+    if (a.set && !b.set) {
+      return -1;
+    }
+    if (!a.set && !b.set) {
+      return 0;
+    }
+    if (a.set.toLowerCase().includes("structure deck")) {
+      return -1;
+    }
+    if (!a.set.toLowerCase().includes("structure deck")) {
+      return 1;
+    }
+    return 0;
+  });
 
 console.log("All cards in collection: ", allCollectionCards.length);
 console.log("Unique SD cards:    ", uniqueCardsInSD.length);
@@ -125,10 +151,12 @@ allCollectionCards.map((cc) => {
   );
 
   if (cardIndex2 >= 0) {
-    cardsIAlreadyOwnToComplete2Sets.push({
-      ...cc,
-      deck: uniqueCardsTimes2[cardIndex2].deck,
-    });
+    if (cc.location !== "Sticker") {
+      cardsIAlreadyOwnToComplete2Sets.push({
+        ...cc,
+        deck: uniqueCardsTimes2[cardIndex2].deck,
+      });
+    }
     uniqueCardsTimes2.splice(cardIndex2, 1);
   }
 
@@ -137,10 +165,12 @@ allCollectionCards.map((cc) => {
   );
 
   if (cardIndex3 >= 0) {
-    cardsIAlreadyOwnToComplete3Sets.push({
-      ...cc,
-      deck: uniqueCardsTimes3[cardIndex3].deck,
-    });
+    if (cc.location !== "Sticker") {
+      cardsIAlreadyOwnToComplete3Sets.push({
+        ...cc,
+        deck: uniqueCardsTimes3[cardIndex3].deck,
+      });
+    }
     uniqueCardsTimes3.splice(cardIndex3, 1);
   }
 });
@@ -178,7 +208,7 @@ const cardsPerDeck3 = _.sortBy(
 // console.log(cardsPerDeck2);
 // console.log(cardsPerDeck3);
 
-const sortPerMissingCards = (a, b) => {
+const sortPerMissingCards2 = (a, b) => {
   const cardsNeededInDeckA = cardsPerDeck2.find((d) => d.deck === a.deck).cards;
   const cardsNeededInDeckB = cardsPerDeck2.find((d) => d.deck === b.deck).cards;
   if (cardsNeededInDeckA < cardsNeededInDeckB) {
@@ -196,7 +226,25 @@ const sortPerMissingCards = (a, b) => {
   return 0;
 };
 
-const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort(sortPerMissingCards);
+const sortPerMissingCards3 = (a, b) => {
+  const cardsNeededInDeckA = cardsPerDeck3.find((d) => d.deck === a.deck).cards;
+  const cardsNeededInDeckB = cardsPerDeck3.find((d) => d.deck === b.deck).cards;
+  if (cardsNeededInDeckA < cardsNeededInDeckB) {
+    return -1;
+  }
+  if (cardsNeededInDeckA > cardsNeededInDeckB) {
+    return 1;
+  }
+  if (a.card < b.card) {
+    return -1;
+  }
+  if (a.card > b.card) {
+    return 1;
+  }
+  return 0;
+};
+
+const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort(sortPerMissingCards2);
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsNeededToComplete2Sets.json",
@@ -206,7 +254,7 @@ fs.writeFile(
   }
 );
 
-const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort(sortPerMissingCards);
+const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort(sortPerMissingCards3);
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",
