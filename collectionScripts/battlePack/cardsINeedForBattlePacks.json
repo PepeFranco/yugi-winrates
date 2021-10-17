@@ -1,350 +1,374 @@
 [
    {
-      "card": "Alector, Sovereign of Birds"
+      "card": "Adreus, Keeper of Armageddon",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Ante"
+      "card": "Alector, Sovereign of Birds",
+      "type": "Effect Monster"
    },
    {
-      "card": "Asura Priest"
+      "card": "Ante",
+      "type": "Spell Card"
    },
    {
-      "card": "Backup Warrior"
+      "card": "Asura Priest",
+      "type": "Spirit Monster"
    },
    {
-      "card": "Bait Doll"
+      "card": "Axe of Fools",
+      "type": "Spell Card"
    },
    {
-      "card": "Big Bang Shot"
+      "card": "Aye-Iron",
+      "type": "Effect Monster"
    },
    {
-      "card": "Blast Sphere"
+      "card": "Backup Warrior",
+      "type": "Effect Monster"
    },
    {
-      "card": "Caius the Shadow Monarch"
+      "card": "Bacon Saver",
+      "type": "Effect Monster"
    },
    {
-      "card": "Chainsaw Insect"
+      "card": "Bait Doll",
+      "type": "Spell Card"
    },
    {
-      "card": "Changing Destiny"
+      "card": "Beast Machine King Barbaros Ür",
+      "type": "Effect Monster"
    },
    {
-      "card": "Charcoal Inpachi"
+      "card": "Belial - Marquis of Darkness",
+      "type": "Effect Monster"
    },
    {
-      "card": "Dark Dust Spirit"
+      "card": "Big Bang Shot",
+      "type": "Spell Card"
    },
    {
-      "card": "Dark Valkyria"
+      "card": "Blast Sphere",
+      "type": "Effect Monster"
    },
    {
-      "card": "Different Dimension Gate"
+      "card": "Breakthrough Skill",
+      "type": "Trap Card"
    },
    {
-      "card": "Divine Wrath"
+      "card": "Caius the Shadow Monarch",
+      "type": "Effect Monster"
    },
    {
-      "card": "Fabled Ashenveil"
+      "card": "Cardcar D",
+      "type": "Effect Monster"
    },
    {
-      "card": "Fabled Raven"
+      "card": "Chainsaw Insect",
+      "type": "Effect Monster"
    },
    {
-      "card": "Fortress Warrior"
+      "card": "Changing Destiny",
+      "type": "Trap Card"
    },
    {
-      "card": "Gachi Gachi Gantetsu"
+      "card": "Chaos Hunter",
+      "type": "Effect Monster"
    },
    {
-      "card": "Goblin Attack Force"
+      "card": "Charcoal Inpachi",
+      "type": "Normal Monster"
    },
    {
-      "card": "Guardian Sphinx"
+      "card": "Curse of Anubis",
+      "type": "Trap Card"
    },
    {
-      "card": "Half or Nothing"
+      "card": "Cursed Armaments",
+      "type": "Spell Card"
    },
    {
-      "card": "Heavy Storm"
+      "card": "Dark Dust Spirit",
+      "type": "Spirit Monster"
    },
    {
-      "card": "Helping Robo for Combat"
+      "card": "Dark Valkyria",
+      "type": "Gemini Monster"
    },
    {
-      "card": "Infected Mail"
+      "card": "Darklord Zerato",
+      "type": "Effect Monster"
    },
    {
-      "card": "Inverse Universe"
+      "card": "Different Dimension Gate",
+      "type": "Spell Card"
    },
    {
-      "card": "King Tiger Wanghu"
+      "card": "Dimension Gate",
+      "type": "Trap Card"
    },
    {
-      "card": "Krebons"
+      "card": "Divine Wrath",
+      "type": "Trap Card"
    },
    {
-      "card": "Level Warrior"
+      "card": "Dododo Bot",
+      "type": "Effect Monster"
    },
    {
-      "card": "Liberty at Last!"
+      "card": "Dragon Ice",
+      "type": "Effect Monster"
    },
    {
-      "card": "Machina Fortress"
+      "card": "Evocator Chevalier",
+      "type": "Gemini Monster"
    },
    {
-      "card": "Power Giant"
+      "card": "Fabled Ashenveil",
+      "type": "Effect Monster"
    },
    {
-      "card": "Premature Burial"
+      "card": "Fabled Raven",
+      "type": "Tuner Monster"
    },
    {
-      "card": "Raiza the Storm Monarch"
+      "card": "Fiendish Chain",
+      "type": "Trap Card"
    },
    {
-      "card": "Skill Drain"
+      "card": "Fortress Warrior",
+      "type": "Effect Monster"
    },
    {
-      "card": "Slate Warrior"
+      "card": "Gachi Gachi Gantetsu",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Snatch Steal"
+      "card": "Gachi Gachi Gantetsu",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Snowman Eater"
+      "card": "Gem-Knight Pearl",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Solemn Judgment"
+      "card": "Gem-Knight Pearl",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Spell Shield Type-8"
+      "card": "Goblin Attack Force",
+      "type": "Effect Monster"
    },
    {
-      "card": "Stealth Bird"
+      "card": "Guardian Sphinx",
+      "type": "Effect Monster"
    },
    {
-      "card": "Tragoedia"
+      "card": "Half Counter",
+      "type": "Trap Card"
    },
    {
-      "card": "Twin-Sword Marauder"
+      "card": "Half or Nothing",
+      "type": "Trap Card"
    },
    {
-      "card": "Vampire Lord"
+      "card": "Heavy Storm",
+      "type": "Spell Card"
    },
    {
-      "card": "Voltic Kong"
+      "card": "Helping Robo for Combat",
+      "type": "Effect Monster"
    },
    {
-      "card": "Ancient Gear Golem"
+      "card": "Hyper-Ancient Shark Megalodon",
+      "type": "Effect Monster"
    },
    {
-      "card": "Ape Fighter"
+      "card": "Infected Mail",
+      "type": "Spell Card"
    },
    {
-      "card": "Autonomous Action Unit"
+      "card": "Inverse Universe",
+      "type": "Trap Card"
    },
    {
-      "card": "Axe of Despair"
+      "card": "King Tiger Wanghu",
+      "type": "Effect Monster"
    },
    {
-      "card": "Axe of Fools"
+      "card": "Krebons",
+      "type": "Tuner Monster"
    },
    {
-      "card": "Aye-Iron"
+      "card": "Labyrinth of Nightmare",
+      "type": "Trap Card"
    },
    {
-      "card": "Bacon Saver"
+      "card": "Level Warrior",
+      "type": "Effect Monster"
    },
    {
-      "card": "Beast Machine King Barbaros Ür"
+      "card": "Liberty at Last!",
+      "type": "Trap Card"
    },
    {
-      "card": "Belial - Marquis of Darkness"
+      "card": "Machina Fortress",
+      "type": "Effect Monster"
    },
    {
-      "card": "Big Bang Shot"
+      "card": "Machine Lord Ur",
+      "type": "Effect Monster"
    },
    {
-      "card": "Blackwing - Zephyros the Elite"
+      "card": "Magical Arm Shield",
+      "type": "Trap Card"
    },
    {
-      "card": "Blizzard Dragon"
+      "card": "Malevolent Nuzzler",
+      "type": "Spell Card"
    },
    {
-      "card": "Breakthrough Skill"
+      "card": "Mermail Abyssmegalo",
+      "type": "Effect Monster"
    },
    {
-      "card": "Cardcar D"
+      "card": "Metalmorph",
+      "type": "Trap Card"
    },
    {
-      "card": "Chaos Hunter"
+      "card": "Mosaic Manticore",
+      "type": "Effect Monster"
    },
    {
-      "card": "Curse of Anubis"
+      "card": "Mythical Beast Cerberus",
+      "type": "Effect Monster"
    },
    {
-      "card": "Cursed Armaments"
+      "card": "Necro Gardna",
+      "type": "Effect Monster"
    },
    {
-      "card": "Dark Valkyria"
+      "card": "Ninja Grandmaster Sasuke",
+      "type": "Effect Monster"
    },
    {
-      "card": "Darklord Zerato"
+      "card": "No Entry!!",
+      "type": "Trap Card"
    },
    {
-      "card": "Dimension Gate"
+      "card": "Number 17: Leviathan Dragon",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Dododo Bot"
+      "card": "Oracle of the Sun",
+      "type": "Effect Monster"
    },
    {
-      "card": "Dragon Ice"
+      "card": "Overworked",
+      "type": "Trap Card"
    },
    {
-      "card": "Drillroid"
+      "card": "Photon Wyvern",
+      "type": "Effect Monster"
    },
    {
-      "card": "Evocator Chevalier"
+      "card": "Plaguespreader Zombie",
+      "type": "Tuner Monster"
    },
    {
-      "card": "Exarion Universe"
+      "card": "Power Giant",
+      "type": "Effect Monster"
    },
    {
-      "card": "Fortress Warrior"
+      "card": "Premature Burial",
+      "type": "Spell Card"
    },
    {
-      "card": "Goblin Attack Force"
+      "card": "Raiza the Storm Monarch",
+      "type": "Effect Monster"
    },
    {
-      "card": "Goblin Elite Attack Force"
+      "card": "Reasoning",
+      "type": "Spell Card"
    },
    {
-      "card": "Gyroid"
+      "card": "Reptilianne Rage",
+      "type": "Spell Card"
    },
    {
-      "card": "Half Counter"
+      "card": "Rocket Pilder",
+      "type": "Spell Card"
    },
    {
-      "card": "Half or Nothing"
+      "card": "Skill Drain",
+      "type": "Trap Card"
    },
    {
-      "card": "Helping Robo for Combat"
+      "card": "Slate Warrior",
+      "type": "Flip Effect Monster"
    },
    {
-      "card": "Horn of the Unicorn"
+      "card": "Snatch Steal",
+      "type": "Spell Card"
    },
    {
-      "card": "Hyper-Ancient Shark Megalodon"
+      "card": "Snowman Eater",
+      "type": "Effect Monster"
    },
    {
-      "card": "Krebons"
+      "card": "Solemn Judgment",
+      "type": "Trap Card"
    },
    {
-      "card": "Labyrinth of Nightmare"
+      "card": "Spell Shield Type-8",
+      "type": "Trap Card"
    },
    {
-      "card": "Luster Dragon"
+      "card": "Splendid Venus",
+      "type": "Effect Monster"
    },
    {
-      "card": "Machine Lord Ur"
+      "card": "Stealth Bird",
+      "type": "Effect Monster"
    },
    {
-      "card": "Magical Arm Shield"
+      "card": "Swords of Concealing Light",
+      "type": "Spell Card"
    },
    {
-      "card": "Malevolent Nuzzler"
+      "card": "Time Machine",
+      "type": "Trap Card"
    },
    {
-      "card": "Mermail Abyssmegalo"
+      "card": "Tiras, Keeper of Genesis",
+      "type": "XYZ Monster"
    },
    {
-      "card": "Metalmorph"
+      "card": "Tragoedia",
+      "type": "Effect Monster"
    },
    {
-      "card": "Miracle's Wake"
+      "card": "Twin-Sword Marauder",
+      "type": "Effect Monster"
    },
    {
-      "card": "Mosaic Manticore"
+      "card": "Union Attack",
+      "type": "Spell Card"
    },
    {
-      "card": "Mythical Beast Cerberus"
+      "card": "Vampire Lord",
+      "type": "Effect Monster"
    },
    {
-      "card": "Necro Gardna"
+      "card": "Voltic Kong",
+      "type": "Effect Monster"
    },
    {
-      "card": "Ninja Grandmaster Sasuke"
+      "card": "Vylon Prism",
+      "type": "Tuner Monster"
    },
    {
-      "card": "No Entry!!"
-   },
-   {
-      "card": "Oracle of the Sun"
-   },
-   {
-      "card": "Overworked"
-   },
-   {
-      "card": "Photon Wyvern"
-   },
-   {
-      "card": "Plaguespreader Zombie"
-   },
-   {
-      "card": "Pot of Greed"
-   },
-   {
-      "card": "Power Giant"
-   },
-   {
-      "card": "Premature Burial"
-   },
-   {
-      "card": "Reasoning"
-   },
-   {
-      "card": "Reckless Greed"
-   },
-   {
-      "card": "Reptilianne Rage"
-   },
-   {
-      "card": "Rocket Pilder"
-   },
-   {
-      "card": "Shield Warrior"
-   },
-   {
-      "card": "Skill Successor"
-   },
-   {
-      "card": "Slate Warrior"
-   },
-   {
-      "card": "Splendid Venus"
-   },
-   {
-      "card": "Super Conductor Tyranno"
-   },
-   {
-      "card": "Swords of Concealing Light"
-   },
-   {
-      "card": "Time Machine"
-   },
-   {
-      "card": "Treeborn Frog"
-   },
-   {
-      "card": "Twin-Sword Marauder"
-   },
-   {
-      "card": "Union Attack"
-   },
-   {
-      "card": "Vylon Prism"
-   },
-   {
-      "card": "Vylon Tetra"
+      "card": "Vylon Tetra",
+      "type": "Tuner Monster"
    }
 ]

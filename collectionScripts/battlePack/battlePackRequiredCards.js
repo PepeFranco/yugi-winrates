@@ -2,84 +2,122 @@ const _ = require("lodash");
 const fs = require("fs");
 
 const collection = require("../data/collection.json");
-const allCollectionCards = collection.map((card) => ({ card: card["Name"] }));
 
 const battlePackCards = require("./bp01.json");
-const allBattlePackCards = battlePackCards.map((card) => ({ card: card.name }));
+const allBattlePackCards = battlePackCards.map((card) => ({
+  card: card.name,
+  type: card.type,
+}));
 
 const battlePack2Cards = require("./bp02.json");
 const allBattlePack2Cards = battlePack2Cards.map((card) => ({
   card: card.name,
+  type: card.type,
 }));
 
+console.log("Cards in Battle Pack 1: ", battlePackCards.length);
+console.log("Cards in Battle Pack 2: ", battlePack2Cards.length);
+console.log(
+  "Combined Cards in Battle Packs: ",
+  battlePackCards.length + battlePack2Cards.length
+);
+
+const combinedBattlePackCards = _.uniqBy(
+  [...allBattlePackCards, ...allBattlePack2Cards],
+  (c) => c.card
+);
+
+const xyzMonsters = combinedBattlePackCards.filter(
+  (c) => c.type === "XYZ Monster"
+);
+
+console.log(
+  "Unique cards in combined Battle Pack: ",
+  combinedBattlePackCards.length
+);
+combinedBattlePackCards.push(...xyzMonsters);
+console.log(
+  "Unique cards in combined Battle Pack + double XYZ monsters: ",
+  combinedBattlePackCards.length
+);
+
 const cardsNotInStructureDecks = collection.filter(
-  (card) => !card["In Deck"].includes("Structure Deck")
+  (card) =>
+    !card["In Deck"].includes("Structure Deck") &&
+    card["In Box"] !== "Double box"
 );
 const allCardsNotInSd = cardsNotInStructureDecks.map((card) => ({
   card: card["Name"],
   code: card["Code"],
   location: card["In Box"],
+  sleeve: card["In Sleeve"],
+  deck: card["In Deck"],
+  outOfPlace: card["Out of place"],
+  type: card["Type"],
+  attribute: card["Attribute"],
 }));
 
-console.log("All cards in collection: ", allCollectionCards.length);
-console.log("Cards in Battle Pack:    ", allBattlePackCards.length);
-console.log("Cards in Battle Pack 2:    ", allBattlePack2Cards.length);
-console.log("Cards not in Structure Decks:", allCardsNotInSd.length);
+const cardsInCube = allCardsNotInSd.filter(
+  (c) => c.deck === "Battle Pack Cube"
+);
 
-const battlePackCardsCopy = [...allBattlePackCards];
-const battlePack2CardsCopy = [...allBattlePack2Cards];
+console.log("Cards already in cube: " + cardsInCube.length);
 
-const cardsToBuildCube = [];
-
-allCardsNotInSd.map((cc) => {
-  const cardIndex = battlePackCardsCopy.findIndex(
+cardsInCube.map((cc) => {
+  const cardIndex = combinedBattlePackCards.findIndex(
     (uc) => uc.card.toLowerCase() === cc.card.toLowerCase()
   );
 
   if (cardIndex >= 0) {
-    cardsToBuildCube.push(cc);
-    battlePackCardsCopy.splice(cardIndex, 1);
+    combinedBattlePackCards.splice(cardIndex, 1);
+    return;
+  }
+  console.log("This card is in the cube but not on battle packs: ", cc.card);
+});
+
+console.log(
+  "Cards in combined Battle Pack without cards already in cube: ",
+  combinedBattlePackCards.length
+);
+
+const cardsToBuildCube = [];
+
+allCardsNotInSd.map((cc) => {
+  if (cc.deck === "Battle Pack Cube") {
     return;
   }
 
-  const cardIndex2 = battlePack2CardsCopy.findIndex(
-    (uc) => uc.card.toLowerCase() === cc.card.toLowerCase()
-  );
+  const cardIndex = combinedBattlePackCards.findIndex((uc) => {
+    return uc.card.toLowerCase() === cc.card.toLowerCase();
+  });
 
-  if (cardIndex2 >= 0) {
+  if (cardIndex >= 0) {
     cardsToBuildCube.push(cc);
-    battlePack2CardsCopy.splice(cardIndex2, 1);
-    return;
+    combinedBattlePackCards.splice(cardIndex, 1);
   }
 });
 
-const cardsToString = (cardArray) =>
-  cardArray.reduce((prev, curr) => {
-    if (typeof prev === "string") {
-      return `${prev}\n1 ${curr.card}`;
-    }
-    return `1 ${prev.card}\n1 ${curr.card}`;
-  });
-// console.log(allBattlePackCards);
 console.log("=====After removal=======");
 console.log(
   "Cards needed to complete battle pack collection: ",
-  battlePackCardsCopy.length
+  combinedBattlePackCards.length
 );
-// console.log(cardsToString(battlePackCardsCopy));
 
 console.log(
-  "Cards needed to complete battle pack 2 collection: ",
-  battlePack2CardsCopy.length
+  "Cards owned from battle pack: ",
+  cardsToBuildCube.length + cardsInCube.length
 );
-// console.log(cardsToString(battlePack2CardsCopy));
 
-console.log("Cards owned from battle pack: ", cardsToBuildCube.length);
-// console.log(cardsToBuildCube);
+const cardsByLocation = _.countBy(cardsToBuildCube, (c) => c.location);
+console.log("Cards By Location", cardsByLocation);
 
 fs.writeFile(
   "./collectionScripts/battlePack/cardsIAlreadyOwnForBattlePacks.json",
-  JSON.stringify(cardsToBuildCube, null, 3),
+  JSON.stringify(
+    _.sortBy(cardsToBuildCube, (c) => `${c.location}${c.type}`),
+    null,
+    3
+  ),
   function (err) {
     if (err) throw err;
   }
@@ -87,7 +125,11 @@ fs.writeFile(
 
 fs.writeFile(
   "./collectionScripts/battlePack/cardsINeedForBattlePacks.json",
-  JSON.stringify([...battlePackCardsCopy, ...battlePack2CardsCopy], null, 3),
+  JSON.stringify(
+    _.sortBy([...combinedBattlePackCards], (c) => c.card),
+    null,
+    3
+  ),
   function (err) {
     if (err) throw err;
   }

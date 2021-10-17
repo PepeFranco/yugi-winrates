@@ -3,10 +3,8 @@ const fs = require("fs");
 
 const collection = require("../data/collection.json");
 
-const cardsInStructureDeck = collection.filter(
-  (card) =>
-    card["In Deck"].includes("Structure Deck") ||
-    card["In Deck"].includes("Egyptian")
+const cardsInStructureDeck = collection.filter((card) =>
+  card["In Deck"].includes("Structure Deck")
 );
 
 const structureDecks = _.uniq(
@@ -32,6 +30,9 @@ const allCollectionCards = collection.map((card) => ({
   card: card["Name"],
   location: card["In Box"],
   code: card["Code"],
+  deck: card["In DecK"],
+  location: card["In Box"],
+  sleeve: card["In Sleeve"],
 }));
 
 console.log("All cards in collection: ", allCollectionCards.length);
@@ -43,6 +44,9 @@ const cardsIAlreadyOwnToComplete2Sets = [];
 const cardsIAlreadyOwnToComplete3Sets = [];
 
 allCollectionCards.map((cc) => {
+  if (cc.deck && cc.deck.toLowerCase().includes("structure deck")) {
+    return;
+  }
   const cardIndex = uniqueCardsInSD.findIndex(
     (uc) => uc.card.toLowerCase() === cc.card.toLowerCase()
   );
@@ -131,7 +135,8 @@ const sortPerMissingCards = (a, b) => {
   return 0;
 };
 
-const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort(sortPerMissingCards);
+// const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort(sortPerMissingCards);
+const sortedUniqueCardsTimes2 = _.sortBy(uniqueCardsTimes2, (c) => c.location);
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsNeededToComplete2Sets.json",
@@ -141,7 +146,8 @@ fs.writeFile(
   }
 );
 
-const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort(sortPerMissingCards);
+// const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort(sortPerMissingCards);
+const sortedUniqueCardsTimes3 = _.sortBy(uniqueCardsTimes3, (c) => c.location);
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",

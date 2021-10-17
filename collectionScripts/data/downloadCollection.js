@@ -34,5 +34,19 @@ const mainFunction = async () => {
         }
       );
     });
+
+  // const cardSets = await axios
+  //   .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
+  //   .catch(() => {});
+  // fs.writeFile(
+  //   "./collectionScripts/data/sets.json",
+  //   JSON.stringify(cardSets, null, 3),
+  //   (err) => {
+  //     if (err) {
+  //       console.error(err);
+  //       return;
+  //     }
+  //   }
+  // );
 };
 mainFunction();
