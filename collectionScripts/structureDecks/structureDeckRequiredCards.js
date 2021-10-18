@@ -61,7 +61,7 @@ sds.map((sd) => {
   const thisReleaseDate = new Date(sd["tcg_date"]);
   const thisBanlist = getClosestMatchingBanList(thisReleaseDate);
   // console.log(cardsInThisSD2);
-  console.log(sdname);
+  // console.log(sdname);
   const limitedCards = thisBanlist.cards.filter((c) => c.number === 1);
   const semiLimitedCards = thisBanlist.cards.filter((c) => c.number === 2);
   cardsInThisSD.map((c) => {
@@ -71,7 +71,7 @@ sds.map((sd) => {
       (cc) => cc.card.toLowerCase() === c.card.toLowerCase()
     );
     if (limitedIndex >= 0) {
-      console.log(c.card, " is limited, not adding it again");
+      // console.log(c.card, " is limited, not adding it again");
       return;
     }
     uniqueCardsTimes2.push(c);
@@ -80,7 +80,7 @@ sds.map((sd) => {
       (cc) => cc.card.toLowerCase() === c.card.toLowerCase()
     );
     if (semLimitedIndex >= 0) {
-      console.log(c.card, " is semi limited, not adding it again");
+      // console.log(c.card, " is semi limited, not adding it again");
       return;
     }
     uniqueCardsTimes3.push(c);
@@ -100,6 +100,7 @@ const allCollectionCards = collection
     deck: card["In DecK"],
     location: card["In Box"],
     sleeve: card["In Sleeve"],
+    outOfPlace: card["Out of place"],
   }))
   .sort((a, b) => {
     if (a.location === "Battle City Box") {
@@ -264,25 +265,25 @@ fs.writeFile(
   }
 );
 
+const owned2 = _.groupBy(cardsIAlreadyOwnToComplete2Sets, (c) => c.location);
+
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete2Sets.json",
-  JSON.stringify(
-    _.sortBy(cardsIAlreadyOwnToComplete2Sets, (c) => c.location),
-    null,
-    3
-  ),
+  JSON.stringify(owned2, null, 3),
   function (err) {
     console.error(err);
   }
 );
 
+console.log("Cards to move per location ================");
+const owned3 = _.groupBy(cardsIAlreadyOwnToComplete3Sets, (c) => c.location);
+Object.keys(owned3).map((l) => {
+  console.log(l, owned3[l].length);
+});
+
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
-  JSON.stringify(
-    _.sortBy(cardsIAlreadyOwnToComplete3Sets, (c) => c.location),
-    null,
-    3
-  ),
+  JSON.stringify(owned3, null, 3),
   function (err) {
     console.error(err);
   }
