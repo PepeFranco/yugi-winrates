@@ -101,8 +101,28 @@ const allCollectionCards = collection
     location: card["In Box"],
     sleeve: card["In Sleeve"],
     outOfPlace: card["Out of place"],
+    attribute: card["Attribute"],
+    type: card["Type"],
   }))
   .sort((a, b) => {
+    if (a.location === "Sticker" && b.location !== "Sticker") {
+      return -1;
+    }
+    if (b.location === "Sticker" && a.location !== "Sticker") {
+      return 1;
+    }
+    if (
+      a.location === "Duel Devastator Yellow" &&
+      b.location !== "Duel Devastator Yellow"
+    ) {
+      return -1;
+    }
+    if (
+      b.location === "Duel Devastator Yellow" &&
+      a.location !== "Duel Devastator Yellow"
+    ) {
+      return 1;
+    }
     if (a.location === "Battle City Box") {
       return 1;
     }
@@ -128,6 +148,9 @@ const allCollectionCards = collection
   });
 
 console.log("All cards in collection: ", allCollectionCards.length);
+Object.keys(_.groupBy(allCollectionCards, (c) => c.location)).map((l) => {
+  console.log(l);
+});
 console.log("Unique SD cards:    ", uniqueCardsInSD.length);
 console.log("Unique SD cards x2: ", uniqueCardsTimes2.length);
 console.log("Unique SD cards x3: ", uniqueCardsTimes3.length);
@@ -136,9 +159,9 @@ const cardsIAlreadyOwnToComplete2Sets = [];
 const cardsIAlreadyOwnToComplete3Sets = [];
 
 allCollectionCards.map((cc) => {
-  if (cc.deck && cc.deck.toLowerCase().includes("structure deck")) {
-    return;
-  }
+  // if (cc.deck && cc.deck.toLowerCase().includes("structure deck")) {
+  //   return;
+  // }
   const cardIndex = uniqueCardsInSD.findIndex(
     (uc) => uc.card.toLowerCase() === cc.card.toLowerCase()
   );
@@ -152,12 +175,10 @@ allCollectionCards.map((cc) => {
   );
 
   if (cardIndex2 >= 0) {
-    if (cc.location !== "Sticker") {
-      cardsIAlreadyOwnToComplete2Sets.push({
-        ...cc,
-        deck: uniqueCardsTimes2[cardIndex2].deck,
-      });
-    }
+    cardsIAlreadyOwnToComplete2Sets.push({
+      ...cc,
+      deck: uniqueCardsTimes2[cardIndex2].deck,
+    });
     uniqueCardsTimes2.splice(cardIndex2, 1);
   }
 
@@ -166,12 +187,10 @@ allCollectionCards.map((cc) => {
   );
 
   if (cardIndex3 >= 0) {
-    if (cc.location !== "Sticker") {
-      cardsIAlreadyOwnToComplete3Sets.push({
-        ...cc,
-        deck: uniqueCardsTimes3[cardIndex3].deck,
-      });
-    }
+    cardsIAlreadyOwnToComplete3Sets.push({
+      ...cc,
+      deck: uniqueCardsTimes3[cardIndex3].deck,
+    });
     uniqueCardsTimes3.splice(cardIndex3, 1);
   }
 });
@@ -266,6 +285,9 @@ fs.writeFile(
 );
 
 const owned2 = _.groupBy(cardsIAlreadyOwnToComplete2Sets, (c) => c.location);
+for (const [key, value] of Object.entries(owned2)) {
+  owned2[key] = _.sortBy(value, (c) => `${c.attribute}-${c.type}-${c.card}`);
+}
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete2Sets.json",
@@ -280,6 +302,9 @@ const owned3 = _.groupBy(cardsIAlreadyOwnToComplete3Sets, (c) => c.location);
 Object.keys(owned3).map((l) => {
   console.log(l, owned3[l].length);
 });
+for (const [key, value] of Object.entries(owned3)) {
+  owned3[key] = _.sortBy(value, (c) => `${c.attribute}-${c.type}-${c.card}`);
+}
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
