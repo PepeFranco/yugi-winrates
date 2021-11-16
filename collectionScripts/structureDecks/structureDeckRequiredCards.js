@@ -52,6 +52,8 @@ const getClosestMatchingBanList = (d) => {
   }
 };
 
+const limitedCardsPerDeck = {};
+
 sds.map((sd) => {
   const sdname = sd["set_name"];
   const cardsInThisSD = uniqueCardsInSD.filter((c) => c.deck === sdname);
@@ -64,6 +66,8 @@ sds.map((sd) => {
   // console.log(sdname);
   const limitedCards = thisBanlist.cards.filter((c) => c.number === 1);
   const semiLimitedCards = thisBanlist.cards.filter((c) => c.number === 2);
+  const limitedCardsInThisDeck = [];
+  const semiCardsInThisDeck = [];
   cardsInThisSD.map((c) => {
     uniqueCardsTimes2.push(c);
     uniqueCardsTimes3.push(c);
@@ -72,6 +76,7 @@ sds.map((sd) => {
     );
     if (limitedIndex >= 0) {
       // console.log(c.card, " is limited, not adding it again");
+      limitedCardsInThisDeck.push(c.card);
       return;
     }
     uniqueCardsTimes2.push(c);
@@ -81,10 +86,15 @@ sds.map((sd) => {
     );
     if (semLimitedIndex >= 0) {
       // console.log(c.card, " is semi limited, not adding it again");
+      semiCardsInThisDeck.push(c.card);
       return;
     }
     uniqueCardsTimes3.push(c);
   });
+  limitedCardsPerDeck[sdname] = {
+    limited: limitedCardsInThisDeck,
+    semiLimited: semiCardsInThisDeck,
+  };
   // console.log("Cards before removing limited: ", cardsInThisSD2.length);
   // console.log("Cards after removing limited: ", cardsInThisSD2.length);
 
@@ -102,7 +112,9 @@ const allCollectionCards = collection
     sleeve: card["In Sleeve"],
     outOfPlace: card["Out of place"],
     attribute: card["Attribute"],
-    type: card["Type"],
+    type: card["Type"].toLowerCase().includes("monster")
+      ? "Monster"
+      : card["Type"],
   }))
   .sort((a, b) => {
     if (a.location === "Sticker" && b.location !== "Sticker") {
@@ -264,7 +276,17 @@ const sortPerMissingCards3 = (a, b) => {
   return 0;
 };
 
-const sortedUniqueCardsTimes2 = uniqueCardsTimes2.sort(sortPerMissingCards2);
+const preDecks2 = _.groupBy(
+  uniqueCardsTimes2.sort(sortPerMissingCards2),
+  (c) => c.deck
+);
+
+const sorted2 = [];
+for (const [key, value] of Object.entries(preDecks2)) {
+  sorted2.push({ deck: key, cards: value.map((c) => c.card) });
+}
+
+const sortedUniqueCardsTimes2 = _.orderBy(sorted2, (d) => d.cards.length);
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsNeededToComplete2Sets.json",
@@ -274,7 +296,17 @@ fs.writeFile(
   }
 );
 
-const sortedUniqueCardsTimes3 = uniqueCardsTimes3.sort(sortPerMissingCards3);
+const preDecks3 = _.groupBy(
+  uniqueCardsTimes3.sort(sortPerMissingCards3),
+  (c) => c.deck
+);
+
+const sorted3 = [];
+for (const [key, value] of Object.entries(preDecks3)) {
+  sorted3.push({ deck: key, cards: value.map((c) => c.card) });
+}
+
+const sortedUniqueCardsTimes3 = _.orderBy(sorted3, (d) => d.cards.length);
 
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",
@@ -309,6 +341,14 @@ for (const [key, value] of Object.entries(owned3)) {
 fs.writeFile(
   "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
   JSON.stringify(owned3, null, 3),
+  function (err) {
+    console.error(err);
+  }
+);
+
+fs.writeFile(
+  "./collectionScripts/structureDecks/limitedCardsPerDeck.json",
+  JSON.stringify(limitedCardsPerDeck, null, 3),
   function (err) {
     console.error(err);
   }

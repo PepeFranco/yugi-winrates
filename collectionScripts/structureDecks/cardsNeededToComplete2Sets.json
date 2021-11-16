@@ -1,3754 +1,1175 @@
 [
    {
-      "card": "The A. Forces",
-      "deck": "Samurai Warlords Structure Deck"
-   },
-   {
-      "card": "Poseidra, the Atlantean Dragon",
-      "deck": "Realm of the Sea Emperor Structure Deck"
-   },
-   {
-      "card": "Snowman Eater",
-      "deck": "Realm of the Sea Emperor Structure Deck"
-   },
-   {
-      "card": "Creeping Doom Manta",
-      "deck": "Structure Deck: Fury from the Deep"
-   },
-   {
-      "card": "Spell Shield Type-8",
-      "deck": "Structure Deck: Fury from the Deep"
-   },
-   {
-      "card": "Unshaven Angler",
-      "deck": "Structure Deck: Fury from the Deep"
-   },
-   {
-      "card": "Flame Ruler",
-      "deck": "Rise of the Dragon Lords Structure Deck"
-   },
-   {
-      "card": "Gilford the Lightning",
-      "deck": "Rise of the Dragon Lords Structure Deck"
-   },
-   {
-      "card": "Majestic Mech - Goryu",
-      "deck": "Rise of the Dragon Lords Structure Deck"
-   },
-   {
-      "card": "Mausoleum of the Emperor",
-      "deck": "Rise of the Dragon Lords Structure Deck"
-   },
-   {
-      "card": "Malfunction",
-      "deck": "Structure Deck: Dinosaur's Rage"
-   },
-   {
-      "card": "Mesmeric Control",
-      "deck": "Structure Deck: Dinosaur's Rage"
-   },
-   {
-      "card": "Seismic Shockwave",
-      "deck": "Structure Deck: Dinosaur's Rage"
-   },
-   {
-      "card": "Super Conductor Tyranno",
-      "deck": "Structure Deck: Dinosaur's Rage"
-   },
-   {
-      "card": "Tail Swipe",
-      "deck": "Structure Deck: Dinosaur's Rage"
-   },
-   {
-      "card": "Blazing Inpachi",
-      "deck": "Structure Deck: Blaze of Destruction"
-   },
-   {
-      "card": "Chaos Zone",
-      "deck": "Dragons Collide Structure Deck"
-   },
-   {
-      "card": "Dark Room of Nightmare",
-      "deck": "Structure Deck: Marik (TCG)"
-   },
-   {
-      "card": "Dark Room of Nightmare",
-      "deck": "Structure Deck: Marik (TCG)"
-   },
-   {
-      "card": "Darkflare Dragon",
-      "deck": "Dragons Collide Structure Deck"
-   },
-   {
-      "card": "Infernal Flame Emperor",
-      "deck": "Structure Deck: Blaze of Destruction"
-   },
-   {
-      "card": "Inferno Fire Blast",
-      "deck": "Dragons Collide Structure Deck"
-   },
-   {
-      "card": "Lightpulsar Dragon",
-      "deck": "Dragons Collide Structure Deck"
-   },
-   {
-      "card": "Little Chimera",
-      "deck": "Structure Deck: Blaze of Destruction"
-   },
-   {
-      "card": "Malevolent Catastrophe",
-      "deck": "Structure Deck: Marik (TCG)"
-   },
-   {
-      "card": "Malevolent Catastrophe",
-      "deck": "Structure Deck: Marik (TCG)"
-   },
-   {
-      "card": "Mystic Tomato",
-      "deck": "Structure Deck: Marik (TCG)"
-   },
-   {
-      "card": "Necklace of Command",
-      "deck": "Structure Deck: Blaze of Destruction"
-   },
-   {
-      "card": "Newdoria",
-      "deck": "Structure Deck: Marik (TCG)"
-   },
-   {
-      "card": "Prime Material Dragon",
-      "deck": "Dragons Collide Structure Deck"
-   },
-   {
-      "card": "Thestalos the Firestorm Monarch",
-      "deck": "Structure Deck: Blaze of Destruction"
-   },
-   {
-      "card": "Thestalos the Firestorm Monarch",
-      "deck": "Structure Deck: Blaze of Destruction"
-   },
-   {
-      "card": "Vice Dragon",
-      "deck": "Dragons Collide Structure Deck"
-   },
-   {
-      "card": "Dark Dust Spirit",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Gear Gigant X",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Geargiagear Gigant XG",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Geargiano Mk-III",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Geargiarmor",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Geargiattacker",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Jumbo Drill",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Oilman",
-      "deck": "Geargia Rampage Structure Deck"
-   },
-   {
-      "card": "Reload",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Reload",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Soul-Absorbing Bone Tower",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Vampire Genesis",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Vampire Lady",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Vampire Lord",
-      "deck": "Structure Deck: Zombie Madness"
-   },
-   {
-      "card": "Dark Red Enchanter",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Magical Marionette",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Magical Plant Mandragola",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Malevolent Nuzzler",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Mei-Kou, Master of Barriers",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Mist Body",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Tower of Babel",
-      "deck": "Spellcaster's Command Structure Deck"
-   },
-   {
-      "card": "Armed Dragon LV5",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Blast Sphere",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Card Trader",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Cipher Soldier",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Curse of Anubis",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Dragon's Rage",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Element Dragon",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Metalmorph",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Metalmorph",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Red-Eyes B. Chick",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Red-Eyes B. Dragon",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Red-Eyes Darkness Dragon",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Solidarity",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Solidarity",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "The Big Saturn",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "The Dragon's Bead",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "The Graveyard in the Fourth Dimension",
-      "deck": "Structure Deck: Dragon's Roar"
-   },
-   {
-      "card": "Time Machine",
-      "deck": "Machina Mayhem Structure Deck"
-   },
-   {
-      "card": "Armed Samurai - Ben Kei",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Command Knight",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Fairy of the Spring",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Gearfried the Swordmaster",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Gilford the Legend",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Goblin Attack Force",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Mystic Swordsman LV4",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Ninja Grandmaster Sasuke",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Reload",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Swords of Concealing Light",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Swords of Concealing Light",
-      "deck": "Structure Deck: Warrior's Triumph"
-   },
-   {
-      "card": "Alpha The Electromagnet Warrior",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Arcana Knight Joker",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Berserkion the Electromagna Warrior",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Beta The Electromagnet Warrior",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Canyon",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Criosphinx",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Dark Magic Inheritance",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Exxod, Master of the Guard",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Gamma The Electromagnet Warrior",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Gigantes",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Golem Sentry",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Great Spirit",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Guardian Sphinx",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Hieracosphinx",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Imperion Magnum the Superconductive Battlebot",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Kuribohrn",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Maharaghi",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Megarock Dragon",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Mystic Box",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Obnoxious Celtic Guard",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Obnoxious Celtic Guard",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Robbin' Goblin",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Shifting Shadows",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Stone Statue of the Aztecs",
-      "deck": "Structure Deck: Invincible Fortress"
-   },
-   {
-      "card": "Swords of Concealing Light",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Swords of Concealing Light",
-      "deck": "Structure Deck: Yugi Muto"
-   },
-   {
-      "card": "Aqua Chorus",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Bladefly",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Consecrated Light",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Dark Coffin",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Harpie Girl",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Harpie's Pet Baby Dragon",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Hysteric Party",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Icarus Attack",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Icarus Attack",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Lady Ninja Yae",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Master Hyperion",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Mystical Shine Ball",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Ninjitsu Art of Transformation",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Silpheed",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Simorgh, Bird of Divinity",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Slate Warrior",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "Smashing Ground",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Soul of Purity and Light",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Swift Birdman Joe",
-      "deck": "Structure Deck: Lord of the Storm"
-   },
-   {
-      "card": "The Agent of Creation - Venus",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "The Agent of Force - Mars",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "The Agent of Judgment - Saturn",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "The Agent of Miracles - Jupiter",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "The Agent of Mystery - Earth",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "The Agent of Wisdom - Mercury",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "The Fountain in the Sky",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Victoria",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "Zeradias, Herald of Heaven",
-      "deck": "Lost Sanctuary Structure Deck"
-   },
-   {
-      "card": "A-Assault Core",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "A-to-Z-Dragon Buster Cannon",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "ABC-Dragon Buster",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "B-Buster Drake",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "C-Crush Wyvern",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Crush Card Virus",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Fiendish Chain",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Fiendish Chain",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Heavy Mech Support Armor",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Keeper of the Shrine",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Keeper of the Shrine",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Luster Dragon",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Majesty with Eyes of Blue",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Megamorph",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Megamorph",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "Roll Out!",
-      "deck": "Structure Deck: Seto Kaiba"
-   },
-   {
-      "card": "A Wingbeat of Giant Dragon",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "A Wingbeat of Giant Dragon",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Alexandrite Dragon",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Aurkus, Lightsworn Druid",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Azure-Eyes Silver Dragon",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Black Brachios",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Cards of Consonance",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Castle of Dragon Souls",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Damage Condenser",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Darkstorm Dragon",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Darkstorm Dragon",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Dragon Mastery",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragon's Gunfire",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Aklys",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Arma Leyvaten",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Arma Mystletainn",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Brandistock",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Darkspear",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Dux",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Javelin",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Legionnaire",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Militum",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Primus Pilus",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Dragunity Tribus",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Extinction on Schedule",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Fabled Raven",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Garoth, Lightsworn Warrior",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Garuda the Wind Spirit",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Glorious Illusion",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Gragonith, Lightsworn Dragon",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Gragonith, Lightsworn Dragon",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Grand Horn of Heaven",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Herald of Creation",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Herald of Creation",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Hieratic Dragon of Tefnuit",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Hunter Owl",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Judgment Dragon",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Jurraegg Token",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Legacy of Yata-Garasu",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Lightsworn Sanctuary",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Lost World",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Lyla, Lightsworn Sorceress",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Lyla, Lightsworn Sorceress",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Maiden with Eyes of Blue",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Michael, the Arch-Lightsworn",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Minerva, Lightsworn Maiden",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Miscellaneousaurus",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Mist Valley Falcon",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Monster Reincarnation",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Necro Gardna",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Nightmare Archfiends",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Painful Decision",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Petiteranodon",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Quaking Mirror Force",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Relieve Monster",
-      "deck": "Dragunity Legion Structure Deck"
-   },
-   {
-      "card": "Rider of the Storm Winds",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Secret Blast",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Silver's Cry",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Skelesaurus",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Solar Recharge",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Souleating Oviraptor",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Stegocyber",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Survival's End",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "The White Stone of Legend",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "The White Stone of Legend",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Trade-In",
-      "deck": "Saga of Blue-Eyes White Dragon Structure Deck"
-   },
-   {
-      "card": "Trifortressops",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Ultimate Conductor Tyranno",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Unexpected Dai",
-      "deck": "Dinosmasher's Fury Structure Deck"
-   },
-   {
-      "card": "Vanquishing Light",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Vylon Prism",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Wulf, Lightsworn Beast",
-      "deck": "Realm of Light Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Catapult",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Fortress",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Gadget",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Gadjiltron Chimera",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Gadjiltron Dragon",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Hydra",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Reactor Dragon",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Wyvern",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "BOXer",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Galaxy Cyclone",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Geargiauger",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Geargiauger",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Inferno Reckless Summon",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Inferno Reckless Summon",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Maxx C",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Minefieldriller",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Minefieldriller",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Mischief of the Gnomes",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Pseudo Space",
-      "deck": "Machine Reactor Structure Deck"
-   },
-   {
-      "card": "Beiige, Vanguard of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Belial - Marquis of Darkness",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Big Bang Shot",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Broww, Huntsman of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Brron, Mad King of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "By Order of the Emperor",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "By Order of the Emperor",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Caius the Shadow Monarch",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Caius the Shadow Monarch",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Ceruli, Guru of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Chaosrider Gustaph",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "D.D.M. - Different Dimension Master",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "D.D.R. - Different Dimension Reincarnation",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "D.D.R. - Different Dimension Reincarnation",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Dark Core",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Dark Scheme",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Dark World Dealings",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Dark World Lightning",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Enemy Controller",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Enemy Controller",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Goldd, Wu-Lord of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Golden Homunculus",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Grapha, Dragon Lord of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Gren, Tactician of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Helios - The Primordial Sun",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Kahkki, Guerilla of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Lightning Vortex",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Lightning Vortex",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Macro Cosmos",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Reign-Beaux, Overlord of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Renge, Gatekeeper of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Return from the Different Dimension",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Sakuretsu Armor",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Samsara Kaiser",
-      "deck": "The Dark Emperor Structure Deck"
-   },
-   {
-      "card": "Scarr, Scout of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Sillva, Warlord of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Snoww, Unlight of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "The Forces of Darkness",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "The Gates of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Zure, Knight of Dark World",
-      "deck": "Gates of the Underworld Structure Deck"
-   },
-   {
-      "card": "Apprentice Magician",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Blast Magician",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Blast Magician",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Chaos Command Magician",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Chaos Sorcerer",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Chaos Sorcerer",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Dark Eradicator Warlock",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Divine Wrath",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Ebon Magician Curran",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Magical Blast",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Magical Blast",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Mythical Beast Cerberus",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Mythical Beast Cerberus",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Pitch-Black Power Stone",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Pitch-Black Power Stone",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Rapid-Fire Magician",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Royal Magical Library",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Royal Magical Library",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Spell Shield Type-8",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Spell Shield Type-8",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "White Magician Pikeru",
-      "deck": "Structure Deck: Spellcaster's Judgment"
-   },
-   {
-      "card": "Accel Synchron",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Black Dragon Collapserpent",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Black Dragon Collapserpent",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Call of the Haunted",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Double Cyclone",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Dragonpit Magician",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Dragonpulse Magician",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Drill Synchron",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Fleur Synchron",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Fusilier Dragon, the Dual-Mode Beast",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Jet Synchron",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Jet Warrior",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Limit Overdrive",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Limiter Overload",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Metaphys Armed Dragon",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Night Beam",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Night Beam",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Nobledragon Magician",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Oafdragon Magician",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Odd-Eyes Absolute Dragon",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Odd-Eyes Meteorburst Dragon",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Pendulum Back",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Pendulum Call",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Pendulum Rising",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Pendulum Shift",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Performapal Salutiger",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Performapal Silver Claw",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Performapal Skullcrobat Joker",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Performapal Trump Witch",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Plaguespreader Zombie",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Re-Cover",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Rune-Eyes Pendulum Dragon",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Rush Warrior",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Sacred Sword of Seven Stars",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Scrap Fist",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Scrap-Iron Statue",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Sky Iris",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Stardust Warrior",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Starlight Junktion",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Synchron Carrier",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "White Dragon Wyverburster",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "White Dragon Wyverburster",
-      "deck": "Synchron Extreme Structure Deck"
-   },
-   {
-      "card": "Wisdom-Eye Magician",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "X-Saber Airbellum",
-      "deck": "Master of Pendulum Structure Deck"
-   },
-   {
-      "card": "Berlineth the Firestorm Vassal",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Domain of the True Monarchs",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Edea the Heavenly Squire",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Ehther the Heavenly Monarch",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Eidos the Underworld Squire",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Erebus the Underworld Monarch",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Escalation of the Monarchs",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Escher the Frost Vassal",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Garum the Storm Vassal",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Illusory Snatcher",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Landrobe the Rock Vassal",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Lucius the Shadow Vassal",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Mithra the Thunder Vassal",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Pantheism of the Monarchs",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Pinpoint Guard",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Rainbow Kuriboh",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Raiza the Storm Monarch",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Return of the Monarchs",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Strike of the Monarchs",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Tenacity of the Monarchs",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "The First Monarch",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "The Monarchs Awaken",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "The Monarchs Erupt",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "The Prime Monarch",
-      "deck": "Emperor of Darkness Structure Deck"
-   },
-   {
-      "card": "Absolute King Back Jack",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Archfiend Cavalry",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Archfiend Emperor, the First Lord of Horror",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Big Bang Shot",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Big Bang Shot",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Boogie Trap",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Caius the Mega Monarch",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Curse of Darkness",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "D.D. Warrior",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "D.D. Warrior",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Dark Bribe",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Dark Valkyria",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Darkest Diabolos, Lord of the Lair",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Deck Devastation Virus",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Divine Sword - Phoenix Blade",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Divine Sword - Phoenix Blade",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Ekibyo Drakmord",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Eradicator Epidemic Virus",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Evocator Chevalier",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Featherizer",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Fiendish Rhino Warrior",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Foolish Burial Goods",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Full Force Virus",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Future Samurai",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Gemini Soldier",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Gemini Summoner",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Gemini Trap Hole",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Grinning Grave Virus",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Hand Destruction",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Infernal Dragon",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Justi-Break",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Kuribandit",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Legendary Maju Garzett",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Lich Lord, King of the Underworld",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Lilith, Lady of Lament",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Marauding Captain",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Mist Archfiend",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Nightmare's Steelcage",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Nightmare's Steelcage",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Phoenix Gearfried",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Recurring Nightmare",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Relinkuriboh",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Rise to Full Height",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Sakuretsu Armor",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Sakuretsu Armor",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Sinister Yorishiro",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Sinister Yorishiro",
-      "deck": "Structure Deck: Lair of Darkness"
-   },
-   {
-      "card": "Soul Resurrection",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Spell Striker",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Unleash Your Power!",
-      "deck": "Warriors' Strike Structure Deck"
-   },
-   {
-      "card": "Antialian",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Blazing Mirror Force",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Cyberse Gadget",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Cynet Storm",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Datacorn",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Debunk",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Fires of Doomsday",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Fires of Doomsday",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Flame Bufferlo",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Garbage Collector",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Juragedo",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Lady Debug",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Launcher Commander",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Packet Link",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Powercode Talker",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Safe Zone",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Sea Archiver",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Segmental Dragon",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Skull Meister",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Storm Cipher",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Traffic Ghost",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Trap Stun",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Traptrix Trap Hole Nightmare",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Traptrix Trap Hole Nightmare",
-      "deck": "Structure Deck: Powercode Link"
-   },
-   {
-      "card": "Backlinker",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Balancer Lord",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Binary Sorceress",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Boot Staggered",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Crane Crane",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Cyberse Wizard",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Cynet Backdoor",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "D.D.R. - Different Dimension Reincarnation",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Digitron",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Dotscaper",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Dual Assembwurm",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Encode Talker",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Ghosts From the Past",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Jester Confit",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Kinka-byo",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Moon Mirror Shield",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Powerful Rebirth",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Powerful Rebirth",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Premature Return",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "ROM Cloudia",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Recoded Alive",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Shuffle Reborn",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Stack Reviver",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Storming Mirror Force",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Tragoedia",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Tragoedia",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "Tri-Gate Wizard",
-      "deck": "Structure Deck: Cyberse Link"
-   },
-   {
-      "card": "A Wingbeat of Giant Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Arkbrave Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Book of Life",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Breakthrough Skill",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Breakthrough Skill",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Burst Breath",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Burst Breath",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Card of Safe Return",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Card of Safe Return",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Charge of the Light Brigade",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Cold Wave",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Creature Swap",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Darkblaze Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Darkblaze Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Decoy Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Decoy Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Divine Dragon Lord Felgrand",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Dragon Lord Token",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Dragon Ravine",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Dragon Ravine",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Dust Tornado",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Dust Tornado",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Eclipse Wyvern",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Eclipse Wyvern",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Ehren, Lightsworn Monk",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Ehren, Lightsworn Monk",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Evilswarm Zahak",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Felgrand Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Felgrand Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Field Barrier",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Field Barrier",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Gernia",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Getsu Fuhma",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Guardian of Felgrand",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Imperial Iron Wall",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Jain, Lightsworn Paladin",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Jain, Lightsworn Paladin",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Kidmodo Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Magical Arm Shield",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Magical Arm Shield",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Malevolent Mech - Goku En",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Marionette Mite",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Master Kyonshee",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Master Kyonshee",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Oasis of Dragon Souls",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Paladin of the Cursed Dragon",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Patrician of Darkness",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Plague Wolf",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Plague Wolf",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Raiden, Hand of the Lightsworn",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Red-Eyes Darkness Metal Dragon",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Red-Eyes Wyvern",
-      "deck": "Rise of the True Dragons Structure Deck"
-   },
-   {
-      "card": "Red-Eyes Zombie Dragon",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Ribbon of Rebirth",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Royal Keeper",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Spirit Reaper",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Tutan Mask",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Zombie World",
-      "deck": "Zombie World Structure Deck"
-   },
-   {
-      "card": "Ancient Gear Beast",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Beast",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Cannon",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Castle",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Castle",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Drill",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Engineer",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Engineer",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Explosive",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Factory",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Fist",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Gadjiltron Chimera",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Gadjiltron Chimera",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Gadjiltron Dragon",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Gadjiltron Dragon",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Golem",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Soldier",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Soldier",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Tank",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Workshop",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Ancient Gear Workshop",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Aussa the Earth Charmer",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Awakening of the Possessed",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Awakening of the Possessed - Greater Inari Fire",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Awakening of the Possessed - Nefariouser Archfiend",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Boot-up Soldier - Dread Dynamo",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Cannon Soldier",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Covering Fire",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Dark Doriado",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Fairy Tail - Luna",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Fairy Tail - Luna",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Fairy Tail - Rella",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Fairy Tail - Sleeper",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Fairy Tail - Sleeper",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Familiar-Possessed - Hiita",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Gear Golem the Moving Fortress",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Grand Spiritual Art - Ichirin",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Hiita the Fire Charmer",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Inari Fire",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Jigabyte",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Jigabyte",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Machine Duplication",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Machine Duplication",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Mechanicalchaser",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Micro Ray",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Nefarious Archfiend Eater of Nefariousness",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Nefarious Archfiend Eater of Nefariousness",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Possessed Partnerships",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Ranryu",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Rare Metalmorph",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Secret Village of the Spellcasters",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Spellbook of Knowledge",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Spirit Charmers",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Spiritual Wind Art - Miyabi",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Spiritual Wind Art - Miyabi",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Twin Twisters",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Twin Twisters",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Unpossessed",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Weapon Change",
-      "deck": "Structure Deck: Machine Re-Volt"
-   },
-   {
-      "card": "Witchcrafter Golem Aruru",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Wynn the Wind Charmer",
-      "deck": "Structure Deck: Spirit Charmers"
-   },
-   {
-      "card": "Contract Laundering",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Crusader of Endymion",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "D/D Cerberus",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Lamia",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Lilith",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Nighthowl",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Orthros",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Proud Chevalier",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Proud Ogre",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Recruits",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Reroll",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Savant Copernicus",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Savant Galilei",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Savant Kepler",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D Savant Newton",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Chaos King Apocalypse",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Cursed King Siegfried",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Doom King Armageddon",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Dragonbane King Beowulf",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Human Resources",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Oblivion King Abyss Ragnarok",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Supreme King Kaiser",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "D/D/D Wave King Caesar",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Dark Contract with Errors",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Dark Contract with the Gate",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Dark Contract with the Swamp King",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Dark Contract with the Witch",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Dark Contract with the Yamimakai",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Day-Breaker the Shining Magical Warrior",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Defender, the Magical Knight",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Defender, the Magical Knight",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Disenchanter",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Disenchanter",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Droll & Lock Bird",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Dwimmered Path",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Emergency Provisions",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Endymion's Lab",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Endymion, the Master Magician",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Endymion, the Master Magician",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Endymion, the Mighty Master of Magic",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Escape from the Dark Dimension",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Escape from the Dark Dimension",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Extra Buck",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Forbidden Dark Contract with the Swamp King",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Left Arm Offering",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Abductor",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Blast",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Citadel of Endymion",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Citadel of Endymion",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Exemplar",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Exemplar",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magical Something",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Magister of Endymion",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Mythical Beast Cerberus",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Mythical Beast Medusa",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Mythical Bestiamorph",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Reflection of Endymion",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Servant of Endymion",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Spell Power Grasp",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Spell Power Mastery",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Spellbook Magician of Prophecy",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Spellbook of Secrets",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Stygian Security",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Structure Deck: Order of the Spellcasters"
-   },
-   {
-      "card": "Trance Archfiend",
-      "deck": "Pendulum Domination Structure Deck"
-   },
-   {
-      "card": "Appointer of the Red Lotus",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Blizzed, Defender of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Cryomancer of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Dai-sojo of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Dance Princess of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Defender of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Dupe Frog",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Fiendish Chain",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Freezing Chains of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "General Gantala of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "General Grunard of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "General Raiho of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "General Wayne of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Genex Controller",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Gungnir, Dragon of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Hexa Spirit of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Medallion of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Medium of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Mind Drain",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Mirror of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Moulinglacia the Elemental Lord",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Revealer of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Ronintoadin",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Silent Angler",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Speaker for the Ice Barriers",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Spellbreaker of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Strategist of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Surface",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Surface",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Terror of Trishula",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Trishula, Zero Dragon of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Warlock of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Winds Over the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Zuijin of the Ice Barrier",
-      "deck": "Structure Deck: Freezing Chains"
-   },
-   {
-      "card": "Begone, Knave!",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Break Off Trap Hole",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Cyber Summon Blaster",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Deskbot 001",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Deskbot 003",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Dogoran, the Mad Flame Kaiju",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Duelittle Chimera",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Flame Administrator",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Formud Skipper",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Inferno",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Iron Call",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Iron Draw",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Lefty Driver",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Link Bound",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Machina Air Raider",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Armored Unit",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Armored Unit",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Cannon",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Citadel",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Defender",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Defender",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Defense Perimeter",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Force",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Force",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Fortress",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Fortress",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Irradiator",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Megaform",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Overdrive",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Possesstorage",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Redeployment",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Sniper",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Sniper",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Soldier",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Machina Soldier",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Magic Planter",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Magnet Reverse",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Monster Reincarnation",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Monster Reincarnation",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Red Resonator",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Righty Driver",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Salamangreat Balelynx",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Beat Bison",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Circle",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Claw",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Fowl",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Foxer",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Foxy",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Gazelle",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Gift",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Jack Jaguar",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Meer",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Miragestallio",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Mole",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Parro",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Raccoon",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Rage",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Roar",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Sanctuary",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Spinny",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Salamangreat Wolvie",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Scrap Recycler",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Scrap Recycler",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "The Transmigration Prophecy",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Torque Tune Gear",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Transmodify",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Trap Trick",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "True King Agnimazud, the Vanisher",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Unauthorized Reactivation",
-      "deck": "Structure Deck: Mechanized Madness"
-   },
-   {
-      "card": "Will of the Salamangreat",
-      "deck": "Structure Deck: Soulburner"
-   },
-   {
-      "card": "Allure of Darkness",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Allure of Darkness",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Curse of the Shadow Prison",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Dark Armed Dragon",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Anoyatyllis",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Apkallone",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Construct",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Fusion",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Grysta",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Shekhinaga",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Wendigo",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "El Shaddoll Winda",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Felis, Lightsworn Archer",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Kuribandit",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Kuribandit",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Lava Golem",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Living Fossil",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Mathematician",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Naelshaddoll Ariel",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Necro Fusion",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Nephe Shaddoll Fusion",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Performage Trick Clown",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Peropero Cerperus",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Purushaddoll Aeon",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Qadshaddoll Keios",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Reeshaddoll Wendi",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Resh Shaddoll Incarnation",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Beast",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Construct",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Core",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Dragon",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Falco",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Fusion",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Hedgehog",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Hound",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Squamata",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Zefracore",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Shaddoll Zefranaga",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Sinister Shadow Games",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Subterror Succession",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Unending Nightmare",
-      "deck": "Structure Deck: Shaddoll Showdown"
-   },
-   {
-      "card": "Archlord Kristya",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Armityle the Chaos Phantasm",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Athena",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Athena",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Awakening of the Sacred Beasts",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Bountiful Artemis",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Cards from the Sky",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Cards from the Sky",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Cerulean Skyfire",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Chaos Core",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Chaos Hunter",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Chaos Hunter",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Chaos Summoning Beast",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Danger! Chupacabra!",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Dark Beckoning Beast",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Dark Factory of More Production",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Dark Summoning Beast",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Dimension Fusion Destruction",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Divine Punishment",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Divine Punishment",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Drastic Drop Off",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Escape from the Dark Dimension",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Escape from the Dark Dimension",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Eva",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Fallen Paradise",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Farfa, Malebranche of the Burning Abyss",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Field Barrier",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Gellenduo",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Guiding Ariadne",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Guiding Light",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Hanewata",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Hanewata",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Harvest Angel of Wisdom",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Hecatrice",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Hecatrice",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Herald of Green Light",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Herald of Orange Light",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Herald of Purple Light",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Hyper Blaze",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Imperial Custom",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Layard the Liberator",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Light of Judgment",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Minerva, Scholar of the Sky",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Miraculous Descent",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Mistake",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Mound of the Bound Creator",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Neo-Parshath, the Sky Paladin",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Nova Summoner",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Nova Summoner",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Opening of the Spirit Gates",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Owner's Seal",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Phantasm Emperor Trilojig",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Phantasm Token",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Phantasmal Martyr Token",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Phantasmal Martyrs",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Pot of Desires",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Pot of Desires",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Power Angel Valkyria",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Radian, the Multidimensional Kaiju",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Rainbow Dark Dragon",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Raviel, Lord of Phantasms - Shimmering Scraper",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Rebirth of Parshath",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Recall",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Sacred Arch-Airknight Parshath",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Shapesister",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Spell Chronicle",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Splendid Venus",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Splendid Venus",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Stygian Street Patrol",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Stygian Street Patrol",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Synthetic Seraphim",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Terraforming",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Tethys, Goddess of Light",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Tethys, Goddess of Light",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "The Beginning of the End",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "The Fabled Cerburrel",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "The Fabled Cerburrel",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "The Sanctuary in the Sky",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "The Sanctum of Parshath",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Ties of the Brethren",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Ties of the Brethren",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Tragoedia",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Tragoedia",
-      "deck": "Structure Deck: Sacred Beasts"
-   },
-   {
-      "card": "Ultimate Providence",
-      "deck": "Structure Deck: Wave of Light"
-   },
-   {
-      "card": "Absorouter Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Anesthrokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Autorokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Booster Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Boot Sector Launch",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Borrel Regenerator",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Borrel Supplier",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Borreload Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Borreload Furious Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Checksum Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Dragon Knight of Creation",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Dragon Knight of Creation",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Dragon Shrine",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Dragon Shrine",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Execute Protocols",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Exploderokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Gateway Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Keeper of the Shrine",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Labradorite Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Link Turret",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Magnarokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Metalrokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Mirror Force Launcher",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Paladin of Felgrand",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Paladin of Felgrand",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Quadborrel Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Quick Launch",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Raiden, Hand of the Lightsworn",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Raiden, Hand of the Lightsworn",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Rapid Trigger",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Return of the Dragon Lords",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Return of the Dragon Lords",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Rokket Recharger",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Rokket Synchron",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Rokket Tracer",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Ruins of the Divine Dragon Lords",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Ruins of the Divine Dragon Lords",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Shelrokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Silverrokket Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Squib Draw",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Topologic Zeroboros",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Triple Burst Dragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "World Chalice Guardragon",
-      "deck": "Structure Deck: Rokket Revolt"
-   },
-   {
-      "card": "Zero-Day Blaster",
-      "deck": "Structure Deck: Rokket Revolt"
+      "deck": "Samurai Warlords Structure Deck",
+      "cards": [
+         "The A. Forces"
+      ]
+   },
+   {
+      "deck": "Realm of the Sea Emperor Structure Deck",
+      "cards": [
+         "Poseidra, the Atlantean Dragon",
+         "Snowman Eater"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Fury from the Deep",
+      "cards": [
+         "Creeping Doom Manta",
+         "Spell Shield Type-8",
+         "Unshaven Angler"
+      ]
+   },
+   {
+      "deck": "Rise of the Dragon Lords Structure Deck",
+      "cards": [
+         "Flame Ruler",
+         "Gilford the Lightning",
+         "Majestic Mech - Goryu",
+         "Mausoleum of the Emperor"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [
+         "Malfunction",
+         "Mesmeric Control",
+         "Seismic Shockwave",
+         "Super Conductor Tyranno",
+         "Tail Swipe"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Blaze of Destruction",
+      "cards": [
+         "Blazing Inpachi",
+         "Infernal Flame Emperor",
+         "Little Chimera",
+         "Necklace of Command",
+         "Thestalos the Firestorm Monarch",
+         "Thestalos the Firestorm Monarch"
+      ]
+   },
+   {
+      "deck": "Dragons Collide Structure Deck",
+      "cards": [
+         "Chaos Zone",
+         "Darkflare Dragon",
+         "Inferno Fire Blast",
+         "Lightpulsar Dragon",
+         "Prime Material Dragon",
+         "Vice Dragon"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Marik (TCG)",
+      "cards": [
+         "Dark Room of Nightmare",
+         "Dark Room of Nightmare",
+         "Malevolent Catastrophe",
+         "Malevolent Catastrophe",
+         "Mystic Tomato",
+         "Newdoria"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Zombie Madness",
+      "cards": [
+         "Dark Dust Spirit",
+         "Reload",
+         "Reload",
+         "Soul-Absorbing Bone Tower",
+         "Vampire Genesis",
+         "Vampire Lady",
+         "Vampire Lord"
+      ]
+   },
+   {
+      "deck": "Geargia Rampage Structure Deck",
+      "cards": [
+         "Gear Gigant X",
+         "Geargiagear Gigant XG",
+         "Geargiano Mk-III",
+         "Geargiarmor",
+         "Geargiattacker",
+         "Jumbo Drill",
+         "Oilman"
+      ]
+   },
+   {
+      "deck": "Spellcaster's Command Structure Deck",
+      "cards": [
+         "Dark Red Enchanter",
+         "Magical Marionette",
+         "Magical Plant Mandragola",
+         "Malevolent Nuzzler",
+         "Mei-Kou, Master of Barriers",
+         "Mist Body",
+         "Terraforming",
+         "Tower of Babel"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Dragon's Roar",
+      "cards": [
+         "Armed Dragon LV5",
+         "Curse of Anubis",
+         "Dragon's Rage",
+         "Element Dragon",
+         "Red-Eyes B. Chick",
+         "Red-Eyes B. Dragon",
+         "Red-Eyes Darkness Dragon",
+         "The Dragon's Bead",
+         "The Graveyard in the Fourth Dimension"
+      ]
+   },
+   {
+      "deck": "Machina Mayhem Structure Deck",
+      "cards": [
+         "Blast Sphere",
+         "Card Trader",
+         "Cipher Soldier",
+         "Metalmorph",
+         "Metalmorph",
+         "Solidarity",
+         "Solidarity",
+         "The Big Saturn",
+         "Time Machine"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Warrior's Triumph",
+      "cards": [
+         "Armed Samurai - Ben Kei",
+         "Command Knight",
+         "Fairy of the Spring",
+         "Gearfried the Swordmaster",
+         "Gilford the Legend",
+         "Goblin Attack Force",
+         "Mystic Swordsman LV4",
+         "Ninja Grandmaster Sasuke",
+         "Reload",
+         "Swords of Concealing Light",
+         "Swords of Concealing Light"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Yugi Muto",
+      "cards": [
+         "Alpha The Electromagnet Warrior",
+         "Arcana Knight Joker",
+         "Berserkion the Electromagna Warrior",
+         "Beta The Electromagnet Warrior",
+         "Dark Magic Inheritance",
+         "Gamma The Electromagnet Warrior",
+         "Imperion Magnum the Superconductive Battlebot",
+         "Kuribohrn",
+         "Mystic Box",
+         "Obnoxious Celtic Guard",
+         "Obnoxious Celtic Guard",
+         "Swords of Concealing Light",
+         "Swords of Concealing Light"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Invincible Fortress",
+      "cards": [
+         "Canyon",
+         "Criosphinx",
+         "Exxod, Master of the Guard",
+         "Gigantes",
+         "Golem Sentry",
+         "Great Spirit",
+         "Guardian Sphinx",
+         "Hieracosphinx",
+         "Maharaghi",
+         "Megarock Dragon",
+         "Robbin' Goblin",
+         "Shifting Shadows",
+         "Stone Statue of the Aztecs"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Lord of the Storm",
+      "cards": [
+         "Aqua Chorus",
+         "Bladefly",
+         "Dark Coffin",
+         "Harpie Girl",
+         "Harpie's Pet Baby Dragon",
+         "Hysteric Party",
+         "Icarus Attack",
+         "Icarus Attack",
+         "Lady Ninja Yae",
+         "Ninjitsu Art of Transformation",
+         "Silpheed",
+         "Simorgh, Bird of Divinity",
+         "Slate Warrior",
+         "Swift Birdman Joe"
+      ]
+   },
+   {
+      "deck": "Lost Sanctuary Structure Deck",
+      "cards": [
+         "Consecrated Light",
+         "Master Hyperion",
+         "Mystical Shine Ball",
+         "Smashing Ground",
+         "Soul of Purity and Light",
+         "The Agent of Creation - Venus",
+         "The Agent of Force - Mars",
+         "The Agent of Judgment - Saturn",
+         "The Agent of Miracles - Jupiter",
+         "The Agent of Mystery - Earth",
+         "The Agent of Wisdom - Mercury",
+         "The Fountain in the Sky",
+         "Victoria",
+         "Zeradias, Herald of Heaven"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Seto Kaiba",
+      "cards": [
+         "A-Assault Core",
+         "A-to-Z-Dragon Buster Cannon",
+         "ABC-Dragon Buster",
+         "B-Buster Drake",
+         "C-Crush Wyvern",
+         "Crush Card Virus",
+         "Fiendish Chain",
+         "Fiendish Chain",
+         "Heavy Mech Support Armor",
+         "Keeper of the Shrine",
+         "Keeper of the Shrine",
+         "Luster Dragon",
+         "Majesty with Eyes of Blue",
+         "Megamorph",
+         "Megamorph",
+         "Roll Out!"
+      ]
+   },
+   {
+      "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
+      "cards": [
+         "A Wingbeat of Giant Dragon",
+         "A Wingbeat of Giant Dragon",
+         "Alexandrite Dragon",
+         "Azure-Eyes Silver Dragon",
+         "Cards of Consonance",
+         "Castle of Dragon Souls",
+         "Damage Condenser",
+         "Darkstorm Dragon",
+         "Darkstorm Dragon",
+         "Herald of Creation",
+         "Herald of Creation",
+         "Hieratic Dragon of Tefnuit",
+         "Maiden with Eyes of Blue",
+         "Rider of the Storm Winds",
+         "Silver's Cry",
+         "The White Stone of Legend",
+         "The White Stone of Legend",
+         "Trade-In"
+      ]
+   },
+   {
+      "deck": "Realm of Light Structure Deck",
+      "cards": [
+         "Aurkus, Lightsworn Druid",
+         "Fabled Raven",
+         "Garoth, Lightsworn Warrior",
+         "Glorious Illusion",
+         "Gragonith, Lightsworn Dragon",
+         "Gragonith, Lightsworn Dragon",
+         "Judgment Dragon",
+         "Lightsworn Sanctuary",
+         "Lyla, Lightsworn Sorceress",
+         "Lyla, Lightsworn Sorceress",
+         "Michael, the Arch-Lightsworn",
+         "Minerva, Lightsworn Maiden",
+         "Monster Reincarnation",
+         "Necro Gardna",
+         "Solar Recharge",
+         "Vanquishing Light",
+         "Vylon Prism",
+         "Wulf, Lightsworn Beast"
+      ]
+   },
+   {
+      "deck": "Dinosmasher's Fury Structure Deck",
+      "cards": [
+         "Black Brachios",
+         "Extinction on Schedule",
+         "Grand Horn of Heaven",
+         "Jurraegg Token",
+         "Lost World",
+         "Miscellaneousaurus",
+         "Nightmare Archfiends",
+         "Painful Decision",
+         "Petiteranodon",
+         "Quaking Mirror Force",
+         "Secret Blast",
+         "Skelesaurus",
+         "Souleating Oviraptor",
+         "Stegocyber",
+         "Survival's End",
+         "Trifortressops",
+         "Ultimate Conductor Tyranno",
+         "Unexpected Dai"
+      ]
+   },
+   {
+      "deck": "Dragunity Legion Structure Deck",
+      "cards": [
+         "Dragon Mastery",
+         "Dragon's Gunfire",
+         "Dragunity Aklys",
+         "Dragunity Arma Leyvaten",
+         "Dragunity Arma Mystletainn",
+         "Dragunity Brandistock",
+         "Dragunity Darkspear",
+         "Dragunity Dux",
+         "Dragunity Javelin",
+         "Dragunity Legionnaire",
+         "Dragunity Militum",
+         "Dragunity Primus Pilus",
+         "Dragunity Tribus",
+         "Garuda the Wind Spirit",
+         "Hunter Owl",
+         "Legacy of Yata-Garasu",
+         "Mist Valley Falcon",
+         "Relieve Monster"
+      ]
+   },
+   {
+      "deck": "Machine Reactor Structure Deck",
+      "cards": [
+         "Ancient Gear Catapult",
+         "Ancient Gear Fortress",
+         "Ancient Gear Gadget",
+         "Ancient Gear Gadjiltron Chimera",
+         "Ancient Gear Gadjiltron Dragon",
+         "Ancient Gear Hydra",
+         "Ancient Gear Reactor Dragon",
+         "Ancient Gear Wyvern",
+         "BOXer",
+         "Galaxy Cyclone",
+         "Geargiauger",
+         "Geargiauger",
+         "Inferno Reckless Summon",
+         "Inferno Reckless Summon",
+         "Maxx C",
+         "Minefieldriller",
+         "Minefieldriller",
+         "Mischief of the Gnomes",
+         "Pseudo Space"
+      ]
+   },
+   {
+      "deck": "Gates of the Underworld Structure Deck",
+      "cards": [
+         "Beiige, Vanguard of Dark World",
+         "Belial - Marquis of Darkness",
+         "Broww, Huntsman of Dark World",
+         "Brron, Mad King of Dark World",
+         "Ceruli, Guru of Dark World",
+         "Dark Scheme",
+         "Dark World Dealings",
+         "Dark World Lightning",
+         "Goldd, Wu-Lord of Dark World",
+         "Grapha, Dragon Lord of Dark World",
+         "Gren, Tactician of Dark World",
+         "Kahkki, Guerilla of Dark World",
+         "Reign-Beaux, Overlord of Dark World",
+         "Renge, Gatekeeper of Dark World",
+         "Scarr, Scout of Dark World",
+         "Sillva, Warlord of Dark World",
+         "Snoww, Unlight of Dark World",
+         "The Forces of Darkness",
+         "The Gates of Dark World",
+         "Zure, Knight of Dark World"
+      ]
+   },
+   {
+      "deck": "The Dark Emperor Structure Deck",
+      "cards": [
+         "Big Bang Shot",
+         "By Order of the Emperor",
+         "By Order of the Emperor",
+         "Caius the Shadow Monarch",
+         "Caius the Shadow Monarch",
+         "Chaosrider Gustaph",
+         "D.D.M. - Different Dimension Master",
+         "D.D.R. - Different Dimension Reincarnation",
+         "D.D.R. - Different Dimension Reincarnation",
+         "Dark Core",
+         "Enemy Controller",
+         "Enemy Controller",
+         "Golden Homunculus",
+         "Helios - The Primordial Sun",
+         "Lightning Vortex",
+         "Lightning Vortex",
+         "Macro Cosmos",
+         "Return from the Different Dimension",
+         "Sakuretsu Armor",
+         "Samsara Kaiser"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Spellcaster's Judgment",
+      "cards": [
+         "Apprentice Magician",
+         "Blast Magician",
+         "Blast Magician",
+         "Chaos Command Magician",
+         "Chaos Sorcerer",
+         "Chaos Sorcerer",
+         "Dark Eradicator Warlock",
+         "Divine Wrath",
+         "Ebon Magician Curran",
+         "Magical Blast",
+         "Magical Blast",
+         "Mythical Beast Cerberus",
+         "Mythical Beast Cerberus",
+         "Pitch-Black Power Stone",
+         "Pitch-Black Power Stone",
+         "Rapid-Fire Magician",
+         "Royal Magical Library",
+         "Royal Magical Library",
+         "Spell Shield Type-8",
+         "Spell Shield Type-8",
+         "White Magician Pikeru"
+      ]
+   },
+   {
+      "deck": "Synchron Extreme Structure Deck",
+      "cards": [
+         "Accel Synchron",
+         "Black Dragon Collapserpent",
+         "Black Dragon Collapserpent",
+         "Call of the Haunted",
+         "Double Cyclone",
+         "Drill Synchron",
+         "Fleur Synchron",
+         "Jet Synchron",
+         "Jet Warrior",
+         "Limit Overdrive",
+         "Limiter Overload",
+         "Night Beam",
+         "Night Beam",
+         "Plaguespreader Zombie",
+         "Rush Warrior",
+         "Scrap Fist",
+         "Scrap-Iron Statue",
+         "Stardust Warrior",
+         "Starlight Junktion",
+         "Synchron Carrier",
+         "White Dragon Wyverburster",
+         "White Dragon Wyverburster"
+      ]
+   },
+   {
+      "deck": "Master of Pendulum Structure Deck",
+      "cards": [
+         "Dragonpit Magician",
+         "Dragonpulse Magician",
+         "Fusilier Dragon, the Dual-Mode Beast",
+         "Metaphys Armed Dragon",
+         "Nobledragon Magician",
+         "Oafdragon Magician",
+         "Odd-Eyes Absolute Dragon",
+         "Odd-Eyes Meteorburst Dragon",
+         "Pendulum Back",
+         "Pendulum Call",
+         "Pendulum Rising",
+         "Pendulum Shift",
+         "Performapal Salutiger",
+         "Performapal Silver Claw",
+         "Performapal Skullcrobat Joker",
+         "Performapal Trump Witch",
+         "Re-Cover",
+         "Rune-Eyes Pendulum Dragon",
+         "Sacred Sword of Seven Stars",
+         "Sky Iris",
+         "Wisdom-Eye Magician",
+         "X-Saber Airbellum"
+      ]
+   },
+   {
+      "deck": "Emperor of Darkness Structure Deck",
+      "cards": [
+         "Berlineth the Firestorm Vassal",
+         "Domain of the True Monarchs",
+         "Edea the Heavenly Squire",
+         "Ehther the Heavenly Monarch",
+         "Eidos the Underworld Squire",
+         "Erebus the Underworld Monarch",
+         "Escalation of the Monarchs",
+         "Escher the Frost Vassal",
+         "Garum the Storm Vassal",
+         "Illusory Snatcher",
+         "Landrobe the Rock Vassal",
+         "Lucius the Shadow Vassal",
+         "Mithra the Thunder Vassal",
+         "Pantheism of the Monarchs",
+         "Pinpoint Guard",
+         "Rainbow Kuriboh",
+         "Raiza the Storm Monarch",
+         "Return of the Monarchs",
+         "Strike of the Monarchs",
+         "Tenacity of the Monarchs",
+         "The First Monarch",
+         "The Monarchs Awaken",
+         "The Monarchs Erupt",
+         "The Prime Monarch"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Lair of Darkness",
+      "cards": [
+         "Absolute King Back Jack",
+         "Archfiend Cavalry",
+         "Archfiend Emperor, the First Lord of Horror",
+         "Boogie Trap",
+         "Caius the Mega Monarch",
+         "Curse of Darkness",
+         "Darkest Diabolos, Lord of the Lair",
+         "Deck Devastation Virus",
+         "Eradicator Epidemic Virus",
+         "Fiendish Rhino Warrior",
+         "Foolish Burial Goods",
+         "Full Force Virus",
+         "Grinning Grave Virus",
+         "Hand Destruction",
+         "Infernal Dragon",
+         "Kuribandit",
+         "Legendary Maju Garzett",
+         "Lich Lord, King of the Underworld",
+         "Lilith, Lady of Lament",
+         "Mist Archfiend",
+         "Recurring Nightmare",
+         "Relinkuriboh",
+         "Rise to Full Height",
+         "Sinister Yorishiro",
+         "Sinister Yorishiro"
+      ]
+   },
+   {
+      "deck": "Warriors' Strike Structure Deck",
+      "cards": [
+         "Big Bang Shot",
+         "Big Bang Shot",
+         "D.D. Warrior",
+         "D.D. Warrior",
+         "Dark Bribe",
+         "Dark Valkyria",
+         "Divine Sword - Phoenix Blade",
+         "Divine Sword - Phoenix Blade",
+         "Ekibyo Drakmord",
+         "Evocator Chevalier",
+         "Featherizer",
+         "Future Samurai",
+         "Gemini Soldier",
+         "Gemini Summoner",
+         "Gemini Trap Hole",
+         "Justi-Break",
+         "Marauding Captain",
+         "Nightmare's Steelcage",
+         "Nightmare's Steelcage",
+         "Phoenix Gearfried",
+         "Sakuretsu Armor",
+         "Sakuretsu Armor",
+         "Soul Resurrection",
+         "Spell Striker",
+         "Unleash Your Power!"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Powercode Link",
+      "cards": [
+         "Antialian",
+         "Blazing Mirror Force",
+         "Cyberse Gadget",
+         "Cynet Storm",
+         "Datacorn",
+         "Debunk",
+         "Fires of Doomsday",
+         "Fires of Doomsday",
+         "Flame Bufferlo",
+         "Garbage Collector",
+         "Juragedo",
+         "Lady Debug",
+         "Launcher Commander",
+         "Packet Link",
+         "Powercode Talker",
+         "Safe Zone",
+         "Sea Archiver",
+         "Segmental Dragon",
+         "Skull Meister",
+         "Storm Cipher",
+         "Terraforming",
+         "Terraforming",
+         "Traffic Ghost",
+         "Trap Stun",
+         "Traptrix Trap Hole Nightmare",
+         "Traptrix Trap Hole Nightmare"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Cyberse Link",
+      "cards": [
+         "Backlinker",
+         "Balancer Lord",
+         "Binary Sorceress",
+         "Boot Staggered",
+         "Crane Crane",
+         "Cyberse Wizard",
+         "Cynet Backdoor",
+         "D.D.R. - Different Dimension Reincarnation",
+         "Digitron",
+         "Dotscaper",
+         "Dual Assembwurm",
+         "Encode Talker",
+         "Ghosts From the Past",
+         "Jester Confit",
+         "Kinka-byo",
+         "Moon Mirror Shield",
+         "Powerful Rebirth",
+         "Powerful Rebirth",
+         "Premature Return",
+         "ROM Cloudia",
+         "Recoded Alive",
+         "Shuffle Reborn",
+         "Stack Reviver",
+         "Storming Mirror Force",
+         "Tragoedia",
+         "Tragoedia",
+         "Tri-Gate Wizard"
+      ]
+   },
+   {
+      "deck": "Rise of the True Dragons Structure Deck",
+      "cards": [
+         "A Wingbeat of Giant Dragon",
+         "Arkbrave Dragon",
+         "Breakthrough Skill",
+         "Breakthrough Skill",
+         "Burst Breath",
+         "Burst Breath",
+         "Charge of the Light Brigade",
+         "Darkblaze Dragon",
+         "Darkblaze Dragon",
+         "Decoy Dragon",
+         "Decoy Dragon",
+         "Divine Dragon Lord Felgrand",
+         "Dragon Lord Token",
+         "Dragon Ravine",
+         "Dragon Ravine",
+         "Eclipse Wyvern",
+         "Eclipse Wyvern",
+         "Ehren, Lightsworn Monk",
+         "Ehren, Lightsworn Monk",
+         "Evilswarm Zahak",
+         "Felgrand Dragon",
+         "Felgrand Dragon",
+         "Guardian of Felgrand",
+         "Jain, Lightsworn Paladin",
+         "Jain, Lightsworn Paladin",
+         "Kidmodo Dragon",
+         "Oasis of Dragon Souls",
+         "Raiden, Hand of the Lightsworn",
+         "Red-Eyes Darkness Metal Dragon",
+         "Red-Eyes Wyvern"
+      ]
+   },
+   {
+      "deck": "Zombie World Structure Deck",
+      "cards": [
+         "Book of Life",
+         "Card of Safe Return",
+         "Card of Safe Return",
+         "Cold Wave",
+         "Creature Swap",
+         "Dust Tornado",
+         "Dust Tornado",
+         "Field Barrier",
+         "Field Barrier",
+         "Gernia",
+         "Getsu Fuhma",
+         "Imperial Iron Wall",
+         "Magical Arm Shield",
+         "Magical Arm Shield",
+         "Malevolent Mech - Goku En",
+         "Marionette Mite",
+         "Master Kyonshee",
+         "Master Kyonshee",
+         "Paladin of the Cursed Dragon",
+         "Patrician of Darkness",
+         "Plague Wolf",
+         "Plague Wolf",
+         "Red-Eyes Zombie Dragon",
+         "Ribbon of Rebirth",
+         "Royal Keeper",
+         "Spirit Reaper",
+         "Terraforming",
+         "Terraforming",
+         "Tutan Mask",
+         "Zombie World"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Machine Re-Volt",
+      "cards": [
+         "Ancient Gear Beast",
+         "Ancient Gear Beast",
+         "Ancient Gear Cannon",
+         "Ancient Gear Castle",
+         "Ancient Gear Castle",
+         "Ancient Gear Drill",
+         "Ancient Gear Engineer",
+         "Ancient Gear Engineer",
+         "Ancient Gear Explosive",
+         "Ancient Gear Factory",
+         "Ancient Gear Fist",
+         "Ancient Gear Gadjiltron Chimera",
+         "Ancient Gear Gadjiltron Chimera",
+         "Ancient Gear Gadjiltron Dragon",
+         "Ancient Gear Gadjiltron Dragon",
+         "Ancient Gear Golem",
+         "Ancient Gear Soldier",
+         "Ancient Gear Soldier",
+         "Ancient Gear Tank",
+         "Ancient Gear Workshop",
+         "Ancient Gear Workshop",
+         "Boot-up Soldier - Dread Dynamo",
+         "Cannon Soldier",
+         "Covering Fire",
+         "Gear Golem the Moving Fortress",
+         "Machine Duplication",
+         "Machine Duplication",
+         "Mechanicalchaser",
+         "Micro Ray",
+         "Rare Metalmorph",
+         "Weapon Change"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Spirit Charmers",
+      "cards": [
+         "Aussa the Earth Charmer",
+         "Awakening of the Possessed",
+         "Awakening of the Possessed - Greater Inari Fire",
+         "Awakening of the Possessed - Nefariouser Archfiend",
+         "Dark Doriado",
+         "Fairy Tail - Luna",
+         "Fairy Tail - Luna",
+         "Fairy Tail - Rella",
+         "Fairy Tail - Sleeper",
+         "Fairy Tail - Sleeper",
+         "Familiar-Possessed - Hiita",
+         "Grand Spiritual Art - Ichirin",
+         "Hiita the Fire Charmer",
+         "Inari Fire",
+         "Jigabyte",
+         "Jigabyte",
+         "Nefarious Archfiend Eater of Nefariousness",
+         "Nefarious Archfiend Eater of Nefariousness",
+         "Possessed Partnerships",
+         "Ranryu",
+         "Secret Village of the Spellcasters",
+         "Spellbook of Knowledge",
+         "Spirit Charmers",
+         "Spiritual Wind Art - Miyabi",
+         "Spiritual Wind Art - Miyabi",
+         "Terraforming",
+         "Twin Twisters",
+         "Twin Twisters",
+         "Unpossessed",
+         "Witchcrafter Golem Aruru",
+         "Wynn the Wind Charmer"
+      ]
+   },
+   {
+      "deck": "Pendulum Domination Structure Deck",
+      "cards": [
+         "Contract Laundering",
+         "D/D Cerberus",
+         "D/D Lamia",
+         "D/D Lilith",
+         "D/D Nighthowl",
+         "D/D Orthros",
+         "D/D Proud Chevalier",
+         "D/D Proud Ogre",
+         "D/D Recruits",
+         "D/D Reroll",
+         "D/D Savant Copernicus",
+         "D/D Savant Galilei",
+         "D/D Savant Kepler",
+         "D/D Savant Newton",
+         "D/D/D Chaos King Apocalypse",
+         "D/D/D Cursed King Siegfried",
+         "D/D/D Doom King Armageddon",
+         "D/D/D Dragonbane King Beowulf",
+         "D/D/D Human Resources",
+         "D/D/D Oblivion King Abyss Ragnarok",
+         "D/D/D Supreme King Kaiser",
+         "D/D/D Wave King Caesar",
+         "Dark Contract with Errors",
+         "Dark Contract with the Gate",
+         "Dark Contract with the Swamp King",
+         "Dark Contract with the Witch",
+         "Dark Contract with the Yamimakai",
+         "Emergency Provisions",
+         "Escape from the Dark Dimension",
+         "Escape from the Dark Dimension",
+         "Forbidden Dark Contract with the Swamp King",
+         "Stygian Security",
+         "Trance Archfiend"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Order of the Spellcasters",
+      "cards": [
+         "Crusader of Endymion",
+         "Day-Breaker the Shining Magical Warrior",
+         "Defender, the Magical Knight",
+         "Defender, the Magical Knight",
+         "Disenchanter",
+         "Disenchanter",
+         "Droll & Lock Bird",
+         "Dwimmered Path",
+         "Endymion's Lab",
+         "Endymion, the Master Magician",
+         "Endymion, the Master Magician",
+         "Endymion, the Mighty Master of Magic",
+         "Extra Buck",
+         "Left Arm Offering",
+         "Magical Abductor",
+         "Magical Blast",
+         "Magical Citadel of Endymion",
+         "Magical Citadel of Endymion",
+         "Magical Exemplar",
+         "Magical Exemplar",
+         "Magical Something",
+         "Magister of Endymion",
+         "Mythical Beast Cerberus",
+         "Mythical Beast Medusa",
+         "Mythical Bestiamorph",
+         "Reflection of Endymion",
+         "Servant of Endymion",
+         "Spell Power Grasp",
+         "Spell Power Mastery",
+         "Spellbook Magician of Prophecy",
+         "Spellbook of Secrets",
+         "Terraforming",
+         "Terraforming"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Freezing Chains",
+      "cards": [
+         "Appointer of the Red Lotus",
+         "Blizzed, Defender of the Ice Barrier",
+         "Cryomancer of the Ice Barrier",
+         "Dai-sojo of the Ice Barrier",
+         "Dance Princess of the Ice Barrier",
+         "Defender of the Ice Barrier",
+         "Dupe Frog",
+         "Fiendish Chain",
+         "Freezing Chains of the Ice Barrier",
+         "General Gantala of the Ice Barrier",
+         "General Grunard of the Ice Barrier",
+         "General Raiho of the Ice Barrier",
+         "General Wayne of the Ice Barrier",
+         "Genex Controller",
+         "Gungnir, Dragon of the Ice Barrier",
+         "Hexa Spirit of the Ice Barrier",
+         "Medallion of the Ice Barrier",
+         "Medium of the Ice Barrier",
+         "Mind Drain",
+         "Mirror of the Ice Barrier",
+         "Moulinglacia the Elemental Lord",
+         "Revealer of the Ice Barrier",
+         "Ronintoadin",
+         "Silent Angler",
+         "Speaker for the Ice Barriers",
+         "Spellbreaker of the Ice Barrier",
+         "Strategist of the Ice Barrier",
+         "Surface",
+         "Surface",
+         "Terror of Trishula",
+         "Trishula, Zero Dragon of the Ice Barrier",
+         "Warlock of the Ice Barrier",
+         "Winds Over the Ice Barrier",
+         "Zuijin of the Ice Barrier"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Mechanized Madness",
+      "cards": [
+         "Begone, Knave!",
+         "Cyber Summon Blaster",
+         "Deskbot 001",
+         "Deskbot 003",
+         "Iron Call",
+         "Iron Draw",
+         "Lefty Driver",
+         "Machina Air Raider",
+         "Machina Armored Unit",
+         "Machina Armored Unit",
+         "Machina Cannon",
+         "Machina Citadel",
+         "Machina Defender",
+         "Machina Defender",
+         "Machina Defense Perimeter",
+         "Machina Force",
+         "Machina Force",
+         "Machina Fortress",
+         "Machina Fortress",
+         "Machina Irradiator",
+         "Machina Megaform",
+         "Machina Overdrive",
+         "Machina Possesstorage",
+         "Machina Redeployment",
+         "Machina Sniper",
+         "Machina Sniper",
+         "Machina Soldier",
+         "Machina Soldier",
+         "Magnet Reverse",
+         "Righty Driver",
+         "Scrap Recycler",
+         "Scrap Recycler",
+         "Torque Tune Gear",
+         "Trap Trick",
+         "Unauthorized Reactivation"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Soulburner",
+      "cards": [
+         "Break Off Trap Hole",
+         "Dogoran, the Mad Flame Kaiju",
+         "Duelittle Chimera",
+         "Flame Administrator",
+         "Formud Skipper",
+         "Inferno",
+         "Link Bound",
+         "Magic Planter",
+         "Monster Reincarnation",
+         "Monster Reincarnation",
+         "Red Resonator",
+         "Salamangreat Balelynx",
+         "Salamangreat Beat Bison",
+         "Salamangreat Circle",
+         "Salamangreat Claw",
+         "Salamangreat Fowl",
+         "Salamangreat Foxer",
+         "Salamangreat Foxy",
+         "Salamangreat Gazelle",
+         "Salamangreat Gift",
+         "Salamangreat Jack Jaguar",
+         "Salamangreat Meer",
+         "Salamangreat Miragestallio",
+         "Salamangreat Mole",
+         "Salamangreat Parro",
+         "Salamangreat Raccoon",
+         "Salamangreat Rage",
+         "Salamangreat Roar",
+         "Salamangreat Sanctuary",
+         "Salamangreat Spinny",
+         "Salamangreat Wolvie",
+         "The Transmigration Prophecy",
+         "Transmodify",
+         "True King Agnimazud, the Vanisher",
+         "Will of the Salamangreat"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Shaddoll Showdown",
+      "cards": [
+         "Allure of Darkness",
+         "Allure of Darkness",
+         "Curse of the Shadow Prison",
+         "Dark Armed Dragon",
+         "El Shaddoll Anoyatyllis",
+         "El Shaddoll Apkallone",
+         "El Shaddoll Construct",
+         "El Shaddoll Fusion",
+         "El Shaddoll Grysta",
+         "El Shaddoll Shekhinaga",
+         "El Shaddoll Wendigo",
+         "El Shaddoll Winda",
+         "Felis, Lightsworn Archer",
+         "Kuribandit",
+         "Kuribandit",
+         "Lava Golem",
+         "Living Fossil",
+         "Mathematician",
+         "Naelshaddoll Ariel",
+         "Necro Fusion",
+         "Nephe Shaddoll Fusion",
+         "Performage Trick Clown",
+         "Peropero Cerperus",
+         "Purushaddoll Aeon",
+         "Qadshaddoll Keios",
+         "Reeshaddoll Wendi",
+         "Resh Shaddoll Incarnation",
+         "Shaddoll Beast",
+         "Shaddoll Construct",
+         "Shaddoll Core",
+         "Shaddoll Dragon",
+         "Shaddoll Falco",
+         "Shaddoll Fusion",
+         "Shaddoll Hedgehog",
+         "Shaddoll Hound",
+         "Shaddoll Squamata",
+         "Shaddoll Zefracore",
+         "Shaddoll Zefranaga",
+         "Sinister Shadow Games",
+         "Subterror Succession",
+         "Unending Nightmare"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Wave of Light",
+      "cards": [
+         "Archlord Kristya",
+         "Athena",
+         "Athena",
+         "Bountiful Artemis",
+         "Cards from the Sky",
+         "Cards from the Sky",
+         "Divine Punishment",
+         "Divine Punishment",
+         "Drastic Drop Off",
+         "Eva",
+         "Gellenduo",
+         "Guiding Ariadne",
+         "Guiding Light",
+         "Hanewata",
+         "Hanewata",
+         "Harvest Angel of Wisdom",
+         "Hecatrice",
+         "Hecatrice",
+         "Herald of Green Light",
+         "Herald of Orange Light",
+         "Herald of Purple Light",
+         "Layard the Liberator",
+         "Light of Judgment",
+         "Minerva, Scholar of the Sky",
+         "Miraculous Descent",
+         "Neo-Parshath, the Sky Paladin",
+         "Nova Summoner",
+         "Nova Summoner",
+         "Power Angel Valkyria",
+         "Rebirth of Parshath",
+         "Recall",
+         "Sacred Arch-Airknight Parshath",
+         "Splendid Venus",
+         "Splendid Venus",
+         "Synthetic Seraphim",
+         "Tethys, Goddess of Light",
+         "Tethys, Goddess of Light",
+         "The Sanctuary in the Sky",
+         "The Sanctum of Parshath",
+         "Ties of the Brethren",
+         "Ties of the Brethren",
+         "Ultimate Providence"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Sacred Beasts",
+      "cards": [
+         "Armityle the Chaos Phantasm",
+         "Awakening of the Sacred Beasts",
+         "Cerulean Skyfire",
+         "Chaos Core",
+         "Chaos Hunter",
+         "Chaos Hunter",
+         "Chaos Summoning Beast",
+         "Danger! Chupacabra!",
+         "Dark Beckoning Beast",
+         "Dark Factory of More Production",
+         "Dark Summoning Beast",
+         "Dimension Fusion Destruction",
+         "Escape from the Dark Dimension",
+         "Escape from the Dark Dimension",
+         "Fallen Paradise",
+         "Farfa, Malebranche of the Burning Abyss",
+         "Field Barrier",
+         "Hyper Blaze",
+         "Imperial Custom",
+         "Mistake",
+         "Mound of the Bound Creator",
+         "Opening of the Spirit Gates",
+         "Owner's Seal",
+         "Phantasm Emperor Trilojig",
+         "Phantasm Token",
+         "Phantasmal Martyr Token",
+         "Phantasmal Martyrs",
+         "Pot of Desires",
+         "Pot of Desires",
+         "Radian, the Multidimensional Kaiju",
+         "Rainbow Dark Dragon",
+         "Raviel, Lord of Phantasms - Shimmering Scraper",
+         "Shapesister",
+         "Spell Chronicle",
+         "Stygian Street Patrol",
+         "Stygian Street Patrol",
+         "Terraforming",
+         "The Beginning of the End",
+         "The Fabled Cerburrel",
+         "The Fabled Cerburrel",
+         "Tragoedia",
+         "Tragoedia"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Rokket Revolt",
+      "cards": [
+         "Absorouter Dragon",
+         "Anesthrokket Dragon",
+         "Autorokket Dragon",
+         "Booster Dragon",
+         "Boot Sector Launch",
+         "Borrel Regenerator",
+         "Borrel Supplier",
+         "Borreload Dragon",
+         "Borreload Furious Dragon",
+         "Checksum Dragon",
+         "Dragon Knight of Creation",
+         "Dragon Knight of Creation",
+         "Dragon Shrine",
+         "Dragon Shrine",
+         "Execute Protocols",
+         "Exploderokket Dragon",
+         "Gateway Dragon",
+         "Keeper of the Shrine",
+         "Labradorite Dragon",
+         "Link Turret",
+         "Magnarokket Dragon",
+         "Metalrokket Dragon",
+         "Mirror Force Launcher",
+         "Paladin of Felgrand",
+         "Paladin of Felgrand",
+         "Quadborrel Dragon",
+         "Quick Launch",
+         "Raiden, Hand of the Lightsworn",
+         "Raiden, Hand of the Lightsworn",
+         "Rapid Trigger",
+         "Return of the Dragon Lords",
+         "Return of the Dragon Lords",
+         "Rokket Recharger",
+         "Rokket Synchron",
+         "Rokket Tracer",
+         "Ruins of the Divine Dragon Lords",
+         "Ruins of the Divine Dragon Lords",
+         "Shelrokket Dragon",
+         "Silverrokket Dragon",
+         "Squib Draw",
+         "Topologic Zeroboros",
+         "Triple Burst Dragon",
+         "World Chalice Guardragon",
+         "Zero-Day Blaster"
+      ]
    }
 ]
