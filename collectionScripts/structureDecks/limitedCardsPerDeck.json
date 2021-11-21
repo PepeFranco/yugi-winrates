@@ -22,11 +22,11 @@
    },
    "Dragons Collide Structure Deck": {
       "limited": [
-         "Book of Moon",
          "Charge of the Light Brigade",
          "Dark Armed Dragon",
-         "Monster Gate",
-         "Reasoning"
+         "Book of Moon",
+         "Reasoning",
+         "Monster Gate"
       ],
       "semiLimited": [
          "Call of the Haunted",
@@ -41,8 +41,8 @@
          "Mirror Force"
       ],
       "semiLimited": [
-         "Bottomless Trap Hole",
-         "Icarus Attack"
+         "Icarus Attack",
+         "Bottomless Trap Hole"
       ]
    },
    "Emperor of Darkness Structure Deck": {
@@ -57,10 +57,10 @@
    },
    "Gates of the Underworld Structure Deck": {
       "limited": [
-         "Allure of Darkness",
-         "Card Destruction",
          "Sangan",
-         "The Transmigration Prophecy"
+         "Card Destruction",
+         "The Transmigration Prophecy",
+         "Allure of Darkness"
       ],
       "semiLimited": [
          "Mind Crush",
@@ -90,9 +90,9 @@
    },
    "Lost Sanctuary Structure Deck": {
       "limited": [
+         "Marshmallon",
          "Burial from a Different Dimension",
          "Honest",
-         "Marshmallon",
          "Return from the Different Dimension",
          "Solemn Judgment",
          "Torrential Tribute"
@@ -101,9 +101,9 @@
    },
    "Machina Mayhem Structure Deck": {
       "limited": [
-         "Ceasefire",
          "Cyber Dragon",
-         "Swords of Revealing Light"
+         "Swords of Revealing Light",
+         "Ceasefire"
       ],
       "semiLimited": [
          "Green Gadget"
@@ -156,11 +156,11 @@
    },
    "Rise of the Dragon Lords Structure Deck": {
       "limited": [
-         "Brain Control",
-         "Call of the Haunted",
          "Giant Trunade",
-         "Morphing Jar",
+         "Call of the Haunted",
          "Premature Burial",
+         "Brain Control",
+         "Morphing Jar",
          "Twin-Headed Behemoth"
       ],
       "semiLimited": []
@@ -197,11 +197,11 @@
    },
    "Spellcaster's Command Structure Deck": {
       "limited": [
-         "Breaker the Magical Warrior",
-         "Fissure",
-         "Giant Trunade",
          "Magic Cylinder",
-         "Swords of Revealing Light"
+         "Fissure",
+         "Swords of Revealing Light",
+         "Breaker the Magical Warrior",
+         "Giant Trunade"
       ],
       "semiLimited": [
          "Summoner Monk"
@@ -209,12 +209,12 @@
    },
    "Structure Deck: Blaze of Destruction": {
       "limited": [
+         "Mystical Space Typhoon",
+         "Premature Burial",
+         "Snatch Steal",
          "Call of the Haunted",
          "Heavy Storm",
-         "Mystical Space Typhoon",
-         "Pot of Greed",
-         "Premature Burial",
-         "Snatch Steal"
+         "Pot of Greed"
       ],
       "semiLimited": [
          "Level Limit - Area B",
@@ -234,23 +234,23 @@
    },
    "Structure Deck: Dinosaur's Rage": {
       "limited": [
-         "Heavy Storm",
-         "Mystical Space Typhoon"
+         "Mystical Space Typhoon",
+         "Heavy Storm"
       ],
       "semiLimited": []
    },
    "Structure Deck: Dragon's Roar": {
       "limited": [
-         "Call of the Haunted",
-         "Ceasefire",
+         "Snatch Steal",
          "Heavy Storm",
          "Mystical Space Typhoon",
+         "Twin-Headed Behemoth",
+         "Ceasefire",
          "Pot of Greed",
-         "Premature Burial",
-         "Reckless Greed",
-         "Snatch Steal",
+         "Call of the Haunted",
          "Swords of Revealing Light",
-         "Twin-Headed Behemoth"
+         "Premature Burial",
+         "Reckless Greed"
       ],
       "semiLimited": [
          "Creature Swap",
@@ -269,11 +269,11 @@
          "Call of the Haunted",
          "Heavy Storm",
          "Mystical Space Typhoon",
-         "Pot of Greed",
-         "Premature Burial",
          "Snatch Steal",
          "Torrential Tribute",
-         "Tribe-Infecting Virus"
+         "Tribe-Infecting Virus",
+         "Premature Burial",
+         "Pot of Greed"
       ],
       "semiLimited": [
          "Creature Swap",
@@ -283,9 +283,9 @@
    "Structure Deck: Invincible Fortress": {
       "limited": [
          "Mystical Space Typhoon",
+         "Swords of Revealing Light",
          "Premature Burial",
-         "Reckless Greed",
-         "Swords of Revealing Light"
+         "Reckless Greed"
       ],
       "semiLimited": []
    },
@@ -298,12 +298,12 @@
    },
    "Structure Deck: Lord of the Storm": {
       "limited": [
+         "Mystical Space Typhoon",
+         "Heavy Storm",
+         "Reckless Greed",
          "Call of the Haunted",
          "Card Destruction",
-         "Heavy Storm",
-         "Lightning Vortex",
-         "Mystical Space Typhoon",
-         "Reckless Greed"
+         "Lightning Vortex"
       ],
       "semiLimited": [
          "Nobleman of Crossout"
@@ -311,11 +311,11 @@
    },
    "Structure Deck: Machine Re-Volt": {
       "limited": [
-         "Heavy Storm",
-         "Limiter Removal",
-         "Mystical Space Typhoon",
          "Pot of Avarice",
-         "Ultimate Offering"
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Ultimate Offering",
+         "Limiter Removal"
       ],
       "semiLimited": []
    },
@@ -386,18 +386,18 @@
    },
    "Structure Deck: Spellcaster's Judgment": {
       "limited": [
+         "Mystical Space Typhoon",
          "Breaker the Magical Warrior",
-         "Call of the Haunted",
-         "Heavy Storm",
-         "Lightning Vortex",
          "Mage Power",
+         "Tsukuyomi",
          "Magic Cylinder",
          "Magician of Faith",
-         "Mystical Space Typhoon",
-         "Nobleman of Crossout",
-         "Premature Burial",
+         "Lightning Vortex",
+         "Call of the Haunted",
          "Swords of Revealing Light",
-         "Tsukuyomi"
+         "Nobleman of Crossout",
+         "Heavy Storm",
+         "Premature Burial"
       ],
       "semiLimited": []
    },
@@ -411,13 +411,13 @@
    },
    "Structure Deck: Warrior's Triumph": {
       "limited": [
-         "Call of the Haunted",
          "D.D. Warrior Lady",
-         "Exiled Force",
-         "Heavy Storm",
          "Lightning Vortex",
          "Mystical Space Typhoon",
-         "Snatch Steal"
+         "Snatch Steal",
+         "Heavy Storm",
+         "Call of the Haunted",
+         "Exiled Force"
       ],
       "semiLimited": [
          "Reinforcement of the Army"
@@ -442,17 +442,17 @@
    },
    "Structure Deck: Zombie Madness": {
       "limited": [
-         "Heavy Storm",
          "Mystical Space Typhoon",
          "Pot of Greed",
          "Reckless Greed",
          "Snatch Steal",
+         "Heavy Storm",
          "Torrential Tribute",
          "Vampire Lord"
       ],
       "semiLimited": [
-         "Creature Swap",
-         "Nobleman of Crossout"
+         "Nobleman of Crossout",
+         "Creature Swap"
       ]
    },
    "Synchron Extreme Structure Deck": {
@@ -466,10 +466,10 @@
    "The Dark Emperor Structure Deck": {
       "limited": [
          "Brain Control",
-         "D.D. Warrior Lady",
          "Mystical Space Typhoon",
          "Nobleman of Crossout",
-         "Torrential Tribute"
+         "Torrential Tribute",
+         "D.D. Warrior Lady"
       ],
       "semiLimited": [
          "Reinforcement of the Army"
@@ -477,10 +477,10 @@
    },
    "Warriors' Strike Structure Deck": {
       "limited": [
-         "Card Trooper",
-         "Mind Control",
          "Mystical Space Typhoon",
-         "Reinforcement of the Army"
+         "Reinforcement of the Army",
+         "Mind Control",
+         "Card Trooper"
       ],
       "semiLimited": []
    },
