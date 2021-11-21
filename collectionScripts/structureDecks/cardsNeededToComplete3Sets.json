@@ -10,6 +10,20 @@
       ]
    },
    {
+      "deck": "Realm of the Sea Emperor Structure Deck",
+      "cards": [
+         "Abyss Soldier",
+         "Atlantean Dragoons",
+         "Call of the Atlanteans",
+         "Poseidra, the Atlantean Dragon",
+         "Snowman Eater",
+         "Snowman Eater",
+         "Surface",
+         "Terraforming",
+         "Terraforming"
+      ]
+   },
+   {
       "deck": "Cyber Dragon Revolution Structure Deck",
       "cards": [
          "Cyber Dinosaur",
@@ -21,21 +35,6 @@
          "Light of Redemption",
          "Reflect Bounder",
          "Satellite Cannon"
-      ]
-   },
-   {
-      "deck": "Realm of the Sea Emperor Structure Deck",
-      "cards": [
-         "Abyss Soldier",
-         "Atlantean Dragoons",
-         "Call of the Atlanteans",
-         "Poseidra, the Atlantean Dragon",
-         "Poseidra, the Atlantean Dragon",
-         "Snowman Eater",
-         "Snowman Eater",
-         "Surface",
-         "Terraforming",
-         "Terraforming"
       ]
    },
    {

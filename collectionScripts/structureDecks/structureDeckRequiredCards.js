@@ -160,9 +160,9 @@ const allCollectionCards = collection
   });
 
 console.log("All cards in collection: ", allCollectionCards.length);
-Object.keys(_.groupBy(allCollectionCards, (c) => c.location)).map((l) => {
-  console.log(l);
-});
+// Object.keys(_.groupBy(allCollectionCards, (c) => c.location)).map((l) => {
+//   console.log(l);
+// });
 console.log("Unique SD cards:    ", uniqueCardsInSD.length);
 console.log("Unique SD cards x2: ", uniqueCardsTimes2.length);
 console.log("Unique SD cards x3: ", uniqueCardsTimes3.length);
