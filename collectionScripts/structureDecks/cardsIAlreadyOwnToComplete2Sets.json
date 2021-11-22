@@ -25710,6 +25710,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Book of Eclipse",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN041",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Spirit Charmers",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Book of Life",
          "location": "Duel Devastator Yellow",
          "code": "SR07-EN027",
@@ -25776,6 +25787,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Burial from a Different Dimension",
+         "location": "Duel Devastator Yellow",
+         "code": "SR07-EN032",
+         "set": "Structure Deck: Zombie Horde",
+         "deck": "Structure Deck: Zombie Horde",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Burst Stream of Destruction",
          "location": "Duel Devastator Yellow",
          "code": "YSKR-EN036",
@@ -25793,6 +25815,28 @@
          "set": "Structure Deck: Zombie Horde",
          "deck": "Zombie World Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Cosmic Cyclone",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN043",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Mechanized Madness",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Cosmic Cyclone",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN043",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Mechanized Madness",
+         "sleeve": "Yugi Oricalchos",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26018,6 +26062,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Double Summon",
+         "location": "Duel Devastator Yellow",
+         "code": "EGO1-EN027",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "deck": "Warriors' Strike Structure Deck",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Dragged Down into the Grave",
          "location": "Duel Devastator Yellow",
          "code": "SR07-EN031",
@@ -26051,6 +26106,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Ectoplasmer",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENB24",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Invincible Fortress",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Enemy Controller",
          "location": "Duel Devastator Yellow",
          "code": "DPBC-EN019",
@@ -26068,6 +26134,17 @@
          "set": "Duelist Pack: Battle City",
          "deck": "Structure Deck: Machine Re-Volt",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Enemy Controller",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN025",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Seto Kaiba",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26117,12 +26194,34 @@
          "type": "Spell Card"
       },
       {
+         "card": "Forbidden Chalice",
+         "location": "Duel Devastator Yellow",
+         "code": "EGO1-EN028",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "deck": "Structure Deck: Powercode Link",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Forbidden Dress",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB18",
          "set": "Legendary Hero Decks",
          "deck": "Master of Pendulum Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Forbidden Dress",
+         "location": "Duel Devastator Yellow",
+         "code": "EGO1-EN030",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "deck": "Master of Pendulum Structure Deck",
+         "sleeve": "Blue",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26282,6 +26381,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Hey, Trunade!",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB22",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Hidden Armory",
          "location": "Duel Devastator Yellow",
          "code": "SDWS-EN021",
@@ -26293,12 +26403,34 @@
          "type": "Spell Card"
       },
       {
+         "card": "Lair of Darkness",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN032",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Lair of Darkness",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Light of Redemption",
          "location": "Duel Devastator Yellow",
          "code": "LCGX-EN258",
          "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
          "deck": "Cyber Dragon Revolution Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Lightning Vortex",
+         "location": "Duel Devastator Yellow",
+         "code": "YS16-EN026",
+         "set": "Starter Deck: Yuya",
+         "deck": "Structure Deck: Warrior's Triumph",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26370,6 +26502,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Mage Power",
+         "location": "Duel Devastator Yellow",
+         "code": "YSYR-EN029",
+         "set": "Starter Deck: Yugi Reloaded",
+         "deck": "Spellcaster's Command Structure Deck",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Magic Triangle of the Ice Barrier",
          "location": "Duel Devastator Yellow",
          "code": "TSHD-EN057",
@@ -26387,6 +26530,17 @@
          "set": "Starter Deck: Yugi Reloaded",
          "deck": "Structure Deck: Spellcaster's Judgment",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Magical Dimension",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENB21",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Spellcaster's Judgment",
+         "sleeve": "Black ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26420,6 +26574,28 @@
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
          "deck": "Spellcaster's Command Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "March Towards Ragnarok",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB15",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "March of the Monarchs",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN027",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Emperor of Darkness Structure Deck",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26497,6 +26673,17 @@
          "set": "Stardust Overdrive",
          "deck": "Realm of the Sea Emperor Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mystic Box",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENA25",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Yugi Muto",
+         "sleeve": "Purple ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26662,6 +26849,17 @@
          "set": "Astral Pack Two",
          "deck": "Zombie World Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Pot of Avarice",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN026",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Zombie World Structure Deck",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26920,6 +27118,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Spell Shattering Arrow",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENA28",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Zombie World Structure Deck",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Spellbook of Power",
          "location": "Duel Devastator Yellow",
          "code": "REDU-SP058",
@@ -26959,6 +27168,28 @@
          "set": "Phantom Darkness",
          "deck": "Structure Deck: Shaddoll Showdown",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Super Polymerization",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN040",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Shaddoll Showdown",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Supply Squad",
+         "location": "Duel Devastator Yellow",
+         "code": "YS18-EN032",
+         "set": "Starter Deck: Codebreaker",
+         "deck": "Structure Deck: Mechanized Madness",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -27074,6 +27305,28 @@
          "type": "Spell Card"
       },
       {
+         "card": "The Monarchs Stormforth",
+         "location": "Duel Devastator Yellow",
+         "code": "EGO1-EN032",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "deck": "Emperor of Darkness Structure Deck",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "The Nordic Lights",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB13",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "The Shallow Grave",
          "location": "Duel Devastator Yellow",
          "code": "DB1-EN090",
@@ -27156,6 +27409,17 @@
          "code": "YSKR-EN030",
          "set": "Starter Deck: Kaiba Reloaded",
          "deck": "Structure Deck: Blaze of Destruction",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twin Twisters",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC20",
+         "set": "Legendary Hero Decks",
+         "deck": "Structure Deck: Rokket Revolt",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -27278,6 +27542,17 @@
          "set": "Structure Deck: Zombie Horde",
          "deck": "Structure Deck: Zombie Horde",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Back to the Front",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN038",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Mechanized Madness",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -27448,6 +27723,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Call of the Haunted",
+         "location": "Duel Devastator Yellow",
+         "code": "EGO1-EN033",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "deck": "Structure Deck: Spellcaster's Judgment",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Champion's Vigilance",
          "location": "Duel Devastator Yellow",
          "code": "PHSW-EN074",
@@ -27613,6 +27899,28 @@
          "type": "Trap Card"
       },
       {
+         "card": "Dimensional Barrier",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN048",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Spirit Charmers",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Dimensional Barrier",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN048",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Spirit Charmers",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Dimensional Prison",
          "location": "Duel Devastator Yellow",
          "code": "NKRT-EN034",
@@ -27767,6 +28075,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Heavy Storm Duster",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN050",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Freezing Chains",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Hero Blast",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN036",
@@ -27888,6 +28207,39 @@
          "type": "Trap Card"
       },
       {
+         "card": "Magic Cylinder",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENB35",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Yugi Muto",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Magic Cylinder",
+         "location": "Duel Devastator Yellow",
+         "code": "INCH-EN060",
+         "set": "The Infinity Chasers",
+         "deck": "Structure Deck: Yugi Muto",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Magician's Circle",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENC37",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Order of the Spellcasters",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Malevolent Catastrophe",
          "location": "Duel Devastator Yellow",
          "code": "DPBC-EN036",
@@ -27905,6 +28257,17 @@
          "set": "Structure Deck: Zombie Horde",
          "deck": "Structure Deck: Zombie Horde",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Metal Reflect Slime",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN036",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Marik (TCG)",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -27987,6 +28350,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Nordic Relic Megingjord",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB28",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Ojama Trio",
          "location": "Duel Devastator Yellow",
          "code": "DR1-EN209",
@@ -28003,6 +28377,17 @@
          "code": "SDCS-EN039",
          "set": "Cyber Strike Structure Deck",
          "deck": "Cyber Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Phantom Knights' Fog Blade",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC23",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -28097,6 +28482,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Royal Decree",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN051",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Warrior's Triumph",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Sakuretsu Armor",
          "location": "Duel Devastator Yellow",
          "code": "YSKR-EN043",
@@ -28152,11 +28548,33 @@
          "type": "Trap Card"
       },
       {
+         "card": "Solemn Strike",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN055",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Mechanized Madness",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Solemn Warning",
          "location": "Duel Devastator Yellow",
          "code": "CT08-SP015",
          "set": "Collectible Tins 2011 Wave 1",
          "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Soul Rope",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENB39",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Yugi Muto",
          "sleeve": "Black ultra pro",
          "outOfPlace": "",
          "attribute": "",
@@ -28256,6 +28674,28 @@
          "code": "ORCS-SP078",
          "set": "Order of Chaos",
          "deck": "Machine Reactor Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "The Phantom Knights of Mist Claws",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC30",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "The Phantom Knights of Shade Brigandine",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC25",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -28394,6 +28834,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Ahrima, the Wicked Warden",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN016",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Lair of Darkness",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Armageddon Knight",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC06",
@@ -28444,6 +28895,28 @@
          "set": "Battle Pack: Epic Dawn",
          "deck": "Gates of the Underworld Structure Deck",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Beelze of the Diabolic Dragons",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB36",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Beelzeus of the Diabolic Dragons",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB35",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -28680,6 +29153,17 @@
          "type": "Monster"
       },
       {
+         "card": "Dark Rebellion Xyz Dragon",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC34",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Defrag Dragon",
          "location": "Duel Devastator Yellow",
          "code": "FLOD-EN011",
@@ -28746,6 +29230,17 @@
          "type": "Monster"
       },
       {
+         "card": "Duke Shade, the Sinister Shadow Lord",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN017",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Lair of Darkness",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Elemental HERO Necroshade",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN010",
@@ -28785,6 +29280,17 @@
          "set": "Collectible Tins 2012 Wave 1",
          "deck": "Structure Deck: Zombie Horde",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Evilswarm Salamandra",
+         "location": "Duel Devastator Yellow",
+         "code": "EGO1-EN014",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "deck": "Dinosmasher's Fury Structure Deck",
+         "sleeve": "Blue",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -28944,6 +29450,17 @@
          "type": "Monster"
       },
       {
+         "card": "Mara of the Nordic Alfar",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB08",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Marionette Mite",
          "location": "Duel Devastator Yellow",
          "code": "SR07-EN020",
@@ -28977,6 +29494,17 @@
          "type": "Monster"
       },
       {
+         "card": "Mimir of the Nordic Ascendant",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB09",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Mystic Tomato",
          "location": "Duel Devastator Yellow",
          "code": "5DS1-EN017",
@@ -28999,12 +29527,45 @@
          "type": "Monster"
       },
       {
+         "card": "Number 86: Heroic Champion - Rhongomyniad",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC37",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Odd-Eyes Pendulum Dragon",
+         "location": "Duel Devastator Yellow",
+         "code": "YS16-EN008",
+         "set": "Starter Deck: Yuya",
+         "deck": "Master of Pendulum Structure Deck",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Old Vindictive Magician",
          "location": "Duel Devastator Yellow",
          "code": "GLD1-EN013",
          "set": "Gold Series",
          "deck": "Spellcaster's Command Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Phantom Skyblaster",
+         "location": "Duel Devastator Yellow",
+         "code": "EGS1-EN010",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "deck": "Structure Deck: Sacred Beasts",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -29109,12 +29670,34 @@
          "type": "Monster"
       },
       {
+         "card": "Skilled Dark Magician",
+         "location": "Duel Devastator Yellow",
+         "code": "YSYR-EN013",
+         "set": "Starter Deck: Yugi Reloaded",
+         "deck": "Structure Deck: Yugi Muto",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Spear Cretin",
          "location": "Duel Devastator Yellow",
          "code": "MRL-087",
          "set": "Magic Ruler",
          "deck": "Rise of the Dragon Lords Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Stargazer Magician",
+         "location": "Duel Devastator Yellow",
+         "code": "YS16-EN009",
+         "set": "Starter Deck: Yuya",
+         "deck": "Master of Pendulum Structure Deck",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -29164,6 +29747,17 @@
          "type": "Monster"
       },
       {
+         "card": "Svartalf of the Nordic Alfar",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB07",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Swift Gaia the Fierce Knight",
          "location": "Duel Devastator Yellow",
          "code": "AP08-EN017",
@@ -29197,12 +29791,45 @@
          "type": "Monster"
       },
       {
+         "card": "The Phantom Knights of Break Sword",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC31",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "The Phantom Knights of Rusty Bardiche",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC00",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "The Six Samurai - Irou",
          "location": "Duel Devastator Yellow",
          "code": "SDWA-EN008",
          "set": "Samurai Warlords Structure Deck",
          "deck": "Samurai Warlords Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Timegazer Magician",
+         "location": "Duel Devastator Yellow",
+         "code": "YS16-EN010",
+         "set": "Starter Deck: Yuya",
+         "deck": "Master of Pendulum Structure Deck",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -29235,6 +29862,28 @@
          "code": "EXVC-SP002",
          "set": "Extreme Victory",
          "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Vanadis of the Nordic Ascendant",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB11",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Vanity's Fiend",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN034",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Lair of Darkness",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -29648,6 +30297,17 @@
          "type": "Monster"
       },
       {
+         "card": "Green Gadget",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENC16",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Machine Re-Volt",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Guardian Statue",
          "location": "Duel Devastator Yellow",
          "code": "DR3-SP201",
@@ -29681,11 +30341,44 @@
          "type": "Monster"
       },
       {
+         "card": "Junk Forward",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC09",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Kasha",
          "location": "Duel Devastator Yellow",
          "code": "SR07-EN004",
          "set": "Structure Deck: Zombie Horde",
          "deck": "Structure Deck: Zombie Horde",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Launcher Commander",
+         "location": "Duel Devastator Yellow",
+         "code": "YS18-EN009",
+         "set": "Starter Deck: Codebreaker",
+         "deck": "Structure Deck: Powercode Link",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Leo, the Keeper of the Sacred Tree",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB33",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "EARTH",
@@ -29775,6 +30468,17 @@
          "set": "Starter Deck: Yugi Reloaded",
          "deck": "Structure Deck: Machine Re-Volt",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Red Gadget",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENC17",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Machine Re-Volt",
+         "sleeve": "White ultra pro eclipse",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -29912,6 +30616,17 @@
          "type": "Monster"
       },
       {
+         "card": "Thor, Lord of the Aesir",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB30",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Tyranno Infinity",
          "location": "Duel Devastator Yellow",
          "code": "CRV-PT029",
@@ -29964,6 +30679,28 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Yellow Gadget",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENC18",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Machine Re-Volt",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Ash Blossom & Joyous Spring",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN003",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Soulburner",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
          "type": "Monster"
       },
       {
@@ -30083,6 +30820,17 @@
          "set": "Onslaught of the Fire Kings Structure Deck",
          "deck": "Structure Deck: Soulburner",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Flamvell Guard",
+         "location": "Duel Devastator Yellow",
+         "code": "YS18-EN012",
+         "set": "Starter Deck: Codebreaker",
+         "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "FIRE",
          "type": "Monster"
@@ -30407,6 +31155,17 @@
          "type": "Monster"
       },
       {
+         "card": "Backup Secretary",
+         "location": "Duel Devastator Yellow",
+         "code": "YS18-EN008",
+         "set": "Starter Deck: Codebreaker",
+         "deck": "Structure Deck: Cyberse Link",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Black Luster Soldier - Envoy of the Beginning",
          "location": "Duel Devastator Yellow",
          "code": "CT10-EN005",
@@ -30468,6 +31227,17 @@
          "set": "Realm of Light Structure Deck",
          "deck": "Realm of Light Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cliant",
+         "location": "Duel Devastator Yellow",
+         "code": "YS18-EN010",
+         "set": "Starter Deck: Codebreaker",
+         "deck": "Structure Deck: Cyberse Link",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -30671,6 +31441,17 @@
          "type": "Monster"
       },
       {
+         "card": "Denko Sekka",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN030",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Spirit Charmers",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Effect Veiler",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC12",
@@ -30688,6 +31469,39 @@
          "set": "Order of Chaos",
          "deck": "Structure Deck: Spirit Charmers",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Effect Veiler",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN028",
+         "set": "Duel Devastator",
+         "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Effect Veiler",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN028",
+         "set": "Duel Devastator",
+         "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Electromagnetic Turtle",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENA00",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Shaddoll Showdown",
+         "sleeve": "Yugi Oricalchos",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -30858,6 +31672,28 @@
          "type": "Monster"
       },
       {
+         "card": "King's Knight",
+         "location": "Duel Devastator Yellow",
+         "code": "YGLD-ENC15",
+         "set": "Yugi's Legendary Decks",
+         "deck": "Structure Deck: Yugi Muto",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "LANphorhynchus",
+         "location": "Duel Devastator Yellow",
+         "code": "DUDE-EN021",
+         "set": "Duel Devastator",
+         "deck": "Structure Deck: Powercode Link",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Lightray Daedalus",
          "location": "Duel Devastator Yellow",
          "code": "GAOV-SP033",
@@ -30940,6 +31776,17 @@
          "code": "RDS-EN027",
          "set": "Rise of Destiny",
          "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Odin, Father of the Aesir",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB32",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -31072,6 +31919,28 @@
          "code": "STON-EN011",
          "set": "Strike of Neos",
          "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Tyr of the Nordic Champions",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB12",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Valkyrie of the Nordic Ascendant",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB10",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -31694,6 +32563,17 @@
          "type": "Monster"
       },
       {
+         "card": "Leviair the Sea Dragon",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC38",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "Masked HERO Divine Wind",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN043",
@@ -31828,17 +32708,6 @@
          "type": "Spell Card"
       },
       {
-         "card": "March Towards Ragnarok",
-         "location": "White",
-         "code": "STOR-EN047",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
          "card": "D - Time",
          "location": "White",
          "code": "LCGX-EN149",
@@ -31891,39 +32760,6 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Mara of the Nordic Alfar",
-         "location": "White",
-         "code": "EXVC-SP083",
-         "set": "Extreme Victory",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Mimir of the Nordic Ascendant",
-         "location": "White",
-         "code": "STOR-EN018",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Tyr of the Nordic Champions",
-         "location": "White",
-         "code": "STOR-SP019",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
          "type": "Monster"
       }
    ],
@@ -32373,28 +33209,6 @@
          "type": "Spell Card"
       },
       {
-         "card": "Cosmic Cyclone",
-         "location": "Duel Devastator Green",
-         "code": "SBCB-EN142",
-         "set": "Speed Duel: Battle City Box",
-         "deck": "Structure Deck: Mechanized Madness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Cosmic Cyclone",
-         "location": "Duel Devastator Green",
-         "code": "SBCB-EN142",
-         "set": "Speed Duel: Battle City Box",
-         "deck": "Structure Deck: Mechanized Madness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
          "card": "Creature Swap",
          "location": "Duel Devastator Green",
          "code": "SBCB-EN159",
@@ -32499,17 +33313,6 @@
          "code": "SBCB-EN158",
          "set": "Speed Duel: Battle City Box",
          "deck": "Structure Deck: Warrior's Triumph",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mage Power",
-         "location": "Duel Devastator Green",
-         "code": "SBCB-EN100",
-         "set": "Speed Duel: Battle City Box",
-         "deck": "Spellcaster's Command Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -32659,17 +33462,6 @@
          "type": "Spell Card"
       },
       {
-         "card": "Supply Squad",
-         "location": "Duel Devastator Green",
-         "code": "SS05-ENB25",
-         "set": "Speed Duel Starter Decks: Twisted Nightmares",
-         "deck": "Structure Deck: Mechanized Madness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
          "card": "The Warrior Returning Alive",
          "location": "Duel Devastator Green",
          "code": "SBCB-EN161",
@@ -32773,7 +33565,7 @@
          "location": "Duel Devastator Green",
          "code": "SBLS-ENS03",
          "set": "Speed Duel: Arena of Lost Souls",
-         "deck": "Structure Deck: Spellcaster's Judgment",
+         "deck": "Structure Deck: Warrior's Triumph",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -32928,17 +33720,6 @@
          "code": "SS04-ENA29",
          "set": "Speed Duel Starter Decks: Match of the Millennium",
          "deck": "Structure Deck: Zombie Madness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Magician's Circle",
-         "location": "Duel Devastator Green",
-         "code": "SS01-ENA16",
-         "set": "Speed Duel Starter Decks: Destiny Masters",
-         "deck": "Structure Deck: Order of the Spellcasters",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -33627,17 +34408,6 @@
          "type": "Monster"
       },
       {
-         "card": "King's Knight",
-         "location": "Duel Devastator Green",
-         "code": "SBLS-EN005",
-         "set": "Speed Duel: Arena of Lost Souls",
-         "deck": "Structure Deck: Yugi Muto",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
          "card": "Queen's Knight",
          "location": "Duel Devastator Green",
          "code": "SBLS-EN004",
@@ -33731,778 +34501,6 @@
          "code": "SBCB-EN095",
          "set": "Speed Duel: Battle City Box",
          "deck": "Dragunity Legion Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "Duel Devastator Blue": [
-      {
-         "card": "Book of Eclipse",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN041",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Spirit Charmers",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Burial from a Different Dimension",
-         "location": "Duel Devastator Blue",
-         "code": "SR07-EN032",
-         "set": "Structure Deck: Zombie Horde",
-         "deck": "Structure Deck: Zombie Horde",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Double Summon",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN027",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "deck": "Warriors' Strike Structure Deck",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Ectoplasmer",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB24",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Invincible Fortress",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Enemy Controller",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN025",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Seto Kaiba",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Forbidden Chalice",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN028",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "deck": "Structure Deck: Powercode Link",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Forbidden Dress",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN030",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "deck": "Master of Pendulum Structure Deck",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Hey, Trunade!",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB22",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Lair of Darkness",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN032",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Lair of Darkness",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Lightning Vortex",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN026",
-         "set": "Starter Deck: Yuya",
-         "deck": "Structure Deck: Warrior's Triumph",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Magical Dimension",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB21",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Spellcaster's Judgment",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "March of the Monarchs",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN027",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Emperor of Darkness Structure Deck",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mystic Box",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA25",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Yugi Muto",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Pot of Avarice",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN026",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Zombie World Structure Deck",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Spell Shattering Arrow",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA28",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Zombie World Structure Deck",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Super Polymerization",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN040",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Shaddoll Showdown",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "The Monarchs Stormforth",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN032",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "deck": "Emperor of Darkness Structure Deck",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "The Nordic Lights",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB13",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twin Twisters",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC20",
-         "set": "Legendary Hero Decks",
-         "deck": "Structure Deck: Rokket Revolt",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Back to the Front",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN038",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Mechanized Madness",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Call of the Haunted",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN033",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "deck": "Structure Deck: Warrior's Triumph",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Dimensional Barrier",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN048",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Spirit Charmers",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Dimensional Barrier",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN048",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Spirit Charmers",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Heavy Storm Duster",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN050",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Freezing Chains",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Magic Cylinder",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB35",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Yugi Muto",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Magic Cylinder",
-         "location": "Duel Devastator Blue",
-         "code": "INCH-EN060",
-         "set": "The Infinity Chasers",
-         "deck": "Structure Deck: Yugi Muto",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Metal Reflect Slime",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN036",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Marik (TCG)",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Nordic Relic Megingjord",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB28",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Phantom Knights' Fog Blade",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC23",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Royal Decree",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN051",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Warrior's Triumph",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Solemn Strike",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN055",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Mechanized Madness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Soul Rope",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB39",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Yugi Muto",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Mist Claws",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC30",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Shade Brigandine",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC25",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Ahrima, the Wicked Warden",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN016",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Lair of Darkness",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Beelze of the Diabolic Dragons",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB36",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Beelzeus of the Diabolic Dragons",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB35",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Rebellion Xyz Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC34",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Duke Shade, the Sinister Shadow Lord",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN017",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Lair of Darkness",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Evilswarm Salamandra",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN014",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "deck": "Dinosmasher's Fury Structure Deck",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Number 86: Heroic Champion - Rhongomyniad",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC37",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Odd-Eyes Pendulum Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN008",
-         "set": "Starter Deck: Yuya",
-         "deck": "Master of Pendulum Structure Deck",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Phantom Skyblaster",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN010",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "deck": "Structure Deck: Sacred Beasts",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Skilled Dark Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YSYR-EN013",
-         "set": "Starter Deck: Yugi Reloaded",
-         "deck": "Structure Deck: Yugi Muto",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Stargazer Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN009",
-         "set": "Starter Deck: Yuya",
-         "deck": "Master of Pendulum Structure Deck",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Svartalf of the Nordic Alfar",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB07",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Phantom Knights of Break Sword",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC31",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Phantom Knights of Rusty Bardiche",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC00",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Timegazer Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN010",
-         "set": "Starter Deck: Yuya",
-         "deck": "Master of Pendulum Structure Deck",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Vanadis of the Nordic Ascendant",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB11",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Vanity's Fiend",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN034",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Lair of Darkness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Green Gadget",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC16",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Machine Re-Volt",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Junk Forward",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC09",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Launcher Commander",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN009",
-         "set": "Starter Deck: Codebreaker",
-         "deck": "Structure Deck: Powercode Link",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Leo, the Keeper of the Sacred Tree",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB33",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Red Gadget",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC17",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Machine Re-Volt",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Thor, Lord of the Aesir",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB30",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Yellow Gadget",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC18",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Machine Re-Volt",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Ash Blossom & Joyous Spring",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN003",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Soulburner",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Flamvell Guard",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN012",
-         "set": "Starter Deck: Codebreaker",
-         "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Backup Secretary",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN008",
-         "set": "Starter Deck: Codebreaker",
-         "deck": "Structure Deck: Cyberse Link",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cliant",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN010",
-         "set": "Starter Deck: Codebreaker",
-         "deck": "Structure Deck: Cyberse Link",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Denko Sekka",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN030",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Spirit Charmers",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Effect Veiler",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN028",
-         "set": "Duel Devastator",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Effect Veiler",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN028",
-         "set": "Duel Devastator",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Electromagnetic Turtle",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA00",
-         "set": "Yugi's Legendary Decks",
-         "deck": "Structure Deck: Shaddoll Showdown",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "LANphorhynchus",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN021",
-         "set": "Duel Devastator",
-         "deck": "Structure Deck: Powercode Link",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Odin, Father of the Aesir",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB32",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Valkyrie of the Nordic Ascendant",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB10",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Leviair the Sea Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC38",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",

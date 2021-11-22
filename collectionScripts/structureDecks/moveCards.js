@@ -5,7 +5,7 @@ const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const cardsFromBP = require("./cardsIAlreadyOwnToComplete3Sets.json");
 
-const cardsToMove = cardsFromBP["Duel Devastator Blue"];
+const cardsToMove = cardsFromBP["White"];
 
 cardsToMove.map((cc) => {
   const cardIndex = collection.findIndex(
