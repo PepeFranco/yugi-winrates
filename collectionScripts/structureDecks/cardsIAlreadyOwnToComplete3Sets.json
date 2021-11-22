@@ -25688,6 +25688,17 @@
    ],
    "Duel Devastator Yellow": [
       {
+         "card": "A Feather of the Phoenix",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA26",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "A Hero Lives",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN026",
@@ -25974,12 +25985,56 @@
          "type": "Spell Card"
       },
       {
+         "card": "Call of the Atlanteans",
+         "location": "Duel Devastator Yellow",
+         "code": "SDRE-EN023",
+         "set": "Realm of the Sea Emperor Structure Deck",
+         "deck": "Realm of the Sea Emperor Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Call of the Mummy",
          "location": "Duel Devastator Yellow",
          "code": "SR07-EN028",
          "set": "Structure Deck: Zombie Horde",
          "deck": "Structure Deck: Zombie Madness",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Circle of the Fire Kings",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN023",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Circle of the Fire Kings",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN023",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Structure Deck: Soulburner",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Clock Tower Prison",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA19",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26260,6 +26315,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Dark City",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA20",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Dark Eruption",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC19",
@@ -26299,6 +26365,17 @@
          "set": "2019 Gold Sarcophagus Tin",
          "deck": "Structure Deck: Spirit Charmers",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Destiny Draw",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA17",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -26876,6 +26953,39 @@
          "type": "Spell Card"
       },
       {
+         "card": "Instant Fusion",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN095",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Structure Deck: Shaddoll Showdown",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Jurassic World",
+         "location": "Duel Devastator Yellow",
+         "code": "SD09-EN019",
+         "set": "Structure Deck: Dinosaur's Rage",
+         "deck": "Structure Deck: Dinosaur's Rage",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Jurassic World",
+         "location": "Duel Devastator Yellow",
+         "code": "SD09-EN019",
+         "set": "Structure Deck: Dinosaur's Rage",
+         "deck": "Structure Deck: Dinosaur's Rage",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Lair of Darkness",
          "location": "Duel Devastator Yellow",
          "code": "EGS1-EN032",
@@ -27274,9 +27384,20 @@
       {
          "card": "Mystical Space Typhoon",
          "location": "Duel Devastator Yellow",
+         "code": "SDWS-EN023",
+         "set": "Warriors' Strike Structure Deck",
+         "deck": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mystical Space Typhoon",
+         "location": "Duel Devastator Yellow",
          "code": "HSRD-EN053",
          "set": "High-Speed Riders",
-         "deck": "Structure Deck: Marik (TCG)",
+         "deck": "Structure Deck: Sacred Beasts",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -27309,7 +27430,7 @@
          "location": "Duel Devastator Yellow",
          "code": "YSKR-EN032",
          "set": "Starter Deck: Kaiba Reloaded",
-         "deck": "Structure Deck: Sacred Beasts",
+         "deck": "Structure Deck: Spellcaster's Judgment",
          "sleeve": "Lime ultra pro",
          "outOfPlace": "",
          "attribute": "",
@@ -27320,7 +27441,7 @@
          "location": "Duel Devastator Yellow",
          "code": "SYE-037",
          "set": "Starter Deck: Yugi Evolution",
-         "deck": "Structure Deck: Spellcaster's Judgment",
+         "deck": "Structure Deck: Warrior's Triumph",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -27331,7 +27452,7 @@
          "location": "Duel Devastator Yellow",
          "code": "SDMA-EN020",
          "set": "Structure Deck: Marik (TCG)",
-         "deck": "Structure Deck: Warrior's Triumph",
+         "deck": "Structure Deck: Zombie Madness",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -27342,7 +27463,7 @@
          "location": "Duel Devastator Yellow",
          "code": "SD5-EN020",
          "set": "Structure Deck: Warrior's Triumph",
-         "deck": "Structure Deck: Zombie Madness",
+         "deck": "The Dark Emperor Structure Deck",
          "sleeve": "Black ultra pro",
          "outOfPlace": "",
          "attribute": "",
@@ -27353,7 +27474,7 @@
          "location": "Duel Devastator Yellow",
          "code": "YS18-EN026",
          "set": "Starter Deck: Codebreaker",
-         "deck": "The Dark Emperor Structure Deck",
+         "deck": "Warriors' Strike Structure Deck",
          "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "",
@@ -27421,6 +27542,39 @@
          "set": "Battle Pack: Epic Dawn",
          "deck": "Structure Deck: Powercode Link",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Onslaught of the Fire Kings",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN022",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Onslaught of the Fire Kings",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN022",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Over Destiny",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA18",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -27822,6 +27976,28 @@
          "type": "Spell Card"
       },
       {
+         "card": "Salvage",
+         "location": "Duel Devastator Yellow",
+         "code": "LCYW-SP276",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "deck": "Structure Deck: Freezing Chains",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Salvage",
+         "location": "Duel Devastator Yellow",
+         "code": "LCYW-SP276",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "deck": "Structure Deck: Freezing Chains",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Scapegoat",
          "location": "Duel Devastator Yellow",
          "code": "DLG1-EN091",
@@ -27882,6 +28058,17 @@
          "code": "SDJ-040",
          "set": "Starter Deck: Joey",
          "deck": "Structure Deck: Invincible Fortress",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Shien's Dojo",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN032",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -28114,6 +28301,28 @@
          "set": "Duel Devastator",
          "deck": "Structure Deck: Shaddoll Showdown",
          "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Supervise",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWS-EN017",
+         "set": "Warriors' Strike Structure Deck",
+         "deck": "Warriors' Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Supervise",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWS-EN017",
+         "set": "Warriors' Strike Structure Deck",
+         "deck": "Warriors' Strike Structure Deck",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -28443,6 +28652,28 @@
          "code": "YSKR-EN030",
          "set": "Starter Deck: Kaiba Reloaded",
          "deck": "Structure Deck: Blaze of Destruction",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Tuning",
+         "location": "Duel Devastator Yellow",
+         "code": "SHSP-ENSE2",
+         "set": "Shadow Specters",
+         "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Tuning",
+         "location": "Duel Devastator Yellow",
+         "code": "STBL-SP045",
+         "set": "Starstrike Blast",
+         "deck": "Synchron Extreme Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -29109,6 +29340,39 @@
          "type": "Trap Card"
       },
       {
+         "card": "D - Time",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA28",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "D-Fusion",
+         "location": "Duel Devastator Yellow",
+         "code": "DESO-EN008",
+         "set": "Destiny Soldiers",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "D-Fusion",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA30",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "D.D. Dynamite",
          "location": "Duel Devastator Yellow",
          "code": "FET-EN057",
@@ -29170,6 +29434,17 @@
          "set": "Gates of the Underworld Structure Deck",
          "deck": "Gates of the Underworld Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Destiny Signal",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA27",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -29296,6 +29571,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Eternal Dread",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA29",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Final Attack Orders",
          "location": "Duel Devastator Yellow",
          "code": "SDKS-EN036",
@@ -29367,6 +29653,17 @@
          "code": "POTD-EN058",
          "set": "Power of the Duelist",
          "deck": "Structure Deck: Dinosaur's Rage",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Gagagashield",
+         "location": "Duel Devastator Yellow",
+         "code": "ZTIN-EN005",
+         "set": "Zexal Collection Tin",
+         "deck": "Structure Deck: Order of the Spellcasters",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -30209,6 +30506,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Six Strike - Thunder Blast",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN039",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Six Style - Dual Wield",
          "location": "Duel Devastator Yellow",
          "code": "EXVC-SP073",
@@ -30781,6 +31089,17 @@
          "type": "Monster"
       },
       {
+         "card": "Armageddon Knight",
+         "location": "Duel Devastator Yellow",
+         "code": "THSF-EN035",
+         "set": "The Secret Forces",
+         "deck": "Pendulum Domination Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Axe Dragonute",
          "location": "Duel Devastator Yellow",
          "code": "EXVC-SP090",
@@ -31320,6 +31639,28 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny End Dragoon",
+         "location": "Duel Devastator Yellow",
+         "code": "DESO-EN013",
+         "set": "Destiny Soldiers",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Celestial",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA05",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Destiny HERO - Dangerous",
          "location": "Duel Devastator Yellow",
          "code": "BLHR-EN063",
@@ -31331,12 +31672,67 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny HERO - Dangerous",
+         "location": "Duel Devastator Yellow",
+         "code": "BLHR-EN063",
+         "set": "Battles of Legend: Hero's Revenge",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dark Angel",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA09",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Decider",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA12",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Destiny HERO - Diamond Dude",
          "location": "Duel Devastator Yellow",
          "code": "RYMP-EN033",
          "set": "Ra Yellow Mega Pack",
          "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Diamond Dude",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA06",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Disk Commander",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA08",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -31364,12 +31760,111 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny HERO - Dread Servant",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA07",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dreadmaster",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA03",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dreamer",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA13",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Drilldark",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA11",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dusktopia",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA32",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dynatag",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA10",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dystopia",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA33",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Malicious",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA04",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Destiny HERO - Plasma",
          "location": "Duel Devastator Yellow",
          "code": "LCGX-EN134",
          "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
          "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Plasma",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA02",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -31476,9 +31971,31 @@
       {
          "card": "Elemental HERO Shadow Mist",
          "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA15",
+         "set": "Legendary Hero Decks",
+         "deck": "HERO Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Shadow Mist",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA15",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Shadow Mist",
+         "location": "Duel Devastator Yellow",
          "code": "SDHS-EN001",
          "set": "HERO Strike Structure Deck",
-         "deck": "HERO Strike Structure Deck",
+         "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "Dark green dragon shield",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -31672,6 +32189,17 @@
          "type": "Monster"
       },
       {
+         "card": "Gravekeeper's Visionary",
+         "location": "Duel Devastator Yellow",
+         "code": "SDMA-EN018",
+         "set": "Structure Deck: Marik (TCG)",
+         "deck": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Interplanetarypurplythorny Dragon",
          "location": "Duel Devastator Yellow",
          "code": "BP02-EN104",
@@ -31709,6 +32237,17 @@
          "location": "Duel Devastator Yellow",
          "code": "5DS2-EN042",
          "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+         "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Junk Warrior",
+         "location": "Duel Devastator Yellow",
+         "code": "5DS1-EN041",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
          "deck": "Synchron Extreme Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
@@ -31837,11 +32376,44 @@
          "type": "Monster"
       },
       {
+         "card": "Masked HERO Anki",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA36",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Masked HERO Anki",
+         "location": "Duel Devastator Yellow",
+         "code": "PGL2-EN011",
+         "set": "Premium Gold: Return of the Bling",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Masked HERO Dark Law",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENA35",
          "set": "Legendary Hero Decks",
          "deck": "HERO Strike Structure Deck",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Masked HERO Dark Law",
+         "location": "Duel Devastator Yellow",
+         "code": "SDHS-EN044",
+         "set": "HERO Strike Structure Deck",
+         "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "Gold dragon shield",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -31985,6 +32557,17 @@
          "code": "GLD4-EN020",
          "set": "Gold Series 4: Pyramids Edition",
          "deck": "Structure Deck: Lair of Darkness",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Raviel, Lord of Phantasms",
+         "location": "Duel Devastator Yellow",
+         "code": "LC02-EN003",
+         "set": "Legendary Collection 2: The Duel Academy Years",
+         "deck": "Structure Deck: Sacred Beasts",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -32492,6 +33075,17 @@
          "set": "Starter Deck: Pegasus",
          "deck": "Structure Deck: Spirit Charmers",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Xtra HERO Dread Decimator",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA00",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -33124,6 +33718,17 @@
          "type": "Monster"
       },
       {
+         "card": "Gravekeeper's Commandant",
+         "location": "Duel Devastator Yellow",
+         "code": "TU02-EN019",
+         "set": "Turbo Pack: Booster Two",
+         "deck": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Green Gadget",
          "location": "Duel Devastator Yellow",
          "code": "YSYR-EN019",
@@ -33487,10 +34092,32 @@
          "type": "Monster"
       },
       {
+         "card": "Shien's Advisor",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN022",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Shien's Daredevil",
          "location": "Duel Devastator Yellow",
          "code": "SDWA-EN020",
          "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Shien's Daredevil",
+         "location": "Duel Devastator Yellow",
+         "code": "ORCS-SP097",
+         "set": "Order of Chaos",
          "deck": "Samurai Warlords Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
@@ -33586,6 +34213,17 @@
          "type": "Monster"
       },
       {
+         "card": "Super-Ancient Dinobeast",
+         "location": "Duel Devastator Yellow",
+         "code": "LODT-EN088",
+         "set": "Light of Destruction",
+         "deck": "Dinosmasher's Fury Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Swift Scarecrow",
          "location": "Duel Devastator Yellow",
          "code": "AP01-SP017",
@@ -33625,6 +34263,28 @@
          "set": "Starter Deck: Codebreaker",
          "deck": "Synchron Extreme Structure Deck",
          "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Synchron Explorer",
+         "location": "Duel Devastator Yellow",
+         "code": "5DS3-SP005",
+         "set": "Starter Deck: Duelist Toolbox",
+         "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Synchron Explorer",
+         "location": "Duel Devastator Yellow",
+         "code": "5DS3-EN005",
+         "set": "Starter Deck: Duelist Toolbox",
+         "deck": "Synchron Extreme Structure Deck",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -33773,6 +34433,17 @@
          "type": "Monster"
       },
       {
+         "card": "Blazewing Butterfly",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWS-EN012",
+         "set": "Warriors' Strike Structure Deck",
+         "deck": "Warriors' Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
          "card": "Cyber Phoenix",
          "location": "Duel Devastator Yellow",
          "code": "AP02-SP015",
@@ -33801,6 +34472,17 @@
          "set": "Cyber Strike Structure Deck",
          "deck": "Cyber Strike Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Blazeman",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA16",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "FIRE",
          "type": "Monster"
@@ -33883,6 +34565,28 @@
          "type": "Monster"
       },
       {
+         "card": "Fire King Avatar Barong",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN002",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Fire King Avatar Kirin",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN003",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
          "card": "Fire King Avatar Kirin",
          "location": "Duel Devastator Yellow",
          "code": "SDOK-EN003",
@@ -33900,6 +34604,17 @@
          "set": "Onslaught of the Fire Kings Structure Deck",
          "deck": "Onslaught of the Fire Kings Structure Deck",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Fire King High Avatar Garunix",
+         "location": "Duel Devastator Yellow",
+         "code": "SDOK-EN001",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "FIRE",
          "type": "Monster"
@@ -34323,6 +35038,28 @@
          "type": "Monster"
       },
       {
+         "card": "Sacred Phoenix of Nephthys",
+         "location": "Duel Devastator Yellow",
+         "code": "EEN-ENSE3",
+         "set": "Elemental Energy",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Sacred Phoenix of Nephthys",
+         "location": "Duel Devastator Yellow",
+         "code": "LCYW-SP259",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "deck": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
          "card": "Salamangreat Falco",
          "location": "Duel Devastator Yellow",
          "code": "MP19-EN155",
@@ -34405,6 +35142,17 @@
          "code": "SDOK-EN021",
          "set": "Onslaught of the Fire Kings Structure Deck",
          "deck": "Structure Deck: Blaze of Destruction",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Uria, Lord of Searing Flames",
+         "location": "Duel Devastator Yellow",
+         "code": "LC02-EN001",
+         "set": "Legendary Collection 2: The Duel Academy Years",
+         "deck": "Structure Deck: Sacred Beasts",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "FIRE",
@@ -35126,6 +35874,17 @@
          "type": "Monster"
       },
       {
+         "card": "Enishi, Shien's Chancellor",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN011",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Falchion Beta",
          "location": "Duel Devastator Yellow",
          "code": "SDCR-EN015",
@@ -35175,6 +35934,28 @@
          "code": "LEHD-ENB00",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Hamon, Lord of Striking Thunder",
+         "location": "Duel Devastator Yellow",
+         "code": "LC02-EN002",
+         "set": "Legendary Collection 2: The Duel Academy Years",
+         "deck": "Structure Deck: Sacred Beasts",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Hamon, Lord of Striking Thunder",
+         "location": "Duel Devastator Yellow",
+         "code": "LC02-EN002",
+         "set": "Legendary Collection 2: The Duel Academy Years",
+         "deck": "Structure Deck: Sacred Beasts",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -35352,6 +36133,17 @@
          "set": "Duel Devastator",
          "deck": "Structure Deck: Powercode Link",
          "sleeve": "Blue ultra pro old",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Legendary Six Samurai - Enishi",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN017",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -35632,6 +36424,28 @@
          "type": "Monster"
       },
       {
+         "card": "The Creator",
+         "location": "Duel Devastator Yellow",
+         "code": "EEN-ENSE2",
+         "set": "Elemental Energy",
+         "deck": "Rise of the Dragon Lords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "The Creator",
+         "location": "Duel Devastator Yellow",
+         "code": "LCYW-SP257",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "deck": "Rise of the Dragon Lords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "The Creator Incarnate",
          "location": "Duel Devastator Yellow",
          "code": "RDS-EN006",
@@ -35780,6 +36594,17 @@
          "code": "LCKC-EN061",
          "set": "Legendary Collection Kaiba Mega Pack",
          "deck": "Structure Deck: Seto Kaiba",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Xtra HERO Wonder Driver",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA37",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "Gold dragon shield",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -36237,6 +37062,17 @@
          "type": "Monster"
       },
       {
+         "card": "Genex Undine",
+         "location": "Duel Devastator Yellow",
+         "code": "AP01-SP005",
+         "set": "Astral Pack One",
+         "deck": "Structure Deck: Freezing Chains",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
          "card": "Hydrogeddon",
          "location": "Duel Devastator Yellow",
          "code": "EEN-EN013",
@@ -36550,6 +37386,17 @@
          "code": "SDRE-EN015",
          "set": "Realm of the Sea Emperor Structure Deck",
          "deck": "Realm of the Sea Emperor Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Space Mambo",
+         "location": "Duel Devastator Yellow",
+         "code": "FET-EN001",
+         "set": "Flaming Eternity",
+         "deck": "Structure Deck: Fury from the Deep",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WATER",
@@ -36919,6 +37766,17 @@
          "type": "Monster"
       },
       {
+         "card": "Reborn Tengu",
+         "location": "Duel Devastator Yellow",
+         "code": "EXVC-SPSP1",
+         "set": "Extreme Victory",
+         "deck": "Structure Deck: Powercode Link",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "Roc from the Valley of Haze",
          "location": "Duel Devastator Yellow",
          "code": "DR3-EN075",
@@ -37037,393 +37895,6 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "Gold Sarcophagus Tin": [
-      {
-         "card": "A Feather of the Phoenix",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA26",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Clock Tower Prison",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA19",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark City",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA20",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Destiny Draw",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA17",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mystical Space Typhoon",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDWS-EN023",
-         "set": "Warriors' Strike Structure Deck",
-         "deck": "Warriors' Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Over Destiny",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA18",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "D - Time",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA28",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "D-Fusion",
-         "location": "Gold Sarcophagus Tin",
-         "code": "DESO-EN008",
-         "set": "Destiny Soldiers",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "D-Fusion",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA30",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Destiny Signal",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA27",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Eternal Dread",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA29",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Destiny End Dragoon",
-         "location": "Gold Sarcophagus Tin",
-         "code": "DESO-EN013",
-         "set": "Destiny Soldiers",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Celestial",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA05",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dangerous",
-         "location": "Gold Sarcophagus Tin",
-         "code": "BLHR-EN063",
-         "set": "Battles of Legend: Hero's Revenge",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dark Angel",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA09",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Decider",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA12",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Diamond Dude",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA06",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Disk Commander",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA08",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dread Servant",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA07",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dreadmaster",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA03",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dreamer",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA13",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Drilldark",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA11",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dusktopia",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA32",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dynatag",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA10",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dystopia",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA33",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Malicious",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA04",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Plasma",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA02",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Shadow Mist",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA15",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Shadow Mist",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA15",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Masked HERO Anki",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA36",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Masked HERO Anki",
-         "location": "Gold Sarcophagus Tin",
-         "code": "PGL2-EN011",
-         "set": "Premium Gold: Return of the Bling",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Masked HERO Dark Law",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN044",
-         "set": "HERO Strike Structure Deck",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Xtra HERO Dread Decimator",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA00",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Blazeman",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA16",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Xtra HERO Wonder Driver",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA37",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
          "type": "Monster"
       }
    ],
@@ -40198,481 +40669,6 @@
          "set": "Collectible Tins 2012 Wave 1",
          "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "Anime ultra pro",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "Binder": [
-      {
-         "card": "Call of the Atlanteans",
-         "location": "Binder",
-         "code": "SDRE-EN023",
-         "set": "Realm of the Sea Emperor Structure Deck",
-         "deck": "Realm of the Sea Emperor Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Circle of the Fire Kings",
-         "location": "Binder",
-         "code": "SDOK-EN023",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Circle of the Fire Kings",
-         "location": "Binder",
-         "code": "SDOK-EN023",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Structure Deck: Soulburner",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Instant Fusion",
-         "location": "Binder",
-         "code": "LCGX-EN095",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Structure Deck: Shaddoll Showdown",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Jurassic World",
-         "location": "Binder",
-         "code": "SD09-EN019",
-         "set": "Structure Deck: Dinosaur's Rage",
-         "deck": "Structure Deck: Dinosaur's Rage",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Jurassic World",
-         "location": "Binder",
-         "code": "SD09-EN019",
-         "set": "Structure Deck: Dinosaur's Rage",
-         "deck": "Structure Deck: Dinosaur's Rage",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Onslaught of the Fire Kings",
-         "location": "Binder",
-         "code": "SDOK-EN022",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Onslaught of the Fire Kings",
-         "location": "Binder",
-         "code": "SDOK-EN022",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Salvage",
-         "location": "Binder",
-         "code": "LCYW-SP276",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "deck": "Structure Deck: Freezing Chains",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Salvage",
-         "location": "Binder",
-         "code": "LCYW-SP276",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "deck": "Structure Deck: Freezing Chains",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Shien's Dojo",
-         "location": "Binder",
-         "code": "SDWA-EN032",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Supervise",
-         "location": "Binder",
-         "code": "SDWS-EN017",
-         "set": "Warriors' Strike Structure Deck",
-         "deck": "Warriors' Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Supervise",
-         "location": "Binder",
-         "code": "SDWS-EN017",
-         "set": "Warriors' Strike Structure Deck",
-         "deck": "Warriors' Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Tuning",
-         "location": "Binder",
-         "code": "SHSP-ENSE2",
-         "set": "Shadow Specters",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Tuning",
-         "location": "Binder",
-         "code": "STBL-SP045",
-         "set": "Starstrike Blast",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gagagashield",
-         "location": "Binder",
-         "code": "ZTIN-EN005",
-         "set": "Zexal Collection Tin",
-         "deck": "Structure Deck: Order of the Spellcasters",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Six Strike - Thunder Blast",
-         "location": "Binder",
-         "code": "SDWA-EN039",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Armageddon Knight",
-         "location": "Binder",
-         "code": "THSF-EN035",
-         "set": "The Secret Forces",
-         "deck": "Pendulum Domination Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Visionary",
-         "location": "Binder",
-         "code": "SDMA-EN018",
-         "set": "Structure Deck: Marik (TCG)",
-         "deck": "Structure Deck: Marik (TCG)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Junk Warrior",
-         "location": "Binder",
-         "code": "5DS1-EN041",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Raviel, Lord of Phantasms",
-         "location": "Binder",
-         "code": "LC02-EN003",
-         "set": "Legendary Collection 2: The Duel Academy Years",
-         "deck": "Structure Deck: Sacred Beasts",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Commandant",
-         "location": "Binder",
-         "code": "TU02-EN019",
-         "set": "Turbo Pack: Booster Two",
-         "deck": "Structure Deck: Marik (TCG)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Shien's Advisor",
-         "location": "Binder",
-         "code": "SDWA-EN022",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Shien's Daredevil",
-         "location": "Binder",
-         "code": "ORCS-SP097",
-         "set": "Order of Chaos",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Super-Ancient Dinobeast",
-         "location": "Binder",
-         "code": "LODT-EN088",
-         "set": "Light of Destruction",
-         "deck": "Dinosmasher's Fury Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Synchron Explorer",
-         "location": "Binder",
-         "code": "5DS3-SP005",
-         "set": "Starter Deck: Duelist Toolbox",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Synchron Explorer",
-         "location": "Binder",
-         "code": "5DS3-EN005",
-         "set": "Starter Deck: Duelist Toolbox",
-         "deck": "Synchron Extreme Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Blazewing Butterfly",
-         "location": "Binder",
-         "code": "SDWS-EN012",
-         "set": "Warriors' Strike Structure Deck",
-         "deck": "Warriors' Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Fire King Avatar Barong",
-         "location": "Binder",
-         "code": "SDOK-EN002",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Fire King Avatar Kirin",
-         "location": "Binder",
-         "code": "SDOK-EN003",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Fire King High Avatar Garunix",
-         "location": "Binder",
-         "code": "SDOK-EN001",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Sacred Phoenix of Nephthys",
-         "location": "Binder",
-         "code": "EEN-ENSE3",
-         "set": "Elemental Energy",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Sacred Phoenix of Nephthys",
-         "location": "Binder",
-         "code": "LCYW-SP259",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "deck": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Uria, Lord of Searing Flames",
-         "location": "Binder",
-         "code": "LC02-EN001",
-         "set": "Legendary Collection 2: The Duel Academy Years",
-         "deck": "Structure Deck: Sacred Beasts",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Enishi, Shien's Chancellor",
-         "location": "Binder",
-         "code": "SDWA-EN011",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Hamon, Lord of Striking Thunder",
-         "location": "Binder",
-         "code": "LC02-EN002",
-         "set": "Legendary Collection 2: The Duel Academy Years",
-         "deck": "Structure Deck: Sacred Beasts",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Hamon, Lord of Striking Thunder",
-         "location": "Binder",
-         "code": "LC02-EN002",
-         "set": "Legendary Collection 2: The Duel Academy Years",
-         "deck": "Structure Deck: Sacred Beasts",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Legendary Six Samurai - Enishi",
-         "location": "Binder",
-         "code": "SDWA-EN017",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "The Creator",
-         "location": "Binder",
-         "code": "EEN-ENSE2",
-         "set": "Elemental Energy",
-         "deck": "Rise of the Dragon Lords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "The Creator",
-         "location": "Binder",
-         "code": "LCYW-SP257",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "deck": "Rise of the Dragon Lords Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Genex Undine",
-         "location": "Binder",
-         "code": "AP01-SP005",
-         "set": "Astral Pack One",
-         "deck": "Structure Deck: Freezing Chains",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Space Mambo",
-         "location": "Binder",
-         "code": "FET-EN001",
-         "set": "Flaming Eternity",
-         "deck": "Structure Deck: Fury from the Deep",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Reborn Tengu",
-         "location": "Binder",
-         "code": "EXVC-SPSP1",
-         "set": "Extreme Victory",
-         "deck": "Structure Deck: Powercode Link",
-         "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
          "type": "Monster"
