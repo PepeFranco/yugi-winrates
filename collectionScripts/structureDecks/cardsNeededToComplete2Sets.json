@@ -1,5 +1,11 @@
 [
    {
+      "deck": "Legendary Deck - Phantom Knights",
+      "cards": [
+         "Dark Requiem Xyz Dragon"
+      ]
+   },
+   {
       "deck": "Realm of the Sea Emperor Structure Deck",
       "cards": [
          "Snowman Eater"
@@ -96,19 +102,6 @@
       ]
    },
    {
-      "deck": "Spellcaster's Command Structure Deck",
-      "cards": [
-         "Dark Red Enchanter",
-         "Magical Marionette",
-         "Magical Plant Mandragola",
-         "Malevolent Nuzzler",
-         "Mei-Kou, Master of Barriers",
-         "Mist Body",
-         "Terraforming",
-         "Tower of Babel"
-      ]
-   },
-   {
       "deck": "Structure Deck: Dragon's Roar",
       "cards": [
          "Armed Dragon LV5",
@@ -134,6 +127,20 @@
          "Solidarity",
          "The Big Saturn",
          "Time Machine"
+      ]
+   },
+   {
+      "deck": "Spellcaster's Command Structure Deck",
+      "cards": [
+         "Dark Red Enchanter",
+         "Magical Marionette",
+         "Magical Plant Mandragola",
+         "Malevolent Nuzzler",
+         "Mei-Kou, Master of Barriers",
+         "Mist Body",
+         "Terraforming",
+         "Terraforming",
+         "Tower of Babel"
       ]
    },
    {
@@ -440,33 +447,6 @@
       ]
    },
    {
-      "deck": "Synchron Extreme Structure Deck",
-      "cards": [
-         "Accel Synchron",
-         "Black Dragon Collapserpent",
-         "Black Dragon Collapserpent",
-         "Call of the Haunted",
-         "Double Cyclone",
-         "Drill Synchron",
-         "Fleur Synchron",
-         "Jet Synchron",
-         "Jet Warrior",
-         "Limit Overdrive",
-         "Limiter Overload",
-         "Night Beam",
-         "Night Beam",
-         "Plaguespreader Zombie",
-         "Rush Warrior",
-         "Scrap Fist",
-         "Scrap-Iron Statue",
-         "Stardust Warrior",
-         "Starlight Junktion",
-         "Synchron Carrier",
-         "White Dragon Wyverburster",
-         "White Dragon Wyverburster"
-      ]
-   },
-   {
       "deck": "Master of Pendulum Structure Deck",
       "cards": [
          "Dragonpit Magician",
@@ -491,6 +471,35 @@
          "Sky Iris",
          "Wisdom-Eye Magician",
          "X-Saber Airbellum"
+      ]
+   },
+   {
+      "deck": "Synchron Extreme Structure Deck",
+      "cards": [
+         "Accel Synchron",
+         "Black Dragon Collapserpent",
+         "Black Dragon Collapserpent",
+         "Call of the Haunted",
+         "Dark Eruption",
+         "Dark Eruption",
+         "Double Cyclone",
+         "Drill Synchron",
+         "Fleur Synchron",
+         "Jet Synchron",
+         "Jet Warrior",
+         "Limit Overdrive",
+         "Limiter Overload",
+         "Night Beam",
+         "Night Beam",
+         "Plaguespreader Zombie",
+         "Rush Warrior",
+         "Scrap Fist",
+         "Scrap-Iron Statue",
+         "Stardust Warrior",
+         "Starlight Junktion",
+         "Synchron Carrier",
+         "White Dragon Wyverburster",
+         "White Dragon Wyverburster"
       ]
    },
    {
@@ -677,42 +686,8 @@
          "Oasis of Dragon Souls",
          "Raiden, Hand of the Lightsworn",
          "Red-Eyes Darkness Metal Dragon",
-         "Red-Eyes Wyvern"
-      ]
-   },
-   {
-      "deck": "Zombie World Structure Deck",
-      "cards": [
-         "Book of Life",
-         "Card of Safe Return",
-         "Card of Safe Return",
-         "Cold Wave",
-         "Creature Swap",
-         "Dust Tornado",
-         "Dust Tornado",
-         "Field Barrier",
-         "Field Barrier",
-         "Gernia",
-         "Getsu Fuhma",
-         "Imperial Iron Wall",
-         "Magical Arm Shield",
-         "Magical Arm Shield",
-         "Malevolent Mech - Goku En",
-         "Marionette Mite",
-         "Master Kyonshee",
-         "Master Kyonshee",
-         "Paladin of the Cursed Dragon",
-         "Patrician of Darkness",
-         "Plague Wolf",
-         "Plague Wolf",
-         "Red-Eyes Zombie Dragon",
-         "Ribbon of Rebirth",
-         "Royal Keeper",
-         "Spirit Reaper",
-         "Terraforming",
-         "Terraforming",
-         "Tutan Mask",
-         "Zombie World"
+         "Red-Eyes Wyvern",
+         "Terraforming"
       ]
    },
    {
@@ -785,6 +760,43 @@
          "Unpossessed",
          "Witchcrafter Golem Aruru",
          "Wynn the Wind Charmer"
+      ]
+   },
+   {
+      "deck": "Zombie World Structure Deck",
+      "cards": [
+         "Book of Life",
+         "Card of Safe Return",
+         "Card of Safe Return",
+         "Cold Wave",
+         "Creature Swap",
+         "Dust Tornado",
+         "Dust Tornado",
+         "Field Barrier",
+         "Field Barrier",
+         "Gernia",
+         "Getsu Fuhma",
+         "Imperial Iron Wall",
+         "Magical Arm Shield",
+         "Magical Arm Shield",
+         "Magical Stone Excavation",
+         "Magical Stone Excavation",
+         "Malevolent Mech - Goku En",
+         "Marionette Mite",
+         "Master Kyonshee",
+         "Master Kyonshee",
+         "Paladin of the Cursed Dragon",
+         "Patrician of Darkness",
+         "Plague Wolf",
+         "Plague Wolf",
+         "Red-Eyes Zombie Dragon",
+         "Ribbon of Rebirth",
+         "Royal Keeper",
+         "Spirit Reaper",
+         "Terraforming",
+         "Terraforming",
+         "Tutan Mask",
+         "Zombie World"
       ]
    },
    {
@@ -983,52 +995,6 @@
       ]
    },
    {
-      "deck": "Structure Deck: Shaddoll Showdown",
-      "cards": [
-         "Allure of Darkness",
-         "Allure of Darkness",
-         "Curse of the Shadow Prison",
-         "Dark Armed Dragon",
-         "El Shaddoll Anoyatyllis",
-         "El Shaddoll Apkallone",
-         "El Shaddoll Construct",
-         "El Shaddoll Fusion",
-         "El Shaddoll Grysta",
-         "El Shaddoll Shekhinaga",
-         "El Shaddoll Wendigo",
-         "El Shaddoll Winda",
-         "Felis, Lightsworn Archer",
-         "Kuribandit",
-         "Kuribandit",
-         "Lava Golem",
-         "Living Fossil",
-         "Mathematician",
-         "Naelshaddoll Ariel",
-         "Necro Fusion",
-         "Nephe Shaddoll Fusion",
-         "Performage Trick Clown",
-         "Peropero Cerperus",
-         "Purushaddoll Aeon",
-         "Qadshaddoll Keios",
-         "Reeshaddoll Wendi",
-         "Resh Shaddoll Incarnation",
-         "Shaddoll Beast",
-         "Shaddoll Construct",
-         "Shaddoll Core",
-         "Shaddoll Dragon",
-         "Shaddoll Falco",
-         "Shaddoll Fusion",
-         "Shaddoll Hedgehog",
-         "Shaddoll Hound",
-         "Shaddoll Squamata",
-         "Shaddoll Zefracore",
-         "Shaddoll Zefranaga",
-         "Sinister Shadow Games",
-         "Subterror Succession",
-         "Unending Nightmare"
-      ]
-   },
-   {
       "deck": "Structure Deck: Wave of Light",
       "cards": [
          "Archlord Kristya",
@@ -1120,6 +1086,54 @@
          "The Fabled Cerburrel",
          "Tragoedia",
          "Tragoedia"
+      ]
+   },
+   {
+      "deck": "Structure Deck: Shaddoll Showdown",
+      "cards": [
+         "Allure of Darkness",
+         "Allure of Darkness",
+         "Curse of the Shadow Prison",
+         "Dark Armed Dragon",
+         "El Shaddoll Anoyatyllis",
+         "El Shaddoll Apkallone",
+         "El Shaddoll Construct",
+         "El Shaddoll Fusion",
+         "El Shaddoll Grysta",
+         "El Shaddoll Shekhinaga",
+         "El Shaddoll Wendigo",
+         "El Shaddoll Winda",
+         "Felis, Lightsworn Archer",
+         "Kuribandit",
+         "Kuribandit",
+         "Lava Golem",
+         "Living Fossil",
+         "Mathematician",
+         "Naelshaddoll Ariel",
+         "Necro Fusion",
+         "Nephe Shaddoll Fusion",
+         "Performage Trick Clown",
+         "Peropero Cerperus",
+         "Purushaddoll Aeon",
+         "Qadshaddoll Keios",
+         "Reeshaddoll Wendi",
+         "Resh Shaddoll Incarnation",
+         "Shaddoll Beast",
+         "Shaddoll Construct",
+         "Shaddoll Core",
+         "Shaddoll Dragon",
+         "Shaddoll Falco",
+         "Shaddoll Fusion",
+         "Shaddoll Hedgehog",
+         "Shaddoll Hound",
+         "Shaddoll Squamata",
+         "Shaddoll Zefracore",
+         "Shaddoll Zefranaga",
+         "Sinister Shadow Games",
+         "Subterror Succession",
+         "Twin Twisters",
+         "Twin Twisters",
+         "Unending Nightmare"
       ]
    },
    {

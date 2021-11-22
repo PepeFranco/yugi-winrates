@@ -8,10 +8,11 @@ const banLists = _.sortBy(
 );
 const sets = require("../data/sets.json");
 
-const cardsInStructureDeck = collection.filter((card) =>
-  card["In Deck"].includes("Structure Deck")
+const cardsInStructureDeck = collection.filter(
+  (card) =>
+    card["In Deck"].includes("Structure Deck") ||
+    card["In Deck"].includes("Legendary Deck")
 );
-
 const structureDecks = _.uniq(
   cardsInStructureDeck.map((card) => card["In Deck"])
 );
@@ -31,8 +32,10 @@ console.log("Unique SD cards: ", uniqueCardsInSD.length);
 const uniqueCardsTimes2 = [];
 const uniqueCardsTimes3 = [];
 
-const sds = sets.filter((s) =>
-  s["set_name"].toLowerCase().includes("structure deck")
+const sds = sets.filter(
+  (s) =>
+    s["set_name"].toLowerCase().includes("structure deck") ||
+    s["set_code"] === "LEHD"
 );
 
 const getClosestMatchingBanList = (d) => {
@@ -56,7 +59,12 @@ const limitedCardsPerDeck = {};
 
 sds.map((sd) => {
   const sdname = sd["set_name"];
-  const cardsInThisSD = uniqueCardsInSD.filter((c) => c.deck === sdname);
+  const cardsInThisSD = uniqueCardsInSD.filter(
+    (c) =>
+      c.deck === sdname ||
+      (c.deck.toLowerCase().includes("legendary deck") &&
+        sdname === "Legendary Hero Decks")
+  );
   if (cardsInThisSD.length === 0) {
     return;
   }

@@ -88,6 +88,21 @@
          "Summoner Monk"
       ]
    },
+   "Legendary Hero Decks": {
+      "limited": [
+         "Dark Hole",
+         "Dark Hole",
+         "Foolish Burial",
+         "Monster Reborn",
+         "Monster Reborn",
+         "Monster Reborn",
+         "Reinforcement of the Army",
+         "Soul Charge"
+      ],
+      "semiLimited": [
+         "Terraforming"
+      ]
+   },
    "Lost Sanctuary Structure Deck": {
       "limited": [
          "Marshmallon",
