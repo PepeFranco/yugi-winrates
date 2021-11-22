@@ -26546,6 +26546,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Forbidden Lance",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB17",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Form Change",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN020",
@@ -27475,6 +27486,17 @@
          "code": "SDHS-EN025",
          "set": "HERO Strike Structure Deck",
          "deck": "HERO Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Phantom Knights' Spear",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC14",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -29923,6 +29945,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Phantom Knights' Sword",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC22",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Phantom Knights' Wing",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC29",
@@ -30451,6 +30484,28 @@
          "type": "Trap Card"
       },
       {
+         "card": "The Phantom Knights of Dark Gauntlets",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC26",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "The Phantom Knights of Lost Vambrace",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC28",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "The Phantom Knights of Mist Claws",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC30",
@@ -30465,6 +30520,39 @@
          "card": "The Phantom Knights of Shade Brigandine",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC25",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "The Phantom Knights of Shadow Veil",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC24",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "The Phantom Knights of Tomb Shield",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC27",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "The Phantom Knights of Wrong Magnetring",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC29",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
@@ -30775,6 +30863,17 @@
          "code": "LEHD-ENB35",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Blue Mountain Butterspy",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC07",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -31210,6 +31309,28 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny End Dragoon",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA31",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dangerous",
+         "location": "Duel Devastator Yellow",
+         "code": "BLHR-EN063",
+         "set": "Battles of Legend: Hero's Revenge",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Destiny HERO - Diamond Dude",
          "location": "Duel Devastator Yellow",
          "code": "RYMP-EN033",
@@ -31227,6 +31348,17 @@
          "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
          "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dogma",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA01",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "Kaiba",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -31386,12 +31518,34 @@
          "type": "Monster"
       },
       {
+         "card": "Evilswarm Nightmare",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC35",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Evilswarm Salamandra",
          "location": "Duel Devastator Yellow",
          "code": "EGO1-EN014",
          "set": "Egyptian God Deck: Obelisk the Tormentor",
          "deck": "Dinosmasher's Fury Structure Deck",
          "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Evilswarm Thanatos",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC36",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -31562,6 +31716,17 @@
          "type": "Monster"
       },
       {
+         "card": "Kagemucha Knight",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC10",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Kuriboh",
          "location": "Duel Devastator Yellow",
          "code": "YSYR-EN008",
@@ -31617,6 +31782,17 @@
          "type": "Monster"
       },
       {
+         "card": "Loki, Lord of the Aesir",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB38",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Lord of D.",
          "location": "Duel Devastator Yellow",
          "code": "DPKB-EN009",
@@ -31666,6 +31842,17 @@
          "code": "LEHD-ENA35",
          "set": "Legendary Hero Decks",
          "deck": "HERO Strike Structure Deck",
+         "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Masked HERO Dark Law",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENA35",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "Gold dragon shield",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -32082,6 +32269,39 @@
          "card": "The Phantom Knights of Break Sword",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENC31",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "The Phantom Knights of Cloven Helm",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC04",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "The Phantom Knights of Cursed Javelin",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC32",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "The Phantom Knights of Fragile Armor",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC05",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Phantom Knights",
          "sleeve": "",
@@ -33190,6 +33410,17 @@
          "type": "Monster"
       },
       {
+         "card": "Rescue Ferret",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC08",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Sabersaurus",
          "location": "Duel Devastator Yellow",
          "code": "POTD-EN002",
@@ -34235,6 +34466,17 @@
          "type": "Monster"
       },
       {
+         "card": "Ascension Sky Dragon",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB38",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Attachment Cybern",
          "location": "Duel Devastator Yellow",
          "code": "SDCS-EN001",
@@ -34697,6 +34939,17 @@
          "type": "Monster"
       },
       {
+         "card": "Dante, Traveler of the Burning Abyss",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC39",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Denko Sekka",
          "location": "Duel Devastator Yellow",
          "code": "DUDE-EN030",
@@ -34909,6 +35162,17 @@
          "card": "Guldfaxe of the Nordic Beasts",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB04",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Gullveig of the Nordic Ascendant",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB00",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Aesir",
          "sleeve": "",
@@ -35775,6 +36039,17 @@
          "type": "Monster"
       },
       {
+         "card": "Coral Dragon",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENB38",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
          "card": "Crystal Seer",
          "location": "Duel Devastator Yellow",
          "code": "SDSC-EN017",
@@ -36391,6 +36666,17 @@
          "type": "Monster"
       },
       {
+         "card": "Cockadoodledoo",
+         "location": "Duel Devastator Yellow",
+         "code": "LEHD-ENC11",
+         "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Phantom Knights",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "Debris Dragon",
          "location": "Duel Devastator Yellow",
          "code": "CRMs-SP002",
@@ -36751,296 +37037,6 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "Legendary Hero Decks": [
-      {
-         "card": "Forbidden Lance",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENB17",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Phantom Knights' Spear",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC14",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Phantom Knights' Sword",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC22",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Dark Gauntlets",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC26",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Lost Vambrace",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC28",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Shadow Veil",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC24",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Tomb Shield",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC27",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "The Phantom Knights of Wrong Magnetring",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC29",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Blue Mountain Butterspy",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC07",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny End Dragoon",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENA31",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dangerous",
-         "location": "Legendary Hero Decks",
-         "code": "BLHR-EN063",
-         "set": "Battles of Legend: Hero's Revenge",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Evilswarm Nightmare",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC35",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Evilswarm Thanatos",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC36",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Kagemucha Knight",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC10",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Loki, Lord of the Aesir",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENB38",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Masked HERO Dark Law",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENA35",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Phantom Knights of Cloven Helm",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC04",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Phantom Knights of Cursed Javelin",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC32",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Phantom Knights of Fragile Armor",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC05",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Rescue Ferret",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC08",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Ascension Sky Dragon",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENB38",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Dante, Traveler of the Burning Abyss",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC39",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Gullveig of the Nordic Ascendant",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENB00",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Coral Dragon",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENB38",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Cockadoodledoo",
-         "location": "Legendary Hero Decks",
-         "code": "LEHD-ENC11",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Phantom Knights",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "Kaiba Corp": [
-      {
-         "card": "Destiny HERO - Dogma",
-         "location": "Kaiba Corp",
-         "code": "LEHD-ENA01",
-         "set": "Legendary Hero Decks",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
          "type": "Monster"
       }
    ],
