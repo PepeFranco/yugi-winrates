@@ -26535,6 +26535,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Forbidden Lance",
+         "location": "Duel Devastator Yellow",
+         "code": "BP01-EN084",
+         "set": "Battle Pack: Epic Dawn",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Form Change",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN020",
@@ -27065,6 +27076,17 @@
       {
          "card": "March Towards Ragnarok",
          "location": "Duel Devastator Yellow",
+         "code": "STOR-EN047",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "March Towards Ragnarok",
+         "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB15",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Aesir",
@@ -27332,6 +27354,17 @@
          "code": "SDMA-EN025",
          "set": "Structure Deck: Marik (TCG)",
          "deck": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Nordic Relic Draupnir",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP045",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -29043,6 +29076,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "D - Time",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN149",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "D.D. Dynamite",
          "location": "Duel Devastator Yellow",
          "code": "FET-EN057",
@@ -29780,10 +29824,32 @@
          "type": "Trap Card"
       },
       {
+         "card": "Nordic Relic Brisingamen",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-EN068",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Nordic Relic Gungnir",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB27",
          "set": "Legendary Hero Decks",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Nordic Relic Laevateinn",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP069",
+         "set": "Storm of Ragnarok",
          "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
@@ -30148,6 +30214,28 @@
          "code": "SDMA-EN031",
          "set": "Structure Deck: Marik (TCG)",
          "deck": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Solemn Authority",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP067",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Solemn Authority",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-EN067",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -31122,6 +31210,39 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny HERO - Diamond Dude",
+         "location": "Duel Devastator Yellow",
+         "code": "RYMP-EN033",
+         "set": "Ra Yellow Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dogma",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN128",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Plasma",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN134",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Diabolos, King of the Abyss",
          "location": "Duel Devastator Yellow",
          "code": "GLD4-EN018",
@@ -31271,6 +31392,17 @@
          "set": "Egyptian God Deck: Obelisk the Tormentor",
          "deck": "Dinosmasher's Fury Structure Deck",
          "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Garmr of the Nordic Beasts",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP012",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -31498,6 +31630,17 @@
       {
          "card": "Mara of the Nordic Alfar",
          "location": "Duel Devastator Yellow",
+         "code": "EXVC-SP083",
+         "set": "Extreme Victory",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Mara of the Nordic Alfar",
+         "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB08",
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Aesir",
@@ -31535,6 +31678,17 @@
          "set": "Legendary Hero Decks",
          "deck": "Legendary Deck - Destiny HERO",
          "sleeve": "Gold dragon shield",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Mimir of the Nordic Ascendant",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-EN018",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -34972,6 +35126,17 @@
          "type": "Monster"
       },
       {
+         "card": "Ljosalf of the Nordic Alfar",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP014",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Magical Merchant",
          "location": "Duel Devastator Yellow",
          "code": "MFC-079",
@@ -35263,6 +35428,17 @@
          "code": "STON-EN011",
          "set": "Strike of Neos",
          "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Tyr of the Nordic Champions",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP019",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -36575,184 +36751,6 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "White": [
-      {
-         "card": "Forbidden Lance",
-         "location": "White",
-         "code": "BP01-EN084",
-         "set": "Battle Pack: Epic Dawn",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "March Towards Ragnarok",
-         "location": "White",
-         "code": "STOR-EN047",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Nordic Relic Draupnir",
-         "location": "White",
-         "code": "STOR-SP045",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "D - Time",
-         "location": "White",
-         "code": "LCGX-EN149",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Nordic Relic Brisingamen",
-         "location": "White",
-         "code": "STOR-EN068",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Nordic Relic Laevateinn",
-         "location": "White",
-         "code": "STOR-SP069",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Solemn Authority",
-         "location": "White",
-         "code": "STOR-SP067",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Solemn Authority",
-         "location": "White",
-         "code": "STOR-EN067",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Destiny HERO - Diamond Dude",
-         "location": "White",
-         "code": "RYMP-EN033",
-         "set": "Ra Yellow Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dogma",
-         "location": "White",
-         "code": "LCGX-EN128",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Plasma",
-         "location": "White",
-         "code": "LCGX-EN134",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Garmr of the Nordic Beasts",
-         "location": "White",
-         "code": "STOR-SP012",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Mara of the Nordic Alfar",
-         "location": "White",
-         "code": "EXVC-SP083",
-         "set": "Extreme Victory",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Mimir of the Nordic Ascendant",
-         "location": "White",
-         "code": "STOR-EN018",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Ljosalf of the Nordic Alfar",
-         "location": "White",
-         "code": "STOR-SP014",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Tyr of the Nordic Champions",
-         "location": "White",
-         "code": "STOR-SP019",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
          "type": "Monster"
       }
    ],

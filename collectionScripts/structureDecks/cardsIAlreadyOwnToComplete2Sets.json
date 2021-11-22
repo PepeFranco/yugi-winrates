@@ -26227,6 +26227,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Forbidden Lance",
+         "location": "Duel Devastator Yellow",
+         "code": "BP01-EN084",
+         "set": "Battle Pack: Epic Dawn",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Form Change",
          "location": "Duel Devastator Yellow",
          "code": "SDHS-EN020",
@@ -26581,8 +26592,8 @@
       {
          "card": "March Towards Ragnarok",
          "location": "Duel Devastator Yellow",
-         "code": "LEHD-ENB15",
-         "set": "Legendary Hero Decks",
+         "code": "STOR-EN047",
+         "set": "Storm of Ragnarok",
          "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
@@ -27844,6 +27855,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "D - Time",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN149",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "D.D. Dynamite",
          "location": "Duel Devastator Yellow",
          "code": "FET-EN057",
@@ -28548,6 +28570,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Solemn Authority",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP067",
+         "set": "Storm of Ragnarok",
+         "deck": "Legendary Deck - Aesir",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Solemn Strike",
          "location": "Duel Devastator Yellow",
          "code": "DUDE-EN055",
@@ -29186,6 +29219,39 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny HERO - Diamond Dude",
+         "location": "Duel Devastator Yellow",
+         "code": "RYMP-EN033",
+         "set": "Ra Yellow Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Dogma",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN128",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Destiny HERO - Plasma",
+         "location": "Duel Devastator Yellow",
+         "code": "LCGX-EN134",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "deck": "Legendary Deck - Destiny HERO",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Diabolos, King of the Abyss",
          "location": "Duel Devastator Yellow",
          "code": "GLD4-EN018",
@@ -29452,8 +29518,8 @@
       {
          "card": "Mara of the Nordic Alfar",
          "location": "Duel Devastator Yellow",
-         "code": "LEHD-ENB08",
-         "set": "Legendary Hero Decks",
+         "code": "EXVC-SP083",
+         "set": "Extreme Victory",
          "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
@@ -29496,8 +29562,8 @@
       {
          "card": "Mimir of the Nordic Ascendant",
          "location": "Duel Devastator Yellow",
-         "code": "LEHD-ENB09",
-         "set": "Legendary Hero Decks",
+         "code": "STOR-EN018",
+         "set": "Storm of Ragnarok",
          "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
@@ -31927,8 +31993,8 @@
       {
          "card": "Tyr of the Nordic Champions",
          "location": "Duel Devastator Yellow",
-         "code": "LEHD-ENB12",
-         "set": "Legendary Hero Decks",
+         "code": "STOR-SP019",
+         "set": "Storm of Ragnarok",
          "deck": "Legendary Deck - Aesir",
          "sleeve": "",
          "outOfPlace": "",
@@ -32692,74 +32758,6 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "White": [
-      {
-         "card": "Forbidden Lance",
-         "location": "White",
-         "code": "BP01-EN084",
-         "set": "Battle Pack: Epic Dawn",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "D - Time",
-         "location": "White",
-         "code": "LCGX-EN149",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Solemn Authority",
-         "location": "White",
-         "code": "STOR-SP067",
-         "set": "Storm of Ragnarok",
-         "deck": "Legendary Deck - Aesir",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Destiny HERO - Diamond Dude",
-         "location": "White",
-         "code": "RYMP-EN033",
-         "set": "Ra Yellow Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Dogma",
-         "location": "White",
-         "code": "LCGX-EN128",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Destiny HERO - Plasma",
-         "location": "White",
-         "code": "LCGX-EN134",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "deck": "Legendary Deck - Destiny HERO",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
          "type": "Monster"
       }
    ],
