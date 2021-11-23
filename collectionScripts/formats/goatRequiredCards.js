@@ -3,20 +3,18 @@ const fs = require("fs");
 
 const collection = require("../data/collection.json");
 const decks = [];
-fs.readdirSync(__dirname + "/edisonDeckLists/").forEach((deck) => {
+fs.readdirSync(__dirname + "/goatDeckLists/").forEach((deck) => {
   decks.push(deck);
 });
 
-const edisonCards = [];
+const goatCards = [];
 decks.map((d) => {
-  const cardList = require(`./edisonDeckLists/${d}`);
-  cardList.main.map((c) => edisonCards.push(c));
-  cardList.side.map((c) => edisonCards.push(c));
-  cardList.extra.map((c) => edisonCards.push(c));
+  const cardList = require(`./goatDeckLists/${d}`);
+  goatCards.push(...cardList);
 });
 
-const uniqueEdisonCards = _.uniq(edisonCards);
-console.log(uniqueEdisonCards);
+const uniquegoatCards = _.uniq(goatCards);
+console.log(uniquegoatCards);
 
 const allCollectionCards = collection.map((card) => ({
   card: card["Name"],
@@ -34,12 +32,12 @@ const allCollectionCards = collection.map((card) => ({
 }));
 
 console.log("All cards in collection: ", allCollectionCards.length);
-console.log("Unique Edison cards:    ", uniqueEdisonCards.length);
+console.log("Unique goat cards:    ", uniquegoatCards.length);
 
 const cardsIAlreadyOwn = [];
 
 allCollectionCards.map((cc) => {
-  const cardIndex = uniqueEdisonCards.findIndex(
+  const cardIndex = uniquegoatCards.findIndex(
     (uc) => uc.toLowerCase() === cc.card.toLowerCase()
   );
 
@@ -58,7 +56,7 @@ for (const [key, value] of Object.entries(sortedOwnedCards)) {
 }
 
 fs.writeFile(
-  "./collectionScripts/formats/edisonOwnedCards.json",
+  "./collectionScripts/formats/goatOwnedCards.json",
   JSON.stringify(cards, null, 3),
   function (err) {
     console.error(err);

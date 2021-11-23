@@ -27228,6 +27228,17 @@
          "type": "Spell Card"
       },
       {
+         "card": "Six Samurai United",
+         "location": "Duel Devastator Yellow",
+         "code": "PTDN-EN059",
+         "set": "Phantom Darkness",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Smashing Ground",
          "location": "Duel Devastator Yellow",
          "code": "IOC-093",
@@ -28141,6 +28152,17 @@
          "type": "Trap Card"
       },
       {
+         "card": "Dimensional Prison",
+         "location": "Duel Devastator Yellow",
+         "code": "RYMP-SP084",
+         "set": "Ra Yellow Mega Pack",
+         "deck": "Machina Mayhem Structure Deck",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Double-Edged Sword Technique",
          "location": "Duel Devastator Yellow",
          "code": "GLAS-EN074",
@@ -28180,6 +28202,28 @@
          "set": "Photon Shockwave",
          "deck": "Structure Deck: Freezing Chains",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Fiendish Chain",
+         "location": "Duel Devastator Yellow",
+         "code": "BP01-SP105",
+         "set": "Battle Pack: Epic Dawn",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Fiendish Chain",
+         "location": "Duel Devastator Yellow",
+         "code": "BP01-SP105",
+         "set": "Battle Pack: Epic Dawn",
+         "deck": "Structure Deck: Freezing Chains",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -28522,6 +28566,17 @@
          "deck": "Structure Deck: Yugi Muto",
          "sleeve": "",
          "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Musakani Magatama",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN037",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
       },
@@ -30264,6 +30319,28 @@
          "type": "Monster"
       },
       {
+         "card": "Summoner Monk",
+         "location": "Duel Devastator Yellow",
+         "code": "SDDC-EN017",
+         "set": "Dragons Collide Structure Deck",
+         "deck": "Structure Deck: Order of the Spellcasters",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Summoner Monk",
+         "location": "Duel Devastator Yellow",
+         "code": "FUEN-EN039",
+         "set": "Fusion Enforcers",
+         "deck": "Structure Deck: Order of the Spellcasters",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Svartalf of the Nordic Alfar",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB07",
@@ -30913,6 +30990,17 @@
          "type": "Monster"
       },
       {
+         "card": "Legendary Six Samurai - Kizan",
+         "location": "Duel Devastator Yellow",
+         "code": "STOR-SP020",
+         "set": "Storm of Ragnarok",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Leo, the Keeper of the Sacred Tree",
          "location": "Duel Devastator Yellow",
          "code": "LEHD-ENB33",
@@ -31062,6 +31150,17 @@
          "set": "Ancient Prophecy",
          "deck": "Dinosmasher's Fury Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Shadow of the Six Samurai - Shien",
+         "location": "Duel Devastator Yellow",
+         "code": "SDWA-EN041",
+         "set": "Samurai Warlords Structure Deck",
+         "deck": "Samurai Warlords Structure Deck",
+         "sleeve": "5DS World Championship Qualifier",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -32356,10 +32455,10 @@
       {
          "card": "Legendary Six Samurai - Enishi",
          "location": "Duel Devastator Yellow",
-         "code": "SDWA-EN017",
-         "set": "Samurai Warlords Structure Deck",
+         "code": "STOR-SP021",
+         "set": "Storm of Ragnarok",
          "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -34762,107 +34861,6 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
-         "type": "Monster"
-      }
-   ],
-   "Double box": [
-      {
-         "card": "Six Samurai United",
-         "location": "Double box",
-         "code": "PTDN-EN059",
-         "set": "Phantom Darkness",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dimensional Prison",
-         "location": "Double box",
-         "code": "RYMP-SP084",
-         "set": "Ra Yellow Mega Pack",
-         "deck": "Machina Mayhem Structure Deck",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Fiendish Chain",
-         "location": "Double box",
-         "code": "BP01-SP105",
-         "set": "Battle Pack: Epic Dawn",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Fiendish Chain",
-         "location": "Double box",
-         "code": "BP01-SP105",
-         "set": "Battle Pack: Epic Dawn",
-         "deck": "Structure Deck: Freezing Chains",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Musakani Magatama",
-         "location": "Double box",
-         "code": "SDWA-EN037",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Summoner Monk",
-         "location": "Double box",
-         "code": "SDDC-EN017",
-         "set": "Dragons Collide Structure Deck",
-         "deck": "Structure Deck: Order of the Spellcasters",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Summoner Monk",
-         "location": "Double box",
-         "code": "FUEN-EN039",
-         "set": "Fusion Enforcers",
-         "deck": "Structure Deck: Order of the Spellcasters",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Legendary Six Samurai - Kizan",
-         "location": "Double box",
-         "code": "STOR-SP020",
-         "set": "Storm of Ragnarok",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Shadow of the Six Samurai - Shien",
-         "location": "Double box",
-         "code": "SDWA-EN041",
-         "set": "Samurai Warlords Structure Deck",
-         "deck": "Samurai Warlords Structure Deck",
-         "sleeve": "5DS World Championship Qualifier",
-         "outOfPlace": "",
-         "attribute": "EARTH",
          "type": "Monster"
       }
    ],
