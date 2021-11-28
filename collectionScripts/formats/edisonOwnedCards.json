@@ -3163,6 +3163,16 @@
          "type": "Monster"
       },
       {
+         "card": "Five-Headed Dragon",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN000",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Gaap the Divine Soldier",
          "location": "Goat Cards Box",
          "code": "BP01-EN150",
@@ -4053,6 +4063,16 @@
          "type": "Monster"
       },
       {
+         "card": "Black Rose Dragon",
+         "location": "Goat Cards Box",
+         "code": "LED4-EN028",
+         "set": "Legendary Duelists: Sisters of the Rose",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
          "card": "Flame Swordsman",
          "location": "Goat Cards Box",
          "code": "SDJ-024",
@@ -4333,6 +4353,16 @@
          "type": "Monster"
       },
       {
+         "card": "Elemental HERO Neos Alius",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN008",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Light and Darkness Dragon",
          "location": "Goat Cards Box",
          "code": "AP02-SP016",
@@ -4578,6 +4608,16 @@
          "code": "ABPF-EN032",
          "set": "Absolute Powerforce",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Absolute Zero",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN065",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "Gold dragon shield",
          "outOfPlace": "",
          "attribute": "WATER",
          "type": "Monster"
@@ -4973,6 +5013,36 @@
          "type": "Monster"
       },
       {
+         "card": "Elemental HERO Stratos",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN061",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Stratos",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN061",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Harpie Queen",
+         "location": "Goat Cards Box",
+         "code": "LED4-EN007",
+         "set": "Legendary Duelists: Sisters of the Rose",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "Mist Wurm",
          "location": "Goat Cards Box",
          "code": "HA01-EN023",
@@ -5077,6 +5147,16 @@
          "location": "Goat Cards Box",
          "code": "TDGS-EN040",
          "set": "The Duelist Genesis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Stardust Dragon",
+         "location": "Goat Cards Box",
+         "code": "DUPO-EN103",
+         "set": "Duel Power",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "WIND",
@@ -5663,6 +5743,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "Gold Sarcophagus",
+         "location": "Goat Cards Box",
+         "code": "HISU-EN051",
+         "set": "Hidden Summoners",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Gravekeeper's Stele",
          "location": "Goat Cards Box",
          "code": "ABPF-EN056",
@@ -5788,6 +5878,16 @@
          "code": "SDHS-EN024",
          "set": "HERO Strike Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fusion",
+         "location": "Goat Cards Box",
+         "code": "DUPO-EN055",
+         "set": "Duel Power",
+         "sleeve": "Lime ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -5988,6 +6088,16 @@
          "code": "SDP-033",
          "set": "Starter Deck: Pegasus",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Rush Recklessly",
+         "location": "Goat Cards Box",
+         "code": "YSKR-EN031",
+         "set": "Starter Deck: Kaiba Reloaded",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -14687,118 +14797,6 @@
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
-      }
-   ],
-   "Legendary Hero Decks": [
-      {
-         "card": "Five-Headed Dragon",
-         "location": "Legendary Hero Decks",
-         "code": "BLHR-EN000",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Black Rose Dragon",
-         "location": "Legendary Hero Decks",
-         "code": "LED4-EN028",
-         "set": "Legendary Duelists: Sisters of the Rose",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Neos Alius",
-         "location": "Legendary Hero Decks",
-         "code": "SDHS-EN008",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Absolute Zero",
-         "location": "Legendary Hero Decks",
-         "code": "BLHR-EN065",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "Gold dragon shield",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Stratos",
-         "location": "Legendary Hero Decks",
-         "code": "BLHR-EN061",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Stratos",
-         "location": "Legendary Hero Decks",
-         "code": "BLHR-EN061",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Harpie Queen",
-         "location": "Legendary Hero Decks",
-         "code": "LED4-EN007",
-         "set": "Legendary Duelists: Sisters of the Rose",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Stardust Dragon",
-         "location": "Legendary Hero Decks",
-         "code": "DUPO-EN103",
-         "set": "Duel Power",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Gold Sarcophagus",
-         "location": "Legendary Hero Decks",
-         "code": "HISU-EN051",
-         "set": "Hidden Summoners",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fusion",
-         "location": "Legendary Hero Decks",
-         "code": "DUPO-EN055",
-         "set": "Duel Power",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Rush Recklessly",
-         "location": "Legendary Hero Decks",
-         "code": "YSKR-EN031",
-         "set": "Starter Deck: Kaiba Reloaded",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
       }
    ],
    "Dark Magician": [
