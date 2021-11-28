@@ -4447,6 +4447,26 @@
       {
          "card": "Dark Hole",
          "location": "Goat Cards Box",
+         "code": "SDY-E020",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDJ-026",
+         "set": "Starter Deck: Joey",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
          "code": "YS18-EN025",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Pink ultra pro",
@@ -4837,6 +4857,26 @@
       {
          "card": "Mystical Space Typhoon",
          "location": "Goat Cards Box",
+         "code": "YS11-SP014",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mystical Space Typhoon",
+         "location": "Goat Cards Box",
+         "code": "DLG1-EN058",
+         "set": "Dark Legends",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mystical Space Typhoon",
+         "location": "Goat Cards Box",
          "code": "YS16-EN025",
          "set": "Starter Deck: Yuya",
          "sleeve": "Pink ultra pro",
@@ -4897,9 +4937,49 @@
       {
          "card": "Pot of Duality",
          "location": "Goat Cards Box",
+         "code": "SDOK-EN027",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Pot of Duality",
+         "location": "Goat Cards Box",
+         "code": "CT08-SP008",
+         "set": "Collectible Tins 2011 Wave 1",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Pot of Duality",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN046",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Pot of Duality",
+         "location": "Goat Cards Box",
          "code": "SDHS-EN034",
          "set": "HERO Strike Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Reinforcement of the Army",
+         "location": "Goat Cards Box",
+         "code": "WIRA-EN052",
+         "set": "Wing Raiders",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -4967,6 +5047,26 @@
       {
          "card": "Bottomless Trap Hole",
          "location": "Goat Cards Box",
+         "code": "SDZW-EN034",
+         "set": "Zombie World Structure Deck",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Bottomless Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP181",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Bottomless Trap Hole",
+         "location": "Goat Cards Box",
          "code": "YS18-EN038",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Pink ultra pro",
@@ -4980,6 +5080,26 @@
          "code": "YS16-EN034",
          "set": "Starter Deck: Yuya",
          "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "White ultra pro old (corner)",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -5350,6 +5470,16 @@
          "code": "5DS3-EN036",
          "set": "Starter Deck: Duelist Toolbox",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Torrential Tribute",
+         "location": "Goat Cards Box",
+         "code": "TU05-SP009",
+         "set": "Turbo Pack: Booster Five",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -10384,138 +10514,6 @@
          "code": "YS18-EN039",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Double box": [
-      {
-         "card": "Dark Hole",
-         "location": "Double box",
-         "code": "SDY-E020",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Double box",
-         "code": "SDJ-026",
-         "set": "Starter Deck: Joey",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mystical Space Typhoon",
-         "location": "Double box",
-         "code": "YS11-SP014",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mystical Space Typhoon",
-         "location": "Double box",
-         "code": "DLG1-EN058",
-         "set": "Dark Legends",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Pot of Duality",
-         "location": "Double box",
-         "code": "SDOK-EN027",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Pot of Duality",
-         "location": "Double box",
-         "code": "CT08-SP008",
-         "set": "Collectible Tins 2011 Wave 1",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Pot of Duality",
-         "location": "Double box",
-         "code": "BP01-EN046",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Reinforcement of the Army",
-         "location": "Double box",
-         "code": "WIRA-EN052",
-         "set": "Wing Raiders",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Bottomless Trap Hole",
-         "location": "Double box",
-         "code": "SDZW-EN034",
-         "set": "Zombie World Structure Deck",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Bottomless Trap Hole",
-         "location": "Double box",
-         "code": "LCYW-SP181",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Double box",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Double box",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Torrential Tribute",
-         "location": "Double box",
-         "code": "TU05-SP009",
-         "set": "Turbo Pack: Booster Five",
-         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"

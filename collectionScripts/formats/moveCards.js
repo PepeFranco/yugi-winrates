@@ -5,7 +5,7 @@ const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const cardsFromFormat = require("./goatOwnedCards.json");
 
-const cardsToMove = cardsFromFormat["Double box"];
+const cardsToMove = cardsFromFormat["Dark Magician"];
 
 let moved = 0;
 cardsToMove.map((cc) => {
