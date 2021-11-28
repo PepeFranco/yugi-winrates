@@ -5,15 +5,14 @@ const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const cardsFromFormat = require("./goatOwnedCards.json");
 
-const cardsToMove = cardsFromFormat["Bulk (White)"];
+const cardsToMove = cardsFromFormat["Gold Sarcophagus Tin"];
 
 cardsToMove.map((cc) => {
   const cardIndex = collection.findIndex(
     (c) =>
-      (c.card === c["Name"] || cc.code === c["Code"]) &&
-      cc.location === c["In Box"]
+      //   c.card === c["Name"] &&
+      cc.code === c["Code"] && cc.location === c["In Box"]
   );
-  console.log(cc.card);
   if (cardIndex >= 0) {
     console.log("Moving ", cc.card);
     collection[cardIndex]["In Box"] = "Goat Cards Box";

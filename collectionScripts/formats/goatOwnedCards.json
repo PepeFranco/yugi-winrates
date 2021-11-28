@@ -3553,10 +3553,20 @@
          "type": "Trap Card"
       }
    ],
-   "Legendary Hero Decks": [
+   "Goat Cards Box": [
+      {
+         "card": "Cyber Jar",
+         "location": "Goat Cards Box",
+         "code": "",
+         "set": "",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
       {
          "card": "Cyber-Stein",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "BLHR-EN074",
          "set": "Battles of Legend: Hero's Revenge",
          "sleeve": "",
@@ -3565,8 +3575,148 @@
          "type": "Monster"
       },
       {
+         "card": "Dark Master - Zorc",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP123",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Master - Zorc",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP123",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion - Chick the Yellow",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN010",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion - Meanae the Thorn",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN012",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion Burglars",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN004",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion Burglars",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN004",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion Burglars",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN004",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion Burglars",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN004",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Don Zaloog",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN005",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Don Zaloog",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN005",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Don Zaloog",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN005",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Germ",
+         "location": "Goat Cards Box",
+         "code": "",
+         "set": "",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Germ",
+         "location": "Goat Cards Box",
+         "code": "",
+         "set": "",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gravekeeper's Spy",
+         "location": "Goat Cards Box",
+         "code": "SDMA-EN007",
+         "set": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "King of the Skull Servants",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "DR3-EN212",
          "set": "Dark Revelation Volume 3",
          "sleeve": "",
@@ -3575,8 +3725,248 @@
          "type": "Monster"
       },
       {
+         "card": "Mad Dog of Darkness",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN113",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Night Assailant",
+         "location": "Goat Cards Box",
+         "code": "AST-SP080",
+         "set": "Ancient Sanctuary",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Sangan",
+         "location": "Goat Cards Box",
+         "code": "SDJ-019",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "The End of Anubis",
+         "location": "Goat Cards Box",
+         "code": "TLM-ENSE4",
+         "set": "The Lost Millennium",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Witch of the Black Forest",
+         "location": "Goat Cards Box",
+         "code": "SDP-014",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Big Shield Gardna",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP032",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Big Shield Gardna",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN176",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Big Shield Gardna",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN032",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Blade Rabbit",
+         "location": "Goat Cards Box",
+         "code": "FET-EN018",
+         "set": "Flaming Eternity",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Chiron the Mage",
+         "location": "Goat Cards Box",
+         "code": "YS12-EN013",
+         "set": "Starter Deck: Xyz Symphony",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Chiron the Mage",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN034",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Dream Clown",
+         "location": "Goat Cards Box",
+         "code": "SDP-017",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Rat",
+         "location": "Goat Cards Box",
+         "code": "YS12-EN017",
+         "set": "Starter Deck: Xyz Symphony",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Injection Fairy Lily",
+         "location": "Goat Cards Box",
+         "code": "LOD-EN100",
+         "set": "Legacy of Darkness",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Milus Radiant",
+         "location": "Goat Cards Box",
+         "code": "SDJ-014",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Toon Gemini Elf",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN033",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Blade Knight",
+         "location": "Goat Cards Box",
+         "code": "YS11-EN014",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Blade Knight",
+         "location": "Goat Cards Box",
+         "code": "YS11-SP014",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Manju of the Ten Thousand Hands",
+         "location": "Goat Cards Box",
+         "code": "TU05-SP012",
+         "set": "Turbo Pack: Booster Five",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Manju of the Ten Thousand Hands",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP250",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Thunder Dragon",
+         "location": "Goat Cards Box",
+         "code": "DLG1-EN041",
+         "set": "Dark Legends",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Thunder Dragon",
+         "location": "Goat Cards Box",
+         "code": "DB2-EN058",
+         "set": "Dark Beginning 2",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Thunder Dragon",
+         "location": "Goat Cards Box",
+         "code": "CP02-EN015",
+         "set": "Champion Pack: Game Two",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Lekunga",
+         "location": "Goat Cards Box",
+         "code": "IOC-027",
+         "set": "Invasion of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
          "card": "Yomi Ship",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "YSKR-EN014",
          "set": "Starter Deck: Kaiba Reloaded",
          "sleeve": "",
@@ -3586,7 +3976,7 @@
       },
       {
          "card": "Yomi Ship",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "LEDU-EN044",
          "set": "Legendary Duelists",
          "sleeve": "",
@@ -3595,8 +3985,38 @@
          "type": "Monster"
       },
       {
+         "card": "Elemental HERO Flame Wingman",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN016",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Sasuke Samurai",
+         "location": "Goat Cards Box",
+         "code": "5DS2-EN010",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Tornado Bird",
+         "location": "Goat Cards Box",
+         "code": "TP5-EN012",
+         "set": "Tournament Pack 5",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "A Legendary Ocean",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "LEDU-EN021",
          "set": "Legendary Duelists",
          "sleeve": "",
@@ -3605,8 +4025,68 @@
          "type": "Spell Card"
       },
       {
+         "card": "Amazoness Spellcaster",
+         "location": "Goat Cards Box",
+         "code": "MFC-084",
+         "set": "Magician's Force",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Black Illusion Ritual",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP114",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Brain Control",
+         "location": "Goat Cards Box",
+         "code": "DPYG-SP024",
+         "set": "Duelist Pack: Yugi",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Change of Heart",
+         "location": "Goat Cards Box",
+         "code": "SDY-032",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Change of Heart",
+         "location": "Goat Cards Box",
+         "code": "SDJ-030",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Factory of Mass Production",
+         "location": "Goat Cards Box",
+         "code": "YSD-EN029",
+         "set": "Starter Deck 2006",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Dark Hole",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "YSKR-EN028",
          "set": "Starter Deck: Kaiba Reloaded",
          "sleeve": "",
@@ -3616,7 +4096,7 @@
       },
       {
          "card": "Dark Hole",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "LEHD-ENB21",
          "set": "Legendary Hero Decks",
          "sleeve": "",
@@ -3626,7 +4106,7 @@
       },
       {
          "card": "Dark Hole",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "LEHD-ENC15",
          "set": "Legendary Hero Decks",
          "sleeve": "",
@@ -3635,8 +4115,188 @@
          "type": "Spell Card"
       },
       {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDJ-026",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDRE-EN031",
+         "set": "Realm of the Sea Emperor Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP053",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "Black ultra pro old",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gaia Power",
+         "location": "Goat Cards Box",
+         "code": "MRL-096",
+         "set": "Magic Ruler",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gaia Power",
+         "location": "Goat Cards Box",
+         "code": "DLG1-EN078",
+         "set": "Dark Legends",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gaia Power",
+         "location": "Goat Cards Box",
+         "code": "DB1-EN059",
+         "set": "Dark Beginning 1",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Graceful Charity",
+         "location": "Goat Cards Box",
+         "code": "SDP-040",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Graceful Dice",
+         "location": "Goat Cards Box",
+         "code": "GLD4-NE037",
+         "set": "Gold Series 4: Pyramids Edition",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Harpie's Feather Duster",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN035",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Heart of the Underdog",
+         "location": "Goat Cards Box",
+         "code": "IOC-032",
+         "set": "Invasion of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Heart of the Underdog",
+         "location": "Goat Cards Box",
+         "code": "DR2-EN032",
+         "set": "Dark Revelation Volume 2",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Heart of the Underdog",
+         "location": "Goat Cards Box",
+         "code": "IOC-032",
+         "set": "Invasion of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Level Limit - Area B",
+         "location": "Goat Cards Box",
+         "code": "SD3-EN024",
+         "set": "Structure Deck: Blaze of Destruction",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Level Limit - Area B",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP269",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mustering of the Dark Scorpions",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN042",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mustering of the Dark Scorpions",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN042",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mustering of the Dark Scorpions",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN042",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mustering of the Dark Scorpions",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN042",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Necrovalley",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "SDMA-EN025",
          "set": "Structure Deck: Marik (TCG)",
          "sleeve": "",
@@ -3646,19 +4306,349 @@
       },
       {
          "card": "Necrovalley",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "SDMA-EN025",
          "set": "Structure Deck: Marik (TCG)",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
+      },
+      {
+         "card": "Necrovalley",
+         "location": "Goat Cards Box",
+         "code": "SDMA-EN025",
+         "set": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Painful Choice",
+         "location": "Goat Cards Box",
+         "code": "DLG1-EN060",
+         "set": "Dark Legends",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Painful Choice",
+         "location": "Goat Cards Box",
+         "code": "DLG1-EN060",
+         "set": "Dark Legends",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Stray Lambs",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP274",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN099",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN099",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Gravity Bind",
+         "location": "Goat Cards Box",
+         "code": "SD4-EN028",
+         "set": "Structure Deck: Fury from the Deep",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Gravity Bind",
+         "location": "Goat Cards Box",
+         "code": "PSV-073",
+         "set": "Pharaoh's Servant",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Physical Double",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN047",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Physical Double",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN047",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Physical Double",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN047",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Physical Double",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN047",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "SYE-050",
+         "set": "Starter Deck: Yugi Evolution",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "5DS2-EN036",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "YS12-EN031",
+         "set": "Starter Deck: Xyz Symphony",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN032",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "YS11-EN037",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP286",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Ring of Destruction",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN050",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Ring of Destruction",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN050",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Secret Barrel",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN034",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Skull Dice",
+         "location": "Goat Cards Box",
+         "code": "GLD4-EN046",
+         "set": "Gold Series 4: Pyramids Edition",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
       },
       {
          "card": "Threatening Roar",
-         "location": "Legendary Hero Decks",
+         "location": "Goat Cards Box",
          "code": "YSKR-EN046",
          "set": "Starter Deck: Kaiba Reloaded",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Threatening Roar",
+         "location": "Goat Cards Box",
+         "code": "5DS1-EN031",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Threatening Roar",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN036",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Dustshoot",
+         "location": "Goat Cards Box",
+         "code": "PGD-049",
+         "set": "Pharaonic Guardian",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Wall of Revealing Light",
+         "location": "Goat Cards Box",
+         "code": "AST-SP050",
+         "set": "Ancient Sanctuary",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zero Gravity",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN178",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zero Gravity",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN178",
+         "set": "Battle Pack 2: War of the Giants",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -8619,768 +9609,6 @@
          "type": "Trap Card"
       }
    ],
-   "Goat Cards Box": [
-      {
-         "card": "Cyber Jar",
-         "location": "Goat Cards Box",
-         "code": "",
-         "set": "",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Master - Zorc",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP123",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion - Chick the Yellow",
-         "location": "Goat Cards Box",
-         "code": "GLD5-EN010",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion - Meanae the Thorn",
-         "location": "Goat Cards Box",
-         "code": "GLD5-EN012",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion Burglars",
-         "location": "Goat Cards Box",
-         "code": "GLD5-EN004",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Don Zaloog",
-         "location": "Goat Cards Box",
-         "code": "GLD5-EN005",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Spy",
-         "location": "Goat Cards Box",
-         "code": "SDMA-EN007",
-         "set": "Structure Deck: Marik (TCG)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Mad Dog of Darkness",
-         "location": "Goat Cards Box",
-         "code": "BP01-EN113",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Night Assailant",
-         "location": "Goat Cards Box",
-         "code": "AST-SP080",
-         "set": "Ancient Sanctuary",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Sangan",
-         "location": "Goat Cards Box",
-         "code": "SDJ-019",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The End of Anubis",
-         "location": "Goat Cards Box",
-         "code": "TLM-ENSE4",
-         "set": "The Lost Millennium",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Witch of the Black Forest",
-         "location": "Goat Cards Box",
-         "code": "SDP-014",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Big Shield Gardna",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP032",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Big Shield Gardna",
-         "location": "Goat Cards Box",
-         "code": "BP01-EN176",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Big Shield Gardna",
-         "location": "Goat Cards Box",
-         "code": "BP02-EN032",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Blade Rabbit",
-         "location": "Goat Cards Box",
-         "code": "FET-EN018",
-         "set": "Flaming Eternity",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Chiron the Mage",
-         "location": "Goat Cards Box",
-         "code": "YS12-EN013",
-         "set": "Starter Deck: Xyz Symphony",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Chiron the Mage",
-         "location": "Goat Cards Box",
-         "code": "BP02-EN034",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Dream Clown",
-         "location": "Goat Cards Box",
-         "code": "SDP-017",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Rat",
-         "location": "Goat Cards Box",
-         "code": "YS12-EN017",
-         "set": "Starter Deck: Xyz Symphony",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Injection Fairy Lily",
-         "location": "Goat Cards Box",
-         "code": "LOD-EN100",
-         "set": "Legacy of Darkness",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Milus Radiant",
-         "location": "Goat Cards Box",
-         "code": "SDJ-014",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Toon Gemini Elf",
-         "location": "Goat Cards Box",
-         "code": "BP02-EN033",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Blade Knight",
-         "location": "Goat Cards Box",
-         "code": "YS11-EN014",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Blade Knight",
-         "location": "Goat Cards Box",
-         "code": "YS11-SP014",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Manju of the Ten Thousand Hands",
-         "location": "Goat Cards Box",
-         "code": "TU05-SP012",
-         "set": "Turbo Pack: Booster Five",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Manju of the Ten Thousand Hands",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP250",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Thunder Dragon",
-         "location": "Goat Cards Box",
-         "code": "DLG1-EN041",
-         "set": "Dark Legends",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Thunder Dragon",
-         "location": "Goat Cards Box",
-         "code": "DB2-EN058",
-         "set": "Dark Beginning 2",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Thunder Dragon",
-         "location": "Goat Cards Box",
-         "code": "CP02-EN015",
-         "set": "Champion Pack: Game Two",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Lekunga",
-         "location": "Goat Cards Box",
-         "code": "IOC-027",
-         "set": "Invasion of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Flame Wingman",
-         "location": "Goat Cards Box",
-         "code": "RYMP-EN016",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Sasuke Samurai",
-         "location": "Goat Cards Box",
-         "code": "5DS2-EN010",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Tornado Bird",
-         "location": "Goat Cards Box",
-         "code": "TP5-EN012",
-         "set": "Tournament Pack 5",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Amazoness Spellcaster",
-         "location": "Goat Cards Box",
-         "code": "MFC-084",
-         "set": "Magician's Force",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Black Illusion Ritual",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP114",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Brain Control",
-         "location": "Goat Cards Box",
-         "code": "DPYG-SP024",
-         "set": "Duelist Pack: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Change of Heart",
-         "location": "Goat Cards Box",
-         "code": "SDY-032",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Change of Heart",
-         "location": "Goat Cards Box",
-         "code": "SDJ-030",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Factory of Mass Production",
-         "location": "Goat Cards Box",
-         "code": "YSD-EN029",
-         "set": "Starter Deck 2006",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Goat Cards Box",
-         "code": "SDJ-026",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Goat Cards Box",
-         "code": "SDRE-EN031",
-         "set": "Realm of the Sea Emperor Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP053",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "Black ultra pro old",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gaia Power",
-         "location": "Goat Cards Box",
-         "code": "MRL-096",
-         "set": "Magic Ruler",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gaia Power",
-         "location": "Goat Cards Box",
-         "code": "DLG1-EN078",
-         "set": "Dark Legends",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gaia Power",
-         "location": "Goat Cards Box",
-         "code": "DB1-EN059",
-         "set": "Dark Beginning 1",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Graceful Charity",
-         "location": "Goat Cards Box",
-         "code": "SDP-040",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Graceful Dice",
-         "location": "Goat Cards Box",
-         "code": "GLD4-NE037",
-         "set": "Gold Series 4: Pyramids Edition",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Harpie's Feather Duster",
-         "location": "Goat Cards Box",
-         "code": "BP01-EN035",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Heart of the Underdog",
-         "location": "Goat Cards Box",
-         "code": "IOC-032",
-         "set": "Invasion of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Heart of the Underdog",
-         "location": "Goat Cards Box",
-         "code": "DR2-EN032",
-         "set": "Dark Revelation Volume 2",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Level Limit - Area B",
-         "location": "Goat Cards Box",
-         "code": "SD3-EN024",
-         "set": "Structure Deck: Blaze of Destruction",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Level Limit - Area B",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP269",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mustering of the Dark Scorpions",
-         "location": "Goat Cards Box",
-         "code": "GLD5-EN042",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Necrovalley",
-         "location": "Goat Cards Box",
-         "code": "SDMA-EN025",
-         "set": "Structure Deck: Marik (TCG)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Painful Choice",
-         "location": "Goat Cards Box",
-         "code": "DLG1-EN060",
-         "set": "Dark Legends",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Stray Lambs",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP274",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Goat Cards Box",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Goat Cards Box",
-         "code": "BP01-EN099",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Gravity Bind",
-         "location": "Goat Cards Box",
-         "code": "SD4-EN028",
-         "set": "Structure Deck: Fury from the Deep",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Gravity Bind",
-         "location": "Goat Cards Box",
-         "code": "PSV-073",
-         "set": "Pharaoh's Servant",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Physical Double",
-         "location": "Goat Cards Box",
-         "code": "GLD5-EN047",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Goat Cards Box",
-         "code": "SYE-050",
-         "set": "Starter Deck: Yugi Evolution",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Goat Cards Box",
-         "code": "5DS2-EN036",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Goat Cards Box",
-         "code": "YS12-EN031",
-         "set": "Starter Deck: Xyz Symphony",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Goat Cards Box",
-         "code": "5DS3-EN032",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Goat Cards Box",
-         "code": "YS11-EN037",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Goat Cards Box",
-         "code": "LCYW-SP286",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Ring of Destruction",
-         "location": "Goat Cards Box",
-         "code": "BP01-EN050",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Secret Barrel",
-         "location": "Goat Cards Box",
-         "code": "5DS3-EN034",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Skull Dice",
-         "location": "Goat Cards Box",
-         "code": "GLD4-EN046",
-         "set": "Gold Series 4: Pyramids Edition",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Threatening Roar",
-         "location": "Goat Cards Box",
-         "code": "5DS1-EN031",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Threatening Roar",
-         "location": "Goat Cards Box",
-         "code": "5DS3-EN036",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Dustshoot",
-         "location": "Goat Cards Box",
-         "code": "PGD-049",
-         "set": "Pharaonic Guardian",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Wall of Revealing Light",
-         "location": "Goat Cards Box",
-         "code": "AST-SP050",
-         "set": "Ancient Sanctuary",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zero Gravity",
-         "location": "Goat Cards Box",
-         "code": "BP02-EN178",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
    "Gold Sarcophagus Tin": [
       {
          "card": "Amazoness Swords Woman",
@@ -10705,238 +10933,6 @@
          "location": "Dark Magician",
          "code": "YS11-EN034",
          "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Bulk (White)": [
-      {
-         "card": "Dark Master - Zorc",
-         "location": "Bulk (White)",
-         "code": "LCYW-SP123",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion Burglars",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN004",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion Burglars",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN004",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion Burglars",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN004",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Don Zaloog",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN005",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Don Zaloog",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN005",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Germ",
-         "location": "Bulk (White)",
-         "code": "",
-         "set": "",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Germ",
-         "location": "Bulk (White)",
-         "code": "",
-         "set": "",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Heart of the Underdog",
-         "location": "Bulk (White)",
-         "code": "IOC-032",
-         "set": "Invasion of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mustering of the Dark Scorpions",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN042",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mustering of the Dark Scorpions",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN042",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mustering of the Dark Scorpions",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN042",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Painful Choice",
-         "location": "Bulk (White)",
-         "code": "DLG1-EN060",
-         "set": "Dark Legends",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Bulk (White)",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Bulk (White)",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Bulk (White)",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Bulk (White)",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Bulk (White)",
-         "code": "BP01-EN099",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Physical Double",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN047",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Physical Double",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN047",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Physical Double",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN047",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Ring of Destruction",
-         "location": "Bulk (White)",
-         "code": "BP01-EN050",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zero Gravity",
-         "location": "Bulk (White)",
-         "code": "BP02-EN178",
-         "set": "Battle Pack 2: War of the Giants",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
