@@ -5,8 +5,9 @@ const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const cardsFromFormat = require("./goatOwnedCards.json");
 
-const cardsToMove = cardsFromFormat["Kaiba Corp"];
+const cardsToMove = cardsFromFormat["Duel Devastator Blue"];
 
+let moved = 0;
 cardsToMove.map((cc) => {
   const cardIndex = collection.findIndex(
     (c) =>
@@ -14,10 +15,13 @@ cardsToMove.map((cc) => {
       cc.code === c["Code"] && cc.location === c["In Box"]
   );
   if (cardIndex >= 0) {
+    moved++;
     console.log("Moving ", cc.card);
     collection[cardIndex]["In Box"] = "Goat Cards Box";
   }
 });
+
+console.log("Moved ", moved, " cards");
 
 fs.writeFile(
   "./collectionScripts/data/collection.json",

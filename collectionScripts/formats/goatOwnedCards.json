@@ -3897,6 +3897,16 @@
       {
          "card": "Blade Knight",
          "location": "Goat Cards Box",
+         "code": "YSKR-EN018",
+         "set": "Starter Deck: Kaiba Reloaded",
+         "sleeve": "Kaiba Corp",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Blade Knight",
+         "location": "Goat Cards Box",
          "code": "YS11-EN014",
          "set": "Starter Deck: Dawn of the Xyz",
          "sleeve": "",
@@ -4630,6 +4640,16 @@
          "code": "LCYW-SP286",
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Ring of Destruction",
+         "location": "Goat Cards Box",
+         "code": "LCKC-EN050",
+         "set": "Legendary Collection Kaiba Mega Pack",
+         "sleeve": "Kaiba Corp",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -9704,28 +9724,6 @@
          "code": "YS18-EN039",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Kaiba Corp": [
-      {
-         "card": "Blade Knight",
-         "location": "Kaiba Corp",
-         "code": "YSKR-EN018",
-         "set": "Starter Deck: Kaiba Reloaded",
-         "sleeve": "Kaiba Corp",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Ring of Destruction",
-         "location": "Kaiba Corp",
-         "code": "LCKC-EN050",
-         "set": "Legendary Collection Kaiba Mega Pack",
-         "sleeve": "Kaiba Corp",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
