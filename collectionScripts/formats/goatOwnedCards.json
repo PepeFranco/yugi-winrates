@@ -3835,6 +3835,16 @@
          "type": "Monster"
       },
       {
+         "card": "Mask of Darkness",
+         "location": "Goat Cards Box",
+         "code": "SDP-031",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Night Assailant",
          "location": "Goat Cards Box",
          "code": "AST-SP080",
@@ -4010,6 +4020,36 @@
          "code": "SDP-017",
          "set": "Starter Deck: Pegasus",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Dream Clown",
+         "location": "Goat Cards Box",
+         "code": "SDP-017",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Dream Clown",
+         "location": "Goat Cards Box",
+         "code": "MRD-080",
+         "set": "Metal Raiders",
+         "sleeve": "Green",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Dream Clown",
+         "location": "Goat Cards Box",
+         "code": "SDP-017",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
          "outOfPlace": "Yes",
          "attribute": "EARTH",
          "type": "Monster"
@@ -4035,12 +4075,82 @@
          "type": "Monster"
       },
       {
+         "card": "Giant Soldier of Stone",
+         "location": "Goat Cards Box",
+         "code": "SDP-007",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Soldier of Stone",
+         "location": "Goat Cards Box",
+         "code": "SDP-007",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Soldier of Stone",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN171",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Injection Fairy Lily",
          "location": "Goat Cards Box",
          "code": "LOD-EN100",
          "set": "Legacy of Darkness",
          "sleeve": "",
          "outOfPlace": "Yes",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Man-Eater Bug",
+         "location": "Goat Cards Box",
+         "code": "SDP-015",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Green",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Man-Eater Bug",
+         "location": "Goat Cards Box",
+         "code": "SDP-015",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Man-Eater Bug",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP119",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Man-Eater Bug",
+         "location": "Goat Cards Box",
+         "code": "DLG1-EN015",
+         "set": "Dark Legends",
+         "sleeve": "Green",
+         "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
       },
@@ -4092,6 +4202,16 @@
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Flame Swordsman",
+         "location": "Goat Cards Box",
+         "code": "SDJ-024",
+         "set": "Starter Deck: Joey",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "FIRE",
          "type": "Monster"
       },
       {
@@ -4420,6 +4540,36 @@
          "code": "SDY-032",
          "set": "Starter Deck: Yugi",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Change of Heart",
+         "location": "Goat Cards Box",
+         "code": "SDP-030",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Change of Heart",
+         "location": "Goat Cards Box",
+         "code": "SKE-SP032",
+         "set": "Starter Deck: Kaiba Evolution",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Change of Heart",
+         "location": "Goat Cards Box",
+         "code": "SDY-032",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
          "outOfPlace": "Yes",
          "attribute": "",
          "type": "Spell Card"
@@ -4439,6 +4589,66 @@
          "location": "Goat Cards Box",
          "code": "YSD-EN029",
          "set": "Starter Deck 2006",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "BIY-S022",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDY-022",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDP-026",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDJ-026",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDJ-026",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "SDRE-EN031",
+         "set": "Realm of the Sea Emperor Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -4659,6 +4869,36 @@
          "location": "Goat Cards Box",
          "code": "IOC-032",
          "set": "Invasion of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Last Will",
+         "location": "Goat Cards Box",
+         "code": "SDY-039",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Last Will",
+         "location": "Goat Cards Box",
+         "code": "SDY-039",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Last Will",
+         "location": "Goat Cards Box",
+         "code": "SDY-039",
+         "set": "Starter Deck: Yugi",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -5015,6 +5255,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "The Shallow Grave",
+         "location": "Goat Cards Box",
+         "code": "DB1-EN090",
+         "set": "Dark Beginning 1",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Wave-Motion Cannon",
          "location": "Goat Cards Box",
          "code": "DUDE-EN039",
@@ -5219,6 +5469,56 @@
          "location": "Goat Cards Box",
          "code": "PSV-073",
          "set": "Pharaoh's Servant",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Just Desserts",
+         "location": "Goat Cards Box",
+         "code": "SDK-040",
+         "set": "Starter Deck: Kaiba",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Just Desserts",
+         "location": "Goat Cards Box",
+         "code": "SDK-040",
+         "set": "Starter Deck: Kaiba",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Just Desserts",
+         "location": "Goat Cards Box",
+         "code": "SDK-040",
+         "set": "Starter Deck: Kaiba",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Just Desserts",
+         "location": "Goat Cards Box",
+         "code": "SDJ-042",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Just Desserts",
+         "location": "Goat Cards Box",
+         "code": "SDJ-042",
+         "set": "Starter Deck: Joey",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -5435,6 +5735,76 @@
          "type": "Trap Card"
       },
       {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "TU05-SP019",
+         "set": "Turbo Pack: Booster Five",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "YS12-EN038",
+         "set": "Starter Deck: Xyz Symphony",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "SDP-045",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "SDP-045",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "SDJ-048",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "YS11-EN035",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Seven Tools of the Bandit",
+         "location": "Goat Cards Box",
+         "code": "YS11-SP035",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Skull Dice",
          "location": "Goat Cards Box",
          "code": "GLD4-EN046",
@@ -5500,6 +5870,46 @@
          "code": "PGD-049",
          "set": "Pharaonic Guardian",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "YS12-EN032",
+         "set": "Starter Deck: Xyz Symphony",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "SDP-041",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "SDJ-043",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "YS11-EN034",
+         "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -10514,418 +10924,6 @@
          "code": "YS18-EN039",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Dark Magician": [
-      {
-         "card": "Mask of Darkness",
-         "location": "Dark Magician",
-         "code": "SDP-031",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dream Clown",
-         "location": "Dark Magician",
-         "code": "SDP-017",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Dream Clown",
-         "location": "Dark Magician",
-         "code": "SDP-017",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Dream Clown",
-         "location": "Dark Magician",
-         "code": "MRD-080",
-         "set": "Metal Raiders",
-         "sleeve": "Green",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Soldier of Stone",
-         "location": "Dark Magician",
-         "code": "SDP-007",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Soldier of Stone",
-         "location": "Dark Magician",
-         "code": "SDP-007",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Soldier of Stone",
-         "location": "Dark Magician",
-         "code": "BP01-EN171",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Man-Eater Bug",
-         "location": "Dark Magician",
-         "code": "SDP-015",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Green",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Man-Eater Bug",
-         "location": "Dark Magician",
-         "code": "SDP-015",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Man-Eater Bug",
-         "location": "Dark Magician",
-         "code": "LCYW-SP119",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Man-Eater Bug",
-         "location": "Dark Magician",
-         "code": "DLG1-EN015",
-         "set": "Dark Legends",
-         "sleeve": "Green",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Flame Swordsman",
-         "location": "Dark Magician",
-         "code": "SDJ-024",
-         "set": "Starter Deck: Joey",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Change of Heart",
-         "location": "Dark Magician",
-         "code": "SDY-032",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Change of Heart",
-         "location": "Dark Magician",
-         "code": "SDP-030",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Change of Heart",
-         "location": "Dark Magician",
-         "code": "SKE-SP032",
-         "set": "Starter Deck: Kaiba Evolution",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Dark Magician",
-         "code": "BIY-S022",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Dark Magician",
-         "code": "SDY-022",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Dark Magician",
-         "code": "SDP-026",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Dark Magician",
-         "code": "SDJ-026",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Dark Magician",
-         "code": "SDJ-026",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Dark Magician",
-         "code": "SDRE-EN031",
-         "set": "Realm of the Sea Emperor Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Last Will",
-         "location": "Dark Magician",
-         "code": "SDY-039",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Last Will",
-         "location": "Dark Magician",
-         "code": "SDY-039",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Last Will",
-         "location": "Dark Magician",
-         "code": "SDY-039",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "The Shallow Grave",
-         "location": "Dark Magician",
-         "code": "DB1-EN090",
-         "set": "Dark Beginning 1",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Just Desserts",
-         "location": "Dark Magician",
-         "code": "SDK-040",
-         "set": "Starter Deck: Kaiba",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Just Desserts",
-         "location": "Dark Magician",
-         "code": "SDK-040",
-         "set": "Starter Deck: Kaiba",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Just Desserts",
-         "location": "Dark Magician",
-         "code": "SDK-040",
-         "set": "Starter Deck: Kaiba",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Just Desserts",
-         "location": "Dark Magician",
-         "code": "SDJ-042",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Just Desserts",
-         "location": "Dark Magician",
-         "code": "SDJ-042",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "TU05-SP019",
-         "set": "Turbo Pack: Booster Five",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "YS12-EN038",
-         "set": "Starter Deck: Xyz Symphony",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "SDP-045",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "SDP-045",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "SDJ-048",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "YS11-EN035",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Seven Tools of the Bandit",
-         "location": "Dark Magician",
-         "code": "YS11-SP035",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Hole",
-         "location": "Dark Magician",
-         "code": "YS12-EN032",
-         "set": "Starter Deck: Xyz Symphony",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Hole",
-         "location": "Dark Magician",
-         "code": "SDP-041",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Hole",
-         "location": "Dark Magician",
-         "code": "SDJ-043",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Hole",
-         "location": "Dark Magician",
-         "code": "YS11-EN034",
-         "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
