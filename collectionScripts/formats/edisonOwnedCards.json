@@ -2933,6 +2933,16 @@
    ],
    "Goat Cards Box": [
       {
+         "card": "Ally of Justice Catastor",
+         "location": "Goat Cards Box",
+         "code": "HA01-EN026",
+         "set": "Hidden Arsenal",
+         "sleeve": "5DS World Championship Qualifier",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Breaker the Magical Warrior",
          "location": "Goat Cards Box",
          "code": "EGS1-EN007",
@@ -3293,6 +3303,16 @@
          "type": "Monster"
       },
       {
+         "card": "The Six Samurai - Irou",
+         "location": "Goat Cards Box",
+         "code": "STON-EN012",
+         "set": "Strike of Neos",
+         "sleeve": "Shi En",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Trap Eater",
          "location": "Goat Cards Box",
          "code": "CRMS-EN005",
@@ -3348,6 +3368,16 @@
          "code": "DP07-EN005",
          "set": "Duelist Pack: Jesse Anderson",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -3463,6 +3493,36 @@
          "type": "Monster"
       },
       {
+         "card": "Crystal Beast Topaz Tiger",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN004",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Topaz Tiger",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN004",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Topaz Tiger",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN004",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Drill Warrior",
          "location": "Goat Cards Box",
          "code": "DREV-ENSE1",
@@ -3488,6 +3548,26 @@
          "code": "DP10-EN018",
          "set": "Duelist Pack: Yusei 3",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Fossil Dyna Pachycephalo",
+         "location": "Goat Cards Box",
+         "code": "CT08-SP012",
+         "set": "Collectible Tins 2011 Wave 1",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Fossil Dyna Pachycephalo",
+         "location": "Goat Cards Box",
+         "code": "CT08-SP012",
+         "set": "Collectible Tins 2011 Wave 1",
+         "sleeve": "White ultra pro old (corner)",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -3568,6 +3648,16 @@
          "code": "GLD1-EN026",
          "set": "Gold Series",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Grandmaster of the Six Samurai",
+         "location": "Goat Cards Box",
+         "code": "GLD1-EN026",
+         "set": "Gold Series",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -3763,6 +3853,16 @@
          "type": "Monster"
       },
       {
+         "card": "Black Rose Dragon",
+         "location": "Goat Cards Box",
+         "code": "CSOC-EN039",
+         "set": "Crossroads of Chaos",
+         "sleeve": "5DS World Championship Qualifier",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
          "card": "Flame Swordsman",
          "location": "Goat Cards Box",
          "code": "SDJ-024",
@@ -3878,6 +3978,36 @@
          "code": "DP07-EN001",
          "set": "Duelist Pack: Jesse Anderson",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -4048,6 +4178,16 @@
          "code": "SDWA-EN004",
          "set": "Samurai Warlords Structure Deck",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "The Six Samurai - Zanji",
+         "location": "Goat Cards Box",
+         "code": "STON-EN011",
+         "set": "Strike of Neos",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -4503,6 +4643,46 @@
          "type": "Monster"
       },
       {
+         "card": "Crystal Beast Sapphire Pegasus",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN161",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Sapphire Pegasus",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN161",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Sapphire Pegasus",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN161",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Mist Wurm",
+         "location": "Goat Cards Box",
+         "code": "HA01-EN023",
+         "set": "Hidden Arsenal",
+         "sleeve": "5DS World Championship Qualifier",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "Morphtronic Slingen",
          "location": "Goat Cards Box",
          "code": "CRMS-EN018",
@@ -4653,6 +4833,36 @@
          "type": "Spell Card"
       },
       {
+         "card": "Ancient City - Rainbow Ruins",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN017",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Ancient City - Rainbow Ruins",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN017",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Ancient City - Rainbow Ruins",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN017",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Black Garden",
          "location": "Goat Cards Box",
          "code": "CSOC-EN048",
@@ -4755,6 +4965,16 @@
       {
          "card": "Crystal Abundance",
          "location": "Goat Cards Box",
+         "code": "DP07-EN015",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Abundance",
+         "location": "Goat Cards Box",
          "code": "FOTB-EN035",
          "set": "Force of the Breaker",
          "sleeve": "",
@@ -4775,6 +4995,36 @@
       {
          "card": "Crystal Beacon",
          "location": "Goat Cards Box",
+         "code": "RYMP-EN048",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN032",
+         "set": "Force of the Breaker",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN013",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
          "code": "DP07-EN013",
          "set": "Duelist Pack: Jesse Anderson",
          "sleeve": "",
@@ -4818,6 +5068,26 @@
          "code": "DP07-EN014",
          "set": "Duelist Pack: Jesse Anderson",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN034",
+         "set": "Force of the Breaker",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN014",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -4887,6 +5157,36 @@
          "location": "Goat Cards Box",
          "code": "DP07-EN016",
          "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Promise",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN016",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Promise",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN016",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Promise",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN016",
+         "set": "Duelist Pack: Jesse Anderson",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -4898,6 +5198,36 @@
          "code": "DP07-EN016",
          "set": "Duelist Pack: Jesse Anderson",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Release",
+         "location": "Goat Cards Box",
+         "code": "RYMP-SP054",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Release",
+         "location": "Goat Cards Box",
+         "code": "RYMP-SP054",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "White ultra pro old (corner)",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Release",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN019",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "White ultra pro old (corner)",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -5288,6 +5618,16 @@
          "code": "BP01-EN080",
          "set": "Battle Pack: Epic Dawn",
          "sleeve": "Black ultra pro old",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Six Samurai United",
+         "location": "Goat Cards Box",
+         "code": "PTDN-EN059",
+         "set": "Phantom Darkness",
+         "sleeve": "Shi En",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -8889,7 +9229,7 @@
          "location": "Structure decks (Sticker)",
          "code": "5DS3-EN021",
          "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -9169,7 +9509,7 @@
          "location": "Structure decks (Sticker)",
          "code": "DPBC-EN039",
          "set": "Duelist Pack: Battle City",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -9179,7 +9519,7 @@
          "location": "Structure decks (Sticker)",
          "code": "DPBC-EN039",
          "set": "Duelist Pack: Battle City",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -9509,7 +9849,7 @@
          "location": "Structure decks (Sticker)",
          "code": "SD8-EN024",
          "set": "Structure Deck: Lord of the Storm",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -9519,7 +9859,7 @@
          "location": "Structure decks (Sticker)",
          "code": "RDS-EN038",
          "set": "Rise of Destiny",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -9539,7 +9879,7 @@
          "location": "Structure decks (Sticker)",
          "code": "SD8-EN022",
          "set": "Structure Deck: Lord of the Storm",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -9679,7 +10019,7 @@
          "location": "Structure decks (Sticker)",
          "code": "YS14-EN023",
          "set": "Space-Time Showdown Power-Up Pack",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -10079,7 +10419,7 @@
          "location": "Structure decks (Sticker)",
          "code": "SDDE-EN019",
          "set": "The Dark Emperor Structure Deck",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -10279,7 +10619,7 @@
          "location": "Structure decks (Sticker)",
          "code": "DL14-SP015",
          "set": "Duelist League 14 participation cards",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -11229,7 +11569,7 @@
          "location": "Structure decks (Sticker)",
          "code": "SD4-EN027",
          "set": "Structure Deck: Fury from the Deep",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -11599,7 +11939,7 @@
          "location": "Structure decks (Sticker)",
          "code": "YS11-EN033",
          "set": "Starter Deck: Dawn of the Xyz",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -11759,7 +12099,7 @@
          "location": "Structure decks (Sticker)",
          "code": "SD8-EN027",
          "set": "Structure Deck: Lord of the Storm",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -11769,7 +12109,7 @@
          "location": "Structure decks (Sticker)",
          "code": "PGLD-EN080",
          "set": "Premium Gold",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -12049,7 +12389,7 @@
          "location": "Structure decks (Sticker)",
          "code": "SD8-EN033",
          "set": "Structure Deck: Lord of the Storm",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -13939,355 +14279,13 @@
          "type": "Trap Card"
       }
    ],
-   "Double box": [
-      {
-         "card": "Ally of Justice Catastor",
-         "location": "Double box",
-         "code": "HA01-EN026",
-         "set": "Hidden Arsenal",
-         "sleeve": "5DS World Championship Qualifier",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Six Samurai - Irou",
-         "location": "Double box",
-         "code": "STON-EN012",
-         "set": "Strike of Neos",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Double box",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Topaz Tiger",
-         "location": "Double box",
-         "code": "DP07-EN004",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Topaz Tiger",
-         "location": "Double box",
-         "code": "DP07-EN004",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Topaz Tiger",
-         "location": "Double box",
-         "code": "DP07-EN004",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Fossil Dyna Pachycephalo",
-         "location": "Double box",
-         "code": "CT08-SP012",
-         "set": "Collectible Tins 2011 Wave 1",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Fossil Dyna Pachycephalo",
-         "location": "Double box",
-         "code": "CT08-SP012",
-         "set": "Collectible Tins 2011 Wave 1",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Grandmaster of the Six Samurai",
-         "location": "Double box",
-         "code": "GLD1-EN026",
-         "set": "Gold Series",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Black Rose Dragon",
-         "location": "Double box",
-         "code": "CSOC-EN039",
-         "set": "Crossroads of Chaos",
-         "sleeve": "5DS World Championship Qualifier",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Double box",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Double box",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Double box",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "The Six Samurai - Zanji",
-         "location": "Double box",
-         "code": "STON-EN011",
-         "set": "Strike of Neos",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Sapphire Pegasus",
-         "location": "Double box",
-         "code": "LCGX-EN161",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Sapphire Pegasus",
-         "location": "Double box",
-         "code": "LCGX-EN161",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Sapphire Pegasus",
-         "location": "Double box",
-         "code": "LCGX-EN161",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Mist Wurm",
-         "location": "Double box",
-         "code": "HA01-EN023",
-         "set": "Hidden Arsenal",
-         "sleeve": "5DS World Championship Qualifier",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Ancient City - Rainbow Ruins",
-         "location": "Double box",
-         "code": "DP07-EN017",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Ancient City - Rainbow Ruins",
-         "location": "Double box",
-         "code": "DP07-EN017",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Ancient City - Rainbow Ruins",
-         "location": "Double box",
-         "code": "DP07-EN017",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Abundance",
-         "location": "Double box",
-         "code": "DP07-EN015",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Double box",
-         "code": "RYMP-EN048",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Double box",
-         "code": "FOTB-EN032",
-         "set": "Force of the Breaker",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Double box",
-         "code": "DP07-EN013",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Double box",
-         "code": "FOTB-EN034",
-         "set": "Force of the Breaker",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Double box",
-         "code": "DP07-EN014",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Promise",
-         "location": "Double box",
-         "code": "DP07-EN016",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Promise",
-         "location": "Double box",
-         "code": "DP07-EN016",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Promise",
-         "location": "Double box",
-         "code": "DP07-EN016",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Release",
-         "location": "Double box",
-         "code": "RYMP-SP054",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Release",
-         "location": "Double box",
-         "code": "RYMP-SP054",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Release",
-         "location": "Double box",
-         "code": "DP07-EN019",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "White ultra pro old (corner)",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Six Samurai United",
-         "location": "Double box",
-         "code": "PTDN-EN059",
-         "set": "Phantom Darkness",
-         "sleeve": "Shi En",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      }
-   ],
    "Duel Devastator Blue": [
       {
          "card": "Ally of Justice Catastor",
          "location": "Duel Devastator Blue",
          "code": "DUDE-EN007",
          "set": "Duel Devastator",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -14297,7 +14295,7 @@
          "location": "Duel Devastator Blue",
          "code": "DUDE-EN007",
          "set": "Duel Devastator",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -14367,7 +14365,7 @@
          "location": "Duel Devastator Blue",
          "code": "TDGS-EN042",
          "set": "The Duelist Genesis",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -14397,7 +14395,7 @@
          "location": "Duel Devastator Blue",
          "code": "DUDE-EN010",
          "set": "Duel Devastator",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "FIRE",
          "type": "Monster"
@@ -14407,7 +14405,7 @@
          "location": "Duel Devastator Blue",
          "code": "DUDE-EN010",
          "set": "Duel Devastator",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "FIRE",
          "type": "Monster"
@@ -14437,7 +14435,7 @@
          "location": "Duel Devastator Blue",
          "code": "DUDE-EN008",
          "set": "Duel Devastator",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "WATER",
          "type": "Monster"
@@ -14447,7 +14445,7 @@
          "location": "Duel Devastator Blue",
          "code": "DUDE-EN008",
          "set": "Duel Devastator",
-         "sleeve": "Bulk (White)",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "WATER",
          "type": "Monster"
