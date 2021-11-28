@@ -3063,6 +3063,16 @@
          "type": "Monster"
       },
       {
+         "card": "Destiny HERO - Malicious",
+         "location": "Goat Cards Box",
+         "code": "LEHD-ENA04",
+         "set": "Legendary Hero Decks",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Don Zaloog",
          "location": "Goat Cards Box",
          "code": "GLD1-EN012",
@@ -3633,6 +3643,16 @@
          "type": "Monster"
       },
       {
+         "card": "Elemental HERO Wildheart",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN011",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Fossil Dyna Pachycephalo",
          "location": "Goat Cards Box",
          "code": "CT08-SP012",
@@ -3827,6 +3847,36 @@
          "location": "Goat Cards Box",
          "code": "CSOC-EN009",
          "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Neo-Spacian Grand Mole",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN022",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Neo-Spacian Grand Mole",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN013",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Neo-Spacian Grand Mole",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN013",
+         "set": "HERO Strike Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "EARTH",
@@ -4103,6 +4153,16 @@
          "type": "Monster"
       },
       {
+         "card": "Arcanite Magician",
+         "location": "Goat Cards Box",
+         "code": "INCH-EN049",
+         "set": "The Infinity Chasers",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Blue-Eyes White Dragon",
          "location": "Goat Cards Box",
          "code": "CT13-EN008",
@@ -4263,6 +4323,16 @@
          "type": "Monster"
       },
       {
+         "card": "Electric Virus",
+         "location": "Goat Cards Box",
+         "code": "YSYR-EN022",
+         "set": "Starter Deck: Yugi Reloaded",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Light and Darkness Dragon",
          "location": "Goat Cards Box",
          "code": "AP02-SP016",
@@ -4297,6 +4367,16 @@
          "location": "Goat Cards Box",
          "code": "LCYW-SP250",
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Neo-Spacian Glow Moss",
+         "location": "Goat Cards Box",
+         "code": "SHVA-EN032",
+         "set": "Shadows in Valhalla",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -4498,6 +4578,36 @@
          "code": "ABPF-EN032",
          "set": "Absolute Powerforce",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Ocean",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN002",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "Dark green dragon shield",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Ocean",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN002",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "Dark green dragon shield",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental Hero Ocean",
+         "location": "Goat Cards Box",
+         "code": "CT07-EN018",
+         "set": "Collectible Tins 2010 Wave 1",
+         "sleeve": "Dark green dragon shield",
          "outOfPlace": "",
          "attribute": "WATER",
          "type": "Monster"
@@ -4843,6 +4953,26 @@
          "type": "Monster"
       },
       {
+         "card": "Elemental HERO Stratos",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN061",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Elemental HERO Stratos",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN061",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "Mist Wurm",
          "location": "Goat Cards Box",
          "code": "HA01-EN023",
@@ -5118,6 +5248,26 @@
          "code": "YGLD-ENB27",
          "set": "Yugi's Legendary Decks",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Convert Contact",
+         "location": "Goat Cards Box",
+         "code": "BLRR-EN055",
+         "set": "Battles of Legend: Relentless Revenge",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Convert Contact",
+         "location": "Goat Cards Box",
+         "code": "BLRR-EN055",
+         "set": "Battles of Legend: Relentless Revenge",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -5443,6 +5593,26 @@
          "type": "Spell Card"
       },
       {
+         "card": "Destiny Draw",
+         "location": "Goat Cards Box",
+         "code": "LEHD-ENA17",
+         "set": "Legendary Hero Decks",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "E - Emergency Call",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN089",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Fissure",
          "location": "Goat Cards Box",
          "code": "LOB-057",
@@ -5597,6 +5767,26 @@
          "location": "Goat Cards Box",
          "code": "CSOC-EN057",
          "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fusion",
+         "location": "Goat Cards Box",
+         "code": "TU05-SP017",
+         "set": "Turbo Pack: Booster Five",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fusion",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN024",
+         "set": "HERO Strike Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -6237,6 +6427,16 @@
          "location": "Goat Cards Box",
          "code": "PSV-073",
          "set": "Pharaoh's Servant",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Hero Blast",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN036",
+         "set": "HERO Strike Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -14483,208 +14683,6 @@
          "location": "Speed duel (Duel Devastator Green)",
          "code": "SBCB-EN143",
          "set": "Speed Duel: Battle pack cube (Battle City Box)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Gold Sarcophagus Tin": [
-      {
-         "card": "Destiny HERO - Malicious",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA04",
-         "set": "Legendary Hero Decks",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Wildheart",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN011",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Neo-Spacian Grand Mole",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LCGX-EN022",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Neo-Spacian Grand Mole",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN013",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Neo-Spacian Grand Mole",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN013",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Arcanite Magician",
-         "location": "Gold Sarcophagus Tin",
-         "code": "INCH-EN049",
-         "set": "The Infinity Chasers",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Electric Virus",
-         "location": "Gold Sarcophagus Tin",
-         "code": "YSYR-EN022",
-         "set": "Starter Deck: Yugi Reloaded",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Neo-Spacian Glow Moss",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SHVA-EN032",
-         "set": "Shadows in Valhalla",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Ocean",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN002",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "Dark green dragon shield",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Ocean",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN002",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "Dark green dragon shield",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental Hero Ocean",
-         "location": "Gold Sarcophagus Tin",
-         "code": "CT07-EN018",
-         "set": "Collectible Tins 2010 Wave 1",
-         "sleeve": "Dark green dragon shield",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Stratos",
-         "location": "Gold Sarcophagus Tin",
-         "code": "BLHR-EN061",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Elemental HERO Stratos",
-         "location": "Gold Sarcophagus Tin",
-         "code": "BLHR-EN061",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Convert Contact",
-         "location": "Gold Sarcophagus Tin",
-         "code": "BLRR-EN055",
-         "set": "Battles of Legend: Relentless Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Convert Contact",
-         "location": "Gold Sarcophagus Tin",
-         "code": "BLRR-EN055",
-         "set": "Battles of Legend: Relentless Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Destiny Draw",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA17",
-         "set": "Legendary Hero Decks",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "E - Emergency Call",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LCGX-EN089",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fusion",
-         "location": "Gold Sarcophagus Tin",
-         "code": "TU05-SP017",
-         "set": "Turbo Pack: Booster Five",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fusion",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN024",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Hero Blast",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN036",
-         "set": "HERO Strike Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
