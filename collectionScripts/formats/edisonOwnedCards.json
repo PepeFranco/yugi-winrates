@@ -2943,6 +2943,36 @@
          "type": "Monster"
       },
       {
+         "card": "Ally of Justice Catastor",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN007",
+         "set": "Duel Devastator",
+         "sleeve": "White",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Ally of Justice Catastor",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN007",
+         "set": "Duel Devastator",
+         "sleeve": "White",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Ally of Justice Catastor",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN007",
+         "set": "Duel Devastator",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Breaker the Magical Warrior",
          "location": "Goat Cards Box",
          "code": "EGS1-EN007",
@@ -2957,6 +2987,36 @@
          "location": "Goat Cards Box",
          "code": "5DS1-EN043",
          "set": "Starter Deck: Yu-Gi-Oh! 5D's",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "D.D. Crow",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN027",
+         "set": "Duel Devastator",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "D.D. Crow",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN027",
+         "set": "Duel Devastator",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "D.D. Crow",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN027",
+         "set": "Duel Devastator",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -3333,6 +3393,26 @@
          "type": "Monster"
       },
       {
+         "card": "Beast King Barbaros",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN008",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Beast King Barbaros",
+         "location": "Goat Cards Box",
+         "code": "YS18-EN013",
+         "set": "Starter Deck: Codebreaker",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Botanical Lion",
          "location": "Goat Cards Box",
          "code": "CSOC-EN099",
@@ -3643,6 +3723,16 @@
          "type": "Monster"
       },
       {
+         "card": "Goyo Guardian",
+         "location": "Goat Cards Box",
+         "code": "TDGS-EN042",
+         "set": "The Duelist Genesis",
+         "sleeve": "White",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Grandmaster of the Six Samurai",
          "location": "Goat Cards Box",
          "code": "GLD1-EN026",
@@ -3793,6 +3883,16 @@
          "type": "Monster"
       },
       {
+         "card": "Super-Nimble Mega Hamster",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN011",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Test Tiger",
          "location": "Goat Cards Box",
          "code": "RYMP-EN098",
@@ -3808,6 +3908,16 @@
          "code": "RYMP-EN098",
          "set": "Ra Yellow Mega Pack",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Valkyrion the Magna Warrior",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB01",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -3858,6 +3968,36 @@
          "code": "CSOC-EN039",
          "set": "Crossroads of Chaos",
          "sleeve": "5DS World Championship Qualifier",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Black Rose Dragon",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN010",
+         "set": "Duel Devastator",
+         "sleeve": "White",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Black Rose Dragon",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN010",
+         "set": "Duel Devastator",
+         "sleeve": "White",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Black Rose Dragon",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN010",
+         "set": "Duel Devastator",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "FIRE",
          "type": "Monster"
@@ -3967,6 +4107,16 @@
          "location": "Goat Cards Box",
          "code": "CT13-EN008",
          "set": "2016 Mega-Tins",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Blue-Eyes White Dragon",
+         "location": "Goat Cards Box",
+         "code": "YSKR-EN001",
+         "set": "Starter Deck: Kaiba Reloaded",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -4298,6 +4448,26 @@
          "code": "H5SE-EN001",
          "set": "Hidden Arsenal 5: Steelswarm Invasion: Special Edition",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Brionac, Dragon of the Ice Barrier",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN008",
+         "set": "Duel Devastator",
+         "sleeve": "White",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Brionac, Dragon of the Ice Barrier",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN008",
+         "set": "Duel Devastator",
+         "sleeve": "White",
          "outOfPlace": "",
          "attribute": "WATER",
          "type": "Monster"
@@ -4933,6 +5103,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "Burden of the Mighty",
+         "location": "Goat Cards Box",
+         "code": "YS16-EN029",
+         "set": "Starter Deck: Yuya",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Card Destruction",
          "location": "Goat Cards Box",
          "code": "YGLD-ENB27",
@@ -5273,6 +5453,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "Foolish Burial",
+         "location": "Goat Cards Box",
+         "code": "BLHR-EN057",
+         "set": "Battles of Legend: Hero's Revenge",
+         "sleeve": "Dark green dragon shield",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Gateway of the Six",
          "location": "Goat Cards Box",
          "code": "SDWA-EN029",
@@ -5288,6 +5478,16 @@
          "code": "LCGX-EN259",
          "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gold Sarcophagus",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC26",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -5771,6 +5971,16 @@
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
+      },
+      {
+         "card": "Anti-Spell Fragrance",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN052",
+         "set": "Duel Devastator",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
       },
       {
          "card": "Backs to the Wall",
@@ -14274,218 +14484,6 @@
          "code": "SBCB-EN143",
          "set": "Speed Duel: Battle pack cube (Battle City Box)",
          "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Duel Devastator Blue": [
-      {
-         "card": "Ally of Justice Catastor",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN007",
-         "set": "Duel Devastator",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Ally of Justice Catastor",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN007",
-         "set": "Duel Devastator",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Ally of Justice Catastor",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN007",
-         "set": "Duel Devastator",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "D.D. Crow",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN027",
-         "set": "Duel Devastator",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "D.D. Crow",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN027",
-         "set": "Duel Devastator",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "D.D. Crow",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN027",
-         "set": "Duel Devastator",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Beast King Barbaros",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN008",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Beast King Barbaros",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN013",
-         "set": "Starter Deck: Codebreaker",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Goyo Guardian",
-         "location": "Duel Devastator Blue",
-         "code": "TDGS-EN042",
-         "set": "The Duelist Genesis",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Super-Nimble Mega Hamster",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN011",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Valkyrion the Magna Warrior",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB01",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Black Rose Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN010",
-         "set": "Duel Devastator",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Black Rose Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN010",
-         "set": "Duel Devastator",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Black Rose Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN010",
-         "set": "Duel Devastator",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Blue-Eyes White Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "YSKR-EN001",
-         "set": "Starter Deck: Kaiba Reloaded",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Brionac, Dragon of the Ice Barrier",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN008",
-         "set": "Duel Devastator",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Brionac, Dragon of the Ice Barrier",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN008",
-         "set": "Duel Devastator",
-         "sleeve": "White",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Burden of the Mighty",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN029",
-         "set": "Starter Deck: Yuya",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Foolish Burial",
-         "location": "Duel Devastator Blue",
-         "code": "BLHR-EN057",
-         "set": "Battles of Legend: Hero's Revenge",
-         "sleeve": "Dark green dragon shield",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gold Sarcophagus",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC26",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Anti-Spell Fragrance",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN052",
-         "set": "Duel Devastator",
-         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
