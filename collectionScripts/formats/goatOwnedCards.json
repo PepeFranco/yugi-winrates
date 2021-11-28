@@ -3775,6 +3775,16 @@
          "type": "Monster"
       },
       {
+         "card": "Amazoness Swords Woman",
+         "location": "Goat Cards Box",
+         "code": "LEDU-EN013",
+         "set": "Legendary Duelists",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Big Shield Gardna",
          "location": "Goat Cards Box",
          "code": "LCYW-SP032",
@@ -3899,6 +3909,16 @@
          "location": "Goat Cards Box",
          "code": "YS11-SP014",
          "set": "Starter Deck: Dawn of the Xyz",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber Dragon",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN138",
+         "set": "Battle Pack: Epic Dawn",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -4255,6 +4275,36 @@
          "type": "Spell Card"
       },
       {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "LEHD-ENA23",
+         "set": "Legendary Hero Decks",
+         "sleeve": "Kaiba",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "LEHD-ENC16",
+         "set": "Legendary Hero Decks",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "TN19-EN011",
+         "set": "2019 Gold Sarcophagus Tin",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Mustering of the Dark Scorpions",
          "location": "Goat Cards Box",
          "code": "GLD5-EN042",
@@ -4339,6 +4389,16 @@
          "location": "Goat Cards Box",
          "code": "DLG1-EN060",
          "set": "Dark Legends",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Pot of Duality",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN034",
+         "set": "HERO Strike Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -4353,6 +4413,36 @@
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "HSRD-EN058",
+         "set": "High-Speed Riders",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN039",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Compulsory Evacuation Device",
+         "location": "Goat Cards Box",
+         "code": "SDHS-EN039",
+         "set": "HERO Strike Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
       },
       {
          "card": "Compulsory Evacuation Device",
@@ -4629,6 +4719,16 @@
          "location": "Goat Cards Box",
          "code": "AST-SP050",
          "set": "Ancient Sanctuary",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zero Gravity",
+         "location": "Goat Cards Box",
+         "code": "YSYR-EN045",
+         "set": "Starter Deck: Yugi Reloaded",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -9604,108 +9704,6 @@
          "code": "YS18-EN039",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Gold Sarcophagus Tin": [
-      {
-         "card": "Amazoness Swords Woman",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEDU-EN013",
-         "set": "Legendary Duelists",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber Dragon",
-         "location": "Gold Sarcophagus Tin",
-         "code": "BP01-EN138",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENA23",
-         "set": "Legendary Hero Decks",
-         "sleeve": "Kaiba",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Gold Sarcophagus Tin",
-         "code": "LEHD-ENC16",
-         "set": "Legendary Hero Decks",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Gold Sarcophagus Tin",
-         "code": "TN19-EN011",
-         "set": "2019 Gold Sarcophagus Tin",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Pot of Duality",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN034",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Gold Sarcophagus Tin",
-         "code": "HSRD-EN058",
-         "set": "High-Speed Riders",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN039",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Compulsory Evacuation Device",
-         "location": "Gold Sarcophagus Tin",
-         "code": "SDHS-EN039",
-         "set": "HERO Strike Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zero Gravity",
-         "location": "Gold Sarcophagus Tin",
-         "code": "YSYR-EN045",
-         "set": "Starter Deck: Yugi Reloaded",
-         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"

@@ -5,7 +5,7 @@ const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const cardsFromFormat = require("./goatOwnedCards.json");
 
-const cardsToMove = cardsFromFormat["Gold Sarcophagus Tin"];
+const cardsToMove = cardsFromFormat["Kaiba Corp"];
 
 cardsToMove.map((cc) => {
   const cardIndex = collection.findIndex(
