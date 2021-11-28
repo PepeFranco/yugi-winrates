@@ -3675,6 +3675,36 @@
          "type": "Monster"
       },
       {
+         "card": "Dark Scorpion - Chick the Yellow",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN010",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion - Cliff the Trap Remover",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN007",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion - Meanae the Thorn",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN012",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Dark Scorpion - Meanae the Thorn",
          "location": "Goat Cards Box",
          "code": "GLD5-EN012",
@@ -3719,6 +3749,26 @@
          "location": "Goat Cards Box",
          "code": "GLD5-EN004",
          "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Scorpion Burglars",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN004",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Don Zaloog",
+         "location": "Goat Cards Box",
+         "code": "GLD1-EN012",
+         "set": "Gold Series",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -3781,6 +3831,46 @@
          "set": "",
          "sleeve": "",
          "outOfPlace": "Yes",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gravekeeper's Assailant",
+         "location": "Goat Cards Box",
+         "code": "SDMA-EN013",
+         "set": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gravekeeper's Chief",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP187",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gravekeeper's Spear Soldier",
+         "location": "Goat Cards Box",
+         "code": "SDMA-EN010",
+         "set": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gravekeeper's Spy",
+         "location": "Goat Cards Box",
+         "code": "GLD4-EN010",
+         "set": "Gold Series 4: Pyramids Edition",
+         "sleeve": "",
+         "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
       },
@@ -3855,6 +3945,16 @@
          "type": "Monster"
       },
       {
+         "card": "Relinquished",
+         "location": "Goat Cards Box",
+         "code": "SDP-001",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Right Arm of the Forbidden One",
          "location": "Goat Cards Box",
          "code": "YGLD-ENA20",
@@ -3900,6 +4000,16 @@
          "code": "YSYR-EN004",
          "set": "Starter Deck: Yugi Reloaded",
          "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "The End of Anubis",
+         "location": "Goat Cards Box",
+         "code": "TLM-ENSE4",
+         "set": "The Lost Millennium",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -4055,6 +4165,26 @@
          "type": "Monster"
       },
       {
+         "card": "Fusionist",
+         "location": "Goat Cards Box",
+         "code": "LOB-022",
+         "set": "Legend of Blue Eyes White Dragon",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Rat",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP232",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Giant Rat",
          "location": "Goat Cards Box",
          "code": "YS16-EN020",
@@ -4111,6 +4241,16 @@
          "set": "Legacy of Darkness",
          "sleeve": "",
          "outOfPlace": "Yes",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Karbonala Warrior",
+         "location": "Goat Cards Box",
+         "code": "LOD-C067",
+         "set": "Legacy of Darkness",
+         "sleeve": "",
+         "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
       },
@@ -4215,6 +4355,36 @@
          "type": "Monster"
       },
       {
+         "card": "Manticore of Darkness",
+         "location": "Goat Cards Box",
+         "code": "SDOK-EN005",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Sacred Phoenix of Nephthys",
+         "location": "Goat Cards Box",
+         "code": "SDOK-EN004",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Sacred Phoenix of Nephthys",
+         "location": "Goat Cards Box",
+         "code": "SDOK-EN004",
+         "set": "Onslaught of the Fire Kings Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
          "card": "Blade Knight",
          "location": "Goat Cards Box",
          "code": "YSKR-EN018",
@@ -4289,6 +4459,26 @@
          "location": "Goat Cards Box",
          "code": "BP01-EN138",
          "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber End Dragon",
+         "location": "Goat Cards Box",
+         "code": "STON-ENSE1",
+         "set": "Strike of Neos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber End Dragon",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN060",
+         "set": "Ra Yellow Mega Pack",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -5127,6 +5317,16 @@
       {
          "card": "Necrovalley",
          "location": "Goat Cards Box",
+         "code": "PGD-084",
+         "set": "Pharaonic Guardian",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Necrovalley",
+         "location": "Goat Cards Box",
          "code": "SDMA-EN025",
          "set": "Structure Deck: Marik (TCG)",
          "sleeve": "",
@@ -5229,6 +5429,16 @@
          "location": "Goat Cards Box",
          "code": "LEHD-ENC18",
          "set": "Legendary Hero Decks",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Scapegoat",
+         "location": "Goat Cards Box",
+         "code": "SDJ-041",
+         "set": "Starter Deck: Joey",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -5709,6 +5919,26 @@
          "location": "Goat Cards Box",
          "code": "BP01-EN050",
          "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Rite of Spirit",
+         "location": "Goat Cards Box",
+         "code": "PGD-100",
+         "set": "Pharaonic Guardian",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Rite of Spirit",
+         "location": "Goat Cards Box",
+         "code": "DR1-EN048",
+         "set": "Dark Revelation Volume 1",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -10924,238 +11154,6 @@
          "code": "YS18-EN039",
          "set": "Starter Deck: Codebreaker",
          "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Binder": [
-      {
-         "card": "Dark Scorpion - Chick the Yellow",
-         "location": "Binder",
-         "code": "GLD5-EN010",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion - Cliff the Trap Remover",
-         "location": "Binder",
-         "code": "GLD5-EN007",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion - Meanae the Thorn",
-         "location": "Binder",
-         "code": "GLD5-EN012",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Scorpion Burglars",
-         "location": "Binder",
-         "code": "GLD5-EN004",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Don Zaloog",
-         "location": "Binder",
-         "code": "GLD1-EN012",
-         "set": "Gold Series",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Assailant",
-         "location": "Binder",
-         "code": "SDMA-EN013",
-         "set": "Structure Deck: Marik (TCG)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Chief",
-         "location": "Binder",
-         "code": "LCYW-SP187",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Spear Soldier",
-         "location": "Binder",
-         "code": "SDMA-EN010",
-         "set": "Structure Deck: Marik (TCG)",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gravekeeper's Spy",
-         "location": "Binder",
-         "code": "GLD4-EN010",
-         "set": "Gold Series 4: Pyramids Edition",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Relinquished",
-         "location": "Binder",
-         "code": "SDP-001",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The End of Anubis",
-         "location": "Binder",
-         "code": "TLM-ENSE4",
-         "set": "The Lost Millennium",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Fusionist",
-         "location": "Binder",
-         "code": "LOB-022",
-         "set": "Legend of Blue Eyes White Dragon",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Rat",
-         "location": "Binder",
-         "code": "LCYW-SP232",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Karbonala Warrior",
-         "location": "Binder",
-         "code": "LOD-C067",
-         "set": "Legacy of Darkness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Manticore of Darkness",
-         "location": "Binder",
-         "code": "SDOK-EN005",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Sacred Phoenix of Nephthys",
-         "location": "Binder",
-         "code": "SDOK-EN004",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Sacred Phoenix of Nephthys",
-         "location": "Binder",
-         "code": "SDOK-EN004",
-         "set": "Onslaught of the Fire Kings Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber End Dragon",
-         "location": "Binder",
-         "code": "STON-ENSE1",
-         "set": "Strike of Neos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber End Dragon",
-         "location": "Binder",
-         "code": "RYMP-EN060",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Necrovalley",
-         "location": "Binder",
-         "code": "PGD-084",
-         "set": "Pharaonic Guardian",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Scapegoat",
-         "location": "Binder",
-         "code": "SDJ-041",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Rite of Spirit",
-         "location": "Binder",
-         "code": "PGD-100",
-         "set": "Pharaonic Guardian",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Rite of Spirit",
-         "location": "Binder",
-         "code": "DR1-EN048",
-         "set": "Dark Revelation Volume 1",
-         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"

@@ -53,7 +53,7 @@ const sortedOwnedCards = _.groupBy(cardsIAlreadyOwn, (c) => c.location);
 
 const cards = {};
 for (const [key, value] of Object.entries(sortedOwnedCards)) {
-  cards[key] = value.sort((c) => c.type);
+  cards[key] = _.sortBy(value, (c) => `${c.type}-${c.attribute}-${c.card}`);
   console.log(`Cards in ${key}: ${value.length}`);
 }
 
