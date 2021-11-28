@@ -5,7 +5,7 @@ const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const cardsFromFormat = require("./edisonOwnedCards.json");
 
-const cardsToMove = cardsFromFormat["Bulk (White)"];
+const cardsToMove = cardsFromFormat["Binder"];
 
 let moved = 0;
 cardsToMove.map((cc) => {

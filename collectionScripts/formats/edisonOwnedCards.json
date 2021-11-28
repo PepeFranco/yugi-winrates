@@ -2943,6 +2943,46 @@
          "type": "Monster"
       },
       {
+         "card": "D.D. Crow",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN095",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Tinker",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN017",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Darksea Rescue",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN013",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Darksea Rescue",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN013",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Don Zaloog",
          "location": "Goat Cards Box",
          "code": "GLD1-EN012",
@@ -2983,11 +3023,41 @@
          "type": "Monster"
       },
       {
+         "card": "Doomcaliber Knight",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN141",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Exodia The Forbidden One",
          "location": "Goat Cards Box",
          "code": "YGLD-ENA17",
          "set": "Yugi's Legendary Decks",
          "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gaap the Divine Soldier",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN150",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Gaap the Divine Soldier",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN150",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -3017,6 +3087,56 @@
          "location": "Goat Cards Box",
          "code": "SDMA-EN007",
          "set": "Structure Deck: Marik (TCG)",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Grinder Golem",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN009",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Junk Synchron",
+         "location": "Goat Cards Box",
+         "code": "5DS2-EN014",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Junk Synchron",
+         "location": "Goat Cards Box",
+         "code": "5DS1-EN011",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Junk Synchron",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN010",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Junk Synchron",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN010",
+         "set": "Starter Deck: Duelist Toolbox",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "DARK",
@@ -3083,6 +3203,16 @@
          "type": "Monster"
       },
       {
+         "card": "The Dark - Hex-Sealed Fusion",
+         "location": "Goat Cards Box",
+         "code": "FET-EN028",
+         "set": "Flaming Eternity",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "The End of Anubis",
          "location": "Goat Cards Box",
          "code": "TLM-ENSE4",
@@ -3103,6 +3233,16 @@
          "type": "Monster"
       },
       {
+         "card": "Trap Eater",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN005",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Vanity's Fiend",
          "location": "Goat Cards Box",
          "code": "DUDE-EN034",
@@ -3113,6 +3253,336 @@
          "type": "Monster"
       },
       {
+         "card": "Botanical Lion",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN145",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amber Mammoth",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN005",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amethyst Cat",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN156",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amethyst Cat",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN002",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amethyst Cat",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN002",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Amethyst Cat",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN002",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Drill Warrior",
+         "location": "Goat Cards Box",
+         "code": "DP10-EN018",
+         "set": "Duelist Pack: Yusei 3",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Drill Warrior",
+         "location": "Goat Cards Box",
+         "code": "DP10-EN018",
+         "set": "Duelist Pack: Yusei 3",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Gaia Knight, the Force of Earth",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN041",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Gladiator Beast Samnite",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN027",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Gladiator Beast Samnite",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN027",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Gladiator Beast Samnite",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN027",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Grandmaster of the Six Samurai",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN087",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boarden",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN017",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boarden",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN017",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boarden",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN017",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boarden",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN017",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boarden",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN017",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boarden",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN017",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Boomboxen",
+         "location": "Goat Cards Box",
+         "code": "CSOC-EN009",
+         "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Quillbolt Hedgehog",
+         "location": "Goat Cards Box",
+         "code": "5DS2-EN013",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Quillbolt Hedgehog",
+         "location": "Goat Cards Box",
+         "code": "5DS2-EN013",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Quillbolt Hedgehog",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN012",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Quillbolt Hedgehog",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN012",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Test Tiger",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN098",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Test Tiger",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN098",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "XX-Saber Fulhelmknight",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN081",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "XX-Saber Ragigura",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN036",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Flame Swordsman",
          "location": "Goat Cards Box",
          "code": "SDJ-024",
@@ -3120,6 +3590,66 @@
          "sleeve": "Purple ultra pro",
          "outOfPlace": "",
          "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Flamvell Magician",
+         "location": "Goat Cards Box",
+         "code": "HA01-EN008",
+         "set": "Hidden Arsenal",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "FIRE",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Crystal Beast Ruby Carbuncle",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN001",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
          "type": "Monster"
       },
       {
@@ -3173,6 +3703,26 @@
          "type": "Monster"
       },
       {
+         "card": "Light and Darkness Dragon",
+         "location": "Goat Cards Box",
+         "code": "AP02-SP016",
+         "set": "Astral Pack Two",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Lord British Space Fighter",
+         "location": "Goat Cards Box",
+         "code": "SOVR-EN035",
+         "set": "Stardust Overdrive",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
          "card": "Manju of the Ten Thousand Hands",
          "location": "Goat Cards Box",
          "code": "TU05-SP012",
@@ -3187,6 +3737,26 @@
          "location": "Goat Cards Box",
          "code": "LCYW-SP250",
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Phantom Dragon",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN065",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "The Six Samurai - Zanji",
+         "location": "Goat Cards Box",
+         "code": "STON-EN011",
+         "set": "Strike of Neos",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -3223,10 +3793,430 @@
          "type": "Monster"
       },
       {
+         "card": "Codarus",
+         "location": "Goat Cards Box",
+         "code": "ABPF-EN032",
+         "set": "Absolute Powerforce",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Codarus",
+         "location": "Goat Cards Box",
+         "code": "ABPF-EN032",
+         "set": "Absolute Powerforce",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Codarus",
+         "location": "Goat Cards Box",
+         "code": "ABPF-EN032",
+         "set": "Absolute Powerforce",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Fishborg Blaster",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN027",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Fishborg Blaster",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN027",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Fishborg Blaster",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN027",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Fishborg Blaster",
+         "location": "Goat Cards Box",
+         "code": "ANPR-EN027",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Fishborg Blaster",
+         "location": "Goat Cards Box",
+         "code": "ANPR-SP027",
+         "set": "Ancient Prophecy",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Gladiator Beast Retiari",
+         "location": "Goat Cards Box",
+         "code": "TU03-SP006",
+         "set": "Turbo Pack: Booster Three",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Mermaid Archer",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN036",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Mermaid Archer",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN036",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Mermaid Archer",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN036",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Mermaid Archer",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN036",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Metabo-Shark",
+         "location": "Goat Cards Box",
+         "code": "SOVR-EN086",
+         "set": "Stardust Overdrive",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Metabo-Shark",
+         "location": "Goat Cards Box",
+         "code": "SOVR-EN086",
+         "set": "Stardust Overdrive",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Oyster Meister",
+         "location": "Goat Cards Box",
+         "code": "TDGS-EN028",
+         "set": "The Duelist Genesis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Oyster Meister",
+         "location": "Goat Cards Box",
+         "code": "TDGS-EN028",
+         "set": "The Duelist Genesis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Oyster Meister",
+         "location": "Goat Cards Box",
+         "code": "TDGS-EN028",
+         "set": "The Duelist Genesis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Royal Swamp Eel",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN086",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Royal Swamp Eel",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN086",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Royal Swamp Eel",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN086",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Spined Gillman",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN034",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Spined Gillman",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN034",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Spined Gillman",
+         "location": "Goat Cards Box",
+         "code": "RGBT-EN034",
+         "set": "Duelist Pack Collection Tin 2009",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Superancient Deepsea King Coelacanth",
+         "location": "Goat Cards Box",
+         "code": "TU03-SP014",
+         "set": "Turbo Pack: Booster Three",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Superancient Deepsea King Coelacanth",
+         "location": "Goat Cards Box",
+         "code": "TU03-SP014",
+         "set": "Turbo Pack: Booster Three",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Superancient Deepsea King Coelacanth",
+         "location": "Goat Cards Box",
+         "code": "PTDN-EN034",
+         "set": "Phantom Darkness",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "The Six Samurai - Yaichi",
+         "location": "Goat Cards Box",
+         "code": "STON-EN007",
+         "set": "Strike of Neos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Warrior of Atlantis",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN016",
+         "set": "Force of the Breaker",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Warrior of Atlantis",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN016",
+         "set": "Force of the Breaker",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Warrior of Atlantis",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN016",
+         "set": "Force of the Breaker",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WATER",
+         "type": "Monster"
+      },
+      {
+         "card": "Barrier Statue of the Stormwinds",
+         "location": "Goat Cards Box",
+         "code": "CDIP-EN021",
+         "set": "Cyberdark Impact",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Slingen",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN018",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Slingen",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN018",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Slingen",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN018",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Slingen",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN018",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Slingen",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN018",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Morphtronic Slingen",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN018",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Quickdraw Synchron",
+         "location": "Goat Cards Box",
+         "code": "5DS3-EN018",
+         "set": "Starter Deck: Duelist Toolbox",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Quickdraw Synchron",
+         "location": "Goat Cards Box",
+         "code": "SOVR-EN004",
+         "set": "Stardust Overdrive",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
+         "card": "Quickdraw Synchron",
+         "location": "Goat Cards Box",
+         "code": "DP09-EN010",
+         "set": "Duelist Pack: Yusei 2",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "WIND",
+         "type": "Monster"
+      },
+      {
          "card": "A Legendary Ocean",
          "location": "Goat Cards Box",
          "code": "LEDU-EN021",
          "set": "Legendary Duelists",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Blaze Accelerator",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN040",
+         "set": "Force of the Breaker",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -3293,10 +4283,170 @@
          "type": "Spell Card"
       },
       {
+         "card": "Crystal Abundance",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN035",
+         "set": "Force of the Breaker",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN013",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN013",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN013",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Beacon",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN013",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN014",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN014",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN014",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN014",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Blessing",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN014",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Promise",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN016",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Crystal Promise",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN016",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Dark Factory of Mass Production",
          "location": "Goat Cards Box",
          "code": "YSD-EN029",
          "set": "Starter Deck 2006",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Fissure",
+         "location": "Goat Cards Box",
+         "code": "LOB-057",
+         "set": "Legend of Blue Eyes White Dragon",
+         "sleeve": "",
+         "outOfPlace": "Yes",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gateway of the Six",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN259",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gravekeeper's Stele",
+         "location": "Goat Cards Box",
+         "code": "ABPF-EN056",
+         "set": "Absolute Powerforce",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Gravekeeper's Stele",
+         "location": "Goat Cards Box",
+         "code": "ABPF-EN056",
+         "set": "Absolute Powerforce",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -3347,6 +4497,76 @@
          "location": "Goat Cards Box",
          "code": "DUDE-EN038",
          "set": "Duel Devastator",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fertilizer",
+         "location": "Goat Cards Box",
+         "code": "CSOC-EN057",
+         "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fertilizer",
+         "location": "Goat Cards Box",
+         "code": "CSOC-EN057",
+         "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fertilizer",
+         "location": "Goat Cards Box",
+         "code": "CSOC-EN057",
+         "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Miracle Fertilizer",
+         "location": "Goat Cards Box",
+         "code": "CSOC-EN057",
+         "set": "Crossroads of Chaos",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Moray of Greed",
+         "location": "Goat Cards Box",
+         "code": "SDRE-EN029",
+         "set": "Realm of the Sea Emperor Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Moray of Greed",
+         "location": "Goat Cards Box",
+         "code": "SDRE-EN029",
+         "set": "Realm of the Sea Emperor Structure Deck",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Moray of Greed",
+         "location": "Goat Cards Box",
+         "code": "SDRE-EN029",
+         "set": "Realm of the Sea Emperor Structure Deck",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -3443,6 +4663,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "Rush Recklessly",
+         "location": "Goat Cards Box",
+         "code": "SDP-033",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Scapegoat",
          "location": "Goat Cards Box",
          "code": "SDJ-041",
@@ -3453,11 +4683,121 @@
          "type": "Spell Card"
       },
       {
+         "card": "Shield Crush",
+         "location": "Goat Cards Box",
+         "code": "BP01-EN080",
+         "set": "Battle Pack: Epic Dawn",
+         "sleeve": "Black ultra pro old",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Swords of Revealing Light",
          "location": "Goat Cards Box",
          "code": "EGS1-EN021",
          "set": "Egyptian God Deck: Slifer the Sky Dragon",
          "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "System Down",
+         "location": "Goat Cards Box",
+         "code": "RYMP-EN079",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "System Down",
+         "location": "Goat Cards Box",
+         "code": "RYMP-SP079",
+         "set": "Ra Yellow Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "5DS1-EN028",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Twister",
+         "location": "Goat Cards Box",
+         "code": "DP07-EN012",
+         "set": "Duelist Pack: Jesse Anderson",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -3491,6 +4831,26 @@
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
+      },
+      {
+         "card": "Backs to the Wall",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN052",
+         "set": "Force of the Breaker",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Backs to the Wall",
+         "location": "Goat Cards Box",
+         "code": "FOTB-EN052",
+         "set": "Force of the Breaker",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
       },
       {
          "card": "Bottomless Trap Hole",
@@ -3528,6 +4888,16 @@
          "code": "YS16-EN034",
          "set": "Starter Deck: Yuya",
          "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Chain Disappearance",
+         "location": "Goat Cards Box",
+         "code": "LCYW-SP289",
+         "set": "Legendary Collection 3: Yugi's World Mega Pack",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -3647,6 +5017,46 @@
          "location": "Goat Cards Box",
          "code": "BP01-EN099",
          "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Fake Trap",
+         "location": "Goat Cards Box",
+         "code": "SDJ-049",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Forgotten Temple of the Deep",
+         "location": "Goat Cards Box",
+         "code": "ABPF-EN076",
+         "set": "Absolute Powerforce",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Forgotten Temple of the Deep",
+         "location": "Goat Cards Box",
+         "code": "ABPF-SP076",
+         "set": "Absolute Powerforce",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Forgotten Temple of the Deep",
+         "location": "Goat Cards Box",
+         "code": "ABPF-SP076",
+         "set": "Absolute Powerforce",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -3718,6 +5128,46 @@
          "code": "YGLD-ENC36",
          "set": "Yugi's Legendary Decks",
          "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Morphtronic Forcefield",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN072",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Morphtronic Forcefield",
+         "location": "Goat Cards Box",
+         "code": "CRMS-EN072",
+         "set": "Crimson Crisis",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Pole Position",
+         "location": "Goat Cards Box",
+         "code": "FET-EN050",
+         "set": "Flaming Eternity",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Pole Position",
+         "location": "Goat Cards Box",
+         "code": "FET-EN050",
+         "set": "Flaming Eternity",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -3798,6 +5248,16 @@
          "code": "DUDE-EN051",
          "set": "Duel Devastator",
          "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Scrap-Iron Scarecrow",
+         "location": "Goat Cards Box",
+         "code": "5DS1-EN032",
+         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -3987,6 +5447,56 @@
          "location": "Goat Cards Box",
          "code": "AST-SP050",
          "set": "Ancient Sanctuary",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zoma the Spirit",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN049",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zoma the Spirit",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN049",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zoma the Spirit",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN049",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zoma the Spirit",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN194",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Zoma the Spirit",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN194",
+         "set": "Battle Pack 2: War of the Giants",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
@@ -10170,1518 +11680,6 @@
          "code": "SDCR-EN035",
          "set": "Cyber Dragon Revolution Structure Deck",
          "sleeve": "Blue ultra pro old",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Bulk (White)": [
-      {
-         "card": "D.D. Crow",
-         "location": "Bulk (White)",
-         "code": "RYMP-EN095",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Tinker",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN017",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Darksea Rescue",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN013",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Darksea Rescue",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN013",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Doomcaliber Knight",
-         "location": "Bulk (White)",
-         "code": "BP01-EN141",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gaap the Divine Soldier",
-         "location": "Bulk (White)",
-         "code": "BP01-EN150",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Gaap the Divine Soldier",
-         "location": "Bulk (White)",
-         "code": "BP01-EN150",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Grinder Golem",
-         "location": "Bulk (White)",
-         "code": "DP07-EN009",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Junk Synchron",
-         "location": "Bulk (White)",
-         "code": "5DS2-EN014",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Junk Synchron",
-         "location": "Bulk (White)",
-         "code": "5DS1-EN011",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Junk Synchron",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN010",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Junk Synchron",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN010",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "The Dark - Hex-Sealed Fusion",
-         "location": "Bulk (White)",
-         "code": "FET-EN028",
-         "set": "Flaming Eternity",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Trap Eater",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN005",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Botanical Lion",
-         "location": "Bulk (White)",
-         "code": "BP01-EN145",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Bulk (White)",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Bulk (White)",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Bulk (White)",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Bulk (White)",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Bulk (White)",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amber Mammoth",
-         "location": "Bulk (White)",
-         "code": "DP07-EN005",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amethyst Cat",
-         "location": "Bulk (White)",
-         "code": "LCGX-EN156",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amethyst Cat",
-         "location": "Bulk (White)",
-         "code": "DP07-EN002",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amethyst Cat",
-         "location": "Bulk (White)",
-         "code": "DP07-EN002",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Amethyst Cat",
-         "location": "Bulk (White)",
-         "code": "DP07-EN002",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Drill Warrior",
-         "location": "Bulk (White)",
-         "code": "DP10-EN018",
-         "set": "Duelist Pack: Yusei 3",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Drill Warrior",
-         "location": "Bulk (White)",
-         "code": "DP10-EN018",
-         "set": "Duelist Pack: Yusei 3",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Gaia Knight, the Force of Earth",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN041",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Gladiator Beast Samnite",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN027",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Gladiator Beast Samnite",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN027",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Gladiator Beast Samnite",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN027",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Grandmaster of the Six Samurai",
-         "location": "Bulk (White)",
-         "code": "RYMP-EN087",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boarden",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN017",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boarden",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN017",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boarden",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN017",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boarden",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN017",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boarden",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN017",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boarden",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN017",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Boomboxen",
-         "location": "Bulk (White)",
-         "code": "CSOC-EN009",
-         "set": "Crossroads of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Quillbolt Hedgehog",
-         "location": "Bulk (White)",
-         "code": "5DS2-EN013",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Quillbolt Hedgehog",
-         "location": "Bulk (White)",
-         "code": "5DS2-EN013",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Quillbolt Hedgehog",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN012",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Quillbolt Hedgehog",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN012",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Test Tiger",
-         "location": "Bulk (White)",
-         "code": "RYMP-EN098",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Test Tiger",
-         "location": "Bulk (White)",
-         "code": "RYMP-EN098",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "XX-Saber Fulhelmknight",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN081",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "XX-Saber Ragigura",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN036",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Flamvell Magician",
-         "location": "Bulk (White)",
-         "code": "HA01-EN008",
-         "set": "Hidden Arsenal",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "FIRE",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Bulk (White)",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Bulk (White)",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Bulk (White)",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Bulk (White)",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Crystal Beast Ruby Carbuncle",
-         "location": "Bulk (White)",
-         "code": "DP07-EN001",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Light and Darkness Dragon",
-         "location": "Bulk (White)",
-         "code": "AP02-SP016",
-         "set": "Astral Pack Two",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Lord British Space Fighter",
-         "location": "Bulk (White)",
-         "code": "SOVR-EN035",
-         "set": "Stardust Overdrive",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Phantom Dragon",
-         "location": "Bulk (White)",
-         "code": "BP02-EN065",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "The Six Samurai - Zanji",
-         "location": "Bulk (White)",
-         "code": "STON-EN011",
-         "set": "Strike of Neos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Codarus",
-         "location": "Bulk (White)",
-         "code": "ABPF-EN032",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Codarus",
-         "location": "Bulk (White)",
-         "code": "ABPF-EN032",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Codarus",
-         "location": "Bulk (White)",
-         "code": "ABPF-EN032",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Fishborg Blaster",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN027",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Fishborg Blaster",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN027",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Fishborg Blaster",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN027",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Fishborg Blaster",
-         "location": "Bulk (White)",
-         "code": "ANPR-EN027",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Fishborg Blaster",
-         "location": "Bulk (White)",
-         "code": "ANPR-SP027",
-         "set": "Ancient Prophecy",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Gladiator Beast Retiari",
-         "location": "Bulk (White)",
-         "code": "TU03-SP006",
-         "set": "Turbo Pack: Booster Three",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Mermaid Archer",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN036",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Mermaid Archer",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN036",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Mermaid Archer",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN036",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Mermaid Archer",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN036",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Metabo-Shark",
-         "location": "Bulk (White)",
-         "code": "SOVR-EN086",
-         "set": "Stardust Overdrive",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Metabo-Shark",
-         "location": "Bulk (White)",
-         "code": "SOVR-EN086",
-         "set": "Stardust Overdrive",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Oyster Meister",
-         "location": "Bulk (White)",
-         "code": "TDGS-EN028",
-         "set": "The Duelist Genesis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Oyster Meister",
-         "location": "Bulk (White)",
-         "code": "TDGS-EN028",
-         "set": "The Duelist Genesis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Oyster Meister",
-         "location": "Bulk (White)",
-         "code": "TDGS-EN028",
-         "set": "The Duelist Genesis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Royal Swamp Eel",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN086",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Royal Swamp Eel",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN086",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Royal Swamp Eel",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN086",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Spined Gillman",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN034",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Spined Gillman",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN034",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Spined Gillman",
-         "location": "Bulk (White)",
-         "code": "RGBT-EN034",
-         "set": "Duelist Pack Collection Tin 2009",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Superancient Deepsea King Coelacanth",
-         "location": "Bulk (White)",
-         "code": "TU03-SP014",
-         "set": "Turbo Pack: Booster Three",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Superancient Deepsea King Coelacanth",
-         "location": "Bulk (White)",
-         "code": "TU03-SP014",
-         "set": "Turbo Pack: Booster Three",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Superancient Deepsea King Coelacanth",
-         "location": "Bulk (White)",
-         "code": "PTDN-EN034",
-         "set": "Phantom Darkness",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "The Six Samurai - Yaichi",
-         "location": "Bulk (White)",
-         "code": "STON-EN007",
-         "set": "Strike of Neos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Warrior of Atlantis",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN016",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Warrior of Atlantis",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN016",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Warrior of Atlantis",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN016",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WATER",
-         "type": "Monster"
-      },
-      {
-         "card": "Barrier Statue of the Stormwinds",
-         "location": "Bulk (White)",
-         "code": "CDIP-EN021",
-         "set": "Cyberdark Impact",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Slingen",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN018",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Slingen",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN018",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Slingen",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN018",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Slingen",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN018",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Slingen",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN018",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Morphtronic Slingen",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN018",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Quickdraw Synchron",
-         "location": "Bulk (White)",
-         "code": "5DS3-EN018",
-         "set": "Starter Deck: Duelist Toolbox",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Quickdraw Synchron",
-         "location": "Bulk (White)",
-         "code": "SOVR-EN004",
-         "set": "Stardust Overdrive",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Quickdraw Synchron",
-         "location": "Bulk (White)",
-         "code": "DP09-EN010",
-         "set": "Duelist Pack: Yusei 2",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "WIND",
-         "type": "Monster"
-      },
-      {
-         "card": "Blaze Accelerator",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN040",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Abundance",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN035",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Bulk (White)",
-         "code": "DP07-EN013",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Bulk (White)",
-         "code": "DP07-EN013",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Bulk (White)",
-         "code": "DP07-EN013",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Beacon",
-         "location": "Bulk (White)",
-         "code": "DP07-EN013",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Bulk (White)",
-         "code": "DP07-EN014",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Bulk (White)",
-         "code": "DP07-EN014",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Bulk (White)",
-         "code": "DP07-EN014",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Bulk (White)",
-         "code": "DP07-EN014",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Blessing",
-         "location": "Bulk (White)",
-         "code": "DP07-EN014",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Promise",
-         "location": "Bulk (White)",
-         "code": "DP07-EN016",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Crystal Promise",
-         "location": "Bulk (White)",
-         "code": "DP07-EN016",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Fissure",
-         "location": "Bulk (White)",
-         "code": "LOB-057",
-         "set": "Legend of Blue Eyes White Dragon",
-         "sleeve": "",
-         "outOfPlace": "Yes",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gateway of the Six",
-         "location": "Bulk (White)",
-         "code": "LCGX-EN259",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gravekeeper's Stele",
-         "location": "Bulk (White)",
-         "code": "ABPF-EN056",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Gravekeeper's Stele",
-         "location": "Bulk (White)",
-         "code": "ABPF-EN056",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fertilizer",
-         "location": "Bulk (White)",
-         "code": "CSOC-EN057",
-         "set": "Crossroads of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fertilizer",
-         "location": "Bulk (White)",
-         "code": "CSOC-EN057",
-         "set": "Crossroads of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fertilizer",
-         "location": "Bulk (White)",
-         "code": "CSOC-EN057",
-         "set": "Crossroads of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Miracle Fertilizer",
-         "location": "Bulk (White)",
-         "code": "CSOC-EN057",
-         "set": "Crossroads of Chaos",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Moray of Greed",
-         "location": "Bulk (White)",
-         "code": "SDRE-EN029",
-         "set": "Realm of the Sea Emperor Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Moray of Greed",
-         "location": "Bulk (White)",
-         "code": "SDRE-EN029",
-         "set": "Realm of the Sea Emperor Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Moray of Greed",
-         "location": "Bulk (White)",
-         "code": "SDRE-EN029",
-         "set": "Realm of the Sea Emperor Structure Deck",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Rush Recklessly",
-         "location": "Bulk (White)",
-         "code": "SDP-033",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Shield Crush",
-         "location": "Bulk (White)",
-         "code": "BP01-EN080",
-         "set": "Battle Pack: Epic Dawn",
-         "sleeve": "Black ultra pro old",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "System Down",
-         "location": "Bulk (White)",
-         "code": "RYMP-EN079",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "System Down",
-         "location": "Bulk (White)",
-         "code": "RYMP-SP079",
-         "set": "Ra Yellow Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "5DS1-EN028",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Twister",
-         "location": "Bulk (White)",
-         "code": "DP07-EN012",
-         "set": "Duelist Pack: Jesse Anderson",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Backs to the Wall",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN052",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Backs to the Wall",
-         "location": "Bulk (White)",
-         "code": "FOTB-EN052",
-         "set": "Force of the Breaker",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Chain Disappearance",
-         "location": "Bulk (White)",
-         "code": "LCYW-SP289",
-         "set": "Legendary Collection 3: Yugi's World Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Fake Trap",
-         "location": "Bulk (White)",
-         "code": "SDJ-049",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Forgotten Temple of the Deep",
-         "location": "Bulk (White)",
-         "code": "ABPF-EN076",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Forgotten Temple of the Deep",
-         "location": "Bulk (White)",
-         "code": "ABPF-SP076",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Forgotten Temple of the Deep",
-         "location": "Bulk (White)",
-         "code": "ABPF-SP076",
-         "set": "Absolute Powerforce",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Morphtronic Forcefield",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN072",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Morphtronic Forcefield",
-         "location": "Bulk (White)",
-         "code": "CRMS-EN072",
-         "set": "Crimson Crisis",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Pole Position",
-         "location": "Bulk (White)",
-         "code": "FET-EN050",
-         "set": "Flaming Eternity",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Pole Position",
-         "location": "Bulk (White)",
-         "code": "FET-EN050",
-         "set": "Flaming Eternity",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Scrap-Iron Scarecrow",
-         "location": "Bulk (White)",
-         "code": "5DS1-EN032",
-         "set": "Starter Deck: Yu-Gi-Oh! 5D's",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zoma the Spirit",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN049",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zoma the Spirit",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN049",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zoma the Spirit",
-         "location": "Bulk (White)",
-         "code": "GLD5-EN049",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zoma the Spirit",
-         "location": "Bulk (White)",
-         "code": "BP02-EN194",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Zoma the Spirit",
-         "location": "Bulk (White)",
-         "code": "BP02-EN194",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
