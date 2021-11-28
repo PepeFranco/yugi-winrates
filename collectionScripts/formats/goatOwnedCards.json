@@ -3555,6 +3555,16 @@
    ],
    "Goat Cards Box": [
       {
+         "card": "Breaker the Magical Warrior",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN007",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Cyber Jar",
          "location": "Goat Cards Box",
          "code": "",
@@ -3575,6 +3585,56 @@
          "type": "Monster"
       },
       {
+         "card": "Dark Magician",
+         "location": "Goat Cards Box",
+         "code": "DUPO-EN101",
+         "set": "Duel Power",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Magician",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA03",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Magician",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB02",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Magician",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC09",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Magician of Chaos",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC02",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Dark Master - Zorc",
          "location": "Goat Cards Box",
          "code": "LCYW-SP123",
@@ -3590,6 +3650,16 @@
          "code": "LCYW-SP123",
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Dark Paladin",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC41",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -3685,6 +3755,16 @@
          "type": "Monster"
       },
       {
+         "card": "Exodia The Forbidden One",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA17",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Giant Germ",
          "location": "Goat Cards Box",
          "code": "",
@@ -3725,6 +3805,26 @@
          "type": "Monster"
       },
       {
+         "card": "Left Arm of the Forbidden One",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA21",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Left Leg of the Forbidden One",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA19",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Mad Dog of Darkness",
          "location": "Goat Cards Box",
          "code": "BP01-EN113",
@@ -3745,6 +3845,26 @@
          "type": "Monster"
       },
       {
+         "card": "Right Arm of the Forbidden One",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA20",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Right Leg of the Forbidden One",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA18",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "Sangan",
          "location": "Goat Cards Box",
          "code": "SDJ-019",
@@ -3755,11 +3875,41 @@
          "type": "Monster"
       },
       {
+         "card": "Summoned Skull",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA06",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Summoned Skull",
+         "location": "Goat Cards Box",
+         "code": "YSYR-EN004",
+         "set": "Starter Deck: Yugi Reloaded",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
          "card": "The End of Anubis",
          "location": "Goat Cards Box",
          "code": "TLM-ENSE4",
          "set": "The Lost Millennium",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "DARK",
+         "type": "Monster"
+      },
+      {
+         "card": "Vanity's Fiend",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN034",
+         "set": "Duel Devastator",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "DARK",
          "type": "Monster"
@@ -3825,6 +3975,16 @@
          "type": "Monster"
       },
       {
+         "card": "Buster Blader",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC11",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
          "card": "Chiron the Mage",
          "location": "Goat Cards Box",
          "code": "YS12-EN013",
@@ -3857,6 +4017,16 @@
       {
          "card": "Giant Rat",
          "location": "Goat Cards Box",
+         "code": "YS16-EN020",
+         "set": "Starter Deck: Yuya",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Giant Rat",
+         "location": "Goat Cards Box",
          "code": "YS12-EN017",
          "set": "Starter Deck: Xyz Symphony",
          "sleeve": "",
@@ -3880,6 +4050,36 @@
          "code": "SDJ-014",
          "set": "Starter Deck: Joey",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Nimble Momonga",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN007",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Nimble Momonga",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN007",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "EARTH",
+         "type": "Monster"
+      },
+      {
+         "card": "Nimble Momonga",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN007",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
          "outOfPlace": "",
          "attribute": "EARTH",
          "type": "Monster"
@@ -3927,8 +4127,68 @@
       {
          "card": "Cyber Dragon",
          "location": "Goat Cards Box",
+         "code": "BLRR-EN048",
+         "set": "Battles of Legend: Relentless Revenge",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber Dragon",
+         "location": "Goat Cards Box",
+         "code": "BLRR-EN048",
+         "set": "Battles of Legend: Relentless Revenge",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber Dragon",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN009",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber Dragon",
+         "location": "Goat Cards Box",
+         "code": "YS18-EN014",
+         "set": "Starter Deck: Codebreaker",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber Dragon",
+         "location": "Goat Cards Box",
          "code": "BP01-EN138",
          "set": "Battle Pack: Epic Dawn",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber End Dragon",
+         "location": "Goat Cards Box",
+         "code": "LCGX-EN182",
+         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Cyber End Dragon",
+         "location": "Goat Cards Box",
+         "code": "LED3-EN017",
+         "set": "Legendary Duelists: White Dragon Abyss",
          "sleeve": "",
          "outOfPlace": "",
          "attribute": "LIGHT",
@@ -3950,6 +4210,26 @@
          "code": "LCYW-SP250",
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Skilled White Magician",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC20",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "LIGHT",
+         "type": "Monster"
+      },
+      {
+         "card": "Skilled White Magician",
+         "location": "Goat Cards Box",
+         "code": "YSYR-EN012",
+         "set": "Starter Deck: Yugi Reloaded",
+         "sleeve": "Lime ultra pro",
          "outOfPlace": "",
          "attribute": "LIGHT",
          "type": "Monster"
@@ -4075,11 +4355,61 @@
          "type": "Spell Card"
       },
       {
+         "card": "Book of Moon",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN024",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Book of Moon",
+         "location": "Goat Cards Box",
+         "code": "YS18-EN027",
+         "set": "Starter Deck: Codebreaker",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Brain Control",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN023",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Brain Control",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA26",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Brain Control",
          "location": "Goat Cards Box",
          "code": "DPYG-SP024",
          "set": "Duelist Pack: Yugi",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Card Destruction",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB27",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -4110,6 +4440,26 @@
          "code": "YSD-EN029",
          "set": "Starter Deck 2006",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "YS18-EN025",
+         "set": "Starter Deck: Codebreaker",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Dark Hole",
+         "location": "Goat Cards Box",
+         "code": "YSYR-EN025",
+         "set": "Starter Deck: Yugi Reloaded",
+         "sleeve": "Lime ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -4175,6 +4525,26 @@
          "type": "Spell Card"
       },
       {
+         "card": "Exchange",
+         "location": "Goat Cards Box",
+         "code": "DPYG-EN021",
+         "set": "Duelist Pack: Yugi",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Exchange",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB28",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Gaia Power",
          "location": "Goat Cards Box",
          "code": "MRL-096",
@@ -4220,6 +4590,16 @@
          "code": "GLD4-NE037",
          "set": "Gold Series 4: Pyramids Edition",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Harpie's Feather Duster",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN022",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -4280,6 +4660,106 @@
          "code": "LCYW-SP269",
          "set": "Legendary Collection 3: Yugi's World Mega Pack",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mind Control",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN038",
+         "set": "Duel Devastator",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mind Control",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN038",
+         "set": "Duel Devastator",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Mind Control",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN038",
+         "set": "Duel Devastator",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "EGO1-EN024",
+         "set": "Egyptian God Deck: Obelisk the Tormentor",
+         "sleeve": "Blue",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN023",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "LEHD-ENB19",
+         "set": "Legendary Hero Decks",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA23",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB16",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC24",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Monster Reborn",
+         "location": "Goat Cards Box",
+         "code": "YS18-EN024",
+         "set": "Starter Deck: Codebreaker",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -4355,6 +4835,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "Mystical Space Typhoon",
+         "location": "Goat Cards Box",
+         "code": "YS16-EN025",
+         "set": "Starter Deck: Yuya",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Necrovalley",
          "location": "Goat Cards Box",
          "code": "SDMA-EN025",
@@ -4415,6 +4905,16 @@
          "type": "Spell Card"
       },
       {
+         "card": "Reinforcement of the Army",
+         "location": "Goat Cards Box",
+         "code": "LEHD-ENC18",
+         "set": "Legendary Hero Decks",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
          "card": "Stray Lambs",
          "location": "Goat Cards Box",
          "code": "LCYW-SP274",
@@ -4423,6 +4923,66 @@
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
+      },
+      {
+         "card": "Swords of Revealing Light",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN021",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Wave-Motion Cannon",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN039",
+         "set": "Duel Devastator",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Wave-Motion Cannon",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN039",
+         "set": "Duel Devastator",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Wave-Motion Cannon",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN039",
+         "set": "Duel Devastator",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Bottomless Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "YS18-EN038",
+         "set": "Starter Deck: Codebreaker",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Ceasefire",
+         "location": "Goat Cards Box",
+         "code": "YS16-EN034",
+         "set": "Starter Deck: Yuya",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
       },
       {
          "card": "Compulsory Evacuation Device",
@@ -4545,11 +5105,51 @@
          "type": "Trap Card"
       },
       {
-         "card": "Physical Double",
+         "card": "Mirror Force",
          "location": "Goat Cards Box",
-         "code": "GLD5-EN047",
-         "set": "Gold Series: Haunted Mine",
-         "sleeve": "",
+         "code": "DASA-EN059",
+         "set": "Dark Saviors",
+         "sleeve": "Lime ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Mirror Force",
+         "location": "Goat Cards Box",
+         "code": "EGS1-EN034",
+         "set": "Egyptian God Deck: Slifer the Sky Dragon",
+         "sleeve": "Red",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Mirror Force",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENA37",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Purple ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Mirror Force",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB33",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Mirror Force",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENC36",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "White ultra pro eclipse",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -4580,6 +5180,26 @@
          "code": "GLD5-EN047",
          "set": "Gold Series: Haunted Mine",
          "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Physical Double",
+         "location": "Goat Cards Box",
+         "code": "GLD5-EN047",
+         "set": "Gold Series: Haunted Mine",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Raigeki Break",
+         "location": "Goat Cards Box",
+         "code": "YS16-EN035",
+         "set": "Starter Deck: Yuya",
+         "sleeve": "Pink ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -4675,6 +5295,16 @@
          "type": "Trap Card"
       },
       {
+         "card": "Royal Decree",
+         "location": "Goat Cards Box",
+         "code": "DUDE-EN051",
+         "set": "Duel Devastator",
+         "sleeve": "Pink ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Secret Barrel",
          "location": "Goat Cards Box",
          "code": "5DS3-EN034",
@@ -4725,11 +5355,41 @@
          "type": "Trap Card"
       },
       {
+         "card": "Tragedy",
+         "location": "Goat Cards Box",
+         "code": "YGLD-ENB40",
+         "set": "Yugi's Legendary Decks",
+         "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
          "card": "Trap Dustshoot",
          "location": "Goat Cards Box",
          "code": "PGD-049",
          "set": "Pharaonic Guardian",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "YSKR-EN042",
+         "set": "Starter Deck: Kaiba Reloaded",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Trap Card"
+      },
+      {
+         "card": "Trap Hole",
+         "location": "Goat Cards Box",
+         "code": "YSYR-EN038",
+         "set": "Starter Deck: Yugi Reloaded",
+         "sleeve": "Lime ultra pro",
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
@@ -9723,668 +10383,6 @@
          "location": "Battle pack cube (Battle City Box)",
          "code": "YS18-EN039",
          "set": "Starter Deck: Codebreaker",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      }
-   ],
-   "Duel Devastator Blue": [
-      {
-         "card": "Breaker the Magical Warrior",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN007",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Magician",
-         "location": "Duel Devastator Blue",
-         "code": "DUPO-EN101",
-         "set": "Duel Power",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA03",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB02",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC09",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Magician of Chaos",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC02",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Dark Paladin",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC41",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Exodia The Forbidden One",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA17",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Left Arm of the Forbidden One",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA21",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Left Leg of the Forbidden One",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA19",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Right Arm of the Forbidden One",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA20",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Right Leg of the Forbidden One",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA18",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Summoned Skull",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA06",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Summoned Skull",
-         "location": "Duel Devastator Blue",
-         "code": "YSYR-EN004",
-         "set": "Starter Deck: Yugi Reloaded",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Vanity's Fiend",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN034",
-         "set": "Duel Devastator",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "DARK",
-         "type": "Monster"
-      },
-      {
-         "card": "Buster Blader",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC11",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Giant Rat",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN020",
-         "set": "Starter Deck: Yuya",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Nimble Momonga",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN007",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Nimble Momonga",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN007",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Nimble Momonga",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN007",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "EARTH",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "BLRR-EN048",
-         "set": "Battles of Legend: Relentless Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "BLRR-EN048",
-         "set": "Battles of Legend: Relentless Revenge",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN009",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN014",
-         "set": "Starter Deck: Codebreaker",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber End Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "LCGX-EN182",
-         "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Cyber End Dragon",
-         "location": "Duel Devastator Blue",
-         "code": "LED3-EN017",
-         "set": "Legendary Duelists: White Dragon Abyss",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Skilled White Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC20",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Skilled White Magician",
-         "location": "Duel Devastator Blue",
-         "code": "YSYR-EN012",
-         "set": "Starter Deck: Yugi Reloaded",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "LIGHT",
-         "type": "Monster"
-      },
-      {
-         "card": "Book of Moon",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN024",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Book of Moon",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN027",
-         "set": "Starter Deck: Codebreaker",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Brain Control",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN023",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Brain Control",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA26",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Card Destruction",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB27",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN025",
-         "set": "Starter Deck: Codebreaker",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Dark Hole",
-         "location": "Duel Devastator Blue",
-         "code": "YSYR-EN025",
-         "set": "Starter Deck: Yugi Reloaded",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Exchange",
-         "location": "Duel Devastator Blue",
-         "code": "DPYG-EN021",
-         "set": "Duelist Pack: Yugi",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Exchange",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB28",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Harpie's Feather Duster",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN022",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mind Control",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN038",
-         "set": "Duel Devastator",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mind Control",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN038",
-         "set": "Duel Devastator",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mind Control",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN038",
-         "set": "Duel Devastator",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "EGO1-EN024",
-         "set": "Egyptian God Deck: Obelisk the Tormentor",
-         "sleeve": "Blue",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN023",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENB19",
-         "set": "Legendary Hero Decks",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA23",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB16",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC24",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Monster Reborn",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN024",
-         "set": "Starter Deck: Codebreaker",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Mystical Space Typhoon",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN025",
-         "set": "Starter Deck: Yuya",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Reinforcement of the Army",
-         "location": "Duel Devastator Blue",
-         "code": "LEHD-ENC18",
-         "set": "Legendary Hero Decks",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Swords of Revealing Light",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN021",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Wave-Motion Cannon",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN039",
-         "set": "Duel Devastator",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Wave-Motion Cannon",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN039",
-         "set": "Duel Devastator",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Wave-Motion Cannon",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN039",
-         "set": "Duel Devastator",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Bottomless Trap Hole",
-         "location": "Duel Devastator Blue",
-         "code": "YS18-EN038",
-         "set": "Starter Deck: Codebreaker",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Ceasefire",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN034",
-         "set": "Starter Deck: Yuya",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Mirror Force",
-         "location": "Duel Devastator Blue",
-         "code": "DASA-EN059",
-         "set": "Dark Saviors",
-         "sleeve": "Lime ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Mirror Force",
-         "location": "Duel Devastator Blue",
-         "code": "EGS1-EN034",
-         "set": "Egyptian God Deck: Slifer the Sky Dragon",
-         "sleeve": "Red",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Mirror Force",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENA37",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Purple ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Mirror Force",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB33",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Mirror Force",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENC36",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "White ultra pro eclipse",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Raigeki Break",
-         "location": "Duel Devastator Blue",
-         "code": "YS16-EN035",
-         "set": "Starter Deck: Yuya",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Royal Decree",
-         "location": "Duel Devastator Blue",
-         "code": "DUDE-EN051",
-         "set": "Duel Devastator",
-         "sleeve": "Pink ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Tragedy",
-         "location": "Duel Devastator Blue",
-         "code": "YGLD-ENB40",
-         "set": "Yugi's Legendary Decks",
-         "sleeve": "Black ultra pro",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Hole",
-         "location": "Duel Devastator Blue",
-         "code": "YSKR-EN042",
-         "set": "Starter Deck: Kaiba Reloaded",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Trap Card"
-      },
-      {
-         "card": "Trap Hole",
-         "location": "Duel Devastator Blue",
-         "code": "YSYR-EN038",
-         "set": "Starter Deck: Yugi Reloaded",
          "sleeve": "Lime ultra pro",
          "outOfPlace": "",
          "attribute": "",
