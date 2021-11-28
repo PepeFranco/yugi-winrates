@@ -5695,6 +5695,46 @@
       {
          "card": "Fissure",
          "location": "Goat Cards Box",
+         "code": "SDY-026",
+         "set": "Starter Deck: Yugi",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Fissure",
+         "location": "Goat Cards Box",
+         "code": "SDP-028",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Green",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Fissure",
+         "location": "Goat Cards Box",
+         "code": "SDP-028",
+         "set": "Starter Deck: Pegasus",
+         "sleeve": "Yugi Oricalchos",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Fissure",
+         "location": "Goat Cards Box",
+         "code": "SDJ-028",
+         "set": "Starter Deck: Joey",
+         "sleeve": "",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Fissure",
+         "location": "Goat Cards Box",
          "code": "LOB-057",
          "set": "Legend of Blue Eyes White Dragon",
          "sleeve": "",
@@ -6088,6 +6128,16 @@
          "code": "SDP-033",
          "set": "Starter Deck: Pegasus",
          "sleeve": "Black ultra pro",
+         "outOfPlace": "",
+         "attribute": "",
+         "type": "Spell Card"
+      },
+      {
+         "card": "Rush Recklessly",
+         "location": "Goat Cards Box",
+         "code": "BP02-EN133",
+         "set": "Battle Pack 2: War of the Giants",
+         "sleeve": "",
          "outOfPlace": "",
          "attribute": "",
          "type": "Spell Card"
@@ -14797,58 +14847,6 @@
          "outOfPlace": "",
          "attribute": "",
          "type": "Trap Card"
-      }
-   ],
-   "Dark Magician": [
-      {
-         "card": "Fissure",
-         "location": "Dark Magician",
-         "code": "SDY-026",
-         "set": "Starter Deck: Yugi",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Fissure",
-         "location": "Dark Magician",
-         "code": "SDP-028",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Green",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Fissure",
-         "location": "Dark Magician",
-         "code": "SDP-028",
-         "set": "Starter Deck: Pegasus",
-         "sleeve": "Yugi Oricalchos",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Fissure",
-         "location": "Dark Magician",
-         "code": "SDJ-028",
-         "set": "Starter Deck: Joey",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
-      },
-      {
-         "card": "Rush Recklessly",
-         "location": "Dark Magician",
-         "code": "BP02-EN133",
-         "set": "Battle Pack 2: War of the Giants",
-         "sleeve": "",
-         "outOfPlace": "",
-         "attribute": "",
-         "type": "Spell Card"
       }
    ]
 }
