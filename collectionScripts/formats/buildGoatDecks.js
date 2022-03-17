@@ -94,6 +94,8 @@ _.reverse(
     return dp.deck1.completed + dp.deck2.completed;
   })
 ).map((dp, index) => {
+  dp.deck1.cardsFound = _.sortBy(dp.deck1.cardsFound, (c) => c.location);
+  dp.deck2.cardsFound = _.sortBy(dp.deck2.cardsFound, (c) => c.location);
   fs.writeFileSync(
     `./collectionScripts/formats/goatDecksToBuild/${index} ${dp.deck1.name} and ${dp.deck2.name}.json`,
     JSON.stringify(dp, null, 3),

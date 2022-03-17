@@ -24,6 +24,9 @@ const getEarliestInfo = (cardInfo) => {
     return {};
   }
   const earliestSet = _.find(cardSetsByDate, (currentSet) => {
+    if (!cardInfo.card_sets) {
+      return;
+    }
     const found = cardInfo.card_sets.find(
       (cardSet) => cardSet.set_name === currentSet.set_name
     );
