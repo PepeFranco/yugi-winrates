@@ -70,8 +70,8 @@ sds.map((sd) => {
   }
   const thisReleaseDate = new Date(sd["tcg_date"]);
   const thisBanlist = getClosestMatchingBanList(thisReleaseDate);
-  // console.log(cardsInThisSD2);
-  // console.log(sdname);
+  console.log("-----------------");
+  console.log(sdname);
   const limitedCards = thisBanlist.cards.filter((c) => c.number === 1);
   const semiLimitedCards = thisBanlist.cards.filter((c) => c.number === 2);
   const limitedCardsInThisDeck = [];
@@ -83,7 +83,7 @@ sds.map((sd) => {
       (cc) => cc.card.toLowerCase() === c.card.toLowerCase()
     );
     if (limitedIndex >= 0) {
-      // console.log(c.card, " is limited, not adding it again");
+      console.log(c.card, " is limited, not adding it again");
       limitedCardsInThisDeck.push(c.card);
       return;
     }
@@ -93,7 +93,7 @@ sds.map((sd) => {
       (cc) => cc.card.toLowerCase() === c.card.toLowerCase()
     );
     if (semLimitedIndex >= 0) {
-      // console.log(c.card, " is semi limited, not adding it again");
+      console.log(c.card, " is semi limited, not adding it again");
       semiCardsInThisDeck.push(c.card);
       return;
     }
@@ -103,8 +103,6 @@ sds.map((sd) => {
     limited: limitedCardsInThisDeck,
     semiLimited: semiCardsInThisDeck,
   };
-  // console.log("Cards before removing limited: ", cardsInThisSD2.length);
-  // console.log("Cards after removing limited: ", cardsInThisSD2.length);
 
   // console.log(thisReleaseDate, thisBanlist.date);
 });
@@ -337,11 +335,11 @@ fs.writeFile(
   }
 );
 
-console.log("Cards to move per location ================");
+// console.log("Cards to move per location ================");
 const owned3 = _.groupBy(cardsIAlreadyOwnToComplete3Sets, (c) => c.location);
-Object.keys(owned3).map((l) => {
-  console.log(l, owned3[l].length);
-});
+// Object.keys(owned3).map((l) => {
+//   console.log(l, owned3[l].length);
+// });
 for (const [key, value] of Object.entries(owned3)) {
   owned3[key] = _.sortBy(value, (c) => `${c.attribute}-${c.type}-${c.card}`);
 }

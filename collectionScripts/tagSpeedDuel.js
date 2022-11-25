@@ -11,7 +11,12 @@ const mainFunction = async () => {
   try {
     for (let i = 0; i < collectionCopy.length; i++) {
       const card = collectionCopy[i];
-      card["Is Speed Duel Legal"] = speedDuelLegal.includes(card["Name"]);
+      const isSpeedDuel = card["Set"].toLowerCase().includes("speed duel")
+        ? "Yes"
+        : "No";
+      card["Is Speed Duel"] = isSpeedDuel;
+      card["Is Speed Duel Legal"] =
+        speedDuelLegal.includes(card["Name"]) || isSpeedDuel === "Yes";
       card["Description Length"] = card["Description"].length;
       console.log(card["Name"]);
     }

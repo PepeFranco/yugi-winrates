@@ -20,5 +20,6 @@ const mainFunction = async () => {
   await collectionSheet.updateDimensionProperties("ROWS", {
     pixelSize: 21,
   });
+  console.log("done");
 };
 mainFunction();
