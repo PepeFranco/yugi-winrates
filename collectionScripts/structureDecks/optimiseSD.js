@@ -50,15 +50,12 @@ const makeStringLength = (string, length) => {
 };
 
 let str = "";
-_.reverse(
-  _.sortBy(cardsThatCanBeMoved, (c) => `${c["In Box"]}-${c["In Deck"]}`)
-).map((c) => {
+_.reverse(_.sortBy(cardsThatCanBeMoved, (c) => `${c["In Deck"]}`)).map((c) => {
   const name = makeStringLength(c["Name"], 30);
   const code = makeStringLength(` (${c["Code"]}) `, 15);
-  const box = makeStringLength(` in ${c["In Box"]}`, 15);
   const deck = makeStringLength(`(${c["In Deck"] || ""})`, 50);
   const newDeck = makeStringLength(`could go in deck ${c["Set"]}`, 0);
-  str += `${name}${code}${box}${deck}${newDeck}\n`;
+  str += `${name}${code}${deck}${newDeck}\n`;
   // console.log(str);
 });
 

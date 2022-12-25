@@ -107,63 +107,18 @@ sds.map((sd) => {
   // console.log(thisReleaseDate, thisBanlist.date);
 });
 
-const allCollectionCards = collection
-  .map((card) => ({
-    card: card["Name"],
-    location: card["In Box"],
-    code: card["Code"],
-    set: card["Set"],
-    deck: card["In DecK"],
-    location: card["In Box"],
-    sleeve: card["In Sleeve"],
-    outOfPlace: card["Out of place"],
-    attribute: card["Attribute"],
-    type: card["Type"].toLowerCase().includes("monster")
-      ? "Monster"
-      : card["Type"],
-  }))
-  .sort((a, b) => {
-    if (a.location === "Sticker" && b.location !== "Sticker") {
-      return -1;
-    }
-    if (b.location === "Sticker" && a.location !== "Sticker") {
-      return 1;
-    }
-    if (
-      a.location === "Duel Devastator Yellow" &&
-      b.location !== "Duel Devastator Yellow"
-    ) {
-      return -1;
-    }
-    if (
-      b.location === "Duel Devastator Yellow" &&
-      a.location !== "Duel Devastator Yellow"
-    ) {
-      return 1;
-    }
-    if (a.location === "Battle City Box") {
-      return 1;
-    }
-    if (a.location !== "Battle City Box") {
-      return -1;
-    }
-    if (!a.set && b.set) {
-      return 1;
-    }
-    if (a.set && !b.set) {
-      return -1;
-    }
-    if (!a.set && !b.set) {
-      return 0;
-    }
-    if (a.set.toLowerCase().includes("structure deck")) {
-      return -1;
-    }
-    if (!a.set.toLowerCase().includes("structure deck")) {
-      return 1;
-    }
-    return 0;
-  });
+const allCollectionCards = collection.map((card) => ({
+  card: card["Name"],
+  code: card["Code"],
+  set: card["Set"],
+  deck: card["In DecK"],
+  sleeve: card["In Sleeve"],
+  outOfPlace: card["Out of place"],
+  attribute: card["Attribute"],
+  type: card["Type"].toLowerCase().includes("monster")
+    ? "Monster"
+    : card["Type"],
+}));
 
 console.log("All cards in collection: ", allCollectionCards.length);
 // Object.keys(_.groupBy(allCollectionCards, (c) => c.location)).map((l) => {
@@ -177,9 +132,6 @@ const cardsIAlreadyOwnToComplete2Sets = [];
 const cardsIAlreadyOwnToComplete3Sets = [];
 
 allCollectionCards.map((cc) => {
-  // if (cc.deck && cc.deck.toLowerCase().includes("structure deck")) {
-  //   return;
-  // }
   const cardIndex = uniqueCardsInSD.findIndex(
     (uc) => uc.card.toLowerCase() === cc.card.toLowerCase()
   );

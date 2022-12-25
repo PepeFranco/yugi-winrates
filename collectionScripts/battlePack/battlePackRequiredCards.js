@@ -42,14 +42,11 @@ console.log(
 );
 
 const cardsNotInStructureDecks = collection.filter(
-  (card) =>
-    !card["In Deck"].includes("Structure Deck") &&
-    card["In Box"] !== "Double box"
+  (card) => !card["In Deck"].includes("Structure Deck")
 );
 const allCardsNotInSd = cardsNotInStructureDecks.map((card) => ({
   card: card["Name"],
   code: card["Code"],
-  location: card["In Box"],
   sleeve: card["In Sleeve"],
   deck: card["In Deck"],
   outOfPlace: card["Out of place"],
@@ -108,13 +105,10 @@ console.log(
   cardsToBuildCube.length + cardsInCube.length
 );
 
-const cardsByLocation = _.countBy(cardsToBuildCube, (c) => c.location);
-console.log("Cards By Location", cardsByLocation);
-
 fs.writeFile(
   "./collectionScripts/battlePack/cardsIAlreadyOwnForBattlePacks.json",
   JSON.stringify(
-    _.sortBy(cardsToBuildCube, (c) => `${c.location}${c.type}`),
+    _.sortBy(cardsToBuildCube, (c) => `${c.type}`),
     null,
     3
   ),

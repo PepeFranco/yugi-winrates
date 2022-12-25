@@ -20,11 +20,9 @@ console.log(uniqueEdisonCards);
 
 const allCollectionCards = collection.map((card) => ({
   card: card["Name"],
-  location: card["In Box"],
   code: card["Code"],
   set: card["Set"],
   deck: card["In DecK"],
-  location: card["In Box"],
   sleeve: card["In Sleeve"],
   outOfPlace: card["Out of place"],
   attribute: card["Attribute"],

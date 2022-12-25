@@ -1,7 +1,6 @@
 const collection = require("../data/collection.json");
 const allCollectionCards = collection.map((card) => ({
   card: card["Name"],
-  location: card["In Box"],
   code: card["Code"],
 }));
 const _ = require("lodash");

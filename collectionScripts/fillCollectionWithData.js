@@ -85,7 +85,7 @@ const mainFunction = async () => {
       if (!cardIsComplete(card)) {
         const cardInfo = await getCardInfo(card["Name"]);
         console.log("========================");
-        console.log(card["Name"], card["Code"], card["In Box"]);
+        console.log(card["Name"], card["Code"]);
         if (cardInfo) {
           const set = getCardSetName(card);
           card["Set"] = set || "";

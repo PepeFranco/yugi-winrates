@@ -6,7 +6,6 @@ const cardsInSpeedDuel = collection
   .filter((c) => c["Is Speed Duel"] === "Yes")
   .map((c) => ({
     card: c["Name"],
-    location: c["In Box"],
     code: c["Code"],
   }));
 
@@ -15,7 +14,7 @@ const _ = require("lodash");
 const overlap = _.intersectionBy(
   cardsForSds,
   cardsInSpeedDuel,
-  ({ card, location, code }) => `${card}${location}${code}`
+  ({ card, code }) => `${card}${code}`
 );
 
 console.log(cardsForSds.length);
