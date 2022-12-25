@@ -1,7 +1,7 @@
 const _ = require("lodash");
 const cardSets = require("./data/sets.json");
 
-// Name^Id^Type^ATK^DEF^Level^Card Type^Attribute^Archetype^Scale^Link Scale^Description^Earliest Set^Earliest Date^Rarity^Edition^In Sleeve^In Deck^Out of place^Code^Set^Is Speed Duel^Image
+// Name^Id^Type^ATK^DEF^Level^Card Type^Attribute^Archetype^Scale^Link Scale^Description^Earliest Set^Earliest Date^Rarity^Edition^In Sleeve^In Deck^Code^Set^Is Speed Duel^Image
 const cardToRow = (cardInfo, card) => {
   console.log("==================");
   console.log(card["Name"]);
@@ -41,14 +41,7 @@ const cardToRow = (cardInfo, card) => {
   earliestInfoProperties.map((eip) => {
     newCard[eip] = earliestInfo[eip] || "";
   });
-  const cardProperties = [
-    "Rarity",
-    "Edition",
-    "In Sleeve",
-    "In Deck",
-    "Out of place",
-    "Code",
-  ];
+  const cardProperties = ["Rarity", "Edition", "In Sleeve", "In Deck", "Code"];
   cardProperties.map((cp) => {
     newCard[cp] = card[cp] || "";
   });

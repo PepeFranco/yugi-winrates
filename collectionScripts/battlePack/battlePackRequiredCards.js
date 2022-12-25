@@ -49,7 +49,6 @@ const allCardsNotInSd = cardsNotInStructureDecks.map((card) => ({
   code: card["Code"],
   sleeve: card["In Sleeve"],
   deck: card["In Deck"],
-  outOfPlace: card["Out of place"],
   type: card["Type"],
   attribute: card["Attribute"],
 }));
