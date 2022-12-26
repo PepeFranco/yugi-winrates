@@ -2,9 +2,6 @@ const _ = require("lodash");
 const axios = require("axios");
 const fs = require("fs");
 
-const cardSets = require("./data/sets.json");
-const cardSetsByDate = _.orderBy(cardSets, ["tcg_date"]);
-
 const getCardInfo = async (cardName) => {
   const name = `${cardName.trim()}`;
   // console.log("==================");
@@ -19,7 +16,17 @@ const getCardInfo = async (cardName) => {
   return (result && result.data.data[0]) || null;
 };
 
-const getEarliestInfo = (cardInfo) => {
+const getCardSets = async () => {
+  const result = await axios
+    .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
+    .catch((e) => {
+      // console.error(e);
+    });
+
+  return (result && result.data) || null;
+};
+
+const getEarliestInfo = (cardInfo, cardSetsByDate) => {
   if (!cardInfo) {
     return {};
   }
@@ -40,14 +47,18 @@ const getEarliestInfo = (cardInfo) => {
   };
 };
 
-const getCardSetName = (card) => {
-  if (card["Code"]) {
-    const cardSet = cardSets.find(
-      (cs) =>
-        cs["set_code"].toLowerCase().trim().split("-")[0] ===
-        card["Code"].toLowerCase().trim().split("-")[0]
-    );
+const getCardSetName = (card, cardInfo) => {
+  if (card["Code"] && cardInfo["card_sets"]) {
+    console.log("card code", card["Code"]);
+    const cardSet = cardInfo["card_sets"].find((cs) => {
+      console.log("set code", cs["set_code"]);
+      return (
+        cs["set_code"].toLowerCase().trim() ===
+        card["Code"].toLowerCase().trim()
+      );
+    });
     if (cardSet) {
+      console.log("Card set found", cardSet);
       return cardSet["set_name"];
     }
   }
@@ -65,30 +76,25 @@ const cardIsComplete = (card) => {
       card["ID"] &&
       card["Card Type"] &&
       card["Description"] &&
-      card["Earliest Set"] &&
-      card["Earliest Date"] &&
+      ((card["Earliest Set"] && card["Earliest Date"]) ||
+        card["Type"] === "Skill Card") &&
       card["Is Speed Duel"]
   );
 };
 
 const mainFunction = async () => {
   try {
+    const cardSets = await getCardSets();
+    const cardSetsByDate = _.orderBy(cardSets, ["tcg_date"]);
     for (let i = 0; i < collectionCopy.length; i++) {
       const card = collectionCopy[i];
-      if (!card["Image"] && card["ID"]) {
-        card[
-          "Image"
-        ] = `=IMAGE("https://storage.googleapis.com/ygoprodeck.com/pics/${
-          card.ID || ""
-        }.jpg")`;
-      }
       if (!cardIsComplete(card)) {
         const cardInfo = await getCardInfo(card["Name"]);
         console.log("========================");
         console.log(card["Name"], card["Code"]);
         if (cardInfo) {
-          const set = getCardSetName(card);
-          card["Set"] = set || "";
+          const set = getCardSetName(card, cardInfo);
+          card["Set"] = card["Set"] || set || "";
           card["ID"] = cardInfo.id || "";
           card["Type"] = cardInfo.type || "";
           card["ATK"] = cardInfo.atk || "";
@@ -100,18 +106,13 @@ const mainFunction = async () => {
           card["Scale"] = cardInfo.scale || "";
           card["Link Scale"] = cardInfo.linkval || "";
           card["Description"] = cardInfo.desc || "";
-          const earliestSet = getEarliestInfo(cardInfo);
+          const earliestSet = getEarliestInfo(cardInfo, cardSetsByDate);
           card["Earliest Set"] = earliestSet.earliestSet || "";
           card["Earliest Date"] = earliestSet.earliestDate || "";
           const isSpeedDuel = set.toLowerCase().includes("speed duel")
             ? "Yes"
             : "No";
           card["Is Speed Duel"] = isSpeedDuel;
-          card[
-            "Image"
-          ] = `=IMAGE("https://storage.googleapis.com/ygoprodeck.com/pics/${
-            cardInfo.id || ""
-          }.jpg")`;
         }
         sleep(100);
       }
