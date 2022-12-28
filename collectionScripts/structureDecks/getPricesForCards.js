@@ -15,10 +15,10 @@ const getCardPrice = async (cardName) => {
   if (data === null) {
     return null;
   }
-  return data.card_prices[0].ebay_price;
+  return Math.min(...data.card_sets.map(({ set_price }) => set_price));
 };
 
-const decks = require("./cardsNeededToComplete3Sets.json");
+const decks = require("./cardsFor2Sets.json");
 
 const mainFunction = async () => {
   const newDecks = [];
@@ -47,7 +47,7 @@ const mainFunction = async () => {
   });
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",
+    "./collectionScripts/structureDecks/cardsFor2Sets.json",
     JSON.stringify(sortedDecks, null, 3),
     function (err) {
       console.error(err);
