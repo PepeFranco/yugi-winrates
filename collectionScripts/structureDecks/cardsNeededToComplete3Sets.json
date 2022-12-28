@@ -42,6 +42,20 @@
       ]
    },
    {
+      "deck": "Structure Deck: Cyber Strike",
+      "cards": [
+         "Call of the Haunted",
+         "Call of the Haunted",
+         "Call of the Haunted",
+         "Cyber Dragon Core",
+         "Cyber Dragon Drei",
+         "Cyber Repair Plant",
+         "Machine Duplication",
+         "Machine Duplication",
+         "Machine Duplication"
+      ]
+   },
+   {
       "deck": "Structure Deck: Fury from the Deep",
       "cards": [
          "Creeping Doom Manta",
@@ -1967,7 +1981,6 @@
          "Albion the Shrouded Dragon",
          "Artifact Scythe",
          "Artifact Scythe",
-         "Back to the Front",
          "Black Dragon Collapserpent",
          "Branded Bond",
          "Branded Bond",
