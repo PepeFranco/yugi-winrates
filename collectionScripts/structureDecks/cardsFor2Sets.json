@@ -2,41 +2,48 @@
    {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
       "cards": [],
-      "cardsMissing": 0
+      "cardsMissing": 0,
+      "releaseDate": "2013-09-12"
    },
    {
       "deck": "HERO Strike Structure Deck",
       "cards": [],
-      "cardsMissing": 0
+      "cardsMissing": 0,
+      "releaseDate": "2015-01-29"
    },
    {
       "deck": "Structure Deck: Mechanized Madness",
       "cards": [],
-      "cardsMissing": 0
+      "cardsMissing": 0,
+      "releaseDate": "2020-04-16"
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
       "cards": [],
-      "cardsMissing": 0
+      "cardsMissing": 0,
+      "releaseDate": "2022-09-29"
    },
    {
       "deck": "Structure Deck: Dark World",
       "cards": [],
-      "cardsMissing": 0
+      "cardsMissing": 0,
+      "releaseDate": "2022-12-01"
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
       "cards": [
          "Little Chimera"
       ],
-      "cardsMissing": 1
+      "cardsMissing": 1,
+      "releaseDate": "2013-02-08"
    },
    {
       "deck": "Structure Deck: Cyber Strike",
       "cards": [
          "Machine Duplication"
       ],
-      "cardsMissing": 1
+      "cardsMissing": 1,
+      "releaseDate": "2021-10-14"
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -44,7 +51,8 @@
          "Creeping Doom Manta",
          "Spell Shield Type-8"
       ],
-      "cardsMissing": 2
+      "cardsMissing": 2,
+      "releaseDate": "2005-05-09"
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -52,7 +60,8 @@
          "Future Samurai",
          "The A. Forces"
       ],
-      "cardsMissing": 2
+      "cardsMissing": 2,
+      "releaseDate": "2012-06-21"
    },
    {
       "deck": "Realm of the Sea Emperor Structure Deck",
@@ -60,7 +69,8 @@
          "Surface",
          "Terraforming"
       ],
-      "cardsMissing": 2
+      "cardsMissing": 2,
+      "releaseDate": "2012-10-11"
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
@@ -69,7 +79,8 @@
          "Malevolent Catastrophe",
          "Nightmare's Steelcage"
       ],
-      "cardsMissing": 3
+      "cardsMissing": 3,
+      "releaseDate": "2010-10-15"
    },
    {
       "deck": "Cyber Dragon Revolution Structure Deck",
@@ -78,7 +89,8 @@
          "Malevolent Catastrophe",
          "Megamorph"
       ],
-      "cardsMissing": 3
+      "cardsMissing": 3,
+      "releaseDate": "2014-02-06"
    },
    {
       "deck": "Structure Deck: Dragon's Roar",
@@ -89,18 +101,8 @@
          "The Dragon's Bead",
          "The Graveyard in the Fourth Dimension"
       ],
-      "cardsMissing": 5
-   },
-   {
-      "deck": "Structure Deck: Dinosaur's Rage",
-      "cards": [
-         "Magical Arm Shield",
-         "Malfunction",
-         "Mesmeric Control",
-         "Seismic Shockwave",
-         "Tail Swipe"
-      ],
-      "cardsMissing": 5
+      "cardsMissing": 5,
+      "releaseDate": "2005-01-01"
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
@@ -112,7 +114,21 @@
          "Spell Shield Type-8",
          "Thestalos the Firestorm Monarch"
       ],
-      "cardsMissing": 6
+      "cardsMissing": 6,
+      "releaseDate": "2005-05-09"
+   },
+   {
+      "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [
+         "Black Ptera",
+         "Magical Arm Shield",
+         "Malfunction",
+         "Mesmeric Control",
+         "Seismic Shockwave",
+         "Tail Swipe"
+      ],
+      "cardsMissing": 6,
+      "releaseDate": "2006-10-20"
    },
    {
       "deck": "Machina Mayhem Structure Deck",
@@ -124,7 +140,8 @@
          "The Big Saturn",
          "Time Machine"
       ],
-      "cardsMissing": 6
+      "cardsMissing": 6,
+      "releaseDate": "2010-02-19"
    },
    {
       "deck": "Structure Deck: Zombie Madness",
@@ -137,7 +154,8 @@
          "Vampire Genesis",
          "Vampire Lady"
       ],
-      "cardsMissing": 7
+      "cardsMissing": 7,
+      "releaseDate": "2005-01-01"
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -150,7 +168,8 @@
          "Terraforming",
          "Tragoedia"
       ],
-      "cardsMissing": 7
+      "cardsMissing": 7,
+      "releaseDate": "2011-10-13"
    },
    {
       "deck": "Structure Deck: Zombie Horde",
@@ -163,7 +182,8 @@
          "Red-Eyes Zombie Dragon",
          "Zombie World"
       ],
-      "cardsMissing": 7
+      "cardsMissing": 7,
+      "releaseDate": "2018-11-01"
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -179,7 +199,8 @@
          "Majestic Mech - Goryu",
          "Sakuretsu Armor"
       ],
-      "cardsMissing": 10
+      "cardsMissing": 10,
+      "releaseDate": "2007-10-24"
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -196,7 +217,8 @@
          "Obnoxious Celtic Guard",
          "Swords of Concealing Light"
       ],
-      "cardsMissing": 11
+      "cardsMissing": 11,
+      "releaseDate": "2005-10-28"
    },
    {
       "deck": "Structure Deck: Invincible Fortress",
@@ -213,7 +235,8 @@
          "Robbin' Goblin",
          "Shifting Shadows"
       ],
-      "cardsMissing": 11
+      "cardsMissing": 11,
+      "releaseDate": "2006-05-15"
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -230,7 +253,8 @@
          "Roll Out!",
          "Vampire Lord"
       ],
-      "cardsMissing": 11
+      "cardsMissing": 11,
+      "releaseDate": "2016-10-20"
    },
    {
       "deck": "Structure Deck: Yugi Muto",
@@ -248,7 +272,8 @@
          "Obnoxious Celtic Guard",
          "Swords of Concealing Light"
       ],
-      "cardsMissing": 12
+      "cardsMissing": 12,
+      "releaseDate": "2016-10-20"
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -267,7 +292,8 @@
          "Royal Magical Library",
          "Spell Shield Type-8"
       ],
-      "cardsMissing": 13
+      "cardsMissing": 13,
+      "releaseDate": "2006-01-18"
    },
    {
       "deck": "Structure Deck: Machine Re-Volt",
@@ -286,7 +312,8 @@
          "Gear Golem the Moving Fortress",
          "Micro Ray"
       ],
-      "cardsMissing": 13
+      "cardsMissing": 13,
+      "releaseDate": "2007-01-17"
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -305,7 +332,8 @@
          "Royal Keeper",
          "Tutan Mask"
       ],
-      "cardsMissing": 13
+      "cardsMissing": 13,
+      "releaseDate": "2008-10-21"
    },
    {
       "deck": "The Dark Emperor Structure Deck",
@@ -325,7 +353,8 @@
          "Sakuretsu Armor",
          "Samsara Kaiser"
       ],
-      "cardsMissing": 14
+      "cardsMissing": 14,
+      "releaseDate": "2008-04-02"
    },
    {
       "deck": "Structure Deck: Lord of the Storm",
@@ -346,7 +375,8 @@
          "Slate Warrior",
          "Swift Birdman Joe"
       ],
-      "cardsMissing": 15
+      "cardsMissing": 15,
+      "releaseDate": "2006-07-12"
    },
    {
       "deck": "Geargia Rampage Structure Deck",
@@ -367,7 +397,8 @@
          "Smashing Ground",
          "Terraforming"
       ],
-      "cardsMissing": 15
+      "cardsMissing": 15,
+      "releaseDate": "2014-10-16"
    },
    {
       "deck": "Warriors' Strike Structure Deck",
@@ -389,7 +420,8 @@
          "Soul Resurrection",
          "Unleash Your Power!"
       ],
-      "cardsMissing": 16
+      "cardsMissing": 16,
+      "releaseDate": "2009-10-23"
    },
    {
       "deck": "Synchron Extreme Structure Deck",
@@ -412,7 +444,8 @@
          "Synchron Carrier",
          "White Dragon Wyverburster"
       ],
-      "cardsMissing": 17
+      "cardsMissing": 17,
+      "releaseDate": "2015-08-27"
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -436,7 +469,8 @@
          "Spell Power Grasp",
          "Tower of Babel"
       ],
-      "cardsMissing": 18
+      "cardsMissing": 18,
+      "releaseDate": "2009-03-31"
    },
    {
       "deck": "Dragons Collide Structure Deck",
@@ -460,12 +494,14 @@
          "Red-Eyes Darkness Metal Dragon",
          "Vice Dragon"
       ],
-      "cardsMissing": 18
+      "cardsMissing": 18,
+      "releaseDate": "2012-02-03"
    },
    {
       "deck": "Realm of Light Structure Deck",
       "cards": [
          "Aurkus, Lightsworn Druid",
+         "Beckoning Light",
          "Breakthrough Skill",
          "Ehren, Lightsworn Monk",
          "Garoth, Lightsworn Warrior",
@@ -484,7 +520,8 @@
          "Vylon Prism",
          "Wulf, Lightsworn Beast"
       ],
-      "cardsMissing": 18
+      "cardsMissing": 19,
+      "releaseDate": "2014-06-27"
    },
    {
       "deck": "Dinosmasher's Fury Structure Deck",
@@ -510,7 +547,8 @@
          "Ultimate Conductor Tyranno",
          "Unexpected Dai"
       ],
-      "cardsMissing": 20
+      "cardsMissing": 20,
+      "releaseDate": "2017-04-13"
    },
    {
       "deck": "Machine Reactor Structure Deck",
@@ -537,7 +575,8 @@
          "Spell Striker",
          "Terraforming"
       ],
-      "cardsMissing": 21
+      "cardsMissing": 21,
+      "releaseDate": "2017-04-13"
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
@@ -565,7 +604,8 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "cardsMissing": 22
+      "cardsMissing": 22,
+      "releaseDate": "2011-06-10"
    },
    {
       "deck": "Dragunity Legion Structure Deck",
@@ -594,7 +634,8 @@
          "Relieve Monster",
          "Spiritual Wind Art - Miyabi"
       ],
-      "cardsMissing": 23
+      "cardsMissing": 23,
+      "releaseDate": "2011-03-04"
    },
    {
       "deck": "Structure Deck: Powercode Link",
@@ -623,7 +664,8 @@
          "Trap Stun",
          "Traptrix Trap Hole Nightmare"
       ],
-      "cardsMissing": 23
+      "cardsMissing": 23,
+      "releaseDate": "2018-08-09"
    },
    {
       "deck": "Structure Deck: Spirit Charmers",
@@ -652,7 +694,8 @@
          "Witchcrafter Golem Aruru",
          "Wynn the Wind Charmer"
       ],
-      "cardsMissing": 23
+      "cardsMissing": 23,
+      "releaseDate": "2020-10-22"
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
@@ -682,7 +725,8 @@
          "Sinister Yorishiro",
          "Stygian Street Patrol"
       ],
-      "cardsMissing": 24
+      "cardsMissing": 24,
+      "releaseDate": "2018-04-19"
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -713,7 +757,8 @@
          "Tragoedia",
          "Tri-Gate Wizard"
       ],
-      "cardsMissing": 25
+      "cardsMissing": 25,
+      "releaseDate": "2017-11-02"
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
@@ -746,7 +791,8 @@
          "Terraforming",
          "White Dragon Wyverburster"
       ],
-      "cardsMissing": 27
+      "cardsMissing": 27,
+      "releaseDate": "2016-07-07"
    },
    {
       "deck": "Emperor of Darkness Structure Deck",
@@ -780,7 +826,8 @@
          "Thestalos the Firestorm Monarch",
          "Tragoedia"
       ],
-      "cardsMissing": 28
+      "cardsMissing": 28,
+      "releaseDate": "2016-01-28"
    },
    {
       "deck": "Master of Pendulum Structure Deck",
@@ -815,7 +862,8 @@
          "Wisdom-Eye Magician",
          "X-Saber Airbellum"
       ],
-      "cardsMissing": 29
+      "cardsMissing": 29,
+      "releaseDate": "2015-12-03"
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",
@@ -850,7 +898,8 @@
          "Spellbook of Secrets",
          "Terraforming"
       ],
-      "cardsMissing": 29
+      "cardsMissing": 29,
+      "releaseDate": "2019-04-19"
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -889,7 +938,8 @@
          "The Sanctum of Parshath",
          "Ultimate Providence"
       ],
-      "cardsMissing": 33
+      "cardsMissing": 33,
+      "releaseDate": "2018-01-18"
    },
    {
       "deck": "Structure Deck: Soulburner",
@@ -928,7 +978,8 @@
          "True King Agnimazud, the Vanisher",
          "Will of the Salamangreat"
       ],
-      "cardsMissing": 33
+      "cardsMissing": 33,
+      "releaseDate": "2019-02-14"
    },
    {
       "deck": "Structure Deck: Freezing Chains",
@@ -967,7 +1018,8 @@
          "Winds Over the Ice Barrier",
          "Zuijin of the Ice Barrier"
       ],
-      "cardsMissing": 33
+      "cardsMissing": 33,
+      "releaseDate": "2021-02-18"
    },
    {
       "deck": "Pendulum Domination Structure Deck",
@@ -1007,7 +1059,8 @@
          "Stygian Security",
          "Trance Archfiend"
       ],
-      "cardsMissing": 34
+      "cardsMissing": 34,
+      "releaseDate": "2017-01-19"
    },
    {
       "deck": "Structure Deck: Sacred Beasts",
@@ -1048,7 +1101,8 @@
          "The Fabled Cerburrel",
          "Tragoedia"
       ],
-      "cardsMissing": 35
+      "cardsMissing": 35,
+      "releaseDate": "2020-07-09"
    },
    {
       "deck": "Structure Deck: Albaz Strike",
@@ -1089,7 +1143,8 @@
          "Waking the Dragon",
          "Warning Point"
       ],
-      "cardsMissing": 35
+      "cardsMissing": 35,
+      "releaseDate": "2022-04-14"
    },
    {
       "deck": "Structure Deck: Rokket Revolt",
@@ -1132,7 +1187,8 @@
          "World Chalice Guardragon",
          "Zero-Day Blaster"
       ],
-      "cardsMissing": 37
+      "cardsMissing": 37,
+      "releaseDate": "2019-08-15"
    },
    {
       "deck": "Structure Deck: Shaddoll Showdown",
@@ -1177,6 +1233,7 @@
          "Subterror Succession",
          "Unending Nightmare"
       ],
-      "cardsMissing": 39
+      "cardsMissing": 39,
+      "releaseDate": "2020-02-13"
    }
 ]

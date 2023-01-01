@@ -208,6 +208,8 @@ const mainFunction = async () => {
   const setOfTwo = structureDeckSetOfTwoMissing.map((deckEntry) => ({
     ...deckEntry,
     cardsMissing: deckEntry.cards.length,
+    releaseDate: cardSets.find((cardSet) => cardSet.set_name === deckEntry.deck)
+      .tcg_date,
   }));
 
   fs.writeFile(
