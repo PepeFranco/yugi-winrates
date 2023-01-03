@@ -95,6 +95,7 @@ const mainFunction = async () => {
         if (cardInfo) {
           const set = getCardSetName(card, cardInfo);
           card["Set"] = card["Set"] || set || "";
+          card["Rarity"] = card["Rarity"] || "Common";
           card["ID"] = cardInfo.id || "";
           card["Type"] = cardInfo.type || "";
           card["ATK"] = cardInfo.atk || "";

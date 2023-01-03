@@ -46,14 +46,15 @@ const mainFunction = async () => {
     []
   );
 
-  console.log(cardsFor3.length);
   cardsFor2.map((card) => {
     const index = cardsFor3.findIndex(
       (card3) => card3.card === card.card && card3.deck === card.deck
     );
     cardsFor3.splice(index, 1);
   });
-  console.log(cardsFor3.length);
+  console.log(`${cardsFor2.length} cards needed to complete 2 sets`);
+  console.log(`${cardsFor3.length} cards needed to complete 3 sets`);
+
   const allCards = _.sortBy(
     [...cardsFor2, ...cardsFor3],
     ({ card, set }) => `${card}-${set}`
