@@ -53,8 +53,8 @@ const getCardSetName = (card, cardInfo) => {
     const cardSet = cardInfo["card_sets"].find((cs) => {
       console.log("set code", cs["set_code"]);
       return (
-        cs["set_code"].toLowerCase().trim() ===
-        card["Code"].toLowerCase().trim()
+        cs["set_code"].toLowerCase().trim().split("-")[0] ===
+        card["Code"].toLowerCase().trim().split("-")[0]
       );
     });
     if (cardSet) {
