@@ -158,6 +158,9 @@ const mainFunction = async () => {
     );
     structureDeckSetOfTwoMissing.find((sd) => sd.deck === structureDeck).cards =
       _.sortBy(cardsNeededToCompleteTwoSets);
+    structureDeckSetOfTwoMissing.find(
+      (sd) => sd.deck === structureDeck
+    ).limitedCards = limitedCardsInThisDeck;
 
     const cardsNeededToCompleteThreeSets = [
       ..._.difference(cardsNeededToCompleteTwoSets, semiLimitedCardsInThisDeck),

@@ -153,12 +153,11 @@
          "Gravekeeper's Visionary",
          "Lava Golem",
          "Legendary Fiend",
-         "Mystic Tomato",
          "Newdoria",
          "Nightmare's Steelcage",
          "Nightmare's Steelcage"
       ],
-      "cardsMissing": 13
+      "cardsMissing": 12
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -305,7 +304,6 @@
          "Divine Wrath",
          "Ebon Magician Curran",
          "Ebon Magician Curran",
-         "Magical Blast",
          "Mystic Box",
          "Mythical Beast Cerberus",
          "Mythical Beast Cerberus",
@@ -319,7 +317,7 @@
          "Spell Shield Type-8",
          "Spell Shield Type-8"
       ],
-      "cardsMissing": 22
+      "cardsMissing": 21
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -745,8 +743,6 @@
          "Jain, Lightsworn Paladin",
          "Jain, Lightsworn Paladin",
          "Lyla, Lightsworn Sorceress",
-         "Mystic Tomato",
-         "Mystic Tomato",
          "Prime Material Dragon",
          "Prime Material Dragon",
          "Red-Eyes B. Chick",
@@ -760,7 +756,7 @@
          "Vice Dragon",
          "Vice Dragon"
       ],
-      "cardsMissing": 36
+      "cardsMissing": 34
    },
    {
       "deck": "Structure Deck: Zombie Horde",
@@ -2229,6 +2225,7 @@
          "Link Turret",
          "Link Turret",
          "Magic Cylinder",
+         "Magic Cylinder",
          "Magnarokket Dragon",
          "Magnarokket Dragon",
          "Metalrokket Dragon",
@@ -2270,6 +2267,6 @@
          "Zero-Day Blaster",
          "Zero-Day Blaster"
       ],
-      "cardsMissing": 78
+      "cardsMissing": 79
    }
 ]

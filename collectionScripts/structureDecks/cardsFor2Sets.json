@@ -2,48 +2,73 @@
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
       "cards": [],
+      "limitedCards": [],
       "cardsMissing": 0,
       "releaseDate": "2013-02-08"
    },
    {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
       "cards": [],
+      "limitedCards": [
+         "Compulsory Evacuation Device",
+         "Honest",
+         "One for One"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2013-09-12"
    },
    {
       "deck": "Cyber Dragon Revolution Structure Deck",
       "cards": [],
+      "limitedCards": [
+         "Limiter Removal"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2014-02-06"
    },
    {
       "deck": "HERO Strike Structure Deck",
       "cards": [],
+      "limitedCards": [
+         "Bottomless Trap Hole",
+         "Compulsory Evacuation Device",
+         "Neo-Spacian Grand Mole"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2015-01-29"
    },
    {
       "deck": "Structure Deck: Mechanized Madness",
       "cards": [],
+      "limitedCards": [
+         "Genex Ally Birdman"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2020-04-16"
    },
    {
       "deck": "Structure Deck: Cyber Strike",
       "cards": [],
+      "limitedCards": [],
       "cardsMissing": 0,
       "releaseDate": "2021-10-14"
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
       "cards": [],
+      "limitedCards": [
+         "Metaverse"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2022-09-29"
    },
    {
       "deck": "Structure Deck: Dark World",
       "cards": [],
+      "limitedCards": [
+         "Card Destruction",
+         "Danger!? Tsuchinoko?"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2022-12-01"
    },
@@ -51,6 +76,16 @@
       "deck": "Structure Deck: Fury from the Deep",
       "cards": [
          "Creeping Doom Manta"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Tribe-Infecting Virus"
       ],
       "cardsMissing": 1,
       "releaseDate": "2005-05-09"
@@ -60,6 +95,11 @@
       "cards": [
          "Dark Room of Nightmare"
       ],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
       "cardsMissing": 1,
       "releaseDate": "2010-10-15"
    },
@@ -67,6 +107,9 @@
       "deck": "Realm of the Sea Emperor Structure Deck",
       "cards": [
          "Surface"
+      ],
+      "limitedCards": [
+         "Dark Hole"
       ],
       "cardsMissing": 1,
       "releaseDate": "2012-10-11"
@@ -77,6 +120,11 @@
          "Solidarity",
          "The Big Saturn"
       ],
+      "limitedCards": [
+         "Ceasefire",
+         "Cyber Dragon",
+         "Swords of Revealing Light"
+      ],
       "cardsMissing": 2,
       "releaseDate": "2010-02-19"
    },
@@ -85,6 +133,11 @@
       "cards": [
          "Future Samurai",
          "The A. Forces"
+      ],
+      "limitedCards": [
+         "Dark Hole",
+         "Gateway of the Six",
+         "Reinforcement of the Army"
       ],
       "cardsMissing": 2,
       "releaseDate": "2012-06-21"
@@ -97,6 +150,18 @@
          "The Dragon's Bead",
          "The Graveyard in the Fourth Dimension"
       ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Ceasefire",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Swords of Revealing Light",
+         "Twin-Headed Behemoth"
+      ],
       "cardsMissing": 4,
       "releaseDate": "2005-01-01"
    },
@@ -107,6 +172,15 @@
          "Master Kyonshee",
          "Spirit Reaper",
          "Vampire Genesis"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Vampire Lord"
       ],
       "cardsMissing": 4,
       "releaseDate": "2005-01-01"
@@ -119,6 +193,14 @@
          "Necklace of Command",
          "Reload"
       ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Snatch Steal"
+      ],
       "cardsMissing": 4,
       "releaseDate": "2005-05-09"
    },
@@ -129,6 +211,10 @@
          "Magical Arm Shield",
          "Malfunction",
          "Mesmeric Control"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
       ],
       "cardsMissing": 4,
       "releaseDate": "2006-10-20"
@@ -141,6 +227,12 @@
          "Eradicator Epidemic Virus",
          "Escape from the Dark Dimension",
          "Newdoria"
+      ],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Card Destruction",
+         "Sangan",
+         "The Transmigration Prophecy"
       ],
       "cardsMissing": 5,
       "releaseDate": "2011-10-13"
@@ -155,6 +247,14 @@
          "Lightning Vortex",
          "Majestic Mech - Goryu"
       ],
+      "limitedCards": [
+         "Brain Control",
+         "Call of the Haunted",
+         "Giant Trunade",
+         "Morphing Jar",
+         "Premature Burial",
+         "Twin-Headed Behemoth"
+      ],
       "cardsMissing": 6,
       "releaseDate": "2007-10-24"
    },
@@ -167,6 +267,10 @@
          "Paladin of the Cursed Dragon",
          "Red-Eyes Zombie Dragon",
          "Zombie World"
+      ],
+      "limitedCards": [
+         "Foolish Burial",
+         "Monster Gate"
       ],
       "cardsMissing": 6,
       "releaseDate": "2018-11-01"
@@ -183,6 +287,15 @@
          "Ninja Grandmaster Sasuke",
          "Obnoxious Celtic Guard"
       ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "D.D. Warrior Lady",
+         "Exiled Force",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Snatch Steal"
+      ],
       "cardsMissing": 8,
       "releaseDate": "2005-10-28"
    },
@@ -197,6 +310,20 @@
          "Pitch-Black Power Stone",
          "Rapid-Fire Magician",
          "Reload"
+      ],
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mage Power",
+         "Magic Cylinder",
+         "Magician of Faith",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Premature Burial",
+         "Swords of Revealing Light",
+         "Tsukuyomi"
       ],
       "cardsMissing": 8,
       "releaseDate": "2006-01-18"
@@ -214,6 +341,10 @@
          "Majesty with Eyes of Blue",
          "Roll Out!",
          "Vampire Lord"
+      ],
+      "limitedCards": [
+         "Limiter Removal",
+         "Ring of Destruction"
       ],
       "cardsMissing": 10,
       "releaseDate": "2016-10-20"
@@ -233,6 +364,12 @@
          "Robbin' Goblin",
          "Shifting Shadows"
       ],
+      "limitedCards": [
+         "Mystical Space Typhoon",
+         "Premature Burial",
+         "Reckless Greed",
+         "Swords of Revealing Light"
+      ],
       "cardsMissing": 11,
       "releaseDate": "2006-05-15"
    },
@@ -251,6 +388,7 @@
          "Mystic Box",
          "Obnoxious Celtic Guard"
       ],
+      "limitedCards": [],
       "cardsMissing": 11,
       "releaseDate": "2016-10-20"
    },
@@ -269,6 +407,13 @@
          "Cannon Soldier",
          "Gear Golem the Moving Fortress",
          "Micro Ray"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Limiter Removal",
+         "Mystical Space Typhoon",
+         "Pot of Avarice",
+         "Ultimate Offering"
       ],
       "cardsMissing": 12,
       "releaseDate": "2007-01-17"
@@ -289,6 +434,10 @@
          "Royal Keeper",
          "Tutan Mask"
       ],
+      "limitedCards": [
+         "Card Destruction",
+         "Spirit Reaper"
+      ],
       "cardsMissing": 12,
       "releaseDate": "2008-10-21"
    },
@@ -304,10 +453,17 @@
          "Gragonith, Lightsworn Dragon",
          "Inferno Fire Blast",
          "Jain, Lightsworn Paladin",
-         "Mystic Tomato",
+         "Magical Stone Excavation",
          "Prime Material Dragon",
          "Red-Eyes Darkness Metal Dragon",
          "Vice Dragon"
+      ],
+      "limitedCards": [
+         "Book of Moon",
+         "Charge of the Light Brigade",
+         "Dark Armed Dragon",
+         "Monster Gate",
+         "Reasoning"
       ],
       "cardsMissing": 13,
       "releaseDate": "2012-02-03"
@@ -329,6 +485,10 @@
          "Rare Metalmorph",
          "Smashing Ground"
       ],
+      "limitedCards": [
+         "Geargiagear",
+         "Limiter Removal"
+      ],
       "cardsMissing": 13,
       "releaseDate": "2014-10-16"
    },
@@ -348,6 +508,11 @@
          "Stardust Warrior",
          "Starlight Junktion",
          "Synchron Carrier"
+      ],
+      "limitedCards": [
+         "Genex Ally Birdman",
+         "One for One",
+         "Solemn Warning"
       ],
       "cardsMissing": 13,
       "releaseDate": "2015-08-27"
@@ -370,6 +535,14 @@
          "Slate Warrior",
          "Swift Birdman Joe"
       ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Card Destruction",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Reckless Greed"
+      ],
       "cardsMissing": 14,
       "releaseDate": "2006-07-12"
    },
@@ -390,6 +563,13 @@
          "Return from the Different Dimension",
          "Sakuretsu Armor",
          "Samsara Kaiser"
+      ],
+      "limitedCards": [
+         "Brain Control",
+         "D.D. Warrior Lady",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Torrential Tribute"
       ],
       "cardsMissing": 14,
       "releaseDate": "2008-04-02"
@@ -412,6 +592,12 @@
          "Soul Resurrection",
          "Unleash Your Power!"
       ],
+      "limitedCards": [
+         "Card Trooper",
+         "Mind Control",
+         "Mystical Space Typhoon",
+         "Reinforcement of the Army"
+      ],
       "cardsMissing": 14,
       "releaseDate": "2009-10-23"
    },
@@ -424,7 +610,6 @@
          "Disenchanter",
          "Endymion, The Master Magician",
          "Field Barrier",
-         "Magical Blast",
          "Magical Citadel of Endymion",
          "Magical Marionette",
          "Magical Plant Mandragola",
@@ -435,7 +620,14 @@
          "Royal Magical Library",
          "Tower of Babel"
       ],
-      "cardsMissing": 16,
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Fissure",
+         "Giant Trunade",
+         "Magic Cylinder",
+         "Swords of Revealing Light"
+      ],
+      "cardsMissing": 15,
       "releaseDate": "2009-03-31"
    },
    {
@@ -457,6 +649,9 @@
          "Mischief of the Gnomes",
          "Pseudo Space",
          "Spell Striker"
+      ],
+      "limitedCards": [
+         "Limiter Removal"
       ],
       "cardsMissing": 16,
       "releaseDate": "2017-04-13"
@@ -481,6 +676,14 @@
          "The Fountain in the Sky",
          "Victoria",
          "Zeradias, Herald of Heaven"
+      ],
+      "limitedCards": [
+         "Burial from a Different Dimension",
+         "Honest",
+         "Marshmallon",
+         "Return from the Different Dimension",
+         "Solemn Judgment",
+         "Torrential Tribute"
       ],
       "cardsMissing": 17,
       "releaseDate": "2011-06-10"
@@ -507,6 +710,11 @@
          "Relieve Monster",
          "Spiritual Wind Art - Miyabi"
       ],
+      "limitedCards": [
+         "Card Destruction",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
       "cardsMissing": 18,
       "releaseDate": "2011-03-04"
    },
@@ -532,6 +740,11 @@
          "Vylon Prism",
          "Wulf, Lightsworn Beast"
       ],
+      "limitedCards": [
+         "Charge of the Light Brigade",
+         "Foolish Burial",
+         "Honest"
+      ],
       "cardsMissing": 18,
       "releaseDate": "2014-06-27"
    },
@@ -556,6 +769,10 @@
          "Trifortressops",
          "Ultimate Conductor Tyranno",
          "Unexpected Dai"
+      ],
+      "limitedCards": [
+         "Burial from a Different Dimension",
+         "Rescue Rabbit"
       ],
       "cardsMissing": 18,
       "releaseDate": "2017-04-13"
@@ -584,6 +801,11 @@
          "Traffic Ghost",
          "Traptrix Trap Hole Nightmare"
       ],
+      "limitedCards": [
+         "Genex Ally Birdman",
+         "One for One",
+         "Reasoning"
+      ],
       "cardsMissing": 20,
       "releaseDate": "2018-08-09"
    },
@@ -611,6 +833,11 @@
          "Unpossessed",
          "Witchcrafter Golem Aruru",
          "Wynn the Wind Charmer"
+      ],
+      "limitedCards": [
+         "Metaverse",
+         "Raigeki",
+         "Terraforming"
       ],
       "cardsMissing": 21,
       "releaseDate": "2020-10-22"
@@ -641,6 +868,12 @@
          "Storming Mirror Force",
          "Tri-Gate Wizard"
       ],
+      "limitedCards": [
+         "Glow-Up Bulb",
+         "Mathematician",
+         "Mind Control",
+         "Soul Charge"
+      ],
       "cardsMissing": 22,
       "releaseDate": "2017-11-02"
    },
@@ -669,6 +902,10 @@
          "Rise to Full Height",
          "Sinister Yorishiro",
          "Stygian Street Patrol"
+      ],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Tour Guide From the Underworld"
       ],
       "cardsMissing": 22,
       "releaseDate": "2018-04-19"
@@ -701,6 +938,10 @@
          "Wisdom-Eye Magician",
          "X-Saber Airbellum"
       ],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Torrential Tribute"
+      ],
       "cardsMissing": 24,
       "releaseDate": "2015-12-03"
    },
@@ -731,6 +972,11 @@
          "The Monarchs Erupt",
          "The Prime Monarch",
          "Thestalos the Firestorm Monarch"
+      ],
+      "limitedCards": [
+         "Dandylion",
+         "Mathematician",
+         "Soul Charge"
       ],
       "cardsMissing": 24,
       "releaseDate": "2016-01-28"
@@ -763,6 +1009,11 @@
          "Return of the Dragon Lords",
          "Ruins of the Divine Dragon Lords"
       ],
+      "limitedCards": [
+         "Foolish Burial",
+         "Red-Eyes Darkness Metal Dragon",
+         "Reinforcement of the Army"
+      ],
       "cardsMissing": 24,
       "releaseDate": "2016-07-07"
    },
@@ -794,6 +1045,7 @@
          "Servant of Endymion",
          "Spell Power Mastery"
       ],
+      "limitedCards": [],
       "cardsMissing": 24,
       "releaseDate": "2019-04-19"
    },
@@ -829,6 +1081,9 @@
          "The Sanctuary in the Sky",
          "The Sanctum of Parshath",
          "Ultimate Providence"
+      ],
+      "limitedCards": [
+         "Solemn Warning"
       ],
       "cardsMissing": 29,
       "releaseDate": "2018-01-18"
@@ -866,6 +1121,7 @@
          "True King Agnimazud, the Vanisher",
          "Will of the Salamangreat"
       ],
+      "limitedCards": [],
       "cardsMissing": 29,
       "releaseDate": "2019-02-14"
    },
@@ -901,6 +1157,11 @@
          "Sinister Shadow Games",
          "Subterror Succession",
          "Unending Nightmare"
+      ],
+      "limitedCards": [
+         "Armageddon Knight",
+         "Foolish Burial",
+         "Pot of Avarice"
       ],
       "cardsMissing": 29,
       "releaseDate": "2020-02-13"
@@ -940,6 +1201,11 @@
          "Stygian Security",
          "Trance Archfiend"
       ],
+      "limitedCards": [
+         "Dark Armed Dragon",
+         "Foolish Burial",
+         "One for One"
+      ],
       "cardsMissing": 31,
       "releaseDate": "2017-01-19"
    },
@@ -977,6 +1243,10 @@
          "Warlock of the Ice Barrier",
          "Winds Over the Ice Barrier",
          "Zuijin of the Ice Barrier"
+      ],
+      "limitedCards": [
+         "Dewloren, Tiger King of the Ice Barrier",
+         "Trishula, Dragon of the Ice Barrier"
       ],
       "cardsMissing": 31,
       "releaseDate": "2021-02-18"
@@ -1018,6 +1288,12 @@
          "The Beginning of the End",
          "The Fabled Cerburrel"
       ],
+      "limitedCards": [
+         "One for One",
+         "Phantom Skyblaster",
+         "Set Rotation",
+         "Terraforming"
+      ],
       "cardsMissing": 33,
       "releaseDate": "2020-07-09"
    },
@@ -1058,6 +1334,12 @@
          "Tri-Brigade Mercourier",
          "Waking the Dragon",
          "Warning Point"
+      ],
+      "limitedCards": [
+         "Black Dragon Collapserpent",
+         "Called by the Grave",
+         "Gold Sarcophagus",
+         "White Dragon Wyverburster"
       ],
       "cardsMissing": 34,
       "releaseDate": "2022-04-14"
@@ -1101,6 +1383,9 @@
          "Triple Burst Dragon",
          "World Chalice Guardragon",
          "Zero-Day Blaster"
+      ],
+      "limitedCards": [
+         "Imperial Order"
       ],
       "cardsMissing": 36,
       "releaseDate": "2019-08-15"
