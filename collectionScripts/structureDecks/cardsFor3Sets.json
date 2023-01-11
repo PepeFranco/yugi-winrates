@@ -2,6 +2,16 @@
    {
       "deck": "HERO Strike Structure Deck",
       "cards": [],
+      "limitedCards": [
+         "Bottomless Trap Hole",
+         "Compulsory Evacuation Device",
+         "Neo-Spacian Grand Mole"
+      ],
+      "semiLimitedCards": [
+         "Card Trooper",
+         "Honest",
+         "Summoner Monk"
+      ],
       "cardsMissing": 0
    },
    {
@@ -9,6 +19,9 @@
       "cards": [
          "Foolish Burial Goods",
          "Foolish Burial Goods"
+      ],
+      "limitedCards": [
+         "Metaverse"
       ],
       "cardsMissing": 2
    },
@@ -21,6 +34,20 @@
          "Spell Shield Type-8",
          "Star Boy",
          "Xing Zhen Hu"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Tribe-Infecting Virus"
+      ],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Gravity Bind"
       ],
       "cardsMissing": 6
    },
@@ -35,6 +62,12 @@
          "Surface",
          "Surface"
       ],
+      "limitedCards": [
+         "Dark Hole"
+      ],
+      "semiLimitedCards": [
+         "Torrential Tribute"
+      ],
       "cardsMissing": 7
    },
    {
@@ -47,6 +80,9 @@
          "Little Chimera",
          "Little Chimera",
          "Molten Zombie"
+      ],
+      "semiLimitedCards": [
+         "Pot of Duality"
       ],
       "cardsMissing": 7
    },
@@ -64,6 +100,28 @@
       "cardsMissing": 7
    },
    {
+      "deck": "Samurai Warlords Structure Deck",
+      "cards": [
+         "Future Samurai",
+         "Future Samurai",
+         "Shadow of the Six Samurai - Shien",
+         "Shien's Advisor",
+         "Shien's Dojo",
+         "Six Strike - Thunder Blast",
+         "The A. Forces",
+         "The Immortal Bushi"
+      ],
+      "limitedCards": [
+         "Dark Hole",
+         "Gateway of the Six",
+         "Reinforcement of the Army"
+      ],
+      "semiLimitedCards": [
+         "Shien's Smoke Signal"
+      ],
+      "cardsMissing": 8
+   },
+   {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
       "cards": [
          "A Wingbeat of Giant Dragon",
@@ -75,22 +133,12 @@
          "The White Stone of Legend",
          "The White Stone of Legend"
       ],
-      "cardsMissing": 8
-   },
-   {
-      "deck": "Structure Deck: Dragon's Roar",
-      "cards": [
-         "Curse of Anubis",
-         "Curse of Anubis",
-         "Element Dragon",
-         "Red-Eyes Darkness Dragon",
-         "Red-Eyes Darkness Dragon",
-         "The Dragon's Bead",
-         "The Dragon's Bead",
-         "The Graveyard in the Fourth Dimension",
-         "The Graveyard in the Fourth Dimension"
+      "limitedCards": [
+         "Compulsory Evacuation Device",
+         "Honest",
+         "One for One"
       ],
-      "cardsMissing": 9
+      "cardsMissing": 8
    },
    {
       "deck": "Structure Deck: Zombie Madness",
@@ -101,26 +149,54 @@
          "Master Kyonshee",
          "Soul-Absorbing Bone Tower",
          "Spirit Reaper",
-         "Spirit Reaper",
          "Vampire Genesis",
          "Vampire Genesis",
          "Vampire Lady"
       ],
-      "cardsMissing": 10
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Vampire Lord"
+      ],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Nobleman of Crossout"
+      ],
+      "cardsMissing": 9
    },
    {
-      "deck": "Samurai Warlords Structure Deck",
+      "deck": "Structure Deck: Dragon's Roar",
       "cards": [
-         "Future Samurai",
-         "Future Samurai",
-         "Shadow of the Six Samurai - Shien",
-         "Shien's Advisor",
-         "Shien's Dojo",
-         "Six Strike - Thunder Blast",
-         "Spirit of the Six Samurai",
-         "The A. Forces",
-         "The A. Forces",
-         "The Immortal Bushi"
+         "Curse of Anubis",
+         "Curse of Anubis",
+         "Element Dragon",
+         "Red-Eyes B. Dragon",
+         "Red-Eyes Darkness Dragon",
+         "Red-Eyes Darkness Dragon",
+         "The Dragon's Bead",
+         "The Dragon's Bead",
+         "The Graveyard in the Fourth Dimension",
+         "The Graveyard in the Fourth Dimension"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Ceasefire",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Swords of Revealing Light",
+         "Twin-Headed Behemoth"
+      ],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Nobleman of Crossout"
       ],
       "cardsMissing": 10
    },
@@ -138,6 +214,18 @@
          "Reload",
          "Reload",
          "Thestalos the Firestorm Monarch"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Snatch Steal"
+      ],
+      "semiLimitedCards": [
+         "Level Limit - Area B",
+         "Nobleman of Crossout"
       ],
       "cardsMissing": 11
    },
@@ -157,6 +245,15 @@
          "Nightmare's Steelcage",
          "Nightmare's Steelcage"
       ],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
+      "semiLimitedCards": [
+         "Magical Stone Excavation",
+         "Mystical Space Typhoon"
+      ],
       "cardsMissing": 12
    },
    {
@@ -175,6 +272,16 @@
          "Goblin King",
          "Newdoria",
          "Newdoria"
+      ],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Card Destruction",
+         "Sangan",
+         "The Transmigration Prophecy"
+      ],
+      "semiLimitedCards": [
+         "Mind Crush",
+         "Tragoedia"
       ],
       "cardsMissing": 13
    },
@@ -196,6 +303,14 @@
          "Time Machine",
          "Yellow Gadget",
          "Yellow Gadget"
+      ],
+      "limitedCards": [
+         "Ceasefire",
+         "Cyber Dragon",
+         "Swords of Revealing Light"
+      ],
+      "semiLimitedCards": [
+         "Green Gadget"
       ],
       "cardsMissing": 15
    },
@@ -219,6 +334,10 @@
          "Super Conductor Tyranno",
          "Tail Swipe"
       ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
+      ],
       "cardsMissing": 16
    },
    {
@@ -241,6 +360,12 @@
          "Waboku",
          "Waboku"
       ],
+      "limitedCards": [
+         "Limiter Removal"
+      ],
+      "semiLimitedCards": [
+         "Dimensional Prison"
+      ],
       "cardsMissing": 16
    },
    {
@@ -262,6 +387,9 @@
          "Scrap Recycler",
          "Ties of the Brethren",
          "Ties of the Brethren"
+      ],
+      "limitedCards": [
+         "Genex Ally Birdman"
       ],
       "cardsMissing": 16
    },
@@ -290,6 +418,18 @@
          "Obnoxious Celtic Guard",
          "Release Restraint"
       ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "D.D. Warrior Lady",
+         "Exiled Force",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Snatch Steal"
+      ],
+      "semiLimitedCards": [
+         "Reinforcement of the Army"
+      ],
       "cardsMissing": 21
    },
    {
@@ -316,6 +456,20 @@
          "Royal Magical Library",
          "Spell Shield Type-8",
          "Spell Shield Type-8"
+      ],
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mage Power",
+         "Magic Cylinder",
+         "Magician of Faith",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Premature Burial",
+         "Swords of Revealing Light",
+         "Tsukuyomi"
       ],
       "cardsMissing": 21
    },
@@ -344,6 +498,14 @@
          "Sakuretsu Armor",
          "Sakuretsu Armor",
          "Spear Cretin"
+      ],
+      "limitedCards": [
+         "Brain Control",
+         "Call of the Haunted",
+         "Giant Trunade",
+         "Morphing Jar",
+         "Premature Burial",
+         "Twin-Headed Behemoth"
       ],
       "cardsMissing": 22
    },
@@ -375,6 +537,13 @@
          "Gear Golem the Moving Fortress",
          "Micro Ray",
          "Micro Ray"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Limiter Removal",
+         "Mystical Space Typhoon",
+         "Pot of Avarice",
+         "Ultimate Offering"
       ],
       "cardsMissing": 25
    },
@@ -410,44 +579,13 @@
          "Shifting Shadows",
          "Ultimate Offering"
       ],
-      "cardsMissing": 28
-   },
-   {
-      "deck": "Zombie World Structure Deck",
-      "cards": [
-         "Call of the Mummy",
-         "Cold Wave",
-         "Cold Wave",
-         "Dust Tornado",
-         "Dust Tornado",
-         "Field Barrier",
-         "Field Barrier",
-         "Gernia",
-         "Gernia",
-         "Getsu Fuhma",
-         "Getsu Fuhma",
-         "Imperial Iron Wall",
-         "Magical Arm Shield",
-         "Magical Arm Shield",
-         "Malevolent Mech - Goku En",
-         "Marionette Mite",
-         "Master Kyonshee",
-         "Master Kyonshee",
-         "Paladin of the Cursed Dragon",
-         "Patrician of Darkness",
-         "Patrician of Darkness",
-         "Plague Wolf",
-         "Plague Wolf",
-         "Red-Eyes Zombie Dragon",
-         "Ribbon of Rebirth",
-         "Ribbon of Rebirth",
-         "Royal Keeper",
-         "Royal Keeper",
-         "Tutan Mask",
-         "Tutan Mask",
-         "Zombie World"
+      "limitedCards": [
+         "Mystical Space Typhoon",
+         "Premature Burial",
+         "Reckless Greed",
+         "Swords of Revealing Light"
       ],
-      "cardsMissing": 31
+      "cardsMissing": 28
    },
    {
       "deck": "Synchron Extreme Structure Deck",
@@ -481,10 +619,14 @@
          "Starlight Junktion",
          "Starlight Junktion",
          "Synchron Carrier",
-         "Synchron Carrier",
-         "The Warrior Returning Alive"
+         "Synchron Carrier"
       ],
-      "cardsMissing": 31
+      "limitedCards": [
+         "Genex Ally Birdman",
+         "One for One",
+         "Solemn Warning"
+      ],
+      "cardsMissing": 30
    },
    {
       "deck": "Structure Deck: Yugi Muto",
@@ -559,6 +701,62 @@
          "Samsara Kaiser",
          "Soul Release"
       ],
+      "limitedCards": [
+         "Brain Control",
+         "D.D. Warrior Lady",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Torrential Tribute"
+      ],
+      "semiLimitedCards": [
+         "Reinforcement of the Army"
+      ],
+      "cardsMissing": 32
+   },
+   {
+      "deck": "Zombie World Structure Deck",
+      "cards": [
+         "Call of the Mummy",
+         "Cold Wave",
+         "Cold Wave",
+         "Dust Tornado",
+         "Dust Tornado",
+         "Field Barrier",
+         "Field Barrier",
+         "Gernia",
+         "Gernia",
+         "Getsu Fuhma",
+         "Getsu Fuhma",
+         "Imperial Iron Wall",
+         "Magical Arm Shield",
+         "Magical Arm Shield",
+         "Malevolent Mech - Goku En",
+         "Marionette Mite",
+         "Master Kyonshee",
+         "Master Kyonshee",
+         "Paladin of the Cursed Dragon",
+         "Patrician of Darkness",
+         "Patrician of Darkness",
+         "Plague Wolf",
+         "Plague Wolf",
+         "Red-Eyes Zombie Dragon",
+         "Ribbon of Rebirth",
+         "Ribbon of Rebirth",
+         "Royal Keeper",
+         "Royal Keeper",
+         "Tutan Mask",
+         "Tutan Mask",
+         "Waboku",
+         "Zombie World"
+      ],
+      "limitedCards": [
+         "Card Destruction",
+         "Spirit Reaper"
+      ],
+      "semiLimitedCards": [
+         "Card of Safe Return",
+         "Magical Stone Excavation"
+      ],
       "cardsMissing": 32
    },
    {
@@ -596,6 +794,12 @@
          "Spell Striker",
          "Unleash Your Power!",
          "Unleash Your Power!"
+      ],
+      "limitedCards": [
+         "Card Trooper",
+         "Mind Control",
+         "Mystical Space Typhoon",
+         "Reinforcement of the Army"
       ],
       "cardsMissing": 32
    },
@@ -635,6 +839,13 @@
          "Smashing Ground",
          "Stronghold the Moving Fortress",
          "Stronghold the Moving Fortress"
+      ],
+      "limitedCards": [
+         "Geargiagear",
+         "Limiter Removal"
+      ],
+      "semiLimitedCards": [
+         "Card Trooper"
       ],
       "cardsMissing": 33
    },
@@ -676,6 +887,17 @@
          "Swift Birdman Joe",
          "Swift Birdman Joe"
       ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Card Destruction",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Reckless Greed"
+      ],
+      "semiLimitedCards": [
+         "Nobleman of Crossout"
+      ],
       "cardsMissing": 34
    },
    {
@@ -716,6 +938,16 @@
          "Tower of Babel",
          "Tower of Babel"
       ],
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Fissure",
+         "Giant Trunade",
+         "Magic Cylinder",
+         "Swords of Revealing Light"
+      ],
+      "semiLimitedCards": [
+         "Summoner Monk"
+      ],
       "cardsMissing": 34
    },
    {
@@ -753,10 +985,23 @@
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
          "Snipe Hunter",
+         "Snipe Hunter",
          "Vice Dragon",
          "Vice Dragon"
       ],
-      "cardsMissing": 34
+      "limitedCards": [
+         "Book of Moon",
+         "Charge of the Light Brigade",
+         "Dark Armed Dragon",
+         "Monster Gate",
+         "Reasoning"
+      ],
+      "semiLimitedCards": [
+         "Call of the Haunted",
+         "Magical Stone Excavation",
+         "Summoner Monk"
+      ],
+      "cardsMissing": 35
    },
    {
       "deck": "Structure Deck: Zombie Horde",
@@ -799,6 +1044,10 @@
          "Zombie Power Struggle",
          "Zombie World",
          "Zombie World"
+      ],
+      "limitedCards": [
+         "Foolish Burial",
+         "Monster Gate"
       ],
       "cardsMissing": 38
    },
@@ -845,6 +1094,14 @@
          "Zeradias, Herald of Heaven",
          "Zeradias, Herald of Heaven"
       ],
+      "limitedCards": [
+         "Burial from a Different Dimension",
+         "Honest",
+         "Marshmallon",
+         "Return from the Different Dimension",
+         "Solemn Judgment",
+         "Torrential Tribute"
+      ],
       "cardsMissing": 39
    },
    {
@@ -889,6 +1146,10 @@
          "Silent Doom",
          "Vampire Lord",
          "Vampire Lord"
+      ],
+      "limitedCards": [
+         "Limiter Removal",
+         "Ring of Destruction"
       ],
       "cardsMissing": 39
    },
@@ -937,6 +1198,15 @@
          "Relieve Monster",
          "Spiritual Wind Art - Miyabi",
          "Spiritual Wind Art - Miyabi"
+      ],
+      "limitedCards": [
+         "Card Destruction",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
+      "semiLimitedCards": [
+         "Bottomless Trap Hole",
+         "Icarus Attack"
       ],
       "cardsMissing": 42
    },
@@ -987,6 +1257,11 @@
          "Wulf, Lightsworn Beast",
          "Wulf, Lightsworn Beast"
       ],
+      "limitedCards": [
+         "Charge of the Light Brigade",
+         "Foolish Burial",
+         "Honest"
+      ],
       "cardsMissing": 43
    },
    {
@@ -1036,6 +1311,10 @@
          "The Gates of Dark World",
          "Zure, Knight of Dark World",
          "Zure, Knight of Dark World"
+      ],
+      "limitedCards": [
+         "Card Destruction",
+         "Danger!? Tsuchinoko?"
       ],
       "cardsMissing": 44
    },
@@ -1094,6 +1373,13 @@
          "Unexpected Dai",
          "Unexpected Dai"
       ],
+      "limitedCards": [
+         "Burial from a Different Dimension",
+         "Rescue Rabbit"
+      ],
+      "semiLimitedCards": [
+         "Ojama Trio"
+      ],
       "cardsMissing": 51
    },
    {
@@ -1150,6 +1436,15 @@
          "Storming Mirror Force",
          "Tri-Gate Wizard",
          "Tri-Gate Wizard"
+      ],
+      "limitedCards": [
+         "Glow-Up Bulb",
+         "Mathematician",
+         "Mind Control",
+         "Soul Charge"
+      ],
+      "semiLimitedCards": [
+         "Card Trooper"
       ],
       "cardsMissing": 51
    },
@@ -1208,6 +1503,11 @@
          "Wynn the Wind Charmer",
          "Wynn the Wind Charmer"
       ],
+      "limitedCards": [
+         "Metaverse",
+         "Raigeki",
+         "Terraforming"
+      ],
       "cardsMissing": 51
    },
    {
@@ -1265,6 +1565,10 @@
          "Stygian Street Patrol",
          "Stygian Street Patrol",
          "Trap of Darkness"
+      ],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Tour Guide From the Underworld"
       ],
       "cardsMissing": 52
    },
@@ -1326,6 +1630,11 @@
          "Traptrix Trap Hole Nightmare",
          "Traptrix Trap Hole Nightmare"
       ],
+      "limitedCards": [
+         "Genex Ally Birdman",
+         "One for One",
+         "Reasoning"
+      ],
       "cardsMissing": 54
    },
    {
@@ -1386,6 +1695,12 @@
          "Spell Striker",
          "Terraforming",
          "Terraforming"
+      ],
+      "limitedCards": [
+         "Limiter Removal"
+      ],
+      "semiLimitedCards": [
+         "Card Trooper"
       ],
       "cardsMissing": 55
    },
@@ -1451,6 +1766,10 @@
          "X-Saber Airbellum",
          "X-Saber Airbellum"
       ],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Torrential Tribute"
+      ],
       "cardsMissing": 58
    },
    {
@@ -1513,9 +1832,93 @@
          "The Prime Monarch",
          "Thestalos the Firestorm Monarch",
          "Thestalos the Firestorm Monarch",
+         "Token",
          "Zaborg the Thunder Monarch"
       ],
-      "cardsMissing": 58
+      "limitedCards": [
+         "Dandylion",
+         "Mathematician",
+         "Soul Charge"
+      ],
+      "semiLimitedCards": [
+         "Tragoedia"
+      ],
+      "cardsMissing": 59
+   },
+   {
+      "deck": "Rise of the True Dragons Structure Deck",
+      "cards": [
+         "A Wingbeat of Giant Dragon",
+         "A Wingbeat of Giant Dragon",
+         "Arkbrave Dragon",
+         "Arkbrave Dragon",
+         "Armed Protector Dragon",
+         "Black Dragon Collapserpent",
+         "Breakthrough Skill",
+         "Breakthrough Skill",
+         "Burst Breath",
+         "Burst Breath",
+         "Darkblaze Dragon",
+         "Darkblaze Dragon",
+         "Darkstorm Dragon",
+         "Darkstorm Dragon",
+         "Decoy Dragon",
+         "Decoy Dragon",
+         "Divine Dragon Lord Felgrand",
+         "Divine Dragon Lord Felgrand",
+         "Dragon Knight of Creation",
+         "Dragon Knight of Creation",
+         "Dragon's Rebirth",
+         "Dragon's Rebirth",
+         "Eclipse Wyvern",
+         "Eclipse Wyvern",
+         "Ehren, Lightsworn Monk",
+         "Ehren, Lightsworn Monk",
+         "Evilswarm Zahak",
+         "Evilswarm Zahak",
+         "Felgrand Dragon",
+         "Felgrand Dragon",
+         "Guardian of Felgrand",
+         "Guardian of Felgrand",
+         "Hand Destruction",
+         "Hand Destruction",
+         "Herald of Creation",
+         "Herald of Creation",
+         "Jain, Lightsworn Paladin",
+         "Jain, Lightsworn Paladin",
+         "Keeper of the Shrine",
+         "Keeper of the Shrine",
+         "Kidmodo Dragon",
+         "Kidmodo Dragon",
+         "Oasis of Dragon Souls",
+         "Oasis of Dragon Souls",
+         "Paladin of Felgrand",
+         "Paladin of Felgrand",
+         "Raiden, Hand of the Lightsworn",
+         "Raiden, Hand of the Lightsworn",
+         "Red-Eyes Wyvern",
+         "Red-Eyes Wyvern",
+         "Return of the Dragon Lords",
+         "Return of the Dragon Lords",
+         "Ruins of the Divine Dragon Lords",
+         "Ruins of the Divine Dragon Lords",
+         "Terraforming",
+         "Terraforming",
+         "Trade-In",
+         "Trade-In",
+         "White Dragon Wyverburster"
+      ],
+      "limitedCards": [
+         "Foolish Burial",
+         "Red-Eyes Darkness Metal Dragon",
+         "Reinforcement of the Army"
+      ],
+      "semiLimitedCards": [
+         "Card Trooper",
+         "Charge of the Light Brigade",
+         "Dragon Ravine"
+      ],
+      "cardsMissing": 59
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",
@@ -1580,74 +1983,10 @@
          "Spellbook of Secrets",
          "Spellbook of Wisdom"
       ],
-      "cardsMissing": 59
-   },
-   {
-      "deck": "Rise of the True Dragons Structure Deck",
-      "cards": [
-         "A Wingbeat of Giant Dragon",
-         "A Wingbeat of Giant Dragon",
-         "Arkbrave Dragon",
-         "Arkbrave Dragon",
-         "Armed Protector Dragon",
-         "Black Dragon Collapserpent",
-         "Breakthrough Skill",
-         "Breakthrough Skill",
-         "Burst Breath",
-         "Burst Breath",
-         "Darkblaze Dragon",
-         "Darkblaze Dragon",
-         "Darkstorm Dragon",
-         "Darkstorm Dragon",
-         "Decoy Dragon",
-         "Decoy Dragon",
-         "Divine Dragon Lord Felgrand",
-         "Divine Dragon Lord Felgrand",
-         "Dragon Knight of Creation",
-         "Dragon Knight of Creation",
-         "Dragon's Rebirth",
-         "Dragon's Rebirth",
-         "Eclipse Wyvern",
-         "Eclipse Wyvern",
-         "Ehren, Lightsworn Monk",
-         "Ehren, Lightsworn Monk",
-         "Evilswarm Zahak",
-         "Evilswarm Zahak",
-         "Felgrand Dragon",
-         "Felgrand Dragon",
-         "Guardian of Felgrand",
-         "Guardian of Felgrand",
-         "Hand Destruction",
-         "Hand Destruction",
-         "Herald of Creation",
-         "Herald of Creation",
-         "Jain, Lightsworn Paladin",
-         "Jain, Lightsworn Paladin",
-         "Keeper of the Shrine",
-         "Keeper of the Shrine",
-         "Kidmodo Dragon",
-         "Kidmodo Dragon",
-         "Oasis of Dragon Souls",
-         "Oasis of Dragon Souls",
-         "Paladin of Felgrand",
-         "Paladin of Felgrand",
-         "Raiden, Hand of the Lightsworn",
-         "Raiden, Hand of the Lightsworn",
-         "Red-Eyes Wyvern",
-         "Red-Eyes Wyvern",
-         "Return of the Dragon Lords",
-         "Return of the Dragon Lords",
-         "Ruins of the Divine Dragon Lords",
-         "Ruins of the Divine Dragon Lords",
-         "Terraforming",
-         "Terraforming",
-         "The Warrior Returning Alive",
-         "The Warrior Returning Alive",
-         "Trade-In",
-         "Trade-In",
-         "White Dragon Wyverburster"
+      "semiLimitedCards": [
+         "Terraforming"
       ],
-      "cardsMissing": 61
+      "cardsMissing": 59
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -1721,6 +2060,9 @@
          "Ultimate Providence",
          "Valhalla, Hall of the Fallen",
          "Valhalla, Hall of the Fallen"
+      ],
+      "limitedCards": [
+         "Solemn Warning"
       ],
       "cardsMissing": 69
    },
@@ -1873,6 +2215,10 @@
          "Zuijin of the Ice Barrier",
          "Zuijin of the Ice Barrier"
       ],
+      "limitedCards": [
+         "Dewloren, Tiger King of the Ice Barrier",
+         "Trishula, Dragon of the Ice Barrier"
+      ],
       "cardsMissing": 70
    },
    {
@@ -1948,6 +2294,12 @@
          "Waking the Dragon",
          "Warning Point",
          "Warning Point"
+      ],
+      "limitedCards": [
+         "Black Dragon Collapserpent",
+         "Called by the Grave",
+         "Gold Sarcophagus",
+         "White Dragon Wyverburster"
       ],
       "cardsMissing": 70
    },
@@ -2026,6 +2378,11 @@
          "Trance Archfiend",
          "Trance Archfiend"
       ],
+      "limitedCards": [
+         "Dark Armed Dragon",
+         "Foolish Burial",
+         "One for One"
+      ],
       "cardsMissing": 71
    },
    {
@@ -2102,6 +2459,11 @@
          "Twin Twisters",
          "Unending Nightmare",
          "Unending Nightmare"
+      ],
+      "limitedCards": [
+         "Armageddon Knight",
+         "Foolish Burial",
+         "Pot of Avarice"
       ],
       "cardsMissing": 71
    },
@@ -2181,6 +2543,12 @@
          "The Fabled Cerburrel",
          "The Fabled Cerburrel",
          "Uria, Lord of Searing Flames"
+      ],
+      "limitedCards": [
+         "One for One",
+         "Phantom Skyblaster",
+         "Set Rotation",
+         "Terraforming"
       ],
       "cardsMissing": 73
    },
@@ -2262,11 +2630,15 @@
          "Topologic Zeroboros",
          "Triple Burst Dragon",
          "Triple Burst Dragon",
+         "Twin Twisters",
          "World Chalice Guardragon",
          "World Chalice Guardragon",
          "Zero-Day Blaster",
          "Zero-Day Blaster"
       ],
-      "cardsMissing": 79
+      "limitedCards": [
+         "Imperial Order"
+      ],
+      "cardsMissing": 80
    }
 ]

@@ -156,11 +156,13 @@ const mainFunction = async () => {
     console.log(
       `Cards needed to complete two sets: ${cardsNeededToCompleteTwoSets.length}`
     );
-    structureDeckSetOfTwoMissing.find((sd) => sd.deck === structureDeck).cards =
-      _.sortBy(cardsNeededToCompleteTwoSets);
-    structureDeckSetOfTwoMissing.find(
+    const deckToUpdate = structureDeckSetOfTwoMissing.find(
       (sd) => sd.deck === structureDeck
-    ).limitedCards = limitedCardsInThisDeck;
+    );
+    deckToUpdate.cards = _.sortBy(cardsNeededToCompleteTwoSets);
+    if (limitedCardsInThisDeck.length > 0) {
+      deckToUpdate.limitedCards = limitedCardsInThisDeck;
+    }
 
     const cardsNeededToCompleteThreeSets = [
       ..._.difference(cardsNeededToCompleteTwoSets, semiLimitedCardsInThisDeck),
@@ -169,9 +171,16 @@ const mainFunction = async () => {
     console.log(
       `Cards needed to complete three sets: ${cardsNeededToCompleteThreeSets.length}`
     );
-    structureDeckSetOfThreeMissing.find(
+    const deckToUpdate3 = structureDeckSetOfThreeMissing.find(
       (sd) => sd.deck === structureDeck
-    ).cards = _.sortBy(cardsNeededToCompleteThreeSets);
+    );
+    deckToUpdate3.cards = _.sortBy(cardsNeededToCompleteThreeSets);
+    if (limitedCardsInThisDeck.length > 0) {
+      deckToUpdate3.limitedCards = limitedCardsInThisDeck;
+    }
+    if (semiLimitedCardsInThisDeck.length > 0) {
+      deckToUpdate3.semiLimitedCards = semiLimitedCardsInThisDeck;
+    }
   });
 
   const collectionForSetOfTwo = [...collection];
@@ -218,7 +227,7 @@ const mainFunction = async () => {
   fs.writeFile(
     "./collectionScripts/structureDecks/cardsFor2Sets.json",
     JSON.stringify(
-      _.sortBy(setOfTwo, (deckEntry) => deckEntry.cardsMissing),
+      _.sortBy(setOfTwo, (deckEntry) => deckEntry.releaseDate),
       null,
       3
     ),
