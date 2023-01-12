@@ -12,7 +12,10 @@ const getCardSets = async () => {
   return (result && result.data) || null;
 };
 
-const collection = [...require("../data/collection.json")];
+const collection = _.sortBy(
+  [...require("../data/collection.json")],
+  (collectionCard) => collectionCard["In Deck"]
+);
 
 const mainFunction = async () => {
   const banLists = _.sortBy(
@@ -194,6 +197,9 @@ const mainFunction = async () => {
         if (card === collectionCard["Name"]) {
           cards.splice(missingCardIndex, 1);
           j = structureDeckSetOfTwoMissing.length;
+          if (collectionCard["In Deck"]) {
+            console.log(`${deck}: ${card} is in ${collectionCard["In Deck"]}`);
+          }
           break;
         }
       }

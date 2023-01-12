@@ -286,6 +286,31 @@
       "cardsMissing": 13
    },
    {
+      "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [
+         "Black Ptera",
+         "Black Tyranno",
+         "Dark Driceratops",
+         "Goblin Out of the Frying Pan",
+         "Lightning Vortex",
+         "Mad Sword Beast",
+         "Magical Arm Shield",
+         "Magical Arm Shield",
+         "Malfunction",
+         "Malfunction",
+         "Mesmeric Control",
+         "Mesmeric Control",
+         "Seismic Shockwave",
+         "Super Conductor Tyranno",
+         "Tail Swipe"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
+      ],
+      "cardsMissing": 15
+   },
+   {
       "deck": "Machina Mayhem Structure Deck",
       "cards": [
          "Blast Sphere",
@@ -313,32 +338,6 @@
          "Green Gadget"
       ],
       "cardsMissing": 15
-   },
-   {
-      "deck": "Structure Deck: Dinosaur's Rage",
-      "cards": [
-         "Black Ptera",
-         "Black Ptera",
-         "Black Tyranno",
-         "Dark Driceratops",
-         "Goblin Out of the Frying Pan",
-         "Lightning Vortex",
-         "Mad Sword Beast",
-         "Magical Arm Shield",
-         "Magical Arm Shield",
-         "Malfunction",
-         "Malfunction",
-         "Mesmeric Control",
-         "Mesmeric Control",
-         "Seismic Shockwave",
-         "Super Conductor Tyranno",
-         "Tail Swipe"
-      ],
-      "limitedCards": [
-         "Heavy Storm",
-         "Mystical Space Typhoon"
-      ],
-      "cardsMissing": 16
    },
    {
       "deck": "Cyber Dragon Revolution Structure Deck",

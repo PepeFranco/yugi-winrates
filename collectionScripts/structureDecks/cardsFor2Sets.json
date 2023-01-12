@@ -187,7 +187,6 @@
    {
       "deck": "Structure Deck: Dinosaur's Rage",
       "cards": [
-         "Black Ptera",
          "Magical Arm Shield",
          "Malfunction",
          "Mesmeric Control"
@@ -196,7 +195,7 @@
          "Heavy Storm",
          "Mystical Space Typhoon"
       ],
-      "cardsMissing": 4,
+      "cardsMissing": 3,
       "releaseDate": "2006-10-20"
    },
    {
