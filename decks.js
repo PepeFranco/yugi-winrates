@@ -63,6 +63,9 @@ const decks = [
   { code: "SDCH", name: "Spirit Charmers", color: black },
   { code: "SDFC", name: "Freezing Chains", color: green },
   { code: "SDCS", name: "Cyber Strike", color: blue },
+  { code: "SDAZ", name: "Albaz Strike", color: red },
+  { code: "SDCB", name: "Legend of Crystal Beasts", color: white },
+  { code: "SR13", name: "Dark World", color: black },
 ];
 
 export default decks;

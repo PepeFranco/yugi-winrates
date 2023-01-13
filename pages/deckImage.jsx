@@ -1,19 +1,24 @@
-const DeckImage = ({ code }) => (
-  <div
-    style={{
-      maxWidth: "150px",
-      justifyContent: "center",
-      display: "flex",
-      cursor: "pointer",
-    }}
-  >
-    <img
+const DeckImage = ({ code, size }) => {
+  if (size === "large") {
+    return <img src={`/${code}.jpg`}></img>;
+  }
+  return (
+    <div
       style={{
-        maxHeight: "150px",
+        maxWidth: "150px",
+        justifyContent: "center",
+        display: "flex",
+        cursor: "pointer",
       }}
-      src={`/${code}.jpg`}
-    ></img>
-  </div>
-);
+    >
+      <img
+        style={{
+          maxHeight: "150px",
+        }}
+        src={`/${code}.jpg`}
+      ></img>
+    </div>
+  );
+};
 
 export default DeckImage;
