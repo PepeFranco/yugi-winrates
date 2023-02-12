@@ -59,7 +59,6 @@
          "Call of the Atlanteans",
          "Poseidra, the Atlantean Dragon",
          "Snowman Eater",
-         "Surface",
          "Surface"
       ],
       "limitedCards": [
@@ -68,7 +67,7 @@
       "semiLimitedCards": [
          "Torrential Tribute"
       ],
-      "cardsMissing": 7
+      "cardsMissing": 6
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
@@ -98,6 +97,33 @@
          "Machine Duplication"
       ],
       "cardsMissing": 7
+   },
+   {
+      "deck": "Structure Deck: Zombie Madness",
+      "cards": [
+         "Dark Dust Spirit",
+         "Dark Dust Spirit",
+         "Master Kyonshee",
+         "Soul-Absorbing Bone Tower",
+         "Spirit Reaper",
+         "Vampire Genesis",
+         "Vampire Genesis",
+         "Vampire Lady"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Vampire Lord"
+      ],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Nobleman of Crossout"
+      ],
+      "cardsMissing": 8
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -141,37 +167,8 @@
       "cardsMissing": 8
    },
    {
-      "deck": "Structure Deck: Zombie Madness",
-      "cards": [
-         "Dark Dust Spirit",
-         "Dark Dust Spirit",
-         "Master Kyonshee",
-         "Master Kyonshee",
-         "Soul-Absorbing Bone Tower",
-         "Spirit Reaper",
-         "Vampire Genesis",
-         "Vampire Genesis",
-         "Vampire Lady"
-      ],
-      "limitedCards": [
-         "Heavy Storm",
-         "Mystical Space Typhoon",
-         "Pot of Greed",
-         "Reckless Greed",
-         "Snatch Steal",
-         "Torrential Tribute",
-         "Vampire Lord"
-      ],
-      "semiLimitedCards": [
-         "Creature Swap",
-         "Nobleman of Crossout"
-      ],
-      "cardsMissing": 9
-   },
-   {
       "deck": "Structure Deck: Dragon's Roar",
       "cards": [
-         "Curse of Anubis",
          "Curse of Anubis",
          "Element Dragon",
          "Red-Eyes B. Dragon",
@@ -198,7 +195,7 @@
          "Creature Swap",
          "Nobleman of Crossout"
       ],
-      "cardsMissing": 10
+      "cardsMissing": 9
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
@@ -257,6 +254,29 @@
       "cardsMissing": 12
    },
    {
+      "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [
+         "Black Ptera",
+         "Black Tyranno",
+         "Dark Driceratops",
+         "Goblin Out of the Frying Pan",
+         "Lightning Vortex",
+         "Mad Sword Beast",
+         "Magical Arm Shield",
+         "Magical Arm Shield",
+         "Malfunction",
+         "Mesmeric Control",
+         "Seismic Shockwave",
+         "Super Conductor Tyranno",
+         "Tail Swipe"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
+      ],
+      "cardsMissing": 13
+   },
+   {
       "deck": "Gates of the Underworld Structure Deck",
       "cards": [
          "Belial - Marquis of Darkness",
@@ -284,31 +304,6 @@
          "Tragoedia"
       ],
       "cardsMissing": 13
-   },
-   {
-      "deck": "Structure Deck: Dinosaur's Rage",
-      "cards": [
-         "Black Ptera",
-         "Black Tyranno",
-         "Dark Driceratops",
-         "Goblin Out of the Frying Pan",
-         "Lightning Vortex",
-         "Mad Sword Beast",
-         "Magical Arm Shield",
-         "Magical Arm Shield",
-         "Malfunction",
-         "Malfunction",
-         "Mesmeric Control",
-         "Mesmeric Control",
-         "Seismic Shockwave",
-         "Super Conductor Tyranno",
-         "Tail Swipe"
-      ],
-      "limitedCards": [
-         "Heavy Storm",
-         "Mystical Space Typhoon"
-      ],
-      "cardsMissing": 15
    },
    {
       "deck": "Machina Mayhem Structure Deck",
@@ -1755,8 +1750,6 @@
          "Sacred Sword of Seven Stars",
          "Sky Iris",
          "Stargazer Magician",
-         "Terraforming",
-         "Terraforming",
          "Timegazer Magician",
          "Traptrix Trap Hole Nightmare",
          "Traptrix Trap Hole Nightmare",
@@ -1769,7 +1762,7 @@
          "Eradicator Epidemic Virus",
          "Torrential Tribute"
       ],
-      "cardsMissing": 58
+      "cardsMissing": 56
    },
    {
       "deck": "Emperor of Darkness Structure Deck",

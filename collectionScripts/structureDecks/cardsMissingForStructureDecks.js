@@ -197,8 +197,10 @@ const mainFunction = async () => {
         if (card === collectionCard["Name"]) {
           cards.splice(missingCardIndex, 1);
           j = structureDeckSetOfTwoMissing.length;
-          if (collectionCard["In Deck"]) {
-            console.log(`${deck}: ${card} is in ${collectionCard["In Deck"]}`);
+          if (deck === "Structure Deck: Blaze of Destruction") {
+            console.log(
+              `${deck}: has is in ${collectionCard["Name"]}, (${collectionCard["Rarity"]}) ${collectionCard["In Deck"]}`
+            );
           }
           break;
         }

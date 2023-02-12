@@ -1,5 +1,14 @@
 [
    {
+      "deck": "Realm of the Sea Emperor Structure Deck",
+      "cards": [],
+      "limitedCards": [
+         "Dark Hole"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2012-10-11"
+   },
+   {
       "deck": "Onslaught of the Fire Kings Structure Deck",
       "cards": [],
       "cardsMissing": 0,
@@ -89,6 +98,18 @@
       "releaseDate": "2005-05-09"
    },
    {
+      "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [
+         "Magical Arm Shield"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
+      ],
+      "cardsMissing": 1,
+      "releaseDate": "2006-10-20"
+   },
+   {
       "deck": "Structure Deck: Marik (TCG)",
       "cards": [
          "Dark Room of Nightmare"
@@ -115,15 +136,22 @@
       "releaseDate": "2012-06-21"
    },
    {
-      "deck": "Realm of the Sea Emperor Structure Deck",
+      "deck": "Structure Deck: Zombie Madness",
       "cards": [
-         "Surface"
+         "Dark Dust Spirit",
+         "Vampire Genesis"
       ],
       "limitedCards": [
-         "Dark Hole"
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Vampire Lord"
       ],
-      "cardsMissing": 1,
-      "releaseDate": "2012-10-11"
+      "cardsMissing": 2,
+      "releaseDate": "2005-01-01"
    },
    {
       "deck": "Machina Mayhem Structure Deck",
@@ -140,42 +168,8 @@
       "releaseDate": "2010-02-19"
    },
    {
-      "deck": "Structure Deck: Zombie Madness",
-      "cards": [
-         "Dark Dust Spirit",
-         "Master Kyonshee",
-         "Vampire Genesis"
-      ],
-      "limitedCards": [
-         "Heavy Storm",
-         "Mystical Space Typhoon",
-         "Pot of Greed",
-         "Reckless Greed",
-         "Snatch Steal",
-         "Torrential Tribute",
-         "Vampire Lord"
-      ],
-      "cardsMissing": 3,
-      "releaseDate": "2005-01-01"
-   },
-   {
-      "deck": "Structure Deck: Dinosaur's Rage",
-      "cards": [
-         "Magical Arm Shield",
-         "Malfunction",
-         "Mesmeric Control"
-      ],
-      "limitedCards": [
-         "Heavy Storm",
-         "Mystical Space Typhoon"
-      ],
-      "cardsMissing": 3,
-      "releaseDate": "2006-10-20"
-   },
-   {
       "deck": "Structure Deck: Dragon's Roar",
       "cards": [
-         "Curse of Anubis",
          "Red-Eyes Darkness Dragon",
          "The Dragon's Bead",
          "The Graveyard in the Fourth Dimension"
@@ -192,7 +186,7 @@
          "Swords of Revealing Light",
          "Twin-Headed Behemoth"
       ],
-      "cardsMissing": 4,
+      "cardsMissing": 3,
       "releaseDate": "2005-01-01"
    },
    {
