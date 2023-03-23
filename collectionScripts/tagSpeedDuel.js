@@ -17,7 +17,6 @@ const mainFunction = async () => {
       card["Is Speed Duel"] = isSpeedDuel;
       card["Is Speed Duel Legal"] =
         speedDuelLegal.includes(card["Name"]) || isSpeedDuel === "Yes";
-      card["Description Length"] = card["Description"].length;
       console.log(card["Name"]);
     }
   } catch (e) {

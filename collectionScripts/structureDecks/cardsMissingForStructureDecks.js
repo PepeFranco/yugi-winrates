@@ -235,7 +235,7 @@ const mainFunction = async () => {
   fs.writeFile(
     "./collectionScripts/structureDecks/cardsFor2Sets.json",
     JSON.stringify(
-      _.sortBy(setOfTwo, (deckEntry) => deckEntry.cards.length),
+      _.sortBy(setOfTwo, (deckEntry) => deckEntry.releaseDate),
       null,
       3
     ),
