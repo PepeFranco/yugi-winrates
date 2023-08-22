@@ -5,6 +5,7 @@ import decks from "../../decks";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
+import _ from "lodash";
 
 const Report = ({
   router: {
@@ -14,7 +15,10 @@ const Report = ({
   const [status, setStatus] = useState("");
   const [winner, setWinner] = useState("");
   const [loser, setLoser] = useState("");
-  const filteredDecks = decks.filter((deck) => deck.type === type);
+  const filteredDecks = _.sortBy(
+    decks.filter((deck) => deck.type === type),
+    (deck) => deck.name
+  );
 
   return (
     <div>

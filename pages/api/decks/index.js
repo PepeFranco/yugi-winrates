@@ -7,6 +7,7 @@ export default (req, res) => {
     query: { order = "release", type = "structure" },
   } = req;
   const result = {};
+  console.log({ type });
   const filteredDecks = decks.filter((deck) => {
     return deck.type === type;
   });
