@@ -17,6 +17,7 @@ export default (req, res) => {
     apiVersion: "2012-08-10",
   });
 
+  const tables = { structure: "yugi-winrates", speed: "yugi-winrates-speed" };
   const params = {
     Item: {
       winner: {
@@ -29,7 +30,7 @@ export default (req, res) => {
         S: Date.now().toString(),
       },
     },
-    TableName: "yugi-winrates",
+    TableName: tables[body.type],
   };
 
   ddb.putItem(params, (error, data) => {

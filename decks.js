@@ -10,14 +10,148 @@ export const blue = "#1f618d";
 export const black = "#000000";
 export const pink = "#d7bde2";
 
-const decks = [
+const speedDuelDecks = [
   {
     type: "speed",
-    code: "Alexis Rhodes",
-    name: "Alexis Rhodes",
+    code: "SGX1-ENS05",
+    name: "Alexis - Cyber Blade Fusion",
+    color: pink,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS04",
+    name: "Tania - Welcome to the Jungle",
+    color: orange,
+  },
+  {
+    type: "speed",
+    code: "SS03-ENAS2",
+    name: "Rex - Nightmare Sonic Blast!",
+    color: red,
+  },
+  {
+    type: "speed",
+    code: "SGX1-ENS04",
+    name: "Dr. Crowler - Ancient Fusion",
+    color: blue,
+  },
+  {
+    type: "speed",
+    code: "SGX2-ENS03",
+    name: "Syrus - The Roids are Alright",
+    color: blue,
+  },
+  {
+    type: "speed",
+    code: "SGX1-ENS06",
+    name: "Jesse - Crystal Transcendence",
+    color: white,
+  },
+  {
+    type: "speed",
+    code: "SGX2-ENS04",
+    name: "Paradox - Behold, Gate Guardian!",
+    color: black,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS08",
+    name: "Adrian - Fog Warning",
+    color: aqua,
+  },
+  {
+    type: "speed",
+    code: "SGX1-ENS16",
+    name: "Axel - Volcanic Cannon",
+    color: red,
+  },
+  {
+    type: "speed",
+    code: "DEM6-ENS01",
+    name: "Yami Yugi - Power Up!",
+    color: yellow,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS05",
+    name: "Titan - Archfiend's Conscription",
+    color: red,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS03",
+    name: "Camula - Vampiric Aristocracy",
+    color: purple,
+  },
+  {
+    type: "speed",
+    code: "SGX2-ENS01",
+    name: "Jaden - HEROES UNITE - FUSION!!",
+    color: orange,
+  },
+  {
+    type: "speed",
+    code: "SGX2-ENS02",
+    name: "Bastion - Chemistry in Motion",
+    color: aqua,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS06",
+    name: "Amnael - Professor of Alchemy",
+    color: yellow,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS09",
+    name: "Supreme King - Dark Unity",
+    color: yellow,
+  },
+  {
+    type: "speed",
+    code: "SS03-ENBS1",
+    name: "Weevil - Hyper Metamorphosis",
     color: green,
   },
+  {
+    type: "speed",
+    code: "SGX1-ENS07",
+    name: "Zane - Forbidden Cyber Style Technique",
+    color: blue,
+  },
+  {
+    type: "speed",
+    code: "SGX1-ENS09",
+    name: "Jaden - The Right Hero for the Job",
+    color: blue,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS10",
+    name: "Nightshroud - Dragon Force",
+    color: blue,
+  },
+  {
+    type: "speed",
+    code: "SGX1-ENS11",
+    name: "Chazz - Armed and Ready!",
+    color: green,
+  },
+  {
+    type: "speed",
+    code: "SGX3-ENS07",
+    name: "Kagemaru - Unlocking the Power",
+    color: black,
+  },
+  {
+    type: "speed",
+    code: "SGX1-ENS10",
+    name: "Aster - Looking into the Future",
+    color: black,
+  },
+];
 
+const decks = [
   { type: "structure", code: "SD1", name: "Dragon's Roar", color: green },
   { type: "structure", code: "SD2", name: "Zombie Madness", color: purple },
   { type: "structure", code: "SD3", name: "Blaze of Destruction", color: red },
@@ -137,4 +271,4 @@ const decks = [
   { type: "structure", code: "SDCK", name: "The Crimson King", color: red },
 ];
 
-export default decks;
+export default [...decks, ...speedDuelDecks];

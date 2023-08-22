@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { useState } from "react";
-import  { withRouter } from "next/router";
+import { withRouter } from "next/router";
 import decks from "../../decks";
 import Header from "../header";
 import Footer from "../footer";
@@ -8,12 +8,13 @@ import Main from "../main";
 
 const Report = ({
   router: {
-    query: { key, secret },
+    query: { key, secret, type = "structure" },
   },
 }) => {
   const [status, setStatus] = useState("");
   const [winner, setWinner] = useState("");
   const [loser, setLoser] = useState("");
+  const filteredDecks = decks.filter((deck) => deck.type === type);
 
   return (
     <div>
@@ -46,7 +47,7 @@ const Report = ({
                 loser: { value: loserValue },
               } = e.currentTarget;
               if (winnerValue === loserValue) return;
-              if (!key || !secret) return;
+              // if (!key || !secret) return;
               setStatus("Loading");
 
               fetch("/api/report", {
@@ -59,6 +60,7 @@ const Report = ({
                   loser: loserValue,
                   key,
                   secret,
+                  type,
                 }),
               }).then((result) => {
                 setStatus(result.statusText);
@@ -74,7 +76,7 @@ const Report = ({
               }}
               value={winner}
             >
-              {decks.map((deck) => (
+              {filteredDecks.map((deck) => (
                 <option value={deck.code} key={`winner-${deck.code}`}>
                   {deck.name}
                 </option>
@@ -104,7 +106,7 @@ const Report = ({
               }}
               value={loser}
             >
-              {decks.map((deck) => (
+              {filteredDecks.map((deck) => (
                 <option value={deck.code} key={`loser-${deck.code}`}>
                   {deck.name}
                 </option>
