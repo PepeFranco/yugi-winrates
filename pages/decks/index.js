@@ -12,18 +12,20 @@ import MatchupCounter from "../matchupCounter";
 
 const Decks = ({
   router: {
-    query: { order = "winrate", type = "structure" },
+    query: { order = "winrate", type },
   },
 }) => {
   const [decks, setDecks] = useState([]);
 
   useEffect(() => {
     setDecks([]);
-    fetch(`/api/decks?order=${order}&type=${type}`).then((response) => {
-      response.json().then((responseDecks) => {
-        setDecks(responseDecks);
-      });
-    });
+    fetch(`/api/decks?order=${order}&type=${type || "structure"}`).then(
+      (response) => {
+        response.json().then((responseDecks) => {
+          setDecks(responseDecks);
+        });
+      }
+    );
   }, [order]);
 
   return (
