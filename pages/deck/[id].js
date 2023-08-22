@@ -24,11 +24,13 @@ const Deck = ({
         (deckToFilter) => deckToFilter.code === id
       )[0];
       setDeck(currentDeck);
-      fetch(`/api/deck/${id}?order=${order}`).then((response) => {
-        response.json().then((responseRecords) => {
-          setRecords(responseRecords);
-        });
-      });
+      fetch(`/api/deck/${id}?order=${order}&type=${currentDeck.type}`).then(
+        (response) => {
+          response.json().then((responseRecords) => {
+            setRecords(responseRecords);
+          });
+        }
+      );
     }
   }, [id]);
 

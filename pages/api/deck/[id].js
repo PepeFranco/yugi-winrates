@@ -4,17 +4,18 @@ import sortRecords from "../sortRecords";
 
 export default (req, res) => {
   const {
-    query: { id, order = "rating" },
+    query: { id, order = "rating", type = "structure" },
   } = req;
 
   const currentDeck = decks.find((deck) => deck.code === id);
 
+  const tables = { structure: "yugi-winrates", speed: "yugi-winrates-speed" };
   const winnerParams = {
     FilterExpression: "winner = :id",
     ExpressionAttributeValues: {
       ":id": id,
     },
-    TableName: "yugi-winrates",
+    TableName: tables[type],
   };
 
   const loserParams = {
@@ -22,7 +23,7 @@ export default (req, res) => {
     ExpressionAttributeValues: {
       ":id": id,
     },
-    TableName: "yugi-winrates",
+    TableName: tables[type],
   };
   docClient.scan(winnerParams, (winnerError, winnerData) => {
     if (winnerError) {
