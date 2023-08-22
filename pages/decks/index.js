@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import Router, { withRouter } from "next/router";
 import Header from "../header";
 import Footer from "../footer";
@@ -12,21 +12,35 @@ import MatchupCounter from "../matchupCounter";
 
 const Decks = ({
   router: {
-    query: { order = "winrate", type },
+    query: { order, type },
   },
 }) => {
   const [decks, setDecks] = useState([]);
+  const [lastRequest, setLastRequest] = useState("");
+  const lastRequestRef = useRef();
+  lastRequestRef.current = lastRequest;
+
+  const fillDecks = (request) => (response) => {
+    const updatedLastRequest = lastRequestRef.current;
+    if (updatedLastRequest === "" || updatedLastRequest === request) {
+      response.json().then((responseDecks) => {
+        setDecks(responseDecks);
+      });
+    }
+  };
+
+  const fetchDecks = () => {
+    setDecks([]);
+    const request = `/api/decks?order=${order || "winrate"}&type=${
+      type || "structure"
+    }`;
+    setLastRequest(request);
+    fetch(request).then(fillDecks(request));
+  };
 
   useEffect(() => {
-    setDecks([]);
-    fetch(`/api/decks?order=${order}&type=${type || "structure"}`).then(
-      (response) => {
-        response.json().then((responseDecks) => {
-          setDecks(responseDecks);
-        });
-      }
-    );
-  }, [order]);
+    fetchDecks();
+  }, [type, order]);
 
   return (
     <div>
