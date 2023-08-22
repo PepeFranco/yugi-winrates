@@ -7,6 +7,8 @@ export default (req, res) => {
     query: { id, order = "rating" },
   } = req;
 
+  const currentDeck = decks.find((deck) => deck.code === id);
+
   const winnerParams = {
     FilterExpression: "winner = :id",
     ExpressionAttributeValues: {
@@ -34,7 +36,8 @@ export default (req, res) => {
         } else {
           const result = {};
           const otherDecks = decks.filter(
-            (deckToFilter) => deckToFilter.code !== id
+            (deckToFilter) =>
+              deckToFilter.code !== id && deckToFilter.type === currentDeck.type
           );
           otherDecks.map(
             (deck) =>
