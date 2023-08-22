@@ -65,7 +65,9 @@ const decks = [
   { code: "SDCS", name: "Cyber Strike", color: blue },
   { code: "SDAZ", name: "Albaz Strike", color: red },
   { code: "SDCB", name: "Legend of Crystal Beasts", color: white },
+  { code: "SDBT", name: "Beware of Traptrix", color: pink },
   { code: "SR13", name: "Dark World", color: black },
+  { code: "SDCK", name: "The Crimson King", color: red },
 ];
 
 export default decks;
