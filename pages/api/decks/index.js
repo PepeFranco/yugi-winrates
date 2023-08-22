@@ -4,10 +4,13 @@ import sortRecords from "../sortRecords";
 
 export default (req, res) => {
   const {
-    query: { order = "release" },
+    query: { order = "release", type = "structure" },
   } = req;
   const result = {};
-  decks.map(
+  const filteredDecks = decks.filter((deck) => {
+    return deck.type === type;
+  });
+  filteredDecks.map(
     (deck) =>
       (result[deck.code] = {
         deckCode: deck.code,
@@ -19,12 +22,14 @@ export default (req, res) => {
       })
   );
 
+  const tables = { structure: "yugi-winrates", speed: "yugi-winrates-speed" };
   const params = {
-    TableName: "yugi-winrates",
+    TableName: tables[type],
   };
 
   docClient.scan(params, (error, data) => {
     if (error) {
+      console.log(error);
       res.statusCode = 500;
       res.end();
     } else {
@@ -42,14 +47,8 @@ export default (req, res) => {
       });
 
       const recordsWithPercentages = flattenedResult.map((record) => {
-        const {
-          wins,
-          losses,
-          totalGames,
-          deckCode,
-          deckName,
-          deckColor,
-        } = record;
+        const { wins, losses, totalGames, deckCode, deckName, deckColor } =
+          record;
         const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
         const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
         return {
