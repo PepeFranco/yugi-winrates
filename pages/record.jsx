@@ -27,13 +27,15 @@ export default ({
           paddingTop: "10px",
         }}
       >
-        <Link href={`/deck/${deckCode}`}>
-          <a style={{ color: "black" }}>{deckName}</a>
+        <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
+          {deckName}
         </Link>
-        <Link href={`/deck/${opponentDeckCode}`}>
-          <a href="#" style={{ textAlign: "right", color: "black" }}>
-            {opponentDeckName}
-          </a>
+        <Link
+          href={`/deck/${opponentDeckCode}`}
+          style={{ textAlign: "right", color: "black" }}>
+
+          {opponentDeckName}
+
         </Link>
       </div>
       <div
@@ -45,9 +47,9 @@ export default ({
         }}
       >
         <Link href={`/deck/${deckCode}`}>
-          <a>
-            <DeckImage code={deckCode} />
-          </a>
+
+          <DeckImage code={deckCode} />
+
         </Link>
         <WinRatePieChart
           totalGames={totalGames}
@@ -59,9 +61,9 @@ export default ({
           losses={losses}
         />
         <Link href={`/deck/${opponentDeckCode}`}>
-          <a href="#">
-            <DeckImage code={opponentDeckCode} />
-          </a>
+
+          <DeckImage code={opponentDeckCode} />
+
         </Link>
       </div>
     </div>

@@ -33,7 +33,7 @@ const Home = ({
         >
           {filteredDecks.map((deck, index) => {
             return (
-              <Link href={`/deck/${deck.code}`} key={index}>
+              <Link href={`/deck/${deck.code}`} key={index} legacyBehavior>
                 <div
                   style={{
                     display: "flex",

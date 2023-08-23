@@ -21,33 +21,33 @@ const Footer = () => (
         maxWidth: "900px",
       }}
     >
-      <Link href="/records">
-        <a href="#" style={{ color: "white" }}>
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              alignItems: "center",
-              height: footerHeight,
-            }}
-          >
-            <span>All records</span>
-          </div>
-        </a>
+      <Link href="/records" style={{ color: "white" }}>
+
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            height: footerHeight,
+          }}
+        >
+          <span>All records</span>
+        </div>
+
       </Link>
-      <Link href="/decks">
-        <a href="#" style={{ color: "white" }}>
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              alignItems: "center",
-              height: footerHeight,
-            }}
-          >
-            <span>All decks</span>
-          </div>
-        </a>
+      <Link href="/decks" style={{ color: "white" }}>
+
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            height: footerHeight,
+          }}
+        >
+          <span>All decks</span>
+        </div>
+
       </Link>
       <a
         href="https://github.com/PepeFranco/yugi-winrates"

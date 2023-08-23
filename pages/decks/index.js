@@ -102,10 +102,10 @@ const Decks = ({
             return (
               <div key={index}>
                 <div>
-                  <Link href={`/deck/${deckCode}`}>
-                    <a style={{ color: "black" }}>
-                      <span>{deckName}</span>
-                    </a>
+                  <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
+
+                    <span>{deckName}</span>
+
                   </Link>
                 </div>
                 <div
@@ -115,10 +115,10 @@ const Decks = ({
                     alignItems: "center",
                   }}
                 >
-                  <Link href={`/deck/${deckCode}`}>
-                    <a style={{ color: "black" }}>
-                      <DeckImage code={deckCode} />
-                    </a>
+                  <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
+
+                    <DeckImage code={deckCode} />
+
                   </Link>
                   <WinRatePieChart
                     totalGames={totalGames}

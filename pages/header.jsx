@@ -20,20 +20,20 @@ const Header = () => (
         width: "100%",
       }}
     >
-      <Link href="/">
-        <a href="#" style={{ color: "white" }}>
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              alignItems: "center",
-              height: "100px",
-            }}
-          >
-            <img src="/logo.webp" style={{ height: "100%" }} />
-            <span>Structure Decks Winrates</span>
-          </div>
-        </a>
+      <Link href="/" style={{ color: "white" }}>
+
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            height: "100px",
+          }}
+        >
+          <img src="/logo.webp" style={{ height: "100%" }} />
+          <span>Structure Decks Winrates</span>
+        </div>
+
       </Link>
     </div>
   </div>
