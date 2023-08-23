@@ -1,14 +1,17 @@
-export const green = "#229954";
-export const purple = "#884ea0";
-export const red = "#a93226";
-export const aqua = "#5dade2";
-export const orange = "#e67e22";
-export const yellow = "#f1c40f";
-export const gray = "#99a3a4";
-export const white = "#e5e7e9";
-export const blue = "#1f618d";
-export const black = "#000000";
-export const pink = "#d7bde2";
+import { standard } from "./pages/data/colours.json";
+const {
+  green,
+  purple,
+  red,
+  aqua,
+  orange,
+  yellow,
+  gray,
+  white,
+  blue,
+  black,
+  pink,
+} = standard;
 
 const speedDuelDecks = [
   {

@@ -1,32 +1,6 @@
 import { PieChart } from "react-minimal-pie-chart";
-import { black, gray } from "../decks";
-
-const lightenDarkenColor = (color, amount) => {
-  let usePound = false;
-  if (color[0] == "#") {
-    color = color.slice(1);
-    usePound = true;
-  }
-
-  let num = parseInt(color, 16);
-
-  let r = (num >> 16) + amount;
-
-  if (r > 255) r = 255;
-  else if (r < 0) r = 0;
-
-  let b = ((num >> 8) & 0x00ff) + amount;
-
-  if (b > 255) b = 255;
-  else if (b < 0) b = 0;
-
-  let g = (num & 0x0000ff) + amount;
-
-  if (g > 255) g = 255;
-  else if (g < 0) g = 0;
-
-  return (usePound ? "#" : "") + (g | (b << 8) | (r << 16)).toString(16);
-};
+import colours from "./data/colours.json";
+import _ from 'lodash'
 
 const WinRatePieChart = ({
   totalGames,
@@ -38,17 +12,17 @@ const WinRatePieChart = ({
   losses,
 }) => {
   const getLossColor = () => {
-    if (!lossColor) return "#d35400";
+    if (!lossColor) return colours.standard.gray;
     if (winColor === lossColor) {
-      if (lossColor === black) return lightenDarkenColor(gray, -20);
-      return lightenDarkenColor(lossColor, -20);
+      const colourName = _.findKey(colours.standard, colour => colour === winColor)
+      return colours.light[colourName]
     }
-    if (lossColor === black) return gray;
+    if (lossColor === colours.standard.black) return colours.standard.gray;
     return lossColor;
   };
   const getWinColor = () => {
-    if (!winColor) return "#3498db";
-    if (winColor === black) return gray;
+    if (!winColor) return colours.standard.gray;
+    if (winColor === colours.standard.black) return colours.standard.gray;
     return winColor;
   };
   const pieData =
@@ -63,7 +37,7 @@ const WinRatePieChart = ({
             color: getLossColor(),
           },
         ]
-      : [{ value: 100, color: "gray" }];
+      : [{ value: 100, color: colours.standard.gray }];
 
   return (
     <div
