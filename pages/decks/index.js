@@ -9,6 +9,7 @@ import DeckImage from "../deckImage";
 import WinRatePieChart from "../winRatePieChart";
 import Link from "next/link";
 import MatchupCounter from "../matchupCounter";
+import { useDefaultType } from "../hooks/useDefaultType";
 
 const Decks = ({
   router: {
@@ -16,17 +17,11 @@ const Decks = ({
   },
 }) => {
   const [decks, setDecks] = useState([]);
-  const [lastRequest, setLastRequest] = useState("");
-  const lastRequestRef = useRef();
-  lastRequestRef.current = lastRequest;
 
   const fillDecks = (request) => (response) => {
-    const updatedLastRequest = lastRequestRef.current;
-    if (updatedLastRequest === "" || updatedLastRequest === request) {
-      response.json().then((responseDecks) => {
-        setDecks(responseDecks);
-      });
-    }
+    response.json().then((responseDecks) => {
+      setDecks(responseDecks);
+    });
   };
 
   const fetchDecks = () => {
@@ -34,13 +29,16 @@ const Decks = ({
     const request = `/api/decks?order=${order || "winrate"}&type=${
       type || "structure"
     }`;
-    setLastRequest(request);
     fetch(request).then(fillDecks(request));
   };
 
   useEffect(() => {
-    fetchDecks();
+    if (type) {
+      fetchDecks();
+    }
   }, [type, order]);
+
+  useDefaultType();
 
   return (
     <div>
@@ -103,9 +101,7 @@ const Decks = ({
               <div key={index}>
                 <div>
                   <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
-
                     <span>{deckName}</span>
-
                   </Link>
                 </div>
                 <div
@@ -116,9 +112,7 @@ const Decks = ({
                   }}
                 >
                   <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
-
                     <DeckImage code={deckCode} />
-
                   </Link>
                   <WinRatePieChart
                     totalGames={totalGames}

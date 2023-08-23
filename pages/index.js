@@ -7,27 +7,14 @@ import Main from "./main";
 import DeckImage from "./deckImage";
 
 import { withRouter, useRouter } from "next/router";
-import { useEffect, useState } from "react";
+import { useDefaultType } from "./hooks/useDefaultType";
 
 const Home = () => {
   const router = useRouter();
   const { type } = router.query;
-  // const [filteredDecks, setFilteredDecks] = useState([]);
-
   const filteredDecks = decks.filter((deck) => deck.type === type);
-  // useEffect(() => {
-  //   if (!type) {
-  //     return;
-  //   }
 
-  // }, []);
-
-  useEffect(() => {
-    if (router.isReady && !type) {
-      router.query.type = "structure";
-      router.push({ pathname: router.pathname, query: router.query });
-    }
-  }, [router.isReady]);
+  useDefaultType();
 
   return (
     <div>
