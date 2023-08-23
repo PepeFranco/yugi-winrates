@@ -1,4 +1,4 @@
-import { standard } from "./pages/data/colours.json";
+import colours from "./pages/data/colours.json";
 const {
   green,
   purple,
@@ -11,7 +11,7 @@ const {
   blue,
   black,
   pink,
-} = standard;
+} = colours.standard;
 
 const speedDuelDecks = [
   {
