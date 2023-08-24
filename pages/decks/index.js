@@ -9,7 +9,7 @@ import DeckImage from "../deckImage";
 import WinRatePieChart from "../winRatePieChart";
 import Link from "next/link";
 import MatchupCounter from "../matchupCounter";
-import { useDefaultType } from "../hooks/useDefaultType";
+import { useDefaultType } from "../../hooks/useDefaultType";
 
 const Decks = ({
   router: {

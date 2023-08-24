@@ -1,7 +1,7 @@
 import { transformDBItemsToRecordsArray } from "./index";
-import { standard } from "../../data/colours.json";
+import colours from "../../data/colours.json";
 import decks from "../../../decks";
-const { purple, green, red, aqua } = standard;
+const { purple, green, red, aqua } = colours.standard;
 
 const sumTo = (n) => (n * (n + 1)) / 2;
 

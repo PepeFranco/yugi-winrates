@@ -7,7 +7,7 @@ import Main from "./main";
 import DeckImage from "./deckImage";
 
 import { withRouter, useRouter } from "next/router";
-import { useDefaultType } from "./hooks/useDefaultType";
+import { useDefaultType } from "../hooks/useDefaultType";
 
 const Home = () => {
   const router = useRouter();
