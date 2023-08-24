@@ -13,7 +13,7 @@ const Loader = () => (
         data={[
           {
             value: 100,
-            color: "black",
+            color: "#F17E82",
           },
         ]}
         animate={true}
