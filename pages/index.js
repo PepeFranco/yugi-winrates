@@ -5,6 +5,7 @@ import Header from "./header";
 import Footer from "./footer";
 import Main from "./main";
 import DeckImage from "./deckImage";
+import DeckCode from "./deckBlock";
 
 import { withRouter, useRouter } from "next/router";
 import { useDefaultType } from "../hooks/useDefaultType";
@@ -40,12 +41,12 @@ const Home = () => {
                   style={{
                     display: "flex",
                     flexDirection: "column",
-                    justifyContent: "space-between",
-                    width: "150px",
-                    padding: "20px",
+                    // justifyContent: "space-between",
+                    // width: "150px",
+                    // padding: "20px",
                   }}
                 >
-                  <div
+                  {/* <div
                     style={{
                       display: "flex",
                       flexDirection: "column",
@@ -58,7 +59,8 @@ const Home = () => {
                   </div>
                   <a href="#" style={{ color: "black" }}>
                     {deck.name}
-                  </a>
+                  </a> */}
+                  <DeckCode code={deck.code} name={deck.name} />
                 </div>
               </Link>
             );
