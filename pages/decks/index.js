@@ -10,6 +10,7 @@ import WinRatePieChart from "../winRatePieChart";
 import Link from "next/link";
 import MatchupCounter from "../matchupCounter";
 import { useDefaultType } from "../../hooks/useDefaultType";
+import DeckBlock from "../deckBlock";
 
 const Decks = ({
   router: {
@@ -98,12 +99,23 @@ const Decks = ({
               lossPercentage,
             } = deck;
             return (
-              <div key={index}>
-                <div>
-                  <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
-                    <span>{deckName}</span>
-                  </Link>
-                </div>
+              <div
+                key={index}
+                style={{
+                  borderColor: "#F17E82",
+                  borderLeftWidth: "1px",
+                  borderLeftStyle: "solid",
+                  borderTopWidth: "1px",
+                  borderTopStyle: "solid",
+                  borderRightWidth: "5px",
+                  borderRightStyle: "solid",
+                  borderBottomWidth: "5px",
+                  borderBottomStyle: "solid",
+                  borderRadius: "15px",
+                  marginTop: "10px",
+                  marginBottom: "10px",
+                }}
+              >
                 <div
                   style={{
                     display: "flex",
@@ -111,9 +123,7 @@ const Decks = ({
                     alignItems: "center",
                   }}
                 >
-                  <Link href={`/deck/${deckCode}`} style={{ color: "black" }}>
-                    <DeckImage code={deckCode} />
-                  </Link>
+                  <DeckBlock code={deckCode} name={deckName} />
                   <WinRatePieChart
                     totalGames={totalGames}
                     winPercentage={winPercentage}

@@ -19,10 +19,10 @@ const Footer = () => (
         justifyContent: "space-evenly",
         width: "100%",
         maxWidth: "900px",
-        color: "black",
+        color: "white",
       }}
     >
-      <Link href="/records" style={{ color: "black" }}>
+      <Link href="/records" style={{ color: "white" }}>
         <div
           style={{
             display: "flex",
@@ -34,7 +34,7 @@ const Footer = () => (
           <span>All records</span>
         </div>
       </Link>
-      <Link href="/decks" style={{ color: "black" }}>
+      <Link href="/decks" style={{ color: "white" }}>
         <div
           style={{
             display: "flex",
@@ -48,7 +48,7 @@ const Footer = () => (
       </Link>
       <a
         href="https://github.com/PepeFranco/yugi-winrates"
-        style={{ color: "black" }}
+        style={{ color: "white" }}
       >
         <div
           style={{

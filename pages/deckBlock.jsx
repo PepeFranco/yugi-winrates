@@ -18,6 +18,7 @@ const DeckBlock = ({ code, name }) => {
           marginBottom: "20px",
           marginTop: "20px",
           marginLeft: "0px",
+          cursor: "pointer",
         }}
       >
         <div
@@ -53,7 +54,9 @@ const DeckBlock = ({ code, name }) => {
             justifyContent: "center",
           }}
         >
-          <span style={{ width: "90%", textAlign: "center" }}>{name}</span>
+          <span style={{ width: "90%", textAlign: "center", color: "white" }}>
+            {name}
+          </span>
         </div>
       </div>
     </Link>
