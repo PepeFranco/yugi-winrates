@@ -1,6 +1,6 @@
 import { PieChart } from "react-minimal-pie-chart";
 import colours from "./data/colours.json";
-import _ from 'lodash'
+import _ from "lodash";
 
 const WinRatePieChart = ({
   totalGames,
@@ -14,10 +14,13 @@ const WinRatePieChart = ({
   const getLossColor = () => {
     if (!lossColor) return colours.standard.gray;
     if (winColor === lossColor) {
-      const colourName = _.findKey(colours.standard, colour => colour === winColor)
-      return colours.light[colourName]
+      const colourName = _.findKey(
+        colours.standard,
+        (colour) => colour === winColor
+      );
+      return colours.light[colourName];
     }
-    if (lossColor === colours.standard.black) return colours.standard.gray;
+    // if (lossColor === colours.standard.black) return colours.standard.gray;
     return lossColor;
   };
   const getWinColor = () => {

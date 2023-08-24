@@ -1,4 +1,7 @@
+import Image from "next/image";
 import Link from "next/link";
+import logo from "../public/yugioh-logo.png";
+
 const Header = () => (
   <div
     style={{
@@ -6,7 +9,7 @@ const Header = () => (
       position: "-webkit - sticky",
       position: "sticky",
       top: 0,
-      background: "black",
+      background: "#F17E82",
       display: "flex",
       alignItems: "center",
       flexDirection: "column",
@@ -21,7 +24,6 @@ const Header = () => (
       }}
     >
       <Link href="/" style={{ color: "white" }}>
-
         <div
           style={{
             display: "flex",
@@ -30,10 +32,17 @@ const Header = () => (
             height: "100px",
           }}
         >
-          <img src="/logo.webp" style={{ height: "100%" }} />
+          <Image
+            src={logo}
+            alt="logo"
+            style={{ height: "75%", width: "auto", margin: "10px" }}
+            // width={500} automatically provided
+            // height={500} automatically provided
+            // blurDataURL="data:..." automatically provided
+            // placeholder="blur" // Optional blur-up while loading
+          />
           <span>Structure Decks Winrates</span>
         </div>
-
       </Link>
     </div>
   </div>
