@@ -20,7 +20,6 @@ const WinRatePieChart = ({
       );
       return colours.light[colourName];
     }
-    // if (lossColor === colours.standard.black) return colours.standard.gray;
     return lossColor;
   };
   const getWinColor = () => {
@@ -55,11 +54,11 @@ const WinRatePieChart = ({
         data={pieData}
         animate={true}
         animationDuration={1000}
+        animationEasing="cubic-bezier(0.175, 0.885, 0.32, 1.275)"
         startAngle={90}
         style={{ height: "150px" }}
         label={(props) => {
           const percentage = props?.dataEntry?.percentage;
-          const color = props?.dataEntry?.color;
           if ((percentage > 0) & (totalGames > 0))
             return `${percentage.toFixed(0)}%`;
         }}

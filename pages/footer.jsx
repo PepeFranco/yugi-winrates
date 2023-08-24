@@ -6,7 +6,7 @@ const Footer = () => (
   <div
     style={{
       width: "100%",
-      background: "black",
+      background: "#F17E82",
       display: "flex",
       alignItems: "center",
       flexDirection: "column",
@@ -19,10 +19,10 @@ const Footer = () => (
         justifyContent: "space-evenly",
         width: "100%",
         maxWidth: "900px",
+        color: "black",
       }}
     >
-      <Link href="/records" style={{ color: "white" }}>
-
+      <Link href="/records" style={{ color: "black" }}>
         <div
           style={{
             display: "flex",
@@ -33,10 +33,8 @@ const Footer = () => (
         >
           <span>All records</span>
         </div>
-
       </Link>
-      <Link href="/decks" style={{ color: "white" }}>
-
+      <Link href="/decks" style={{ color: "black" }}>
         <div
           style={{
             display: "flex",
@@ -47,11 +45,10 @@ const Footer = () => (
         >
           <span>All decks</span>
         </div>
-
       </Link>
       <a
         href="https://github.com/PepeFranco/yugi-winrates"
-        style={{ color: "white" }}
+        style={{ color: "black" }}
       >
         <div
           style={{

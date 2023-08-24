@@ -23,7 +23,7 @@ const Header = () => (
         width: "100%",
       }}
     >
-      <Link href="/" style={{ color: "white" }}>
+      <Link href="/" style={{ color: "black" }}>
         <div
           style={{
             display: "flex",

@@ -17,7 +17,8 @@ const Loader = () => (
           },
         ]}
         animate={true}
-        animationDuration={3000}
+        animationDuration={2000}
+        animationEasing="cubic-bezier(0.175, 0.885, 0.32, 1.275)"
         startAngle={90}
         style={{ height: "150px" }}
       />
