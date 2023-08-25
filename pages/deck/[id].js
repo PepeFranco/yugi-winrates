@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
-import decks from "../../decks";
 import { withRouter, useRouter } from "next/router";
+
 import Record from "../record";
 import Header from "../header";
 import Footer from "../footer";
@@ -21,13 +21,11 @@ const Deck = ({
   useEffect(() => {
     setRecords([]);
     if (id) {
-      const currentDeck = decks.filter(
-        (deckToFilter) => deckToFilter.code === id
-      )[0];
-      setDeck(currentDeck);
       fetch(`/api/deck/${id}?order=${order}`).then((response) => {
-        response.json().then((responseRecords) => {
-          setRecords(responseRecords);
+        response.json().then(({ deck, records }) => {
+          console.log({ deck, records });
+          setDeck(deck);
+          setRecords(records);
         });
       });
     }
@@ -37,7 +35,7 @@ const Deck = ({
     <div>
       <Header />
       <Head>
-        <title>Yu-gi-oh! Winrates - {deck?.name}</title>
+        {/* <title>Yu-gi-oh! Winrates - {deck?.name}</title> */}
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

@@ -3,7 +3,7 @@ import Card from "./card";
 
 const DeckBlock = ({ code, name }) => {
   return (
-    <Link href={`/deck/${code}`} legacyBehavior>
+    <Link href={`/deck/${code}`} style={{ textDecoration: "none" }}>
       <Card
         style={{
           width: "130px",
@@ -46,7 +46,13 @@ const DeckBlock = ({ code, name }) => {
             borderBottomLeftRadius: "10px",
           }}
         >
-          <span style={{ width: "90%", textAlign: "center", color: "white" }}>
+          <span
+            style={{
+              width: "90%",
+              textAlign: "center",
+              color: "white",
+            }}
+          >
             {name}
           </span>
         </div>

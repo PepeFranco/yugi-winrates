@@ -14,7 +14,6 @@ const getCardSets = async () => {
 
 const main = async () => {
   const cardSets = await getCardSets();
-  console.log(cardSets.length);
   const structureDeckSets = cardSets.filter((cardSet) => {
     const setName = cardSet["set_name"].toLowerCase();
     return (
@@ -23,8 +22,7 @@ const main = async () => {
       !setName.includes("special")
     );
   });
-  console.log(structureDeckSets.length);
-  //   console.log(JSON.stringify(structureDeckSets, null, 3));
+
   fs.writeFileSync(
     "./cardsets.json",
     JSON.stringify(structureDeckSets, null, 3),
