@@ -1,6 +1,5 @@
 import Link from "next/link";
 import DeckBlock from "./deckBlock";
-import DeckImage from "./deckImage";
 import WinRatePieChart from "./winRatePieChart";
 
 export default ({

@@ -4,7 +4,6 @@ import decks from "../decks";
 import Header from "./header";
 import Footer from "./footer";
 import Main from "./main";
-import DeckImage from "./deckImage";
 import DeckCode from "./deckBlock";
 
 import { withRouter, useRouter } from "next/router";
