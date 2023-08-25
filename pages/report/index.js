@@ -1,24 +1,31 @@
 import Head from "next/head";
-import { useState } from "react";
-import { withRouter } from "next/router";
-import decks from "../../decks";
+import { useState, useEffect } from "react";
+import { withRouter, useRouter } from "next/router";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
 import _ from "lodash";
+import { useDefaultType } from "../../hooks/useDefaultType";
 
-const Report = ({
-  router: {
-    query: { key, secret, type = "structure" },
-  },
-}) => {
+const Report = () => {
+  useDefaultType();
   const [status, setStatus] = useState("");
   const [winner, setWinner] = useState("");
   const [loser, setLoser] = useState("");
-  const filteredDecks = _.sortBy(
-    decks.filter((deck) => deck.type === type),
-    (deck) => deck.name
-  );
+
+  const router = useRouter();
+  const { key, secret, type } = router.query;
+  const [decks, setDecks] = useState([]);
+
+  useEffect(() => {
+    if (type) {
+      fetch(`/api/decks/?type=${type}&skipRecords=true`).then((response) => {
+        response.json().then((responseRecords) => {
+          setDecks(responseRecords);
+        });
+      });
+    }
+  }, [type]);
 
   return (
     <div>
@@ -80,7 +87,7 @@ const Report = ({
               }}
               value={winner}
             >
-              {filteredDecks.map((deck) => (
+              {decks.map((deck) => (
                 <option value={deck.code} key={`winner-${deck.code}`}>
                   {deck.name}
                 </option>
@@ -110,7 +117,7 @@ const Report = ({
               }}
               value={loser}
             >
-              {filteredDecks.map((deck) => (
+              {decks.map((deck) => (
                 <option value={deck.code} key={`loser-${deck.code}`}>
                   {deck.name}
                 </option>
