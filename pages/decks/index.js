@@ -87,6 +87,7 @@ const Decks = ({
         {decks.length > 0 &&
           decks.map((deck, index) => {
             const {
+              deckType,
               deckCode,
               deckName,
               deckColor,
@@ -121,7 +122,7 @@ const Decks = ({
                     alignItems: "center",
                   }}
                 >
-                  <DeckBlock code={deckCode} name={deckName} />
+                  <DeckBlock code={deckCode} name={deckName} type={deckType} />
                   <WinRatePieChart
                     totalGames={totalGames}
                     winPercentage={winPercentage}

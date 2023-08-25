@@ -58,11 +58,13 @@ export default (req, res) => {
       });
 
       const recordsWithPercentages = flattenedResult.map((record) => {
+        const deckType = type;
         const { wins, losses, totalGames, deckCode, deckName, deckColor } =
           record;
         const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
         const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
         return {
+          deckType,
           deckCode,
           deckName,
           deckColor,

@@ -50,7 +50,7 @@ const Home = () => {
                 }}
                 key={deck.code}
               >
-                <DeckBlock code={deck.code} name={deck.name} />
+                <DeckBlock code={deck.code} name={deck.name} type={deck.type} />
               </div>
             );
           })}

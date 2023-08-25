@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Card from "./card";
 
-const DeckBlock = ({ code, name }) => {
+const DeckBlock = ({ code, name, type }) => {
   return (
     <Link href={`/deck/${code}`} style={{ textDecoration: "none" }}>
       <Card
@@ -31,7 +31,7 @@ const DeckBlock = ({ code, name }) => {
               height: "90%",
               width: "auto",
             }}
-            src={`/${code}.jpg`}
+            src={`/${type}/${code}.jpg`}
           ></img>
         </div>
         <div

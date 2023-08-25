@@ -75,7 +75,9 @@ const Records = ({
         {records.length > 0 &&
           records
             .slice(0, 50)
-            .map((record, index) => <Record {...record} key={index} />)}
+            .map((record, index) => (
+              <Record {...record} key={index} deckType={"structure"} />
+            ))}
       </Main>
       <Footer />
     </div>
