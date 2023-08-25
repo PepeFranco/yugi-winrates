@@ -1,18 +1,26 @@
 import Head from "next/head";
-import Link from "next/link";
-import decks from "../decks";
 import Header from "./header";
 import Footer from "./footer";
 import Main from "./main";
-import DeckCode from "./deckBlock";
+import DeckBlock from "./deckBlock";
 
 import { withRouter, useRouter } from "next/router";
 import { useDefaultType } from "../hooks/useDefaultType";
+import { useState, useEffect } from "react";
 
 const Home = () => {
   const router = useRouter();
   const { type } = router.query;
-  const filteredDecks = decks.filter((deck) => deck.type === type);
+  const [decks, setDecks] = useState([]);
+  useEffect(() => {
+    if (type) {
+      fetch(`/api/decks/?type=${type}&skipRecords=true`).then((response) => {
+        response.json().then((responseRecords) => {
+          setDecks(responseRecords);
+        });
+      });
+    }
+  }, [type]);
 
   useDefaultType();
 
@@ -33,18 +41,17 @@ const Home = () => {
             flexWrap: "wrap",
           }}
         >
-          {filteredDecks.map((deck, index) => {
+          {decks.map((deck) => {
             return (
-              <Link href={`/deck/${deck.code}`} key={index} legacyBehavior>
-                <div
-                  style={{
-                    display: "flex",
-                    flexDirection: "column",
-                  }}
-                >
-                  <DeckCode code={deck.code} name={deck.name} />
-                </div>
-              </Link>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                }}
+                key={deck.code}
+              >
+                <DeckBlock code={deck.code} name={deck.name} />
+              </div>
             );
           })}
         </div>

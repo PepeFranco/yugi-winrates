@@ -4,10 +4,9 @@ import sortRecords from "../sortRecords";
 
 export default (req, res) => {
   const {
-    query: { order = "release", type = "structure" },
+    query: { order = "release", type = "structure", skipRecords = false },
   } = req;
   const result = {};
-  console.log({ type });
   const filteredDecks = decks.filter((deck) => {
     return deck.type === type;
   });
@@ -22,6 +21,17 @@ export default (req, res) => {
         totalGames: 0,
       })
   );
+
+  if (skipRecords) {
+    res.statusCode = 200;
+    res.setHeader("Content-Type", "application/json");
+    res.end(
+      JSON.stringify(
+        sortRecords({ recordsWithPercentages: filteredDecks, order })
+      )
+    );
+    return res.send();
+  }
 
   const tables = { structure: "yugi-winrates", speed: "yugi-winrates-speed" };
   const params = {
@@ -67,6 +77,7 @@ export default (req, res) => {
       res.statusCode = 200;
       res.setHeader("Content-Type", "application/json");
       res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
+      return res.send();
     }
   });
 };
