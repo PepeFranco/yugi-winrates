@@ -1,18 +1,11 @@
 import Link from "next/link";
+import Card from "./card";
 
 const DeckBlock = ({ code, name }) => {
   return (
     <Link href={`/deck/${code}`} legacyBehavior>
-      <div
+      <Card
         style={{
-          borderColor: "#F17E82",
-          borderRightWidth: "5px",
-          borderRightStyle: "solid",
-          borderLeftWidth: "1px",
-          borderLeftStyle: "solid",
-          borderTopWidth: "1px",
-          borderTopStyle: "solid",
-          borderRadius: "15px",
           width: "130px",
           maxWidth: "25vw",
           marginBottom: "20px",
@@ -58,7 +51,7 @@ const DeckBlock = ({ code, name }) => {
             {name}
           </span>
         </div>
-      </div>
+      </Card>
     </Link>
   );
 };

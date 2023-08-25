@@ -1,6 +1,6 @@
-import Link from "next/link";
 import DeckBlock from "./deckBlock";
 import WinRatePieChart from "./winRatePieChart";
+import Card from "./card";
 
 export default ({
   wins,
@@ -16,20 +16,10 @@ export default ({
   opponentDeckColor,
 }) => {
   return (
-    <div
+    <Card
       style={{
         display: "flex",
         justifyContent: "center",
-        borderColor: "#F17E82",
-        borderLeftWidth: "1px",
-        borderLeftStyle: "solid",
-        borderTopWidth: "1px",
-        borderTopStyle: "solid",
-        borderRightWidth: "5px",
-        borderRightStyle: "solid",
-        borderBottomWidth: "5px",
-        borderBottomStyle: "solid",
-        borderRadius: "15px",
         marginTop: "10px",
         marginBottom: "10px",
       }}
@@ -57,6 +47,6 @@ export default ({
         </div>
         <DeckBlock code={opponentDeckCode} name={opponentDeckName} />
       </div>
-    </div>
+    </Card>
   );
 };
