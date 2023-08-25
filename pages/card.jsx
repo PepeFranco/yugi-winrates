@@ -3,12 +3,11 @@ const Card = ({ children, style }) => {
     <div
       style={{
         borderColor: "#F17E82",
+        borderStyle: "solid",
         borderRightWidth: "5px",
-        borderRightStyle: "solid",
+        borderBottomWidth: "5px",
         borderLeftWidth: "1px",
-        borderLeftStyle: "solid",
         borderTopWidth: "1px",
-        borderTopStyle: "solid",
         borderRadius: "15px",
         ...style,
       }}

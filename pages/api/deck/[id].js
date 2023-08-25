@@ -4,12 +4,14 @@ import sortRecords from "../sortRecords";
 
 export default (req, res) => {
   const {
-    query: { id, order = "rating", type = "structure" },
+    query: { id, order = "rating" },
   } = req;
 
   const currentDeck = decks.find((deck) => deck.code === id);
 
   const tables = { structure: "yugi-winrates", speed: "yugi-winrates-speed" };
+  const type = currentDeck.type;
+
   const winnerParams = {
     FilterExpression: "winner = :id",
     ExpressionAttributeValues: {
@@ -36,6 +38,7 @@ export default (req, res) => {
           res.end();
         } else {
           const result = {};
+          console.log({ currentDeck });
           const otherDecks = decks.filter(
             (deckToFilter) =>
               deckToFilter.code !== id && deckToFilter.type === currentDeck.type

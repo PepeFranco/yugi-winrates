@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
 import decks from "../../decks";
-import Router, { withRouter } from "next/router";
+import { withRouter, useRouter } from "next/router";
 import Record from "../record";
 import Header from "../header";
 import Footer from "../footer";
@@ -14,6 +14,7 @@ const Deck = ({
     query: { id, order = "rating" },
   },
 }) => {
+  const router = useRouter();
   const [deck, setDeck] = useState([]);
   const [records, setRecords] = useState([]);
 
@@ -24,15 +25,13 @@ const Deck = ({
         (deckToFilter) => deckToFilter.code === id
       )[0];
       setDeck(currentDeck);
-      fetch(`/api/deck/${id}?order=${order}&type=${currentDeck.type}`).then(
-        (response) => {
-          response.json().then((responseRecords) => {
-            setRecords(responseRecords);
-          });
-        }
-      );
+      fetch(`/api/deck/${id}?order=${order}`).then((response) => {
+        response.json().then((responseRecords) => {
+          setRecords(responseRecords);
+        });
+      });
     }
-  }, [id]);
+  }, [id, order]);
 
   return (
     <div>
@@ -66,7 +65,10 @@ const Deck = ({
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
-                Router.push(`/deck/${id}?order=${e.currentTarget.value}`);
+                router.push({
+                  pathname: router.pathname,
+                  query: { id, order: e.currentTarget.value },
+                });
               }}
               value={order}
             >

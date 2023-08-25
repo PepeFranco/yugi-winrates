@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
-import Router, { withRouter } from "next/router";
+import { withRouter, useRouter } from "next/router";
 import Record from "../record";
 import Header from "../header";
 import Footer from "../footer";
@@ -13,6 +13,7 @@ const Records = ({
     query: { order = "rating" },
   },
 }) => {
+  const router = useRouter();
   const [records, setRecords] = useState([]);
 
   useEffect(() => {
@@ -55,7 +56,10 @@ const Records = ({
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
-                Router.push(`/records?order=${e.currentTarget.value}`);
+                router.push({
+                  pathname: router.pathname,
+                  query: { order: e.currentTarget.value },
+                });
               }}
               value={order}
             >

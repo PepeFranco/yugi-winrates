@@ -40,11 +40,10 @@ const DeckBlock = ({ code, name }) => {
             background: "#F17E82",
             width: "100%",
             color: "white",
-            borderBottomLeftRadius: "10px",
-            borderBottomRightRadius: "12px",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
+            borderBottomLeftRadius: "10px",
           }}
         >
           <span style={{ width: "90%", textAlign: "center", color: "white" }}>
