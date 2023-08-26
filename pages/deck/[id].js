@@ -23,7 +23,6 @@ const Deck = ({
     if (id) {
       fetch(`/api/deck/${id}?order=${order}`).then((response) => {
         response.json().then(({ deck, records }) => {
-          console.log({ deck, records });
           setDeck(deck);
           setRecords(records);
         });

@@ -15,6 +15,7 @@ import {
   IndividualDeckRecord,
   IndividualDeckOrderConstants,
 } from "../../types";
+import Card from "../card";
 
 const Decks = () => {
   const router = useRouter();
@@ -106,19 +107,9 @@ const Decks = () => {
               lossPercentage,
             } = deck;
             return (
-              <div
+              <Card
                 key={index}
                 style={{
-                  borderColor: "#F17E82",
-                  borderLeftWidth: "1px",
-                  borderLeftStyle: "solid",
-                  borderTopWidth: "1px",
-                  borderTopStyle: "solid",
-                  borderRightWidth: "5px",
-                  borderRightStyle: "solid",
-                  borderBottomWidth: "5px",
-                  borderBottomStyle: "solid",
-                  borderRadius: "15px",
                   marginTop: "10px",
                   marginBottom: "10px",
                 }}
@@ -141,7 +132,7 @@ const Decks = () => {
                     losses={losses}
                   />
                 </div>
-              </div>
+              </Card>
             );
           })}
       </Main>

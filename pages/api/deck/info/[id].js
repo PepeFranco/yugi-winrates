@@ -13,8 +13,6 @@ export default (req, res) => {
     ({ set_code }) => set_code.trim().toLowerCase() === id.trim().toLowerCase()
   )[0].tcg_date;
 
-  console.log({ deck, releaseDate });
-
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
   res.end(JSON.stringify({ name: deck.name, releaseDate }));

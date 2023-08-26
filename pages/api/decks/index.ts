@@ -47,7 +47,6 @@ export default (req: Request, res) => {
     Object.keys(individualDeckRecordMap).map((deckCode) => {
       individualDeckRecordArray.push(individualDeckRecordMap[deckCode]);
     });
-    console.log(individualDeckRecordArray);
     return individualDeckRecordArray;
   };
 

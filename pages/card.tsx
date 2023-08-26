@@ -1,4 +1,10 @@
-const Card = ({ children, style }) => {
+import React from "react";
+
+type CardProps = React.PropsWithChildren<{
+  style?: Record<string, string>;
+}>;
+
+const Card = ({ children, style }: CardProps) => {
   return (
     <div
       style={{
