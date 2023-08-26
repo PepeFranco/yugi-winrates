@@ -1,6 +1,6 @@
 import Head from "next/head";
-import { useEffect, useState, useRef } from "react";
-import Router, { withRouter } from "next/router";
+import React, { useEffect, useState } from "react";
+import { withRouter, useRouter } from "next/router";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
@@ -10,34 +10,39 @@ import MatchupCounter from "../matchupCounter";
 import { useDefaultType } from "../../hooks/useDefaultType";
 import DeckBlock from "../deckBlock";
 
-const Decks = ({
-  router: {
-    query: { order, type },
-  },
-}) => {
-  const [decks, setDecks] = useState([]);
+import {
+  IndividualDeckOrder,
+  IndividualDeckRecord,
+  IndividualDeckOrderConstants,
+} from "../../types";
 
-  const fillDecks = (request) => (response) => {
-    response.json().then((responseDecks) => {
-      setDecks(responseDecks);
-    });
+const Decks = () => {
+  const router = useRouter();
+  const { order, type } = router.query;
+  const [decks, setDecks] = useState<IndividualDeckRecord[]>([]);
+
+  const getOrderQuery = (): IndividualDeckOrder => {
+    if (typeof order === "string") {
+      if (IndividualDeckOrderConstants.includes(order as IndividualDeckOrder)) {
+        return order as IndividualDeckOrder;
+      }
+    }
+    return "winrate";
   };
 
-  const fetchDecks = () => {
-    setDecks([]);
-    const request = `/api/decks?order=${order || "winrate"}&type=${
-      type || "structure"
-    }`;
-    fetch(request).then(fillDecks(request));
-  };
+  useDefaultType();
 
   useEffect(() => {
     if (type) {
-      fetchDecks();
+      setDecks([]);
+      const request = `/api/decks?order=${getOrderQuery()}&type=${type}`;
+      fetch(request).then((response) => {
+        response.json().then((responseRecords: IndividualDeckRecord[]) => {
+          setDecks(responseRecords);
+        });
+      });
     }
   }, [type, order]);
-
-  useDefaultType();
 
   return (
     <div>
@@ -70,7 +75,10 @@ const Decks = ({
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
-                Router.push(`/decks?order=${e.currentTarget.value}`);
+                router.push({
+                  pathname: router.pathname,
+                  query: { order: e.currentTarget.value, type },
+                });
               }}
               value={order}
             >
@@ -87,7 +95,7 @@ const Decks = ({
         {decks.length > 0 &&
           decks.map((deck, index) => {
             const {
-              deckType,
+              type,
               deckCode,
               deckName,
               deckColor,
@@ -122,7 +130,7 @@ const Decks = ({
                     alignItems: "center",
                   }}
                 >
-                  <DeckBlock code={deckCode} name={deckName} type={deckType} />
+                  <DeckBlock code={deckCode} name={deckName} type={type} />
                   <WinRatePieChart
                     totalGames={totalGames}
                     winPercentage={winPercentage}

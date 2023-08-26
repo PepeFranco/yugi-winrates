@@ -34,6 +34,8 @@ export default (req: Request, res) => {
         deckName: deck.name,
         deckColor: deck.color,
         wins: 0,
+        winPercentage: 0,
+        lossPercentage: 0,
         losses: 0,
         totalGames: 0,
         type,
