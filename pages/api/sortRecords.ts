@@ -1,13 +1,24 @@
+import {
+  DeckMatchupRecord,
+  IndividualDeckRecord,
+  IndividualDeckOrder,
+  DeckMatchupOrder,
+} from "../../types";
+
 const hasOpponent = (record) => Boolean(record.opponentDeckName);
 
-const sortRecordsAlphabetically = (records) =>
+const sortRecordsAlphabetically = (
+  records: DeckMatchupRecord[] | IndividualDeckRecord[]
+) =>
   records.sort((recordA, recordB) =>
     hasOpponent(recordA) && hasOpponent(recordB)
       ? recordA.opponentDeckName.localeCompare(recordB.opponentDeckName)
       : recordA.deckName.localeCompare(recordB.deckName)
   );
 
-const sortRecordsByRating = (records) => {
+const sortRecordsByRating = (
+  records: DeckMatchupRecord[] | IndividualDeckRecord[]
+) => {
   return records.sort((recordA, recordB) => {
     if (recordA.rating === recordB.rating) {
       return recordA.totalGames < recordB.totalGames ? 1 : -1;
@@ -16,7 +27,9 @@ const sortRecordsByRating = (records) => {
   });
 };
 
-const sortRecordsByWinrate = (records) => {
+const sortRecordsByWinrate = (
+  records: DeckMatchupRecord[] | IndividualDeckRecord[]
+) => {
   return records.sort((recordA, recordB) => {
     if (recordA.winPercentage === recordB.winPercentage)
       return recordA.totalGames < recordB.totalGames ? 1 : -1;
@@ -24,12 +37,24 @@ const sortRecordsByWinrate = (records) => {
   });
 };
 
-const sortRecordsByTotalGames = (records) =>
+const sortRecordsByTotalGames = (
+  records: DeckMatchupRecord[] | IndividualDeckRecord[]
+) =>
   records.sort((recordA, recordB) =>
     recordA.totalGames < recordB.totalGames ? 1 : -1
   );
 
-const sortRecords = ({ recordsWithPercentages, order }) => {
+type SortRecordsArgs =
+  | {
+      recordsWithPercentages: DeckMatchupRecord[];
+      order: DeckMatchupOrder;
+    }
+  | {
+      recordsWithPercentages: IndividualDeckRecord[];
+      order: IndividualDeckOrder;
+    };
+
+const sortRecords = ({ recordsWithPercentages, order }: SortRecordsArgs) => {
   if (order === "alphabetical") {
     return sortRecordsAlphabetically(recordsWithPercentages);
   }

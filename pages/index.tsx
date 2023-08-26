@@ -4,18 +4,20 @@ import Footer from "./footer";
 import Main from "./main";
 import DeckBlock from "./deckBlock";
 
-import { withRouter, useRouter } from "next/router";
+import React, { withRouter, useRouter } from "next/router";
 import { useDefaultType } from "../hooks/useDefaultType";
 import { useState, useEffect } from "react";
+
+import { IndividualDeckRecord } from "../types";
 
 const Home = () => {
   const router = useRouter();
   const { type } = router.query;
-  const [decks, setDecks] = useState([]);
+  const [decks, setDecks] = useState<IndividualDeckRecord[]>([]);
   useEffect(() => {
     if (type) {
       fetch(`/api/decks/?type=${type}&skipRecords=true`).then((response) => {
-        response.json().then((responseRecords) => {
+        response.json().then((responseRecords: IndividualDeckRecord[]) => {
           setDecks(responseRecords);
         });
       });
@@ -48,9 +50,13 @@ const Home = () => {
                   display: "flex",
                   flexDirection: "column",
                 }}
-                key={deck.code}
+                key={deck.deckCode}
               >
-                <DeckBlock code={deck.code} name={deck.name} type={deck.type} />
+                <DeckBlock
+                  code={deck.deckCode}
+                  name={deck.deckName}
+                  type={deck.type}
+                />
               </div>
             );
           })}

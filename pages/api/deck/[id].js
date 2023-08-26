@@ -38,10 +38,9 @@ export default (req, res) => {
           res.end();
         } else {
           const result = {};
-          console.log({ currentDeck });
           const otherDecks = decks.filter(
             (deckToFilter) =>
-              deckToFilter.code !== id && deckToFilter.type === currentDeck.type
+              deckToFilter.code !== id && deckToFilter.type === type
           );
           otherDecks.map(
             (deck) =>

@@ -13,7 +13,9 @@ const {
   pink,
 } = colours.standard;
 
-const speedDuelDecks = [
+import { SpeedDuelDeck, StructureDeck } from "./types";
+
+const speedDuelDecks: SpeedDuelDeck[] = [
   {
     type: "speed",
     code: "SGX1-ENS05",
@@ -154,7 +156,7 @@ const speedDuelDecks = [
   },
 ];
 
-const decks = [
+const structureDecks: StructureDeck[] = [
   { type: "structure", code: "SD1", name: "Dragon's Roar", color: green },
   { type: "structure", code: "SD2", name: "Zombie Madness", color: purple },
   { type: "structure", code: "SD3", name: "Blaze of Destruction", color: red },
@@ -274,4 +276,4 @@ const decks = [
   { type: "structure", code: "SDCK", name: "The Crimson King", color: red },
 ];
 
-export default [...decks, ...speedDuelDecks];
+export default [...structureDecks, ...speedDuelDecks];
