@@ -18,12 +18,7 @@ const sortRecordsAlphabetically = (
 const sortRecordsByRating = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
 ) => {
-  return _.reverse(
-    _.sortBy(
-      _.sortBy(records, (record) => record.totalGames),
-      (record) => record.rating
-    )
-  );
+  return _.reverse(_.sortBy(records, ["rating", "totalGames"]));
 };
 
 const sortRecordsByWinrate = (
