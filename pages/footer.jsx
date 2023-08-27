@@ -1,11 +1,14 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { useDefaultType } from "../hooks/useDefaultType";
 
 const footerHeight = "50px";
 
 const Footer = () => {
   const router = useRouter();
   const { type } = router.query;
+
+  useDefaultType();
 
   return (
     <div

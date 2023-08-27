@@ -3,7 +3,10 @@ import Card from "./card";
 
 const DeckBlock = ({ code, name, type }) => {
   return (
-    <Link href={`/deck/${code}`} style={{ textDecoration: "none" }}>
+    <Link
+      href={`/deck/${code}?type=${type}`}
+      style={{ textDecoration: "none" }}
+    >
       <Card
         style={{
           width: "130px",
