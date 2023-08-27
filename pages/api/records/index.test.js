@@ -1,6 +1,10 @@
-import { transformDBItemsToRecordsArray } from "./index";
+import getRecords, { transformDBItemsToRecordsArray } from "./index";
 import colours from "../../data/colours.json";
 import decks from "../../../decks";
+import { docClient } from "../aws";
+
+jest.mock("../aws", () => ({ docClient: { scan: jest.fn() } }));
+
 const { purple, green, red, aqua } = colours.standard;
 
 const sumTo = (n) => (n * (n + 1)) / 2;
@@ -66,4 +70,8 @@ it("transforms DB Items to Records Array with Percentages", () => {
       }),
     ])
   );
+});
+
+it("can call", () => {
+  getRecords({ query: {} });
 });

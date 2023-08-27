@@ -136,7 +136,7 @@ interface Request extends NextApiRequest {
   };
 }
 
-export default (req, res) => {
+export default (req: Request, res) => {
   const {
     query: { order = "rating", type = "structure" },
   } = req;
