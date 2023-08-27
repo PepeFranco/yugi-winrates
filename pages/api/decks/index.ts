@@ -7,7 +7,7 @@ import {
   IndividualDeckOrder,
 } from "../../../types";
 
-import type { NextApiRequest, NextApiResponse } from "next";
+import type { NextApiRequest } from "next";
 
 interface Request extends NextApiRequest {
   query: {
@@ -42,7 +42,7 @@ export default (req: Request, res) => {
       })
   );
 
-  const transformResultObjectToRecordArray = () => {
+  const getRecordArray = () => {
     const individualDeckRecordArray: IndividualDeckRecord[] = [];
     Object.keys(individualDeckRecordMap).map((deckCode) => {
       individualDeckRecordArray.push(individualDeckRecordMap[deckCode]);
@@ -56,7 +56,7 @@ export default (req: Request, res) => {
     res.end(
       JSON.stringify(
         sortRecords({
-          recordsWithPercentages: transformResultObjectToRecordArray(),
+          recordsWithPercentages: getRecordArray(),
           order,
         })
       )
@@ -78,45 +78,44 @@ export default (req: Request, res) => {
       console.log(error);
       res.statusCode = 500;
       res.end();
-    } else {
-      if (!data.Items) {
-        return generateResponse();
-      }
-
-      data.Items.map((item) => {
-        individualDeckRecordMap[item.winner].totalGames++;
-        individualDeckRecordMap[item.winner].wins++;
-        individualDeckRecordMap[item.loser].totalGames++;
-        individualDeckRecordMap[item.loser].losses++;
-      });
-
-      const individualDeckRecordArray = transformResultObjectToRecordArray();
-      const recordsWithPercentages: IndividualDeckRecord[] =
-        individualDeckRecordArray.map((record) => {
-          const deckType = type;
-          const { wins, losses, totalGames, deckCode, deckName, deckColor } =
-            record;
-          const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
-          const lossPercentage =
-            totalGames > 0 ? (losses * 100) / totalGames : 0;
-          return {
-            deckType,
-            deckCode,
-            deckName,
-            deckColor,
-            wins,
-            losses,
-            totalGames,
-            winPercentage,
-            lossPercentage,
-            type,
-          };
-        });
-
-      res.statusCode = 200;
-      res.setHeader("Content-Type", "application/json");
-      res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
       return res.send();
     }
+    if (!data.Items) {
+      return generateResponse();
+    }
+
+    data.Items.map((item) => {
+      individualDeckRecordMap[item.winner].totalGames++;
+      individualDeckRecordMap[item.winner].wins++;
+      individualDeckRecordMap[item.loser].totalGames++;
+      individualDeckRecordMap[item.loser].losses++;
+    });
+
+    const individualDeckRecordArray = getRecordArray();
+    const recordsWithPercentages: IndividualDeckRecord[] =
+      individualDeckRecordArray.map((record) => {
+        const deckType = type;
+        const { wins, losses, totalGames, deckCode, deckName, deckColor } =
+          record;
+        const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
+        const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
+        return {
+          deckType,
+          deckCode,
+          deckName,
+          deckColor,
+          wins,
+          losses,
+          totalGames,
+          winPercentage,
+          lossPercentage,
+          type,
+        };
+      });
+
+    res.statusCode = 200;
+    res.setHeader("Content-Type", "application/json");
+    res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
+    return res.send();
   });
 };

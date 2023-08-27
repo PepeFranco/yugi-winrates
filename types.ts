@@ -12,23 +12,24 @@ export type StructureDeck = Omit<Deck, "type"> & { type: "structure" };
 
 export type GenericRecord = {
   deckName: string;
+  deckCode: string;
+  deckColor: string;
   type: DeckType;
+  wins: number;
   winPercentage: number;
+  losses: number;
   lossPercentage: number;
   totalGames: number;
 };
 
 export type DeckMatchupRecord = GenericRecord & {
   opponentDeckName: string;
+  opponentDeckColor: string;
+  opponentDeckCode: string;
   rating: number;
 };
 
-export type IndividualDeckRecord = GenericRecord & {
-  deckCode: string;
-  wins: number;
-  losses: number;
-  deckColor: string;
-};
+export type IndividualDeckRecord = GenericRecord;
 
 export const IndividualDeckOrderConstants = [
   "alphabetical",
