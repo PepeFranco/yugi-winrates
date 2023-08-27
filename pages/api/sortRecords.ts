@@ -9,11 +9,9 @@ import _ from "lodash";
 
 const sortRecordsAlphabetically = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
-) =>
-  _.sortBy(
-    records,
-    (record) => `${record.opponentDeckName} - ${record.deckName}`
-  );
+) => {
+  return _.sortBy(records, ["opponentDeckName", "deckName"]);
+};
 
 const sortRecordsByRating = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
@@ -24,11 +22,7 @@ const sortRecordsByRating = (
 const sortRecordsByWinrate = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
 ) => {
-  return records.sort((recordA, recordB) => {
-    if (recordA.winPercentage === recordB.winPercentage)
-      return recordA.totalGames < recordB.totalGames ? 1 : -1;
-    return recordA.winPercentage < recordB.winPercentage ? 1 : -1;
-  });
+  return _.reverse(_.sortBy(records, ["winPercentage", "totalGames"]));
 };
 
 const sortRecordsByTotalGames = (
