@@ -272,3 +272,20 @@ describe("totalGames", () => {
     expect(sortRecords({ recordsWithPercentages, order })).toEqual(result);
   });
 });
+
+it("does not sort if not a valid order argument", () => {
+  const recordsWithPercentages = [
+    {
+      totalGames: 10,
+    },
+    {
+      totalGames: 20,
+    },
+    {
+      totalGames: 5,
+    },
+  ];
+  expect(sortRecords({ recordsWithPercentages, order: "not valid" })).toEqual(
+    recordsWithPercentages
+  );
+});

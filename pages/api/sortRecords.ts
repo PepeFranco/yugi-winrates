@@ -5,15 +5,16 @@ import {
   DeckMatchupOrder,
 } from "../../types";
 
+import _ from "lodash";
+
 const hasOpponent = (record) => Boolean(record.opponentDeckName);
 
 const sortRecordsAlphabetically = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
 ) =>
-  records.sort((recordA, recordB) =>
-    hasOpponent(recordA) && hasOpponent(recordB)
-      ? recordA.opponentDeckName.localeCompare(recordB.opponentDeckName)
-      : recordA.deckName.localeCompare(recordB.deckName)
+  _.sortBy(
+    records,
+    (record) => `${record.opponentDeckName} - ${record.deckName}`
   );
 
 const sortRecordsByRating = (
