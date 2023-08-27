@@ -74,10 +74,17 @@ it("transforms DB Items to Records Array with Percentages", () => {
 });
 
 it("returns 500 if scan fails", () => {
+  //arrange
   docClient.scan.mockImplementation((params, callback) => {
     callback("fake error");
   });
-  const res = { end: _.noop, send: _.noop };
-  getRecords({ query: {} }, res);
+  const res = { end: jest.fn(), send: jest.fn() };
+
+  //act
+  const result = getRecords({ query: {} }, res);
+
+  //assert
   expect(res.statusCode).toEqual(500);
+  expect(res.end).toHaveBeenCalled();
+  expect(res.end).toHaveBeenCalled();
 });

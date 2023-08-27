@@ -150,6 +150,7 @@ export default (req: Request, res) => {
     if (error) {
       res.statusCode = 500;
       res.end();
+      return res.send();
     } else {
       const recordsWithPercentages = transformDBItemsToRecordsArray(data.Items);
       res.statusCode = 200;
