@@ -7,8 +7,6 @@ import {
 
 import _ from "lodash";
 
-const hasOpponent = (record) => Boolean(record.opponentDeckName);
-
 const sortRecordsAlphabetically = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
 ) =>
@@ -20,12 +18,12 @@ const sortRecordsAlphabetically = (
 const sortRecordsByRating = (
   records: DeckMatchupRecord[] | IndividualDeckRecord[]
 ) => {
-  return records.sort((recordA, recordB) => {
-    if (recordA.rating === recordB.rating) {
-      return recordA.totalGames < recordB.totalGames ? 1 : -1;
-    }
-    return recordA.rating < recordB.rating ? 1 : -1;
-  });
+  return _.reverse(
+    _.sortBy(
+      _.sortBy(records, (record) => record.totalGames),
+      (record) => record.rating
+    )
+  );
 };
 
 const sortRecordsByWinrate = (
