@@ -2,6 +2,7 @@ import getRecords, { transformDBItemsToRecordsArray } from "./index";
 import colours from "../../data/colours.json";
 import decks from "../../../decks";
 import { docClient } from "../aws";
+import _ from "lodash";
 
 jest.mock("../aws", () => ({ docClient: { scan: jest.fn() } }));
 
@@ -72,6 +73,11 @@ it("transforms DB Items to Records Array with Percentages", () => {
   );
 });
 
-it("can call", () => {
-  getRecords({ query: {} });
+it("returns 500 if scan fails", () => {
+  docClient.scan.mockImplementation((params, callback) => {
+    callback("fake error");
+  });
+  const res = { end: _.noop, send: _.noop };
+  getRecords({ query: {} }, res);
+  expect(res.statusCode).toEqual(500);
 });
