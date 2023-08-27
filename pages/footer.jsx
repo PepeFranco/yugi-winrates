@@ -1,68 +1,74 @@
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 const footerHeight = "50px";
 
-const Footer = () => (
-  <div
-    style={{
-      width: "100%",
-      background: "#F17E82",
-      display: "flex",
-      alignItems: "center",
-      flexDirection: "column",
-    }}
-  >
+const Footer = () => {
+  const router = useRouter();
+  const { type } = router.query;
+
+  return (
     <div
       style={{
-        display: "flex",
-        flexDirection: "row",
-        justifyContent: "space-evenly",
         width: "100%",
-        maxWidth: "900px",
-        color: "white",
+        background: "#F17E82",
+        display: "flex",
+        alignItems: "center",
+        flexDirection: "column",
       }}
     >
-      <Link href="/records" style={{ color: "white" }}>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            alignItems: "center",
-            height: footerHeight,
-          }}
-        >
-          <span>All records</span>
-        </div>
-      </Link>
-      <Link href="/decks" style={{ color: "white" }}>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            alignItems: "center",
-            height: footerHeight,
-          }}
-        >
-          <span>All decks</span>
-        </div>
-      </Link>
-      <a
-        href="https://github.com/PepeFranco/yugi-winrates"
-        style={{ color: "white" }}
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          justifyContent: "space-evenly",
+          width: "100%",
+          maxWidth: "900px",
+          color: "white",
+        }}
       >
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            alignItems: "center",
-            height: footerHeight,
-          }}
+        <Link href={`/records?type=${type}`} style={{ color: "white" }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              height: footerHeight,
+            }}
+          >
+            <span>All records</span>
+          </div>
+        </Link>
+        <Link href={`/decks?type=${type}`} style={{ color: "white" }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              height: footerHeight,
+            }}
+          >
+            <span>All decks</span>
+          </div>
+        </Link>
+        <a
+          href="https://github.com/PepeFranco/yugi-winrates"
+          style={{ color: "white" }}
         >
-          <span>Source code</span>
-        </div>
-      </a>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              height: footerHeight,
+            }}
+          >
+            <span>Source code</span>
+          </div>
+        </a>
+      </div>
     </div>
-  </div>
-);
+  );
+};
 
 export default Footer;

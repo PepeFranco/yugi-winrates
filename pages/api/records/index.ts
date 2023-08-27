@@ -2,6 +2,9 @@ import { docClient } from "../aws";
 import decks from "../../../decks";
 import sortRecords from "../sortRecords";
 
+import type { NextApiRequest } from "next";
+import { DeckMatchupOrder, DeckType } from "../../../types";
+
 const getDecksCombinations = (result, decks) => {
   if (decks.length === 1) return result;
   const currentDeck = decks[0];
@@ -118,22 +121,29 @@ const calculatePercentages = (records) =>
 export const transformDBItemsToRecordsArray = (dbItems) => {
   const result = putDBItemsIntoRecordObject(dbItems);
   const flattenedResult = flattenResult(result);
-  const flattenedResultWithWinnersOnTheLeft = putWinnersOnTheLeft(
-    flattenedResult
-  );
+  const flattenedResultWithWinnersOnTheLeft =
+    putWinnersOnTheLeft(flattenedResult);
   const recordsWithPercentages = calculatePercentages(
     flattenedResultWithWinnersOnTheLeft
   );
   return recordsWithPercentages;
 };
 
+interface Request extends NextApiRequest {
+  query: {
+    order?: DeckMatchupOrder;
+    type?: DeckType;
+  };
+}
+
 export default (req, res) => {
   const {
-    query: { order = "rating" },
+    query: { order = "rating", type = "structure" },
   } = req;
 
+  const tables = { structure: "yugi-winrates", speed: "yugi-winrates-speed" };
   const params = {
-    TableName: "yugi-winrates",
+    TableName: tables[type],
   };
 
   docClient.scan(params, (error, data) => {

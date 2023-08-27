@@ -7,23 +7,37 @@ import Footer from "../footer";
 import Main from "../main";
 import Loader from "../loader";
 import MatchupCounter from "../matchupCounter";
+import { useDefaultType } from "../../hooks/useDefaultType";
+import { DeckMatchupOrderConstants } from "../../types";
 
-const Records = ({
-  router: {
-    query: { order = "rating" },
-  },
-}) => {
+const Records = () => {
   const router = useRouter();
+  const { order, type } = router.query;
   const [records, setRecords] = useState([]);
+
+  useDefaultType();
+
+  const getOrderQuery = () => {
+    if (typeof order === "string") {
+      if (DeckMatchupOrderConstants.includes(order)) {
+        return order;
+      }
+    }
+    return "winrate";
+  };
 
   useEffect(() => {
     setRecords([]);
-    fetch(`/api/records?order=${order}`).then((response) => {
-      response.json().then((responseRecords) => {
-        setRecords(responseRecords);
-      });
-    });
-  }, [order]);
+    if (type) {
+      fetch(`/api/records?order=${getOrderQuery()}&type=${type}`).then(
+        (response) => {
+          response.json().then((responseRecords) => {
+            setRecords(responseRecords);
+          });
+        }
+      );
+    }
+  }, [type, order]);
 
   return (
     <div>
@@ -58,7 +72,7 @@ const Records = ({
               onChange={(e) => {
                 router.push({
                   pathname: router.pathname,
-                  query: { order: e.currentTarget.value },
+                  query: { order: e.currentTarget.value, type },
                 });
               }}
               value={order}
@@ -76,7 +90,7 @@ const Records = ({
           records
             .slice(0, 50)
             .map((record, index) => (
-              <Record {...record} key={index} deckType={"structure"} />
+              <Record {...record} key={index} deckType={type} />
             ))}
       </Main>
       <Footer />
