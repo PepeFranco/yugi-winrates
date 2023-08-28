@@ -42,7 +42,6 @@ it("transforms db items into record array", async () => {
     .expect(200)
     .expect("Content-Type", /json/)
     .then((res) => {
-      console.log(res.body);
       expect(res.body).toEqual([
         {
           deckCode: "SD2",
@@ -57,6 +56,7 @@ it("transforms db items into record array", async () => {
           totalGames: 4,
           winPercentage: 50,
           wins: 2,
+          type: "structure",
         },
         {
           deckCode: "SD6",
@@ -71,6 +71,7 @@ it("transforms db items into record array", async () => {
           totalGames: 1,
           winPercentage: 100,
           wins: 1,
+          type: "structure",
         },
         {
           deckCode: "SD5",
@@ -85,6 +86,7 @@ it("transforms db items into record array", async () => {
           totalGames: 1,
           winPercentage: 100,
           wins: 1,
+          type: "structure",
         },
         {
           deckCode: "SD3",
@@ -99,6 +101,7 @@ it("transforms db items into record array", async () => {
           totalGames: 1,
           winPercentage: 100,
           wins: 1,
+          type: "structure",
         },
         {
           deckCode: "SD2",
@@ -113,6 +116,7 @@ it("transforms db items into record array", async () => {
           totalGames: 1,
           winPercentage: 100,
           wins: 1,
+          type: "structure",
         },
       ]);
     });
@@ -152,6 +156,7 @@ it("puts winners on the left", async () => {
           winPercentage: 75,
           lossPercentage: 25,
           rating: 75,
+          type: "structure",
         },
       ]);
     });

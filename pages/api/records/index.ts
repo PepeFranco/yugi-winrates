@@ -39,10 +39,10 @@ const putDBItemsIntoRecordObject = (items) => {
         opponentDeckName: opponentDeck.name,
         opponentDeckColor: opponentDeck.color,
         wins: 1,
-        winPercentage: 0,
         losses: 0,
-        lossPercentage: 0,
         totalGames: 1,
+        lossPercentage: 0,
+        winPercentage: 0,
         rating: 0,
       };
       // console.log(result);
@@ -62,10 +62,10 @@ const putDBItemsIntoRecordObject = (items) => {
       opponentDeckName: opponentDeck.name,
       opponentDeckColor: opponentDeck.color,
       wins: 1,
-      winPercentage: 0,
       losses: 0,
-      lossPercentage: 0,
       totalGames: 1,
+      winPercentage: 0,
+      lossPercentage: 0,
       rating: 0,
     };
     // console.log(result);
@@ -87,63 +87,33 @@ const flattenResult = (result) => {
 
 const putWinnersOnTheLeft = (records) =>
   records.map((record) => {
-    if (record.wins >= record.losses) return record;
-    const {
-      deckCode,
-      deckName,
-      deckColor,
-      opponentDeckCode,
-      opponentDeckName,
-      opponentDeckColor,
-      wins,
-      losses,
-      winPercentage,
-      lossPercentage,
-      totalGames,
-      rating,
-    } = record;
+    if (record.wins >= record.losses) {
+      return record;
+    }
+
     return {
-      deckCode: opponentDeckCode,
-      deckName: opponentDeckName,
-      deckColor: opponentDeckColor,
-      opponentDeckCode: deckCode,
-      opponentDeckName: deckName,
-      opponentDeckColor: deckColor,
-      wins: losses,
-      losses: wins,
-      winPercentage: lossPercentage,
-      lossPercentage: winPercentage,
-      totalGames,
-      rating,
+      ...record,
+      deckCode: record.opponentDeckCode,
+      deckName: record.opponentDeckName,
+      deckColor: record.opponentDeckColor,
+      opponentDeckCode: record.deckCode,
+      opponentDeckName: record.deckName,
+      opponentDeckColor: record.deckColor,
+      wins: record.losses,
+      losses: record.wins,
+      winPercentage: record.lossPercentage,
+      lossPercentage: record.winPercentage,
     };
   });
 
 const calculatePercentages = (records) =>
   records.map((record) => {
-    const {
-      wins,
-      losses,
-      totalGames,
-      deckCode,
-      deckName,
-      deckColor,
-      opponentDeckCode,
-      opponentDeckName,
-      opponentDeckColor,
-    } = record;
+    const { wins, losses, totalGames } = record;
     const winPercentage = (wins * 100) / totalGames;
     const lossPercentage = (losses * 100) / totalGames;
     const rating = 100 - Math.abs(winPercentage - 50);
     return {
-      deckCode,
-      deckName,
-      deckColor,
-      opponentDeckCode,
-      opponentDeckName,
-      opponentDeckColor,
-      wins,
-      losses,
-      totalGames,
+      ...record,
       winPercentage,
       lossPercentage,
       rating,
