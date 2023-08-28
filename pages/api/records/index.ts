@@ -49,29 +49,6 @@ const putDBItemsIntoRecordObject = (items) => {
       return;
     }
 
-    if (result[item.loser]) {
-      // console.log("loser found ", item.loser);
-      const deck = decks.find((deck) => deck.code === item.loser);
-      const opponentDeck = decks.find((deck) => deck.code === item.winner);
-      result[item.loser][item.winner] = {
-        deckCode: deck.code,
-        deckName: deck.name,
-        deckColor: deck.color,
-        type: deck.type,
-        opponentDeckCode: opponentDeck.code,
-        opponentDeckName: opponentDeck.name,
-        opponentDeckColor: opponentDeck.color,
-        wins: 0,
-        winPercentage: 0,
-        losses: 1,
-        lossPercentage: 0,
-        totalGames: 1,
-        rating: 0,
-      };
-      // console.log(result);
-      return;
-    }
-
     // console.log("no winner or loser found");
     const deck = decks.find((deck) => deck.code === item.winner);
     const opponentDeck = decks.find((deck) => deck.code === item.loser);
@@ -154,9 +131,9 @@ const calculatePercentages = (records) =>
       opponentDeckName,
       opponentDeckColor,
     } = record;
-    const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
-    const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
-    const rating = totalGames > 0 ? 100 - Math.abs(winPercentage - 50) : 0;
+    const winPercentage = (wins * 100) / totalGames;
+    const lossPercentage = (losses * 100) / totalGames;
+    const rating = 100 - Math.abs(winPercentage - 50);
     return {
       deckCode,
       deckName,
