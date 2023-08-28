@@ -3,9 +3,17 @@ import decks from "../../../decks";
 import sortRecords from "../sortRecords";
 
 import type { NextApiRequest } from "next";
-import { DeckMatchupOrder, DeckType } from "../../../types";
+import {
+  Deck,
+  DeckMatchupOrder,
+  DeckMatchupRecord,
+  DeckType,
+} from "../../../types";
 
-const getDecksCombinations = (result, decks) => {
+const getDecksCombinations = (
+  result: Record<string, Record<string, DeckMatchupRecord>>,
+  decks: Deck[]
+) => {
   if (decks.length === 1) return result;
   const currentDeck = decks[0];
   result[currentDeck.code] = {};
@@ -15,11 +23,15 @@ const getDecksCombinations = (result, decks) => {
       deckName: currentDeck.name,
       deckColor: currentDeck.color,
       wins: 0,
+      winPercentage: 0,
       losses: 0,
+      lossPercentage: 0,
       totalGames: 0,
       opponentDeckCode: opponentDeck.code,
       opponentDeckName: opponentDeck.name,
       opponentDeckColor: opponentDeck.color,
+      type: "structure",
+      rating: 0,
     };
   });
   return getDecksCombinations(result, decks.slice(1));
@@ -151,11 +163,12 @@ export default (req: Request, res) => {
       res.statusCode = 500;
       res.end();
       return res.send();
-    } else {
-      const recordsWithPercentages = transformDBItemsToRecordsArray(data.Items);
-      res.statusCode = 200;
-      res.setHeader("Content-Type", "application/json");
-      res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
     }
+
+    const recordsWithPercentages = transformDBItemsToRecordsArray(data.Items);
+    res.statusCode = 200;
+    res.setHeader("Content-Type", "application/json");
+    res.end(JSON.stringify(sortRecords({ recordsWithPercentages, order })));
+    return res.send();
   });
 };
