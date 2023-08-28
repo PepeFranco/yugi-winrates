@@ -38,17 +38,33 @@ const getDecksCombinations = (
 };
 
 const putDBItemsIntoRecordObject = (items) => {
-  const result = getDecksCombinations({}, decks);
+  const result = {};
   items.map((item) => {
-    if (result[item.winner] && result[item.winner][item.loser]) {
-      result[item.winner][item.loser].wins++;
-      result[item.winner][item.loser].totalGames++;
+    if (!result[item.winner]) {
+      result[item.winner] = {};
     }
 
-    if (result[item.loser] && result[item.loser][item.winner]) {
-      result[item.loser][item.winner].losses++;
-      result[item.loser][item.winner].totalGames++;
+    if (!result[item.winner][item.loser]) {
+      const winnerDeck = decks.find((deck) => deck.code === item.winner);
+      const loserDeck = decks.find((deck) => deck.code === item.loser);
+      result[item.winner][item.loser] = {
+        deckCode: winnerDeck.code,
+        deckName: winnerDeck.name,
+        deckColor: winnerDeck.color,
+        wins: 0,
+        winPercentage: 0,
+        losses: 0,
+        lossPercentage: 0,
+        totalGames: 0,
+        opponentDeckCode: loserDeck.code,
+        opponentDeckName: loserDeck.name,
+        opponentDeckColor: loserDeck.color,
+        type: winnerDeck.type,
+        rating: 0,
+      };
     }
+    result[item.winner][item.loser].wins++;
+    result[item.winner][item.loser].totalGames++;
   });
   return result;
 };
