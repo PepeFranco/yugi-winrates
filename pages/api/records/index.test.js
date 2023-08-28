@@ -18,14 +18,13 @@ it("returns 500 if scan fails", async () => {
   await supertest(app).get("/").expect(500);
 });
 
-it("transforms DB Items to Records Array with Percentages", async () => {
+it("transforms db items into record array", async () => {
   //arrange
   const sampleRecords = [
     { id: "1", winner: "SD2", loser: "SD1" },
     { id: "2", winner: "SD1", loser: "SD2" },
-    { id: "3", winner: "SD2", loser: "SD1" },
-    { id: "4", winner: "SD3", loser: "SD1" },
-    { id: "5", winner: "SD1", loser: "SD3" },
+    { id: "3", winner: "SD3", loser: "SD1" },
+    { id: "4", winner: "SD2", loser: "SD3" },
   ];
   docClient.scan.mockImplementation((params, callback) => {
     callback(null, { Items: sampleRecords });
@@ -47,12 +46,12 @@ it("transforms DB Items to Records Array with Percentages", async () => {
           opponentDeckCode: "SD1",
           opponentDeckName: "Dragon's Roar",
           opponentDeckColor: "#50C878",
-          wins: 2,
-          losses: 0,
+          wins: 1,
+          losses: 1,
           totalGames: 2,
-          winPercentage: 100,
-          lossPercentage: 0,
-          rating: 50,
+          winPercentage: 50,
+          lossPercentage: 50,
+          rating: 100,
         },
         {
           deckCode: "SD3",
@@ -69,9 +68,9 @@ it("transforms DB Items to Records Array with Percentages", async () => {
           rating: 50,
         },
         {
-          deckCode: "SD1",
-          deckName: "Dragon's Roar",
-          deckColor: "#50C878",
+          deckCode: "SD2",
+          deckName: "Zombie Madness",
+          deckColor: "#B57EDC",
           opponentDeckCode: "SD3",
           opponentDeckName: "Blaze of Destruction",
           opponentDeckColor: "#CD5C5C",
@@ -82,6 +81,31 @@ it("transforms DB Items to Records Array with Percentages", async () => {
           lossPercentage: 0,
           rating: 50,
         },
+      ]);
+    });
+});
+
+it("puts winners on the left", async () => {
+  //arrange
+  const sampleRecords = [
+    { id: "1", winner: "SD2", loser: "SD1" },
+    { id: "2", winner: "SD1", loser: "SD2" },
+    { id: "3", winner: "SD1", loser: "SD2" },
+    { id: "3", winner: "SD1", loser: "SD2" },
+  ];
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: sampleRecords });
+  });
+  const app = express();
+  app.get("/", getRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(res.body).toEqual([
         {
           deckCode: "SD1",
           deckName: "Dragon's Roar",
@@ -89,12 +113,12 @@ it("transforms DB Items to Records Array with Percentages", async () => {
           opponentDeckCode: "SD2",
           opponentDeckName: "Zombie Madness",
           opponentDeckColor: "#B57EDC",
-          wins: 1,
-          losses: 0,
-          totalGames: 1,
-          winPercentage: 100,
-          lossPercentage: 0,
-          rating: 50,
+          wins: 3,
+          losses: 1,
+          totalGames: 4,
+          winPercentage: 75,
+          lossPercentage: 25,
+          rating: 75,
         },
       ]);
     });

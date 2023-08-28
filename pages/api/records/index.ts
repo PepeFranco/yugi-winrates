@@ -3,68 +3,95 @@ import decks from "../../../decks";
 import sortRecords from "../sortRecords";
 
 import type { NextApiRequest } from "next";
-import {
-  Deck,
-  DeckMatchupOrder,
-  DeckMatchupRecord,
-  DeckType,
-} from "../../../types";
-
-const getDecksCombinations = (
-  result: Record<string, Record<string, DeckMatchupRecord>>,
-  decks: Deck[]
-) => {
-  if (decks.length === 1) return result;
-  const currentDeck = decks[0];
-  result[currentDeck.code] = {};
-  decks.slice(1).map((opponentDeck) => {
-    result[currentDeck.code][opponentDeck.code] = {
-      deckCode: currentDeck.code,
-      deckName: currentDeck.name,
-      deckColor: currentDeck.color,
-      wins: 0,
-      winPercentage: 0,
-      losses: 0,
-      lossPercentage: 0,
-      totalGames: 0,
-      opponentDeckCode: opponentDeck.code,
-      opponentDeckName: opponentDeck.name,
-      opponentDeckColor: opponentDeck.color,
-      type: "structure",
-      rating: 0,
-    };
-  });
-  return getDecksCombinations(result, decks.slice(1));
-};
+import { DeckMatchupOrder, DeckType } from "../../../types";
 
 const putDBItemsIntoRecordObject = (items) => {
   const result = {};
+
   items.map((item) => {
-    if (!result[item.winner]) {
-      result[item.winner] = {};
+    // console.log({ item });
+    if (result[item.winner] && result[item.winner][item.loser]) {
+      // console.log("winner found ", item.winner, " loser found", item.loser);
+      result[item.winner][item.loser].wins++;
+      result[item.winner][item.loser].totalGames++;
+      // console.log(result);
+      return;
     }
 
-    if (!result[item.winner][item.loser]) {
-      const winnerDeck = decks.find((deck) => deck.code === item.winner);
-      const loserDeck = decks.find((deck) => deck.code === item.loser);
+    if (result[item.loser] && result[item.loser][item.winner]) {
+      // console.log("loser found ", item.loser, "winner found", item.winner);
+      result[item.loser][item.winner].losses++;
+      result[item.loser][item.winner].totalGames++;
+      // console.log(result);
+      return;
+    }
+
+    if (result[item.winner]) {
+      // console.log("winner found ", item.winner);
+      const deck = decks.find((deck) => deck.code === item.winner);
+      const opponentDeck = decks.find((deck) => deck.code === item.loser);
       result[item.winner][item.loser] = {
-        deckCode: winnerDeck.code,
-        deckName: winnerDeck.name,
-        deckColor: winnerDeck.color,
-        wins: 0,
+        deckCode: deck.code,
+        deckName: deck.name,
+        deckColor: deck.color,
+        type: deck.type,
+        opponentDeckCode: opponentDeck.code,
+        opponentDeckName: opponentDeck.name,
+        opponentDeckColor: opponentDeck.color,
+        wins: 1,
         winPercentage: 0,
         losses: 0,
         lossPercentage: 0,
-        totalGames: 0,
-        opponentDeckCode: loserDeck.code,
-        opponentDeckName: loserDeck.name,
-        opponentDeckColor: loserDeck.color,
-        type: winnerDeck.type,
+        totalGames: 1,
         rating: 0,
       };
+      // console.log(result);
+      return;
     }
-    result[item.winner][item.loser].wins++;
-    result[item.winner][item.loser].totalGames++;
+
+    if (result[item.loser]) {
+      // console.log("loser found ", item.loser);
+      const deck = decks.find((deck) => deck.code === item.loser);
+      const opponentDeck = decks.find((deck) => deck.code === item.winner);
+      result[item.loser][item.winner] = {
+        deckCode: deck.code,
+        deckName: deck.name,
+        deckColor: deck.color,
+        type: deck.type,
+        opponentDeckCode: opponentDeck.code,
+        opponentDeckName: opponentDeck.name,
+        opponentDeckColor: opponentDeck.color,
+        wins: 0,
+        winPercentage: 0,
+        losses: 1,
+        lossPercentage: 0,
+        totalGames: 1,
+        rating: 0,
+      };
+      // console.log(result);
+      return;
+    }
+
+    // console.log("no winner or loser found");
+    const deck = decks.find((deck) => deck.code === item.winner);
+    const opponentDeck = decks.find((deck) => deck.code === item.loser);
+    result[item.winner] = {};
+    result[item.winner][item.loser] = {
+      deckCode: deck.code,
+      deckName: deck.name,
+      deckColor: deck.color,
+      type: deck.type,
+      opponentDeckCode: opponentDeck.code,
+      opponentDeckName: opponentDeck.name,
+      opponentDeckColor: opponentDeck.color,
+      wins: 1,
+      winPercentage: 0,
+      losses: 0,
+      lossPercentage: 0,
+      totalGames: 1,
+      rating: 0,
+    };
+    // console.log(result);
   });
   return result;
 };

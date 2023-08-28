@@ -1,3 +1,5 @@
+import React from "react";
+
 const getPlayedMatchups = (records) =>
   records.filter((record) => record.totalGames > 0).length;
 
