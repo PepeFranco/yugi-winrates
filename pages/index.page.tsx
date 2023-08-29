@@ -27,7 +27,7 @@ const Home = () => {
   useDefaultType();
 
   return (
-    <div>
+    <div style={{ minHeight: "100vh" }}>
       <Header />
       <Head>
         <title>Yu-gi-oh! Winrates</title>

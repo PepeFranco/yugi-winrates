@@ -1,6 +1,6 @@
 jest.mock("../aws", () => ({ docClient: { scan: jest.fn() } }));
 
-import getRecords from "./index";
+import getRecords from "./index.page";
 import { docClient } from "../aws";
 import _ from "lodash";
 import supertest from "supertest";
