@@ -1,5 +1,6 @@
 jest.mock("../aws", () => ({ docClient: { scan: jest.fn() } }));
 
+import decks from "../../../decks";
 import getDecks from "./index";
 import { docClient } from "../aws";
 import _ from "lodash";
@@ -61,6 +62,41 @@ it("gets records from speed duel database", async () => {
           TableName: "yugi-winrates-speed",
         },
         expect.anything()
+      );
+    });
+});
+
+it("returns deck with no records", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getDecks);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ skipRecords: "true" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      const structureDecks = decks.filter((deck) => deck.type === "structure");
+      expect(res.body.length).toEqual(structureDecks.length);
+      expect(res.body).toEqual(
+        expect.arrayContaining([
+          {
+            deckCode: "SD2",
+            deckName: "Zombie Madness",
+            deckColor: "#B57EDC",
+            wins: 0,
+            winPercentage: 0,
+            lossPercentage: 0,
+            losses: 0,
+            totalGames: 0,
+            type: "structure",
+          },
+        ])
       );
     });
 });
