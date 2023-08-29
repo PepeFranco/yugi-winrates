@@ -34,7 +34,7 @@ const Deck = ({
     <div>
       <Header />
       <Head>
-        {/* <title>Yu-gi-oh! Winrates - {deck?.name}</title> */}
+        <title>Yu-gi-oh! Winrates - {deck?.name}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

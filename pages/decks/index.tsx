@@ -17,7 +17,7 @@ import {
 } from "../../types";
 import Card from "../card";
 
-const Decks = () => {
+export const Decks = () => {
   const router = useRouter();
   const { order, type } = router.query;
   const [decks, setDecks] = useState<IndividualDeckRecord[]>([]);
