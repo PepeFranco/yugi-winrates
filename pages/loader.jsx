@@ -7,6 +7,7 @@ const Loader = () => (
       display: "flex",
       justifyContent: "center",
     }}
+    aria-label={"Loading..."}
   >
     <div style={{ padding: "50px" }}>
       <PieChart
