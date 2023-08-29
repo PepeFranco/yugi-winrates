@@ -75,7 +75,6 @@ export default (req: Request, res) => {
 
   docClient.scan(params, (error, data) => {
     if (error) {
-      console.log(error);
       res.statusCode = 500;
       res.end();
       return res.send();
