@@ -1,5 +1,6 @@
 jest.mock("../aws", () => ({ docClient: { scan: jest.fn() } }));
 
+import decks from "../../../decks";
 import getDeckRecords from "./[id]";
 import { docClient } from "../aws";
 import _ from "lodash";
@@ -105,7 +106,42 @@ it("returns records if they exist", async () => {
             rating: 75,
             type: "structure",
           },
+          {
+            deckCode: "SD1",
+            deckName: "Dragon's Roar",
+            deckColor: "#50C878",
+            opponentDeckCode: "SD3",
+            opponentDeckName: "Blaze of Destruction",
+            opponentDeckColor: "#CD5C5C",
+            wins: 0,
+            losses: 0,
+            totalGames: 0,
+            winPercentage: 0,
+            lossPercentage: 0,
+            rating: 0,
+            type: "structure",
+          },
         ]),
       });
+    });
+});
+
+it("returns records for each other opponent deck", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getDeckRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ id: "SD1" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      const structureDecks = decks.filter((deck) => deck.type === "structure");
+      expect(res.body.records.length).toEqual(structureDecks.length - 1);
     });
 });
