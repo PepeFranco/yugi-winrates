@@ -18,6 +18,53 @@ it("returns 500 if scan fails", async () => {
   await supertest(app).get("/").expect(500);
 });
 
+it("gets records from structure database", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(docClient.scan).toHaveBeenCalledWith(
+        {
+          TableName: "yugi-winrates",
+        },
+        expect.anything()
+      );
+    });
+});
+
+it("gets records from speed duel database", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ type: "speed" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(docClient.scan).toHaveBeenCalledWith(
+        {
+          TableName: "yugi-winrates-speed",
+        },
+        expect.anything()
+      );
+    });
+});
+
 it("transforms db items into record array", async () => {
   //arrange
   const sampleRecords = [
