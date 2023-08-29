@@ -73,12 +73,14 @@ export default (req: Request, res) => {
       res.end();
       return res.send();
     }
+    // console.log(winnerData);
     docClient.scan(loserParams, (loserError, loserData) => {
       if (loserError) {
         res.statusCode = 500;
         res.end();
         return res.send();
       }
+      // console.log(loserData);
 
       const otherDecks = decks.filter(
         (deckToFilter) => deckToFilter.code !== id && deckToFilter.type === type
