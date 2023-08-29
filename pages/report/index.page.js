@@ -138,7 +138,7 @@ const Report = () => {
                 type="submit"
                 value="Record"
                 style={{
-                  background: "black",
+                  background: colours.theme.black,
                   color: colours.theme.white,
                   height: "30px",
                   width: "100%",

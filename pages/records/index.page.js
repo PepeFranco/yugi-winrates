@@ -64,9 +64,9 @@ const Records = () => {
               width: "100%",
             }}
           >
-            <span className="title">
+            <div style={{ width: "25%" }}>
               All records <MatchupCounter records={records} />
-            </span>
+            </div>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
