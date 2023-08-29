@@ -66,7 +66,7 @@ it("gets records from speed duel database", async () => {
     });
 });
 
-it("returns deck with no records", async () => {
+it("returns deck with no records if skipRecords is true", async () => {
   //arrange
   docClient.scan.mockImplementation((params, callback) => {
     callback(null, { Items: [] });
@@ -78,6 +78,40 @@ it("returns deck with no records", async () => {
   await supertest(app)
     .get("/")
     .query({ skipRecords: "true" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      const structureDecks = decks.filter((deck) => deck.type === "structure");
+      expect(res.body.length).toEqual(structureDecks.length);
+      expect(res.body).toEqual(
+        expect.arrayContaining([
+          {
+            deckCode: "SD2",
+            deckName: "Zombie Madness",
+            deckColor: "#B57EDC",
+            wins: 0,
+            winPercentage: 0,
+            lossPercentage: 0,
+            losses: 0,
+            totalGames: 0,
+            type: "structure",
+          },
+        ])
+      );
+    });
+});
+
+it("returns decks with no records if no items in db", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getDecks);
+
+  //act
+  await supertest(app)
+    .get("/")
     .expect(200)
     .expect("Content-Type", /json/)
     .then((res) => {
