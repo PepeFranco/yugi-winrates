@@ -1,42 +1,4 @@
 import sortRecords from "./sortRecords";
-const sampleRecords = [
-  {
-    deckCode: "SD3",
-    deckName: "Blaze of Destruction",
-    opponentDeckCode: "SD6",
-    opponentDeckName: "Spellcaster's Judgment",
-    wins: 0,
-    losses: 0,
-    totalGames: 0,
-    winPercentage: 0,
-    lossPercentage: 0,
-    rating: 0,
-  },
-  {
-    deckCode: "SD3",
-    deckName: "Blaze of Destruction",
-    opponentDeckCode: "SD7",
-    opponentDeckName: "Invincible Fortress",
-    wins: 0,
-    losses: 0,
-    totalGames: 0,
-    winPercentage: 0,
-    lossPercentage: 0,
-    rating: 0,
-  },
-  {
-    deckCode: "SD3",
-    deckName: "Blaze of Destruction",
-    opponentDeckCode: "SD8",
-    opponentDeckName: "Lord of the Storm",
-    wins: 0,
-    losses: 0,
-    totalGames: 0,
-    winPercentage: -1,
-    lossPercentage: 0,
-    rating: 0,
-  },
-];
 
 describe("alphabetical", () => {
   const order = "alphabetical";
