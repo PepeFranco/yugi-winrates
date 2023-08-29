@@ -1,6 +1,8 @@
 {
   "theme": {
-    "primary": "#F17E82"
+    "primary": "#F17E82",
+    "tertiary": "#FCE3E4",
+    "white": "white"
   },
   "standard": {
     "green": "#50C878",

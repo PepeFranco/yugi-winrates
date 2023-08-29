@@ -9,6 +9,7 @@ const Card = ({ children, style }: CardProps) => {
   return (
     <div
       style={{
+        background: colours.theme.white,
         borderColor: colours.theme.primary,
         borderStyle: "solid",
         borderRightWidth: "5px",

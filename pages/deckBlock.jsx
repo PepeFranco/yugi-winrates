@@ -43,7 +43,7 @@ const DeckBlock = ({ code, name, type }) => {
             height: "60px",
             background: colours.theme.primary,
             width: "100%",
-            color: "white",
+            color: colours.theme.white,
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
@@ -54,7 +54,7 @@ const DeckBlock = ({ code, name, type }) => {
             style={{
               width: "90%",
               textAlign: "center",
-              color: "white",
+              color: colours.theme.white,
             }}
           >
             {name}

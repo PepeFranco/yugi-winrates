@@ -9,6 +9,7 @@ import WinRatePieChart from "../winRatePieChart";
 import MatchupCounter from "../matchupCounter";
 import { useDefaultType } from "../../hooks/useDefaultType";
 import DeckBlock from "../deckBlock";
+import colours from "../data/colours.json";
 
 import {
   IndividualDeckOrder,
@@ -46,7 +47,7 @@ export const Decks = () => {
   }, [type, order]);
 
   return (
-    <div>
+    <div style={{ background: colours.theme.white }}>
       <Header />
       <Head>
         <title>Yu-gi-oh! Winrates - All decks</title>

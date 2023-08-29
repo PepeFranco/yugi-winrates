@@ -1,6 +1,9 @@
+import colours from "./data/colours.json";
+
 const Main = ({ children }) => (
   <main
     style={{
+      background: colours.theme.tertiary,
       padding: "20px",
       display: "flex",
       alignItems: "center",

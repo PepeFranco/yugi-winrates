@@ -6,6 +6,7 @@ import Footer from "../footer";
 import Main from "../main";
 import _ from "lodash";
 import { useDefaultType } from "../../hooks/useDefaultType";
+import colours from "../data/colours.json";
 
 const Report = () => {
   useDefaultType();
@@ -138,7 +139,7 @@ const Report = () => {
                 value="Record"
                 style={{
                   background: "black",
-                  color: "white",
+                  color: colours.theme.white,
                   height: "30px",
                   width: "100%",
                 }}

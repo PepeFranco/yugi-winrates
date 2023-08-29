@@ -60,7 +60,7 @@ const WinRatePieChart = ({
         labelStyle={{
           fontSize: "1em",
           fontFamily: "sans-serif",
-          fill: "white",
+          fill: colours.theme.white,
         }}
         label={(props) => {
           const percentage = props?.dataEntry?.percentage;
@@ -73,7 +73,7 @@ const WinRatePieChart = ({
           height: "60px",
           background: colours.theme.primary,
           width: "100%",
-          color: "white",
+          color: colours.theme.white,
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
@@ -85,7 +85,7 @@ const WinRatePieChart = ({
           style={{
             width: "90%",
             textAlign: "center",
-            color: "white",
+            color: colours.theme.white,
             fontSize: "1.5em",
           }}
         >
