@@ -41,29 +41,29 @@ it("gets records from structure database", async () => {
     });
 });
 
-// it("gets records from speed duel database", async () => {
-//   //arrange
-//   docClient.scan.mockImplementation((params, callback) => {
-//     callback(null, { Items: [] });
-//   });
-//   const app = express();
-//   app.get("/", getRecords);
+it("gets records from speed duel database", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getDecks);
 
-//   //act
-//   await supertest(app)
-//     .get("/")
-//     .query({ type: "speed" })
-//     .expect(200)
-//     .expect("Content-Type", /json/)
-//     .then((res) => {
-//       expect(docClient.scan).toHaveBeenCalledWith(
-//         {
-//           TableName: "yugi-winrates-speed",
-//         },
-//         expect.anything()
-//       );
-//     });
-// });
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ type: "speed" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(docClient.scan).toHaveBeenCalledWith(
+        {
+          TableName: "yugi-winrates-speed",
+        },
+        expect.anything()
+      );
+    });
+});
 
 // it("transforms db items into record array", async () => {
 //   //arrange
