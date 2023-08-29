@@ -39,6 +39,62 @@ it("returns 500 if second scan fails", async () => {
   expect(docClient.scan).toHaveBeenCalledTimes(2);
 });
 
+it("gets records from structure database", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getDeckRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ id: "SD1" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(docClient.scan).toHaveBeenCalledWith(
+        {
+          FilterExpression: "winner = :id",
+          ExpressionAttributeValues: {
+            ":id": "SD1",
+          },
+          TableName: "yugi-winrates",
+        },
+        expect.anything()
+      );
+    });
+});
+
+it("gets records from speed duel database", async () => {
+  //arrange
+  docClient.scan.mockImplementation((params, callback) => {
+    callback(null, { Items: [] });
+  });
+  const app = express();
+  app.get("/", getDeckRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ id: "SGX1-ENS05" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(docClient.scan).toHaveBeenCalledWith(
+        {
+          FilterExpression: "winner = :id",
+          ExpressionAttributeValues: {
+            ":id": "SGX1-ENS05",
+          },
+          TableName: "yugi-winrates-speed",
+        },
+        expect.anything()
+      );
+    });
+});
+
 it("returns empty records if no deck", async () => {
   //arrange
   const app = express();
