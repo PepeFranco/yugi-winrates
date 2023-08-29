@@ -71,7 +71,7 @@ const WinRatePieChart = ({
       <div
         style={{
           height: "60px",
-          background: "#F17E82",
+          background: colours.theme.primary,
           width: "100%",
           color: "white",
           display: "flex",

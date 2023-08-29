@@ -3,6 +3,7 @@ import Link from "next/link";
 import logo from "../public/yugioh-logo.png";
 import { useRouter } from "next/router";
 import { useDefaultType } from "../hooks/useDefaultType";
+import colours from "./data/colours.json";
 
 const Header = () => {
   const router = useRouter();
@@ -17,7 +18,7 @@ const Header = () => {
         position: "-webkit - sticky",
         position: "sticky",
         top: 0,
-        background: "#F17E82",
+        background: colours.theme.primary,
         display: "flex",
         alignItems: "center",
         flexDirection: "column",

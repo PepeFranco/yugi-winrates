@@ -1,4 +1,5 @@
 import { PieChart } from "react-minimal-pie-chart";
+import colours from "./data/colours.json";
 
 const Loader = () => (
   <div
@@ -14,7 +15,7 @@ const Loader = () => (
         data={[
           {
             value: 100,
-            color: "#F17E82",
+            color: colours.theme.primary,
           },
         ]}
         animate={true}

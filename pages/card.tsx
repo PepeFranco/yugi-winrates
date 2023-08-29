@@ -1,4 +1,5 @@
 import React from "react";
+import colours from "./data/colours.json";
 
 type CardProps = React.PropsWithChildren<{
   style?: Record<string, string>;
@@ -8,7 +9,7 @@ const Card = ({ children, style }: CardProps) => {
   return (
     <div
       style={{
-        borderColor: "#F17E82",
+        borderColor: colours.theme.primary,
         borderStyle: "solid",
         borderRightWidth: "5px",
         borderBottomWidth: "5px",

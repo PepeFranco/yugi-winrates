@@ -1,4 +1,7 @@
 {
+  "theme": {
+    "primary": "#F17E82"
+  },
   "standard": {
     "green": "#50C878",
     "purple": "#B57EDC",

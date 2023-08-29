@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { useDefaultType } from "../hooks/useDefaultType";
+import colours from "./data/colours.json";
 
 const footerHeight = "50px";
 
@@ -14,7 +15,7 @@ const Footer = () => {
     <div
       style={{
         width: "100%",
-        background: "#F17E82",
+        background: colours.theme.primary,
         display: "flex",
         alignItems: "center",
         flexDirection: "column",

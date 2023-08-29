@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Decks } from "./index";
+import { Decks } from "./index.page";
 import { render, screen } from "@testing-library/react";
 import { useRouter } from "next/router";
 

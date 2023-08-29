@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Card from "./card";
+import colours from "./data/colours.json";
 
 const DeckBlock = ({ code, name, type }) => {
   return (
@@ -40,7 +41,7 @@ const DeckBlock = ({ code, name, type }) => {
         <div
           style={{
             height: "60px",
-            background: "#F17E82",
+            background: colours.theme.primary,
             width: "100%",
             color: "white",
             display: "flex",
