@@ -6,7 +6,11 @@ import _ from "lodash";
 import supertest from "supertest";
 import express from "express";
 
-it("returns 500 if scan fails", async () => {
+beforeEach(() => {
+  jest.clearAllMocks();
+});
+
+it("returns 500 if first scan fails", async () => {
   //arrange
   docClient.scan.mockImplementation((__params, callback) => {
     callback("fake error");
@@ -15,6 +19,42 @@ it("returns 500 if scan fails", async () => {
   app.get("/", getDeckRecords);
   //act
   await supertest(app).get("/").query({ id: "SD1" }).expect(500);
+  expect(docClient.scan).toHaveBeenCalledTimes(1);
+});
+
+it("returns 500 if second scan fails", async () => {
+  //arrange
+  docClient.scan
+    .mockImplementationOnce((params, callback) => {
+      callback(null, { Items: [] });
+    })
+    .mockImplementation((__params, callback) => {
+      callback("fake error");
+    });
+  const app = express();
+  app.get("/", getDeckRecords);
+  //act
+  await supertest(app).get("/").query({ id: "SD1" }).expect(500);
+  expect(docClient.scan).toHaveBeenCalledTimes(2);
+});
+
+it("returns empty records if no deck", async () => {
+  //arrange
+  const app = express();
+  app.get("/", getDeckRecords);
+
+  //act
+  await supertest(app)
+    .get("/")
+    .query({ id: "SDXX" })
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .then((res) => {
+      expect(res.body).toEqual({
+        deck: undefined,
+        records: [],
+      });
+    });
 });
 
 it("returns records if they exist", async () => {
