@@ -13,9 +13,9 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
         style={{
           margin: "2px",
           // border: "none",
-          width: "100px",
+          width: "150px",
+          height: "216px",
           marginBottom: "20px",
-          marginTop: "20px",
           marginLeft: "0px",
           position: "relative",
           cursor: "pointer",
@@ -52,8 +52,8 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
         <div
           style={{
             cursor: "pointer",
-            height: "180px",
-            maxHeight: "15vh",
+            height: "150px",
+            // maxHeight: "15vh",
             display: "flex",
             justifyContent: "center",
             alignItems: "end",
@@ -65,8 +65,8 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
             style={{
               // height: "90%",
               // width: "auto",
-              top: "-4px",
-              width: "125px",
+              top: "-18px",
+              width: "180px",
               // left: "-10px",
               position: "absolute",
               overflow: "hidden",
