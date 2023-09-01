@@ -204,13 +204,13 @@ it("transforms db items into record array", async () => {
               code: "SD1",
               name: "Dragon's Roar",
               color: "#50C878",
+              type: "structure",
             },
             wins: 2,
             losses: 3,
             totalGames: 5,
             winPercentage: 40,
             lossPercentage: 60,
-            type: "structure",
           },
           {
             deck: {
@@ -218,13 +218,13 @@ it("transforms db items into record array", async () => {
               code: "SD2",
               name: "Zombie Madness",
               color: "#B57EDC",
+              type: "structure",
             },
             wins: 3,
             losses: 2,
             totalGames: 5,
             winPercentage: 60,
             lossPercentage: 40,
-            type: "structure",
           },
           {
             deck: {
@@ -232,13 +232,13 @@ it("transforms db items into record array", async () => {
               code: "SD3",
               name: "Blaze of Destruction",
               color: "#CD5C5C",
+              type: "structure",
             },
             wins: 1,
             losses: 1,
             totalGames: 2,
             winPercentage: 50,
             lossPercentage: 50,
-            type: "structure",
           },
           {
             deck: {
@@ -246,13 +246,13 @@ it("transforms db items into record array", async () => {
               code: "SD4",
               name: "Fury from the Deep",
               color: "#81D8D0",
+              type: "structure",
             },
             wins: 0,
             losses: 2,
             totalGames: 2,
             winPercentage: 0,
             lossPercentage: 100,
-            type: "structure",
           },
           {
             deck: {
@@ -260,13 +260,13 @@ it("transforms db items into record array", async () => {
               code: "SD5",
               name: "Warrior's Triumph",
               color: "#FF9966",
+              type: "structure",
             },
             wins: 1,
             losses: 0,
             totalGames: 1,
             winPercentage: 100,
             lossPercentage: 0,
-            type: "structure",
           },
           {
             deck: {
@@ -274,13 +274,13 @@ it("transforms db items into record array", async () => {
               code: "SD6",
               name: "Spellcaster's Judgment",
               color: "#FADFAD",
+              type: "structure",
             },
             wins: 1,
             losses: 0,
             totalGames: 1,
             winPercentage: 100,
             lossPercentage: 0,
-            type: "structure",
           },
         ])
       );
