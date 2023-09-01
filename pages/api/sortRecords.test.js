@@ -5,24 +5,24 @@ describe("alphabetical", () => {
   it("sorts based on opponent name", () => {
     const recordsWithPercentages = [
       {
-        opponentDeckName: "Spellcaster's Judgment",
+        opponentDeck: { name: "Spellcaster's Judgment" },
       },
       {
-        opponentDeckName: "Zombie Madness",
+        opponentDeck: { name: "Zombie Madness" },
       },
       {
-        opponentDeckName: "Dinosaur's Rage",
+        opponentDeck: { name: "Dinosaur's Rage" },
       },
     ];
     const result = [
       {
-        opponentDeckName: "Dinosaur's Rage",
+        opponentDeck: { name: "Dinosaur's Rage" },
       },
       {
-        opponentDeckName: "Spellcaster's Judgment",
+        opponentDeck: { name: "Spellcaster's Judgment" },
       },
       {
-        opponentDeckName: "Zombie Madness",
+        opponentDeck: { name: "Zombie Madness" },
       },
     ];
     expect(sortRecords({ recordsWithPercentages, order })).toEqual(result);
@@ -31,24 +31,24 @@ describe("alphabetical", () => {
   it("sorts based on deck name if no opponents deck name", () => {
     const recordsWithPercentages = [
       {
-        deckName: "Spellcaster's Judgment",
+        deck: { name: "Spellcaster's Judgment" },
       },
       {
-        deckName: "Zombie Madness",
+        deck: { name: "Zombie Madness" },
       },
       {
-        deckName: "Dinosaur's Rage",
+        deck: { name: "Dinosaur's Rage" },
       },
     ];
     const result = [
       {
-        deckName: "Dinosaur's Rage",
+        deck: { name: "Dinosaur's Rage" },
       },
       {
-        deckName: "Spellcaster's Judgment",
+        deck: { name: "Spellcaster's Judgment" },
       },
       {
-        deckName: "Zombie Madness",
+        deck: { name: "Zombie Madness" },
       },
     ];
     expect(sortRecords({ recordsWithPercentages, order })).toEqual(result);

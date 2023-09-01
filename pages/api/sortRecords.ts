@@ -20,7 +20,10 @@ type SortRecordsArgs =
 const sortRecords = ({ recordsWithPercentages, order }: SortRecordsArgs) => {
   switch (order) {
     case "alphabetical":
-      return _.sortBy(recordsWithPercentages, ["opponentDeckName", "deckName"]);
+      return _.sortBy(recordsWithPercentages, [
+        "opponentDeck.name",
+        "deck.name",
+      ]);
     case "rating":
       return _.reverse(
         _.sortBy(recordsWithPercentages, ["rating", "totalGames"])
