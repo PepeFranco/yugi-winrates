@@ -11,13 +11,15 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
     >
       <Card
         style={{
-          width: "130px",
-          maxWidth: "25vw",
+          margin: "2px",
+          // border: "none",
+          width: "100px",
           marginBottom: "20px",
           marginTop: "20px",
           marginLeft: "0px",
           position: "relative",
           cursor: "pointer",
+          overflow: "hidden",
         }}
       >
         <div
@@ -34,6 +36,7 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
             position: "absolute",
             left: 0,
             top: 0,
+            zIndex: 10,
           }}
         >
           <span
@@ -54,14 +57,19 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
             display: "flex",
             justifyContent: "center",
             alignItems: "end",
-            marginBottom: "5px",
+            position: "relative",
             overflow: "hidden",
           }}
         >
           <img
             style={{
-              height: "90%",
-              width: "auto",
+              // height: "90%",
+              // width: "auto",
+              top: "-4px",
+              width: "125px",
+              // left: "-10px",
+              position: "absolute",
+              overflow: "hidden",
             }}
             src={`/${type}/${code}.jpg`}
           ></img>
@@ -76,6 +84,7 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
             alignItems: "center",
             justifyContent: "center",
             borderBottomLeftRadius: "10px",
+            zIndex: 10,
           }}
         >
           <span
