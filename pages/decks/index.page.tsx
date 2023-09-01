@@ -95,19 +95,8 @@ export const Decks = () => {
         {decks.length === 0 && <Loader />}
 
         {decks.length > 0 &&
-          decks.map((deck, index) => {
-            const {
-              year,
-              type,
-              deckCode,
-              deckName,
-              deckColor,
-              totalGames,
-              wins,
-              losses,
-              winPercentage,
-              lossPercentage,
-            } = deck;
+          decks.map((record, index) => {
+            const { deck, ...restRecord } = record;
             return (
               <Card
                 key={index}
@@ -123,20 +112,12 @@ export const Decks = () => {
                     alignItems: "center",
                   }}
                 >
-                  <DeckBlock
-                    code={deckCode}
-                    name={deckName}
-                    type={type}
-                    year={year}
-                  />
+                  <DeckBlock {...deck} />
+
                   <WinRatePieChart
-                    totalGames={totalGames}
-                    winPercentage={winPercentage}
-                    lossPercentage={lossPercentage}
-                    winColor={deckColor}
+                    {...restRecord}
+                    winColor={deck.color}
                     lossColor="gray"
-                    wins={wins}
-                    losses={losses}
                   />
                 </div>
               </Card>

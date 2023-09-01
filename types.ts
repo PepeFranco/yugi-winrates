@@ -12,11 +12,7 @@ export type SpeedDuelDeck = Omit<Deck, "type"> & { type: "speed" };
 export type StructureDeck = Omit<Deck, "type"> & { type: "structure" };
 
 export type GenericRecord = {
-  year: number;
-  deckName: string;
-  deckCode: string;
-  deckColor: string;
-  type: DeckType;
+  deck: Deck;
   wins: number;
   winPercentage: number;
   losses: number;
@@ -25,10 +21,7 @@ export type GenericRecord = {
 };
 
 export type DeckMatchupRecord = GenericRecord & {
-  opponentDeckName: string;
-  opponentDeckColor: string;
-  opponentDeckCode: string;
-  opponentDeckYear: number;
+  opponentDeck: Deck;
   rating: number;
 };
 

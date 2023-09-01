@@ -67,7 +67,7 @@ const WinRatePieChart = ({
         }}
         label={(props) => {
           const percentage = props?.dataEntry?.percentage;
-          if ((percentage > 0) & (totalGames > 0))
+          if (percentage > 0 && totalGames > 0)
             return `${percentage.toFixed(0)}%`;
         }}
       />

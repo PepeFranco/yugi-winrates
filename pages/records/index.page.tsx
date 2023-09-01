@@ -1,40 +1,53 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
 import { withRouter, useRouter } from "next/router";
-
 import Record from "../record";
 import Header from "../header";
 import Footer from "../footer";
 import Main from "../main";
 import Loader from "../loader";
 import MatchupCounter from "../matchupCounter";
+import { useDefaultType } from "../../hooks/useDefaultType";
+import {
+  DeckMatchupOrderConstants,
+  DeckMatchupRecord,
+  DeckMatchupOrder,
+} from "../../types";
 
-const Deck = ({
-  router: {
-    query: { id, order = "rating" },
-  },
-}) => {
+const Records = () => {
   const router = useRouter();
-  const [deck, setDeck] = useState([]);
-  const [records, setRecords] = useState([]);
+  const { order, type } = router.query;
+  const [records, setRecords] = useState<DeckMatchupRecord[]>([]);
+
+  useDefaultType();
+
+  const getOrderQuery = () => {
+    if (typeof order === "string") {
+      if (DeckMatchupOrderConstants.includes(order as DeckMatchupOrder)) {
+        return order;
+      }
+    }
+    return "winrate";
+  };
 
   useEffect(() => {
     setRecords([]);
-    if (id) {
-      fetch(`/api/deck/${id}?order=${order}`).then((response) => {
-        response.json().then(({ deck, records }) => {
-          setDeck(deck);
-          setRecords(records);
-        });
-      });
+    if (type) {
+      fetch(`/api/records?order=${getOrderQuery()}&type=${type}`).then(
+        (response) => {
+          response.json().then((responseRecords) => {
+            setRecords(responseRecords);
+          });
+        }
+      );
     }
-  }, [id, order]);
+  }, [type, order]);
 
   return (
     <div>
       <Header />
       <Head>
-        <title>Yu-gi-oh! Winrates - {deck?.name}</title>
+        <title>Yu-gi-oh! Winrates - All time records</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -55,46 +68,36 @@ const Deck = ({
               width: "100%",
             }}
           >
-            <span className="title">
-              {deck?.name}
-              <MatchupCounter records={records} />
-            </span>
+            <div style={{ width: "25%" }}>
+              All records <MatchupCounter records={records} />
+            </div>
             <select
               style={{ width: "200px", height: "25px" }}
               onChange={(e) => {
                 router.push({
                   pathname: router.pathname,
-                  query: { id, order: e.currentTarget.value },
+                  query: { order: e.currentTarget.value, type },
                 });
               }}
               value={order}
             >
-              <option value="release">Release order</option>
               <option value="rating">Rating</option>
               <option value="winrate">Winrate</option>
-              <option value="alphabetical">Alphabetical</option>
-              <option value="totalGames">Total games</option>
+              <option value="totalGames">Total Games</option>
             </select>
           </div>
         </div>
+
         {records.length === 0 && <Loader />}
 
         {records.length > 0 &&
-          records.map((record, index) => (
-            <Record
-              deckCode={deck.code}
-              deckName={deck.name}
-              deckColor={deck.color}
-              deckType={deck.type}
-              deckYear={deck.year}
-              {...record}
-              key={`${index}-${order}`}
-            />
-          ))}
+          records
+            .slice(0, 50)
+            .map((record, index) => <Record {...record} key={index} />)}
       </Main>
       <Footer />
     </div>
   );
 };
 
-export default withRouter(Deck);
+export default withRouter(Records);

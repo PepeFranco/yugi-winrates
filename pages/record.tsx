@@ -1,6 +1,7 @@
 import DeckBlock from "./deckBlock";
 import WinRatePieChart from "./winRatePieChart";
 import Card from "./card";
+import { DeckMatchupRecord } from "../types";
 
 export default ({
   wins,
@@ -8,16 +9,9 @@ export default ({
   totalGames,
   winPercentage,
   lossPercentage,
-  opponentDeckName,
-  opponentDeckCode,
-  opponentDeckYear,
-  deckCode,
-  deckName,
-  deckType,
-  deckColor,
-  deckYear,
-  opponentDeckColor,
-}) => {
+  opponentDeck,
+  deck,
+}: DeckMatchupRecord) => {
   return (
     <Card
       style={{
@@ -36,29 +30,19 @@ export default ({
           maxWidth: "500px",
         }}
       >
-        <DeckBlock
-          code={deckCode}
-          name={deckName}
-          type={deckType}
-          year={deckYear}
-        />
+        <DeckBlock {...deck} />
         <div style={{ display: "flex", justifyContent: "center" }}>
           <WinRatePieChart
             totalGames={totalGames}
             winPercentage={winPercentage}
             lossPercentage={lossPercentage}
-            winColor={deckColor}
-            lossColor={opponentDeckColor}
+            winColor={deck.color}
+            lossColor={opponentDeck.color}
             wins={wins}
             losses={losses}
           />
         </div>
-        <DeckBlock
-          code={opponentDeckCode}
-          name={opponentDeckName}
-          type={deckType}
-          year={opponentDeckYear}
-        />
+        <DeckBlock {...opponentDeck} />
       </div>
     </Card>
   );

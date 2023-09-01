@@ -43,21 +43,17 @@ const Home = () => {
             flexWrap: "wrap",
           }}
         >
-          {decks.map((deck) => {
+          {decks.map((record) => {
+            const { deck } = record;
             return (
               <div
                 style={{
                   display: "flex",
                   flexDirection: "column",
                 }}
-                key={deck.deckCode}
+                key={deck.code}
               >
-                <DeckBlock
-                  code={deck.deckCode}
-                  name={deck.deckName}
-                  type={deck.type}
-                  year={deck.year}
-                />
+                <DeckBlock {...deck} />
               </div>
             );
           })}

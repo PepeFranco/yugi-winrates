@@ -31,15 +31,8 @@ const putDBItemsIntoRecordObject = (items) => {
       const deck = decks.find((deck) => deck.code === item.winner);
       const opponentDeck = decks.find((deck) => deck.code === item.loser);
       result[item.winner][item.loser] = {
-        year: deck.year,
-        deckCode: deck.code,
-        deckName: deck.name,
-        deckColor: deck.color,
-        type: deck.type,
-        opponentDeckYear: opponentDeck.year,
-        opponentDeckCode: opponentDeck.code,
-        opponentDeckName: opponentDeck.name,
-        opponentDeckColor: opponentDeck.color,
+        deck,
+        opponentDeck,
         wins: 1,
         losses: 0,
         totalGames: 1,
@@ -56,15 +49,8 @@ const putDBItemsIntoRecordObject = (items) => {
     const opponentDeck = decks.find((deck) => deck.code === item.loser);
     result[item.winner] = {};
     result[item.winner][item.loser] = {
-      year: deck.year,
-      deckCode: deck.code,
-      deckName: deck.name,
-      deckColor: deck.color,
-      type: deck.type,
-      opponentDeckYear: opponentDeck.year,
-      opponentDeckCode: opponentDeck.code,
-      opponentDeckName: opponentDeck.name,
-      opponentDeckColor: opponentDeck.color,
+      deck,
+      opponentDeck,
       wins: 1,
       losses: 0,
       totalGames: 1,

@@ -88,15 +88,8 @@ export default (req: Request, res) => {
       otherDecks.map(
         (deck) =>
           (deckMatchupRecordMap[deck.code] = {
-            opponentDeckYear: deck.year,
-            opponentDeckCode: deck.code,
-            opponentDeckName: deck.name,
-            opponentDeckColor: deck.color,
-            deckName: currentDeck.name,
-            deckCode: currentDeck.code,
-            deckColor: currentDeck.color,
-            year: currentDeck.year,
-            type: currentDeck.type,
+            opponentDeck: deck,
+            deck: currentDeck,
             wins: 0,
             losses: 0,
             totalGames: 0,

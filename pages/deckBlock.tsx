@@ -1,8 +1,9 @@
 import Link from "next/link";
 import Card from "./card";
 import colours from "./data/colours.json";
+import { Deck } from "../types";
 
-const DeckBlock = ({ code, name, type, year }) => {
+const DeckBlock = ({ code, name, type, year }: Deck) => {
   return (
     <Link
       href={`/deck/${code}?type=${type}`}

@@ -30,16 +30,12 @@ export default (req: Request, res) => {
   filteredDecks.map(
     (deck) =>
       (individualDeckRecordMap[deck.code] = {
-        year: deck.year,
-        deckCode: deck.code,
-        deckName: deck.name,
-        deckColor: deck.color,
+        deck,
         wins: 0,
         winPercentage: 0,
         lossPercentage: 0,
         losses: 0,
         totalGames: 0,
-        type,
       })
   );
 
@@ -94,28 +90,16 @@ export default (req: Request, res) => {
     const individualDeckRecordArray = getRecordArray();
     const recordsWithPercentages: IndividualDeckRecord[] =
       individualDeckRecordArray.map((record) => {
-        const {
-          wins,
-          losses,
-          totalGames,
-          deckCode,
-          deckName,
-          deckColor,
-          year,
-        } = record;
+        const { wins, losses, totalGames, deck } = record;
         const winPercentage = totalGames > 0 ? (wins * 100) / totalGames : 0;
         const lossPercentage = totalGames > 0 ? (losses * 100) / totalGames : 0;
         return {
-          year,
-          deckCode,
-          deckName,
-          deckColor,
+          deck,
           wins,
           losses,
           totalGames,
           winPercentage,
           lossPercentage,
-          type,
         };
       });
 
