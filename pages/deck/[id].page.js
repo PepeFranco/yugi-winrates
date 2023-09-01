@@ -86,6 +86,7 @@ const Deck = ({
               deckName={deck.name}
               deckColor={deck.color}
               deckType={deck.type}
+              deckYear={deck.year}
               {...record}
               key={`${index}-${order}`}
             />

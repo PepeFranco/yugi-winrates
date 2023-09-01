@@ -2,7 +2,7 @@ import Link from "next/link";
 import Card from "./card";
 import colours from "./data/colours.json";
 
-const DeckBlock = ({ code, name, type }) => {
+const DeckBlock = ({ code, name, type, year }) => {
   return (
     <Link
       href={`/deck/${code}?type=${type}`}
@@ -15,9 +15,36 @@ const DeckBlock = ({ code, name, type }) => {
           marginBottom: "20px",
           marginTop: "20px",
           marginLeft: "0px",
+          position: "relative",
           cursor: "pointer",
         }}
       >
+        <div
+          style={{
+            height: "30px",
+            background: colours.theme.primary,
+            width: "100%",
+            color: colours.theme.white,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            borderTopLeftRadius: "10px",
+            borderTopRightRadius: "10px",
+            position: "absolute",
+            left: 0,
+            top: 0,
+          }}
+        >
+          <span
+            style={{
+              width: "90%",
+              textAlign: "center",
+              color: colours.theme.white,
+            }}
+          >
+            {year}
+          </span>
+        </div>
         <div
           style={{
             cursor: "pointer",

@@ -86,6 +86,7 @@ it("returns deck with no records if skipRecords is true", async () => {
       expect(res.body).toEqual(
         expect.arrayContaining([
           {
+            year: 2005,
             deckCode: "SD2",
             deckName: "Zombie Madness",
             deckColor: "#B57EDC",
@@ -120,6 +121,7 @@ it("returns decks with no records if no items in db", async () => {
       expect(res.body).toEqual(
         expect.arrayContaining([
           {
+            year: 2005,
             deckCode: "SD2",
             deckName: "Zombie Madness",
             deckColor: "#B57EDC",
@@ -154,6 +156,7 @@ it("returns decks with no records if no items in db", async () => {
       expect(res.body).toEqual(
         expect.arrayContaining([
           {
+            year: 2005,
             deckCode: "SD2",
             deckName: "Zombie Madness",
             deckColor: "#B57EDC",
@@ -196,6 +199,7 @@ it("transforms db items into record array", async () => {
       expect(res.body).toEqual(
         expect.arrayContaining([
           {
+            year: 2005,
             deckCode: "SD1",
             deckName: "Dragon's Roar",
             deckColor: "#50C878",
@@ -207,6 +211,7 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
+            year: 2005,
             deckCode: "SD2",
             deckName: "Zombie Madness",
             deckColor: "#B57EDC",
@@ -218,6 +223,7 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
+            year: 2005,
             deckCode: "SD3",
             deckName: "Blaze of Destruction",
             deckColor: "#CD5C5C",
@@ -229,6 +235,7 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
+            year: 2005,
             deckCode: "SD4",
             deckName: "Fury from the Deep",
             deckColor: "#81D8D0",
@@ -240,6 +247,7 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
+            year: 2005,
             deckCode: "SD5",
             deckName: "Warrior's Triumph",
             deckColor: "#FF9966",
@@ -251,6 +259,7 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
+            year: 2006,
             deckCode: "SD6",
             deckName: "Spellcaster's Judgment",
             deckColor: "#FADFAD",

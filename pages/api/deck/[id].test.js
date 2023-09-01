@@ -141,6 +141,7 @@ it("returns records if they exist", async () => {
     .then((res) => {
       expect(res.body).toEqual({
         deck: {
+          year: 2005,
           code: "SD1",
           color: "#50C878",
           name: "Dragon's Roar",

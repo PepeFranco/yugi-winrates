@@ -3,12 +3,12 @@ import decks from "../../../decks";
 import sortRecords from "../sortRecords";
 
 import type { NextApiRequest } from "next";
-import { DeckMatchupOrder, DeckType } from "../../../types";
+import { DeckMatchupOrder, DeckType, DeckMatchupRecord } from "../../../types";
 
 const putDBItemsIntoRecordObject = (items) => {
-  const result = {};
+  const result: Record<string, Record<string, DeckMatchupRecord>> = {};
 
-  items.map((item) => {
+  items.map((item): Record<string, Record<string, DeckMatchupRecord>> => {
     // console.log({ item });
     if (result[item.winner] && result[item.winner][item.loser]) {
       // console.log("winner found ", item.winner, " loser found", item.loser);
@@ -31,10 +31,12 @@ const putDBItemsIntoRecordObject = (items) => {
       const deck = decks.find((deck) => deck.code === item.winner);
       const opponentDeck = decks.find((deck) => deck.code === item.loser);
       result[item.winner][item.loser] = {
+        year: deck.year,
         deckCode: deck.code,
         deckName: deck.name,
         deckColor: deck.color,
         type: deck.type,
+        opponentDeckYear: opponentDeck.year,
         opponentDeckCode: opponentDeck.code,
         opponentDeckName: opponentDeck.name,
         opponentDeckColor: opponentDeck.color,
@@ -54,10 +56,12 @@ const putDBItemsIntoRecordObject = (items) => {
     const opponentDeck = decks.find((deck) => deck.code === item.loser);
     result[item.winner] = {};
     result[item.winner][item.loser] = {
+      year: deck.year,
       deckCode: deck.code,
       deckName: deck.name,
       deckColor: deck.color,
       type: deck.type,
+      opponentDeckYear: opponentDeck.year,
       opponentDeckCode: opponentDeck.code,
       opponentDeckName: opponentDeck.name,
       opponentDeckColor: opponentDeck.color,

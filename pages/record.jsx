@@ -10,10 +10,12 @@ export default ({
   lossPercentage,
   opponentDeckName,
   opponentDeckCode,
+  opponentDeckYear,
   deckCode,
   deckName,
   deckType,
   deckColor,
+  deckYear,
   opponentDeckColor,
 }) => {
   return (
@@ -34,7 +36,12 @@ export default ({
           maxWidth: "500px",
         }}
       >
-        <DeckBlock code={deckCode} name={deckName} type={deckType} />
+        <DeckBlock
+          code={deckCode}
+          name={deckName}
+          type={deckType}
+          year={deckYear}
+        />
         <div style={{ display: "flex", justifyContent: "center" }}>
           <WinRatePieChart
             totalGames={totalGames}
@@ -50,6 +57,7 @@ export default ({
           code={opponentDeckCode}
           name={opponentDeckName}
           type={deckType}
+          year={opponentDeckYear}
         />
       </div>
     </Card>

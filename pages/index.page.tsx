@@ -56,6 +56,7 @@ const Home = () => {
                   code={deck.deckCode}
                   name={deck.deckName}
                   type={deck.type}
+                  year={deck.year}
                 />
               </div>
             );

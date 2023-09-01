@@ -97,6 +97,7 @@ export const Decks = () => {
         {decks.length > 0 &&
           decks.map((deck, index) => {
             const {
+              year,
               type,
               deckCode,
               deckName,
@@ -122,7 +123,12 @@ export const Decks = () => {
                     alignItems: "center",
                   }}
                 >
-                  <DeckBlock code={deckCode} name={deckName} type={type} />
+                  <DeckBlock
+                    code={deckCode}
+                    name={deckName}
+                    type={type}
+                    year={year}
+                  />
                   <WinRatePieChart
                     totalGames={totalGames}
                     winPercentage={winPercentage}

@@ -22,6 +22,7 @@ const Header = () => {
         display: "flex",
         alignItems: "center",
         flexDirection: "column",
+        zIndex: 1,
       }}
     >
       <div
