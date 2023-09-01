@@ -156,16 +156,18 @@ it("returns decks with no records if no items in db", async () => {
       expect(res.body).toEqual(
         expect.arrayContaining([
           {
-            year: 2005,
-            deckCode: "SD2",
-            deckName: "Zombie Madness",
-            deckColor: "#B57EDC",
+            deck: {
+              year: 2005,
+              code: "SD2",
+              name: "Zombie Madness",
+              color: "#B57EDC",
+              type: "structure",
+            },
             wins: 0,
             winPercentage: 0,
             lossPercentage: 0,
             losses: 0,
             totalGames: 0,
-            type: "structure",
           },
         ])
       );
