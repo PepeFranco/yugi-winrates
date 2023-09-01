@@ -199,10 +199,12 @@ it("transforms db items into record array", async () => {
       expect(res.body).toEqual(
         expect.arrayContaining([
           {
-            year: 2005,
-            deckCode: "SD1",
-            deckName: "Dragon's Roar",
-            deckColor: "#50C878",
+            deck: {
+              year: 2005,
+              code: "SD1",
+              name: "Dragon's Roar",
+              color: "#50C878",
+            },
             wins: 2,
             losses: 3,
             totalGames: 5,
@@ -211,10 +213,12 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
-            year: 2005,
-            deckCode: "SD2",
-            deckName: "Zombie Madness",
-            deckColor: "#B57EDC",
+            deck: {
+              year: 2005,
+              code: "SD2",
+              name: "Zombie Madness",
+              color: "#B57EDC",
+            },
             wins: 3,
             losses: 2,
             totalGames: 5,
@@ -223,10 +227,12 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
-            year: 2005,
-            deckCode: "SD3",
-            deckName: "Blaze of Destruction",
-            deckColor: "#CD5C5C",
+            deck: {
+              year: 2005,
+              code: "SD3",
+              name: "Blaze of Destruction",
+              color: "#CD5C5C",
+            },
             wins: 1,
             losses: 1,
             totalGames: 2,
@@ -235,10 +241,12 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
-            year: 2005,
-            deckCode: "SD4",
-            deckName: "Fury from the Deep",
-            deckColor: "#81D8D0",
+            deck: {
+              year: 2005,
+              code: "SD4",
+              name: "Fury from the Deep",
+              color: "#81D8D0",
+            },
             wins: 0,
             losses: 2,
             totalGames: 2,
@@ -247,10 +255,12 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
-            year: 2005,
-            deckCode: "SD5",
-            deckName: "Warrior's Triumph",
-            deckColor: "#FF9966",
+            deck: {
+              year: 2005,
+              code: "SD5",
+              name: "Warrior's Triumph",
+              color: "#FF9966",
+            },
             wins: 1,
             losses: 0,
             totalGames: 1,
@@ -259,10 +269,12 @@ it("transforms db items into record array", async () => {
             type: "structure",
           },
           {
-            year: 2006,
-            deckCode: "SD6",
-            deckName: "Spellcaster's Judgment",
-            deckColor: "#FADFAD",
+            deck: {
+              year: 2006,
+              code: "SD6",
+              name: "Spellcaster's Judgment",
+              color: "#FADFAD",
+            },
             wins: 1,
             losses: 0,
             totalGames: 1,

@@ -81,14 +81,12 @@ const putWinnersOnTheLeft = (records) =>
       return record;
     }
 
+    const { deck, opponentDeck } = record;
+
     return {
       ...record,
-      deckCode: record.opponentDeckCode,
-      deckName: record.opponentDeckName,
-      deckColor: record.opponentDeckColor,
-      opponentDeckCode: record.deckCode,
-      opponentDeckName: record.deckName,
-      opponentDeckColor: record.deckColor,
+      deck: opponentDeck,
+      opponentDeck: deck,
       wins: record.losses,
       losses: record.wins,
       winPercentage: record.lossPercentage,

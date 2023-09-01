@@ -201,21 +201,26 @@ it("puts winners on the left", async () => {
     .then((res) => {
       expect(res.body).toEqual([
         {
-          deckCode: "SD1",
-          deckName: "Dragon's Roar",
-          deckColor: "#50C878",
-          year: 2005,
-          opponentDeckCode: "SD2",
-          opponentDeckName: "Zombie Madness",
-          opponentDeckColor: "#B57EDC",
-          opponentDeckYear: 2005,
+          deck: {
+            code: "SD1",
+            name: "Dragon's Roar",
+            color: "#50C878",
+            year: 2005,
+            type: "structure",
+          },
+          opponentDeck: {
+            code: "SD2",
+            name: "Zombie Madness",
+            color: "#B57EDC",
+            year: 2005,
+            type: "structure",
+          },
           wins: 3,
           losses: 1,
           totalGames: 4,
           winPercentage: 75,
           lossPercentage: 25,
           rating: 75,
-          type: "structure",
         },
       ]);
     });
