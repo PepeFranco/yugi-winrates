@@ -7,18 +7,26 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
   return (
     <Card
       style={{
-        width: "88px",
+        minWidth: "88px",
+        minHeight: "180px",
+        width: "132px",
+        height: "270px",
         marginBottom: "20px",
         margin: "10px",
+        fontSize: "10pt",
       }}
     >
       <div
-        style={{ height: "120px", position: "relative", overflow: "hidden" }}
+        style={{
+          height: "70%",
+          position: "relative",
+          overflow: "hidden",
+        }}
       >
         <div
           style={{
-            height: "30px",
-            width: "60px",
+            height: "20%",
+            width: "50%",
             position: "absolute",
             right: 0,
             top: 0,
@@ -54,7 +62,7 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
           ></img>
         </div>
       </div>
-      <div style={{ height: "50px" }}>
+      <div style={{ height: "30%", textOverflow: "hidden" }}>
         <Link
           href={`/deck/${code}?type=${type}`}
           style={{ textDecoration: "none" }}
@@ -76,7 +84,6 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
                 width: "90%",
                 textAlign: "center",
                 color: colours.theme.white,
-                fontSize: "10pt",
               }}
             >
               {name}
