@@ -19,6 +19,7 @@ const Footer = () => {
         display: "flex",
         alignItems: "center",
         flexDirection: "column",
+        zIndex: 100,
       }}
     >
       <div

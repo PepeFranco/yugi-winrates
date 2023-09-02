@@ -5,91 +5,86 @@ import { Deck } from "../types";
 
 const DeckBlock = ({ code, name, type, year }: Deck) => {
   return (
-    <Link
-      href={`/deck/${code}?type=${type}`}
-      style={{ textDecoration: "none" }}
+    <Card
+      style={{
+        width: "88px",
+        marginBottom: "20px",
+        margin: "10px",
+      }}
     >
-      <Card
-        style={{
-          width: "130px",
-          maxWidth: "25vw",
-          marginBottom: "20px",
-          marginTop: "20px",
-          marginLeft: "0px",
-          position: "relative",
-          cursor: "pointer",
-        }}
+      <div
+        style={{ height: "120px", position: "relative", overflow: "hidden" }}
       >
         <div
           style={{
             height: "30px",
+            width: "60px",
+            position: "absolute",
+            right: 0,
+            top: 0,
             background: colours.theme.primary,
-            width: "100%",
             color: colours.theme.white,
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
-            borderTopLeftRadius: "10px",
-            borderTopRightRadius: "10px",
-            position: "absolute",
-            left: 0,
-            top: 0,
+            borderRadius: "10px",
+            borderBottomRightRadius: "0px",
+            zIndex: 10,
           }}
         >
-          <span
-            style={{
-              width: "90%",
-              textAlign: "center",
-              color: colours.theme.white,
-            }}
-          >
-            {year}
-          </span>
+          {year}
         </div>
         <div
           style={{
-            cursor: "pointer",
-            height: "180px",
-            maxHeight: "15vh",
+            height: "100%",
             display: "flex",
             justifyContent: "center",
             alignItems: "end",
-            marginBottom: "5px",
-            overflow: "hidden",
+            position: "relative",
           }}
         >
           <img
             style={{
-              height: "80%",
+              // top: 0,
+              height: "90%",
               width: "auto",
+              position: "absolute",
             }}
             src={`/${type}/${code}.jpg`}
           ></img>
         </div>
-        <div
-          style={{
-            height: "60px",
-            background: colours.theme.primary,
-            width: "100%",
-            color: colours.theme.white,
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            borderBottomLeftRadius: "10px",
-          }}
+      </div>
+      <div style={{ height: "50px" }}>
+        <Link
+          href={`/deck/${code}?type=${type}`}
+          style={{ textDecoration: "none" }}
         >
-          <span
+          <div
             style={{
-              width: "90%",
-              textAlign: "center",
+              background: colours.theme.primary,
+              height: "100%",
+              width: "100%",
               color: colours.theme.white,
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              borderBottomLeftRadius: "10px",
             }}
           >
-            {name}
-          </span>
-        </div>
-      </Card>
-    </Link>
+            <span
+              style={{
+                width: "90%",
+                textAlign: "center",
+                color: colours.theme.white,
+                fontSize: "10pt",
+              }}
+            >
+              {name}
+            </span>
+          </div>
+        </Link>
+      </div>
+    </Card>
   );
 };
 
