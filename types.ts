@@ -1,6 +1,7 @@
 export type DeckType = "structure" | "speed";
 
 export type Deck = {
+  month?: number;
   year: number;
   type: DeckType;
   code: string;

@@ -181,6 +181,7 @@ const speedDuelDecks: SpeedDuelDeck[] = [
 
 const structureDecks: StructureDeck[] = [
   {
+    month: 0,
     year: 2005,
     type: "structure",
     code: "SD1",
@@ -188,6 +189,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 0,
     year: 2005,
     type: "structure",
     code: "SD2",
@@ -195,6 +197,7 @@ const structureDecks: StructureDeck[] = [
     color: purple,
   },
   {
+    month: 4,
     year: 2005,
     type: "structure",
     code: "SD3",
@@ -202,6 +205,7 @@ const structureDecks: StructureDeck[] = [
     color: red,
   },
   {
+    month: 4,
     year: 2005,
     type: "structure",
     code: "SD4",
@@ -209,6 +213,7 @@ const structureDecks: StructureDeck[] = [
     color: aqua,
   },
   {
+    month: 9,
     year: 2005,
     type: "structure",
     code: "SD5",
@@ -216,6 +221,7 @@ const structureDecks: StructureDeck[] = [
     color: orange,
   },
   {
+    month: 0,
     year: 2006,
     type: "structure",
     code: "SD6",
@@ -223,6 +229,7 @@ const structureDecks: StructureDeck[] = [
     color: yellow,
   },
   {
+    month: 4,
     year: 2006,
     type: "structure",
     code: "SD7",
@@ -230,6 +237,7 @@ const structureDecks: StructureDeck[] = [
     color: gray,
   },
   {
+    month: 6,
     year: 2006,
     type: "structure",
     code: "SD8",
@@ -237,6 +245,7 @@ const structureDecks: StructureDeck[] = [
     color: white,
   },
   {
+    month: 5,
     year: 2006,
     type: "structure",
     code: "SD09",
@@ -244,6 +253,7 @@ const structureDecks: StructureDeck[] = [
     color: red,
   },
   {
+    month: 0,
     year: 2007,
     type: "structure",
     code: "SD10",
@@ -251,6 +261,7 @@ const structureDecks: StructureDeck[] = [
     color: blue,
   },
   {
+    month: 9,
     year: 2007,
     type: "structure",
     code: "SDRL",
@@ -258,6 +269,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 3,
     year: 2008,
     type: "structure",
     code: "SDDE",
@@ -265,6 +277,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 9,
     year: 2008,
     type: "structure",
     code: "SDZW",
@@ -272,6 +285,7 @@ const structureDecks: StructureDeck[] = [
     color: purple,
   },
   {
+    month: 2,
     year: 2009,
     type: "structure",
     code: "SDSC",
@@ -279,6 +293,7 @@ const structureDecks: StructureDeck[] = [
     color: yellow,
   },
   {
+    month: 9,
     year: 2009,
     type: "structure",
     code: "SDWS",
@@ -286,14 +301,23 @@ const structureDecks: StructureDeck[] = [
     color: orange,
   },
   {
+    month: 1,
     year: 2010,
     type: "structure",
     code: "SDMM",
     name: "Machina Mayhem",
     color: blue,
   },
-  { year: 2010, type: "structure", code: "SDMA", name: "Marik", color: yellow },
   {
+    month: 9,
+    year: 2010,
+    type: "structure",
+    code: "SDMA",
+    name: "Marik",
+    color: yellow,
+  },
+  {
+    month: 2,
     year: 2011,
     type: "structure",
     code: "SDDL",
@@ -301,6 +325,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 5,
     year: 2011,
     type: "structure",
     code: "SDLS",
@@ -308,6 +333,7 @@ const structureDecks: StructureDeck[] = [
     color: white,
   },
   {
+    month: 9,
     year: 2011,
     type: "structure",
     code: "SDGU",
@@ -315,6 +341,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 1,
     year: 2012,
     type: "structure",
     code: "SDDC",
@@ -322,6 +349,7 @@ const structureDecks: StructureDeck[] = [
     color: white,
   },
   {
+    month: 5,
     year: 2012,
     type: "structure",
     code: "SDWA",
@@ -329,6 +357,7 @@ const structureDecks: StructureDeck[] = [
     color: orange,
   },
   {
+    month: 9,
     year: 2012,
     type: "structure",
     code: "SDRE",
@@ -336,6 +365,7 @@ const structureDecks: StructureDeck[] = [
     color: aqua,
   },
   {
+    month: 1,
     year: 2013,
     type: "structure",
     code: "SDOK",
@@ -343,6 +373,7 @@ const structureDecks: StructureDeck[] = [
     color: red,
   },
   {
+    month: 8,
     year: 2013,
     type: "structure",
     code: "SDBE",
@@ -350,6 +381,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 1,
     year: 2014,
     type: "structure",
     code: "SDCR",
@@ -357,6 +389,7 @@ const structureDecks: StructureDeck[] = [
     color: blue,
   },
   {
+    month: 5,
     year: 2014,
     type: "structure",
     code: "SDLI",
@@ -364,6 +397,7 @@ const structureDecks: StructureDeck[] = [
     color: white,
   },
   {
+    month: 9,
     year: 2014,
     type: "structure",
     code: "SDGR",
@@ -371,6 +405,7 @@ const structureDecks: StructureDeck[] = [
     color: blue,
   },
   {
+    month: 0,
     year: 2015,
     type: "structure",
     code: "SDHS",
@@ -378,6 +413,7 @@ const structureDecks: StructureDeck[] = [
     color: orange,
   },
   {
+    month: 7,
     year: 2015,
     type: "structure",
     code: "SDSE",
@@ -385,6 +421,7 @@ const structureDecks: StructureDeck[] = [
     color: pink,
   },
   {
+    month: 11,
     year: 2015,
     type: "structure",
     code: "SDMP",
@@ -392,6 +429,7 @@ const structureDecks: StructureDeck[] = [
     color: pink,
   },
   {
+    month: 0,
     year: 2016,
     type: "structure",
     code: "SR01",
@@ -399,6 +437,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 6,
     year: 2016,
     type: "structure",
     code: "SR02",
@@ -406,6 +445,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 9,
     year: 2016,
     type: "structure",
     code: "SDMY",
@@ -413,6 +453,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 9,
     year: 2016,
     type: "structure",
     code: "SDKS",
@@ -420,6 +461,7 @@ const structureDecks: StructureDeck[] = [
     color: yellow,
   },
   {
+    month: 0,
     year: 2017,
     type: "structure",
     code: "SDPD",
@@ -427,6 +469,7 @@ const structureDecks: StructureDeck[] = [
     color: pink,
   },
   {
+    month: 3,
     year: 2017,
     type: "structure",
     code: "SR03",
@@ -434,6 +477,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 3,
     year: 2017,
     type: "structure",
     code: "SR04",
@@ -441,6 +485,7 @@ const structureDecks: StructureDeck[] = [
     color: red,
   },
   {
+    month: 10,
     year: 2017,
     type: "structure",
     code: "SDCL",
@@ -448,6 +493,7 @@ const structureDecks: StructureDeck[] = [
     color: pink,
   },
   {
+    month: 0,
     year: 2018,
     type: "structure",
     code: "SR05",
@@ -455,6 +501,7 @@ const structureDecks: StructureDeck[] = [
     color: white,
   },
   {
+    month: 3,
     year: 2018,
     type: "structure",
     code: "SR06",
@@ -462,6 +509,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 7,
     year: 2018,
     type: "structure",
     code: "SDPL",
@@ -469,6 +517,7 @@ const structureDecks: StructureDeck[] = [
     color: pink,
   },
   {
+    month: 10,
     year: 2018,
     type: "structure",
     code: "SR07",
@@ -476,6 +525,7 @@ const structureDecks: StructureDeck[] = [
     color: purple,
   },
   {
+    month: 1,
     year: 2019,
     type: "structure",
     code: "SDSB",
@@ -483,6 +533,7 @@ const structureDecks: StructureDeck[] = [
     color: red,
   },
   {
+    month: 3,
     year: 2019,
     type: "structure",
     code: "SR08",
@@ -490,6 +541,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 7,
     year: 2019,
     type: "structure",
     code: "SDRR",
@@ -497,6 +549,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 1,
     year: 2020,
     type: "structure",
     code: "SDSH",
@@ -504,6 +557,7 @@ const structureDecks: StructureDeck[] = [
     color: purple,
   },
   {
+    month: 3,
     year: 2020,
     type: "structure",
     code: "SR10",
@@ -511,6 +565,7 @@ const structureDecks: StructureDeck[] = [
     color: blue,
   },
   {
+    month: 6,
     year: 2020,
     type: "structure",
     code: "SDSA",
@@ -518,6 +573,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 10,
     year: 2020,
     type: "structure",
     code: "SDCH",
@@ -525,6 +581,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 1,
     year: 2021,
     type: "structure",
     code: "SDFC",
@@ -532,6 +589,7 @@ const structureDecks: StructureDeck[] = [
     color: green,
   },
   {
+    month: 9,
     year: 2021,
     type: "structure",
     code: "SDCS",
@@ -539,6 +597,7 @@ const structureDecks: StructureDeck[] = [
     color: blue,
   },
   {
+    month: 3,
     year: 2022,
     type: "structure",
     code: "SDAZ",
@@ -546,6 +605,7 @@ const structureDecks: StructureDeck[] = [
     color: red,
   },
   {
+    month: 8,
     year: 2022,
     type: "structure",
     code: "SDCB",
@@ -553,6 +613,7 @@ const structureDecks: StructureDeck[] = [
     color: white,
   },
   {
+    month: 11,
     year: 2022,
     type: "structure",
     code: "SR13",
@@ -560,6 +621,7 @@ const structureDecks: StructureDeck[] = [
     color: black,
   },
   {
+    month: 1,
     year: 2023,
     type: "structure",
     code: "SDBT",
@@ -567,6 +629,7 @@ const structureDecks: StructureDeck[] = [
     color: pink,
   },
   {
+    month: 8,
     year: 2023,
     type: "structure",
     code: "SDCK",
