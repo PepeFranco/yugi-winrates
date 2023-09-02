@@ -60,7 +60,7 @@ const DeckBlock = ({ code, name, type, year }: Deck) => {
         >
           <img
             style={{
-              height: "90%",
+              height: "80%",
               width: "auto",
             }}
             src={`/${type}/${code}.jpg`}
