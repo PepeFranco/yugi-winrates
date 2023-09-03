@@ -82,19 +82,21 @@ const Report = () => {
             }}
           >
             <label htmlFor="winner">Winner</label>
-            <Dropdown
-              name="winner"
-              onChange={(e) => {
-                setWinner(e.currentTarget.value);
-              }}
-              value={winner}
-            >
-              {decks.map(({ deck }) => (
-                <option value={deck.code} key={`winner-${deck.code}`}>
-                  {deck.name}
-                </option>
-              ))}
-            </Dropdown>
+            <div style={{ height: "30px" }}>
+              <Dropdown
+                name="winner"
+                onChange={(e) => {
+                  setWinner(e.currentTarget.value);
+                }}
+                value={winner}
+              >
+                {decks.map(({ deck }) => (
+                  <option value={deck.code} key={`winner-${deck.code}`}>
+                    {deck.name}
+                  </option>
+                ))}
+              </Dropdown>
+            </div>
             <span
               style={{
                 fontSize: "25px",
@@ -111,19 +113,21 @@ const Report = () => {
               🔄
             </span>
             <label htmlFor="loser">Loser</label>
-            <Dropdown
-              name="loser"
-              onChange={(e) => {
-                setLoser(e.currentTarget.value);
-              }}
-              value={loser}
-            >
-              {decks.map(({ deck }) => (
-                <option value={deck.code} key={`loser-${deck.code}`}>
-                  {deck.name}
-                </option>
-              ))}
-            </Dropdown>
+            <div style={{ height: "30px" }}>
+              <Dropdown
+                name="loser"
+                onChange={(e) => {
+                  setLoser(e.currentTarget.value);
+                }}
+                value={loser}
+              >
+                {decks.map(({ deck }) => (
+                  <option value={deck.code} key={`loser-${deck.code}`}>
+                    {deck.name}
+                  </option>
+                ))}
+              </Dropdown>
+            </div>
 
             <div
               style={{
@@ -138,10 +142,12 @@ const Report = () => {
                 type="submit"
                 value="Record"
                 style={{
-                  background: colours.theme.black,
+                  background: colours.theme.primary,
                   color: colours.theme.white,
                   height: "30px",
                   width: "100%",
+                  borderRadius: "10px",
+                  border: "none",
                 }}
               />
             </div>
