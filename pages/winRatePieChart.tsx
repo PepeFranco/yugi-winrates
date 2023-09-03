@@ -45,7 +45,6 @@ const WinRatePieChart = ({
   return (
     <div
       style={{
-        padding: "10px",
         display: "flex",
         flexDirection: "column",
         textAlign: "center",
