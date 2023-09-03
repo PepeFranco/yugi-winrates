@@ -70,7 +70,7 @@ const Records = () => {
               width: "100%",
             }}
           >
-            <div style={{ width: "300px" }}>
+            <div>
               <Pill>
                 All records <MatchupCounter records={records} />
               </Pill>

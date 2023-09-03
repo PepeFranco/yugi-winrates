@@ -73,7 +73,7 @@ export const Decks = () => {
               width: "100%",
             }}
           >
-            <div style={{ width: "300px" }}>
+            <div>
               <Pill>
                 All decks
                 <MatchupCounter records={decks} />

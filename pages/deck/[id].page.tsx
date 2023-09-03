@@ -55,7 +55,7 @@ const DeckPage = ({}) => {
               width: "100%",
             }}
           >
-            <div style={{ width: "300px" }}>
+            <div>
               <Pill>
                 {deck?.name}
                 <MatchupCounter records={records} />

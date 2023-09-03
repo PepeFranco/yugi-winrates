@@ -6,7 +6,7 @@ const Pill = ({ children }) => {
       style={{
         height: "40px",
         background: colours.theme.primary,
-        width: "60%",
+        width: "100%",
         color: colours.theme.white,
         display: "flex",
         alignItems: "center",
