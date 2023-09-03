@@ -13,6 +13,7 @@ import {
   DeckMatchupRecord,
   DeckMatchupOrder,
 } from "../../types";
+import Dropdown from "../dropdown";
 
 const Records = () => {
   const router = useRouter();
@@ -71,8 +72,7 @@ const Records = () => {
             <div style={{ width: "25%" }}>
               All records <MatchupCounter records={records} />
             </div>
-            <select
-              style={{ width: "200px", height: "25px" }}
+            <Dropdown
               onChange={(e) => {
                 router.push({
                   pathname: router.pathname,
@@ -84,7 +84,7 @@ const Records = () => {
               <option value="rating">Rating</option>
               <option value="winrate">Winrate</option>
               <option value="totalGames">Total Games</option>
-            </select>
+            </Dropdown>
           </div>
         </div>
 

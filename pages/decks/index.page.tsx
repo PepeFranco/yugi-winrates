@@ -17,6 +17,7 @@ import {
   IndividualDeckOrderConstants,
 } from "../../types";
 import Card from "../card";
+import Dropdown from "../dropdown";
 
 export const Decks = () => {
   const router = useRouter();
@@ -74,8 +75,7 @@ export const Decks = () => {
             <span className="title">
               All decks <MatchupCounter records={decks} />
             </span>
-            <select
-              style={{ width: "200px", height: "25px" }}
+            <Dropdown
               onChange={(e) => {
                 router.push({
                   pathname: router.pathname,
@@ -88,7 +88,7 @@ export const Decks = () => {
               <option value="winrate">Winrate</option>
               <option value="alphabetical">Alphabetical</option>
               <option value="totalGames">Total Games</option>
-            </select>
+            </Dropdown>
           </div>
         </div>
 
