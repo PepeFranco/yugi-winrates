@@ -79,7 +79,7 @@ const WinRatePieChart = ({
         }}
       >
         <Pill>
-          <span style={{ fontSize: "12pt" }}>{`${wins} - ${losses}`}</span>
+          <span style={{ fontSize: "10pt" }}>{`${wins} - ${losses}`}</span>
         </Pill>
       </div>
     </div>
