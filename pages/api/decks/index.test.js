@@ -87,6 +87,7 @@ it("returns deck with no records if skipRecords is true", async () => {
         expect.arrayContaining([
           {
             deck: {
+              month: 0,
               year: 2005,
               code: "SD2",
               name: "Zombie Madness",
@@ -124,6 +125,7 @@ it("returns decks with no records if no items in db", async () => {
         expect.arrayContaining([
           {
             deck: {
+              month: 0,
               year: 2005,
               code: "SD2",
               name: "Zombie Madness",
@@ -161,6 +163,7 @@ it("returns decks with no records if no items in db", async () => {
         expect.arrayContaining([
           {
             deck: {
+              month: 0,
               year: 2005,
               code: "SD2",
               name: "Zombie Madness",
@@ -207,6 +210,7 @@ it("transforms db items into record array", async () => {
           {
             deck: {
               year: 2005,
+              month: 0,
               code: "SD1",
               name: "Dragon's Roar",
               color: "#50C878",
@@ -221,6 +225,7 @@ it("transforms db items into record array", async () => {
           {
             deck: {
               year: 2005,
+              month: 0,
               code: "SD2",
               name: "Zombie Madness",
               color: "#B57EDC",
@@ -235,6 +240,7 @@ it("transforms db items into record array", async () => {
           {
             deck: {
               year: 2005,
+              month: 4,
               code: "SD3",
               name: "Blaze of Destruction",
               color: "#CD5C5C",
@@ -249,6 +255,7 @@ it("transforms db items into record array", async () => {
           {
             deck: {
               year: 2005,
+              month: 4,
               code: "SD4",
               name: "Fury from the Deep",
               color: "#81D8D0",
@@ -262,6 +269,7 @@ it("transforms db items into record array", async () => {
           },
           {
             deck: {
+              month: 9,
               year: 2005,
               code: "SD5",
               name: "Warrior's Triumph",
@@ -276,6 +284,7 @@ it("transforms db items into record array", async () => {
           },
           {
             deck: {
+              month: 0,
               year: 2006,
               code: "SD6",
               name: "Spellcaster's Judgment",

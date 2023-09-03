@@ -141,6 +141,7 @@ it("returns records if they exist", async () => {
     .then((res) => {
       expect(res.body).toEqual({
         deck: {
+          month: 0,
           year: 2005,
           code: "SD1",
           color: "#50C878",
@@ -154,6 +155,7 @@ it("returns records if they exist", async () => {
               name: "Dragon's Roar",
               color: "#50C878",
               year: 2005,
+              month: 0,
               type: "structure",
             },
             opponentDeck: {
@@ -161,6 +163,7 @@ it("returns records if they exist", async () => {
               name: "Zombie Madness",
               color: "#B57EDC",
               year: 2005,
+              month: 0,
               type: "structure",
             },
             wins: 3,
@@ -176,6 +179,7 @@ it("returns records if they exist", async () => {
               name: "Dragon's Roar",
               color: "#50C878",
               year: 2005,
+              month: 0,
               type: "structure",
             },
             opponentDeck: {
@@ -183,6 +187,7 @@ it("returns records if they exist", async () => {
               name: "Blaze of Destruction",
               color: "#CD5C5C",
               year: 2005,
+              month: 4,
               type: "structure",
             },
             wins: 0,
