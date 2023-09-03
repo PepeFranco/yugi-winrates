@@ -11,7 +11,7 @@ const Dropdown = ({ children, onChange, value, name }: DropdownProps) => {
   return (
     <select
       style={{
-        width: "150px",
+        width: "120px",
         height: "100%",
         borderRadius: "10px",
         background: colours.theme.primary,
