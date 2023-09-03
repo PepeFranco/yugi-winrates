@@ -10,6 +10,7 @@ import Loader from "../loader";
 import MatchupCounter from "../matchupCounter";
 import { Deck, DeckMatchupRecord } from "../../types";
 import Dropdown from "../dropdown";
+import Pill from "../pill";
 
 const DeckPage = ({}) => {
   const router = useRouter();
@@ -54,10 +55,12 @@ const DeckPage = ({}) => {
               width: "100%",
             }}
           >
-            <span className="title">
-              {deck?.name}
-              <MatchupCounter records={records} />
-            </span>
+            <div style={{ width: "300px" }}>
+              <Pill>
+                {deck?.name}
+                <MatchupCounter records={records} />
+              </Pill>
+            </div>
             <Dropdown
               onChange={(e) => {
                 router.push({

@@ -71,9 +71,15 @@ const WinRatePieChart = ({
             return `${percentage.toFixed(0)}%`;
         }}
       />
-      <Pill>
-        <span style={{ fontSize: "1.25em" }}>{`${wins} - ${losses}`}</span>
-      </Pill>
+      <div
+        style={{
+          display: "flex",
+          width: "100%",
+          justifyContent: "center",
+        }}
+      >
+        <Pill>{`${wins} - ${losses}`}</Pill>
+      </div>
     </div>
   );
 };

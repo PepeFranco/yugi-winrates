@@ -4,21 +4,22 @@ const Pill = ({ children }) => {
   return (
     <div
       style={{
-        height: "60px",
+        height: "40px",
         background: colours.theme.primary,
-        width: "100%",
+        width: "60%",
         color: colours.theme.white,
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
         borderRadius: "10px",
-        marginTop: "10px",
       }}
     >
       <span
         style={{
-          width: "90%",
+          width: "100%",
           textAlign: "center",
+          padding: "10px",
+          fontSize: "8pt",
           color: colours.theme.white,
         }}
       >

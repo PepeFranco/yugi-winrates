@@ -10,6 +10,7 @@ import MatchupCounter from "../matchupCounter";
 import { useDefaultType } from "../../hooks/useDefaultType";
 import DeckBlock from "../deckBlock";
 import colours from "../data/colours.json";
+import Pill from "../pill";
 
 import {
   IndividualDeckOrder,
@@ -72,9 +73,12 @@ export const Decks = () => {
               width: "100%",
             }}
           >
-            <span className="title">
-              All decks <MatchupCounter records={decks} />
-            </span>
+            <div style={{ width: "300px" }}>
+              <Pill>
+                All decks
+                <MatchupCounter records={decks} />
+              </Pill>
+            </div>
             <Dropdown
               onChange={(e) => {
                 router.push({

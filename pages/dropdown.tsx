@@ -5,7 +5,7 @@ const Dropdown = ({ children, onChange, value }) => {
     <select
       style={{
         width: "150px",
-        height: "30px",
+        height: "100%",
         borderRadius: "10px",
         background: colours.theme.primary,
         color: colours.theme.white,

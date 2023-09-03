@@ -14,6 +14,7 @@ import {
   DeckMatchupOrder,
 } from "../../types";
 import Dropdown from "../dropdown";
+import Pill from "../pill";
 
 const Records = () => {
   const router = useRouter();
@@ -69,8 +70,10 @@ const Records = () => {
               width: "100%",
             }}
           >
-            <div style={{ width: "25%" }}>
-              All records <MatchupCounter records={records} />
+            <div style={{ width: "300px" }}>
+              <Pill>
+                All records <MatchupCounter records={records} />
+              </Pill>
             </div>
             <Dropdown
               onChange={(e) => {
