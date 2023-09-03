@@ -7,6 +7,8 @@ import Main from "../main";
 import _ from "lodash";
 import { useDefaultType } from "../../hooks/useDefaultType";
 import colours from "../data/colours.json";
+import { IndividualDeckRecord } from "../../types";
+import Dropdown from "../dropdown";
 
 const Report = () => {
   useDefaultType();
@@ -16,12 +18,12 @@ const Report = () => {
 
   const router = useRouter();
   const { key, secret, type } = router.query;
-  const [decks, setDecks] = useState([]);
+  const [decks, setDecks] = useState<IndividualDeckRecord[]>([]);
 
   useEffect(() => {
     if (type) {
       fetch(`/api/decks/?type=${type}&skipRecords=true`).then((response) => {
-        response.json().then((responseRecords) => {
+        response.json().then((responseRecords: IndividualDeckRecord[]) => {
           setDecks(responseRecords);
         });
       });
@@ -80,20 +82,19 @@ const Report = () => {
             }}
           >
             <label htmlFor="winner">Winner</label>
-            <select
-              style={{ width: "200px", height: "25px" }}
+            <Dropdown
               name="winner"
               onChange={(e) => {
                 setWinner(e.currentTarget.value);
               }}
               value={winner}
             >
-              {decks.map((deck) => (
+              {decks.map(({ deck }) => (
                 <option value={deck.code} key={`winner-${deck.code}`}>
                   {deck.name}
                 </option>
               ))}
-            </select>
+            </Dropdown>
             <span
               style={{
                 fontSize: "25px",
@@ -110,20 +111,19 @@ const Report = () => {
               🔄
             </span>
             <label htmlFor="loser">Loser</label>
-            <select
-              style={{ width: "200px", height: "25px" }}
+            <Dropdown
               name="loser"
               onChange={(e) => {
                 setLoser(e.currentTarget.value);
               }}
               value={loser}
             >
-              {decks.map((deck) => (
+              {decks.map(({ deck }) => (
                 <option value={deck.code} key={`loser-${deck.code}`}>
                   {deck.name}
                 </option>
               ))}
-            </select>
+            </Dropdown>
 
             <div
               style={{

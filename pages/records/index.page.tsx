@@ -82,6 +82,7 @@ const Records = () => {
                   query: { order: e.currentTarget.value, type },
                 });
               }}
+              // @ts-ignore
               value={order}
             >
               <option value="rating">Rating</option>

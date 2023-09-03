@@ -1,6 +1,13 @@
+import React, { ChangeEventHandler } from "react";
 import colours from "./data/colours.json";
 
-const Dropdown = ({ children, onChange, value }) => {
+type DropdownProps = React.PropsWithChildren<{
+  onChange: ChangeEventHandler<HTMLSelectElement>;
+  value: string;
+  name?: string;
+}>;
+
+const Dropdown = ({ children, onChange, value, name }: DropdownProps) => {
   return (
     <select
       style={{
@@ -13,6 +20,7 @@ const Dropdown = ({ children, onChange, value }) => {
       }}
       onChange={onChange}
       value={value}
+      name={name}
     >
       {children}
     </select>

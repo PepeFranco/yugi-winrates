@@ -68,6 +68,7 @@ const DeckPage = ({}) => {
                   query: { id, order: e.currentTarget.value },
                 });
               }}
+              // @ts-ignore
               value={order}
             >
               <option value="release">Release order</option>

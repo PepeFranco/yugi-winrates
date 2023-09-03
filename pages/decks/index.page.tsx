@@ -86,6 +86,7 @@ export const Decks = () => {
                   query: { order: e.currentTarget.value, type },
                 });
               }}
+              // @ts-ignore
               value={order}
             >
               <option value="release">Release order</option>
